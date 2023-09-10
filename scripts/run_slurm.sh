@@ -29,7 +29,7 @@ pretrain=0
 if [[ $pretrain -gt 0 ]]
 then
 echo "Phase 1 pre-training ..." ${exp_name}
-srun python -u ../SMKD/main_smkd.py --data_path ../data/mini_imagenet/train_comb \
+srun python -u ../main_dpvit.py --data_path ../data/mini_imagenet/train_comb \
     --output_dir ${EXP_pre} --evaluate_freq 50 --visualization_freq 50 --init_method=tcp://$MASTER_ADDR:3466 \
     --prod_mode=False --use_fp16 True --lr 0.0005 --epochs 1800 --image_path ../SMKD/img_viz \
     --global_crops_scale 0.4 1 --local_crops_scale 0.05 0.4 --num_workers=4 --n_gpus=$SLURM_NTASKS \
@@ -38,7 +38,7 @@ srun python -u ../SMKD/main_smkd.py --data_path ../data/mini_imagenet/train_comb
 
 else
 echo "Phase 2 tuning ..." ${exp_name}
-srun python -u ../SMKD/main_smkd.py --data_path ../data/mini_imagenet/train_comb \
+srun python -u ../main_dpvit.py --data_path ../data/mini_imagenet/train_comb \
     --pretrained_path ${EXP_pre} --pretrained_file checkpoint.pth --init_method=tcp://$MASTER_ADDR:3456 \
     --output_dir ${EXP_fine} --evaluate_freq 5 --visualization_freq 5 --use_fp16 True --image_path ../SMKD/img_viz \
     --lr 0.0005 --epochs 150 --lambda1 1 --lambda2 0.45 --num_workers=4 --n_gpus=$SLURM_NTASKS \
