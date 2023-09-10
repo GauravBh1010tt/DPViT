@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Daisyree Bakker
+Photo URL    : https://www.flickr.com/photos/27875041@N02/3115714501/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 7 16:48:40 GMT+0100 2008
+Upload Date  : Wed Dec 17 19:46:27 GMT+0100 2008
+Views        : 184
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hang in there (siamese)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat 

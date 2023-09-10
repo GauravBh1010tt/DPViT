@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CJ Isherwood
+Photo URL    : https://www.flickr.com/photos/isherwoodchris/3413548021/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 26 02:02:06 GMT+0100 2009
+Upload Date  : Sun Apr 5 12:08:30 GMT+0200 2009
+Geotag Info  : Latitude:-36.864102, Longitude:174.570350
+Views        : 223
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+beautifl lion mane lions 

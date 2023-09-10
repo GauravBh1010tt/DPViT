@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Thilo Hilberer
+Photo URL    : https://www.flickr.com/photos/hilberer/4826696535/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 25 08:50:21 GMT+0200 2010
+Upload Date  : Sun Jul 25 17:50:21 GMT+0200 2010
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+zoo karlsruhe
+
+
++--------+
+|  TAGS  |
++--------+
+eisbär zoo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/7575038806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 16:29:47 GMT+0200 2012
+Upload Date  : Sun Jul 15 17:06:23 GMT+0200 2012
+Geotag Info  : Latitude:51.173722, Longitude:-0.048509
+Views        : 785
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+'Ellis'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at the British Wildlife Centre, Newchapel, Surrey.
+
+
++--------+
+|  TAGS  |
++--------+
+british wildlife centre newchapel surrey fox vulpes 2012 peter trimming 

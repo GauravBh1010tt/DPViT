@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LFchirps
+Photo URL    : https://www.flickr.com/photos/34196983@N03/4081723071/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 25 12:59:42 GMT+0100 2009
+Upload Date  : Sat Nov 7 07:41:21 GMT+0100 2009
+Geotag Info  : Latitude:39.759761, Longitude:-104.949913
+Views        : 63
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+fox on rocks
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal zoo "free zoo day" Denver 

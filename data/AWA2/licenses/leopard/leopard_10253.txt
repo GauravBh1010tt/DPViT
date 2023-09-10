@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Josh Friedman Luxury Travel
+Photo URL    : https://www.flickr.com/photos/joshfriedmantravel/3273113311/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 6 18:17:19 GMT+0200 2008
+Upload Date  : Thu Feb 12 07:34:31 GMT+0100 2009
+Geotag Info  : Latitude:-19.932525, Longitude:23.351783
+Views        : 1,121
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard Close Up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+leopard Botswana "stanley's camp" "chief's camp" "okavango delta" "abercrombie and kent" "sanctuary lodges" 

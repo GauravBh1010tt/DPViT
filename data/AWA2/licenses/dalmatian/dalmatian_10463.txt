@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gabofr
+Photo URL    : https://www.flickr.com/photos/gabofr/3757877417/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 2 07:07:11 GMT+0200 2009
+Upload Date  : Sun Jul 26 18:37:52 GMT+0200 2009
+Views        : 199
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+aléjate de mí
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+el dálmata no quería que le tomara foto
+
+
++--------+
+|  TAGS  |
++--------+
+pets pet dog perro mascota dalmation dalmata 

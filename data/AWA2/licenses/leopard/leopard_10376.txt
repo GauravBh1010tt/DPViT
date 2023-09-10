@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mynikfoto
+Photo URL    : https://www.flickr.com/photos/mynikfoto/8087745989/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 14 15:12:00 GMT+0200 2012
+Upload Date  : Sun Oct 14 23:05:12 GMT+0200 2012
+Geotag Info  : Latitude:2.301831, Longitude:102.312798
+Views        : 537
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taman Rama-Rama, Ayer Keroh, Melaka
+
+
++--------+
+|  TAGS  |
++--------+
+leopard jaguar tiger tigres hunter animals mammals melaka malaysia nikon d90 18-105mm 

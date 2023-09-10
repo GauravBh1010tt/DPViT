@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/24858288149/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 24 02:44:24 GMT+0100 2016
+Upload Date  : Wed Feb 24 04:03:32 GMT+0100 2016
+Views        : 500
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Rocky Mountain Arsenal National Wildlife Refuge, just outside of Denver, Colorado.
+
+Photo Credit: Ryan Moehring / USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+USFWS "U.S. FISH AND WILDLIFE SERVICE" "Rocky Mountain Arsenal National Wildlife Refuge" "Wildlife Refuge" Bison "bison buffalo" buffalo WILDLIFE "Wildlife Conservation" Denver Colorado "Colorado wildlife" "America's Great Outdoors" NATURE Outdoors 

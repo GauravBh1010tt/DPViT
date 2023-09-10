@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/23527070393/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 20 14:50:55 GMT+0100 2015
+Upload Date  : Mon Jan 4 10:47:44 GMT+0100 2016
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Antelope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kruger National Park" antelope bok 

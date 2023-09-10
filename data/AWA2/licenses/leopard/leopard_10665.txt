@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jitze
+Photo URL    : https://www.flickr.com/photos/jitze1942/2346505451/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 15 18:51:48 GMT+0100 2008
+Upload Date  : Thu Mar 20 07:58:42 GMT+0100 2008
+Views        : 633
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tchui, the leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the moment I took this picture, he was fixated on waiting for a piece of meat to appear.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

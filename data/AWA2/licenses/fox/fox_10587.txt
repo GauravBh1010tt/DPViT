@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wallygrom
+Photo URL    : https://www.flickr.com/photos/33037982@N04/4523172038/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 15 10:14:42 GMT+0200 2010
+Upload Date  : Thu Apr 15 13:22:17 GMT+0200 2010
+Geotag Info  : Latitude:50.814483, Longitude:-0.483849
+Views        : 672
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+So ... did you miss me?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I didn't like the smell of that yellow turmeric powder, which is why I've not been around for awhile ...
+
+(I'm assuming the stripes on her side are actually on the window of the conservatory ... I shot these photos through the glass, using telefoto! She would never have stayed around otherwise ...)
+
+
++--------+
+|  TAGS  |
++--------+
+England "West Sussex" "East Preston" "April 2010" fox vixen "my garden" 

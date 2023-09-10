@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/4624314694/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 20 08:34:32 GMT+0200 2009
+Upload Date  : Thu May 20 15:18:31 GMT+0200 2010
+Geotag Info  : Latitude:44.295488, Longitude:-77.553648
+Views        : 927
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wild Rabbit, Stirling_1242
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Wild Rabbit" Stirling Ontario 

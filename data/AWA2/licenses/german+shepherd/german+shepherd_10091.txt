@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kinologik
+Photo URL    : https://www.flickr.com/photos/kinopix/109276083/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 7 12:32:28 GMT+0100 2006
+Upload Date  : Tue Mar 7 18:32:28 GMT+0100 2006
+Views        : 418
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bébé Rorschach court dans la neige
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rorschach chien dog berger allemand german shepherd laurentides laurentians quebec canada 

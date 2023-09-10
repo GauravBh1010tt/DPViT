@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kierrr
+Photo URL    : https://www.flickr.com/photos/kierrr/11077764194/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 24 17:51:35 GMT+0100 2013
+Upload Date  : Wed Nov 27 03:56:24 GMT+0100 2013
+Views        : 793
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4662
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Snow Leopard kitten (Uncia Uncia) Brookfield Zoo, 2013
+
+
++--------+
+|  TAGS  |
++--------+
+"snow leopard" snow leopard "big cat" brookfield zoo "brookfield zoo" uncia "uncia uncia" kitten kit 

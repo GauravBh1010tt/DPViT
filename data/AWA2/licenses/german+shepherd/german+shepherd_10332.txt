@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tadekk
+Photo URL    : https://www.flickr.com/photos/tadekk/2247723090/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 6 15:46:50 GMT+0100 2008
+Upload Date  : Thu Feb 7 01:36:05 GMT+0100 2008
+Geotag Info  : Latitude:51.506451, Longitude:-0.178098
+Views        : 38
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+german shepherd at large
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

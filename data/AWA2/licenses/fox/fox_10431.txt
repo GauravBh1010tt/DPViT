@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Robert101
+Photo URL    : https://www.flickr.com/photos/robert101/5582657774/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 23 06:13:11 GMT+0100 2011
+Upload Date  : Sat Apr 2 18:58:00 GMT+0200 2011
+Views        : 144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mt. Etna, Sicily
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fox
+
+
++--------+
+|  TAGS  |
++--------+
+"Europe 2011" 

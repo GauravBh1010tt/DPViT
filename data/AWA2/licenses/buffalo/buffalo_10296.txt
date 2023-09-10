@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeff Kubina
+Photo URL    : https://www.flickr.com/photos/kubina/248716686/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 17 14:26:38 GMT+0200 2006
+Upload Date  : Thu Sep 21 04:45:01 GMT+0200 2006
+Geotag Info  : Latitude:40.042359, Longitude:-78.689349
+Views        : 2,408
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the <a href="http://www.bedfordcounty.net/attract/bison/" rel="nofollow">Bison Corral</a> in Schellsburg, Pennsylvania.
+
+
++--------+
+|  TAGS  |
++--------+
+"lincoln highway" bison "bison corral" schellsburg pennsylvania "schellsburg pennsylvania" 200609 2006 public "taken by jeff kubina" 

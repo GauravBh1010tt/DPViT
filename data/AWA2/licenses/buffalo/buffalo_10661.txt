@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : schmeeve
+Photo URL    : https://www.flickr.com/photos/schmeeve/317294036/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 15 14:12:44 GMT+0200 2006
+Upload Date  : Fri Dec 8 20:56:08 GMT+0100 2006
+Views        : 118
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1629
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+yellowstone bison "american bison" 

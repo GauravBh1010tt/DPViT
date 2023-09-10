@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cristoffercrusell
+Photo URL    : https://www.flickr.com/photos/crusell/3240436145/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 13 12:04:33 GMT+0200 2008
+Upload Date  : Sat Jan 31 13:31:34 GMT+0100 2009
+Geotag Info  : Latitude:56.024195, Longitude:12.741351
+Views        : 341
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Malte och Pigal i Brunnsparken
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Boxer dalmatian dog Malte 

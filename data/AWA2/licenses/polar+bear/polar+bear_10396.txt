@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/6710622791/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 15 10:37:37 GMT+0100 2012
+Upload Date  : Mon Jan 16 23:13:42 GMT+0100 2012
+Geotag Info  : Latitude:32.737057, Longitude:-117.149105
+Views        : 309
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oh Yes Just What I Wanted 3667
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+... yes. Carrots. THANKS.
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" zoo polar bear white 

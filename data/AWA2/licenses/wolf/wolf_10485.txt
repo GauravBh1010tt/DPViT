@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amandarichard421
+Photo URL    : https://www.flickr.com/photos/mndapnda421/4447490653/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 14 11:57:06 GMT+0100 2009
+Upload Date  : Sat Mar 20 17:18:43 GMT+0100 2010
+Views        : 7,614
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wolf
+Oklahoma City Zoo
+IMG_2053
+
+
++--------+
+|  TAGS  |
++--------+
+wolf zoo 

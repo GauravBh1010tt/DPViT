@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Lamb Family
+Photo URL    : https://www.flickr.com/photos/lambfamilyphotos/5845972983/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 21 15:24:41 GMT+0200 2011
+Upload Date  : Sat Jun 18 22:41:53 GMT+0200 2011
+Views        : 493
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9601
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+skunk 

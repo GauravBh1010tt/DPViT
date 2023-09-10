@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : heldermira
+Photo URL    : https://www.flickr.com/photos/citizenhelder/2864252726/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 3 10:03:44 GMT+0200 2008
+Upload Date  : Wed Sep 17 02:16:43 GMT+0200 2008
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1684
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

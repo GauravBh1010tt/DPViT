@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kckellner
+Photo URL    : https://www.flickr.com/photos/93033713@N00/2760617172/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 8 15:50:47 GMT+0200 2008
+Upload Date  : Wed Aug 13 19:56:26 GMT+0200 2008
+Views        : 2,105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Red Tailed fox
+
+
++--------+
+|  TAGS  |
++--------+
+Fox San Juan Islands 

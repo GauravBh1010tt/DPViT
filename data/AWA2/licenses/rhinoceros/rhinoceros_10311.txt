@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Geetima Baruah Sarma
+Photo URL    : https://www.flickr.com/photos/geetimabaruahsarma/8536086897/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 7 20:58:48 GMT+0100 2013
+Upload Date  : Thu Mar 7 16:28:58 GMT+0100 2013
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+One-horned rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

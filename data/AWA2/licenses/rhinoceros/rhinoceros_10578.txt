@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LaggedOnUser
+Photo URL    : https://www.flickr.com/photos/47847725@N04/4530696303/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 27 13:43:45 GMT+0100 2010
+Upload Date  : Sun Apr 18 16:22:22 GMT+0200 2010
+Views        : 482
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern white rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Southern white rhinoceros
+
+
++--------+
+|  TAGS  |
++--------+
+color jacksonville florida canon photo photography photos zoo garden jacksonvillezoo animal animals nature mammal mammals rhinoceros scratching 

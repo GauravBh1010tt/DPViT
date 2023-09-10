@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OriginalFotografie
+Photo URL    : https://www.flickr.com/photos/originalfotografie/3945352153/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 22 11:39:46 GMT+0200 2009
+Upload Date  : Wed Sep 23 00:38:15 GMT+0200 2009
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Baltimore Aquarium" "EF70-200mm f/2.8L IS USM" 

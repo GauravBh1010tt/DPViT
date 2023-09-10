@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8252301753/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 13:35:58 GMT+0200 2012
+Upload Date  : Fri Dec 7 20:59:44 GMT+0100 2012
+Geotag Info  : Latitude:47.547277, Longitude:7.578163
+Views        : 5,588
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Relaxed female spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yes, this is a female, even with such an appendage!
+She was half sleeping in the inside enclosure...
+
+
++--------+
+|  TAGS  |
++--------+
+female "spider monkey" monkey ape primate sitting relaxed sleeping arms brown black basel zoo zolli switzerland nikon d4 

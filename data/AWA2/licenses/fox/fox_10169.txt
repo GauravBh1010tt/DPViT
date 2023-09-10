@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Giorgio Galeotti
+Photo URL    : https://www.flickr.com/photos/fotodispalle/6176048017/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 28 10:20:01 GMT+0100 2009
+Upload Date  : Sat Sep 24 01:09:22 GMT+0200 2011
+Geotag Info  : Latitude:48.404135, Longitude:-88.780139
+Views        : 1,546
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox - Sibley Provincial Park, Ontario, Canada - August 1987
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scan of an old slide
+
+
++--------+
+|  TAGS  |
++--------+
+fox volpe foxes volpi 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Big Blue Ocean
+Photo URL    : https://www.flickr.com/photos/bigblueocean/2291048820/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 23 00:33:35 GMT+0100 2008
+Upload Date  : Mon Feb 25 09:15:18 GMT+0100 2008
+Geotag Info  : Latitude:20.924285, Longitude:-156.694972
+Views        : 2,880
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+taken off the cost of Maui
+
+
++--------+
+|  TAGS  |
++--------+
+maui whale "humpback whale" hawaii northpacificuncatalogued northpacific creative_commons 

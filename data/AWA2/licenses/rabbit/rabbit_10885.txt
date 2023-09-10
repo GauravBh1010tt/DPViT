@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AmyFarr
+Photo URL    : https://www.flickr.com/photos/amyfarr/16759546112/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 8 16:35:16 GMT+0100 2015
+Upload Date  : Mon Mar 9 04:24:25 GMT+0100 2015
+Views        : 92
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hermosainn 

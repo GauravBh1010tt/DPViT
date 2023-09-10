@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SG2012
+Photo URL    : https://www.flickr.com/photos/sg2012/8123067335/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 6 12:04:56 GMT+0200 2012
+Upload Date  : Thu Oct 25 22:52:05 GMT+0200 2012
+Views        : 1,280
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheba
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sheba dog "German Shepherd Cross" 

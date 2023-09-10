@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher.Michel
+Photo URL    : https://www.flickr.com/photos/cmichel67/12422148723/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 6 12:57:13 GMT+0100 2014
+Upload Date  : Mon Feb 10 01:28:24 GMT+0100 2014
+Views        : 4,085
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Want to play?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"humpback whales" "baby whales" "silver bank" "In the Heart of the Sea" "Moby Dick" humpbacks ocean 

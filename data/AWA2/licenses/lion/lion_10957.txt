@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bexy Wood
+Photo URL    : https://www.flickr.com/photos/bexymitten/2310731796/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 20 12:14:30 GMT+0100 2007
+Upload Date  : Tue Mar 4 18:47:36 GMT+0100 2008
+Geotag Info  : Latitude:-33.854450, Longitude:25.334472
+Views        : 1,201
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two Cute...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These guys are only 6 months old here!! And they were the same size as me!
+
+
++--------+
+|  TAGS  |
++--------+
+Cub Lion 

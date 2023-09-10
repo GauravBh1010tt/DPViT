@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nicolas RIVET
+Photo URL    : https://www.flickr.com/photos/nicolasrivet/287198074/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 11 18:57:06 GMT+0100 2006
+Upload Date  : Fri Nov 3 00:24:40 GMT+0100 2006
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hum... Closer would be dangerous, right ? :p
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros animal nature senegal africa afrique 

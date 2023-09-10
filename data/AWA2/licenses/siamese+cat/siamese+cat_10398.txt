@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The L-Girl
+Photo URL    : https://www.flickr.com/photos/thel-girl/162664678/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 1 23:05:09 GMT+0200 2006
+Upload Date  : Thu Jun 8 01:27:29 GMT+0200 2006
+Views        : 156
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+romeo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+my favorite model:)
+
+
++--------+
+|  TAGS  |
++--------+
+siamese cat 

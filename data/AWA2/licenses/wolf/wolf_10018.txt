@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/10086157775/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 16 09:44:31 GMT+0200 2013
+Upload Date  : Fri Oct 4 17:41:57 GMT+0200 2013
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 13,001
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Attentive wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A nice portrait of a wolf of the Zürich zoo...
+
+
++--------+
+|  TAGS  |
++--------+
+portrait face nice wolf canine canid mongolian dog zoo zürich switzerland nikon d4 

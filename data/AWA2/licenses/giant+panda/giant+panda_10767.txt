@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : clarejim
+Photo URL    : https://www.flickr.com/photos/clarejim/2786632687/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 8 00:57:44 GMT+0200 2007
+Upload Date  : Fri Aug 22 18:57:44 GMT+0200 2008
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+play
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+F80 panda china sichuan 

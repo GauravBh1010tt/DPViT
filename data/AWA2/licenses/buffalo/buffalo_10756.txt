@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : U.S. Fish and Wildlife Service - Midwest Region
+Photo URL    : https://www.flickr.com/photos/usfwsmidwest/23905480196/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 23 13:44:57 GMT+0100 2015
+Upload Date  : Wed Dec 23 20:46:48 GMT+0100 2015
+Geotag Info  : Latitude:41.557921, Longitude:-93.278388
+Views        : 46,655
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+One Tough Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Can you imagine being struck by lightning? Sparky, a bison at Neal Smith National Wildlife Refuge can - he was struck in the summer of 2013, but is doing very well!
+
+Learn more about Sparky's amazing story: <a href="http://bit.ly/SparkyBison" rel="nofollow">bit.ly/SparkyBison</a>
+
+Photo by Karen Viste-Sparkman/USFWS.
+
+
++--------+
+|  TAGS  |
++--------+
+Bison Buffalo Buffalos Wildlife Nature Animal Mammal Iowa IA "Neal Smith" NWR Refuge "National Wildlife Refuge" Fall December Winter Sparky Lightning Prairie 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : goodmami
+Photo URL    : https://www.flickr.com/photos/goodmami/175508774/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 25 12:26:05 GMT+0200 2006
+Upload Date  : Mon Jun 26 17:49:43 GMT+0200 2006
+Geotag Info  : Latitude:45.508707, Longitude:-122.713996
+Views        : 1,825
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+bi-polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+actually he wasn't bi-polar.  he was quite happy when we were there
+
+
++--------+
+|  TAGS  |
++--------+
+oregon zoo portland family polar bear water reflection 

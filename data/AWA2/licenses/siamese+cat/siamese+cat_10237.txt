@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sherrattsam
+Photo URL    : https://www.flickr.com/photos/sherrattsam/3677511694/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 25 14:44:05 GMT+0200 2009
+Upload Date  : Wed Jul 1 05:27:09 GMT+0200 2009
+Geotag Info  : Latitude:12.577146, Longitude:99.943485
+Views        : 849
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+BIg Siamese
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hua hin thailand asia people cats buddha fish fishing temple vineyard wine boats 

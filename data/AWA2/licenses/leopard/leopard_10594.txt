@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sion_a
+Photo URL    : https://www.flickr.com/photos/sion_a/3560989640/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 23 15:54:28 GMT+0200 2009
+Upload Date  : Sun May 24 23:35:42 GMT+0200 2009
+Views        : 69
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+snow leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"big cat" "Linton Zoo" 

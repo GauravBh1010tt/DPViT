@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Meredith Leigh Collins
+Photo URL    : https://www.flickr.com/photos/mlcollins/2556816340/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 23 14:34:16 GMT+0200 2008
+Upload Date  : Fri Jun 6 20:42:51 GMT+0200 2008
+Views        : 98
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+The snow leopard is coolere than you
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Anchorage Zoo" Alaska Vacation 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jmd41280
+Photo URL    : https://www.flickr.com/photos/jmd41280/3606113812/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 7 20:07:40 GMT+0200 2009
+Upload Date  : Mon Jun 8 04:38:24 GMT+0200 2009
+Geotag Info  : Latitude:40.213260, Longitude:-79.458789
+Views        : 92
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+"I said no pictures!!!"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbit "Mammoth Park" Mammoth Pennsylvania "Westmoreland County" 

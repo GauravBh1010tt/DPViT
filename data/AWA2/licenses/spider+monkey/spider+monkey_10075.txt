@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlphaTangoBravo / Adam Baker
+Photo URL    : https://www.flickr.com/photos/atbaker/2563005909/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 10:55:39 GMT+0200 2008
+Upload Date  : Mon Jun 9 06:51:13 GMT+0200 2008
+Geotag Info  : Latitude:11.914804, Longitude:-85.905532
+Views        : 785
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Isla de los Monos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Granada Isletas Kayak Tour Nicaragua Centroamerica "Central America" Spider Monkey Mono Island 

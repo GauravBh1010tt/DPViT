@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Life in pictures
+Photo URL    : https://www.flickr.com/photos/jjude/2911110559/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 1 13:29:29 GMT+0200 2008
+Upload Date  : Sat Oct 4 12:48:23 GMT+0200 2008
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Mysore MysoreZoo 

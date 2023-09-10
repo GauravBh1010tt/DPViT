@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : malcolmcerfonteyn
+Photo URL    : https://www.flickr.com/photos/malcolmcerfonteyn/4410588303/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 6 18:20:26 GMT+0100 2010
+Upload Date  : Sat Mar 6 17:20:26 GMT+0100 2010
+Views        : 1,286
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+lion mother and cub
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+serengeti ngorongoro wildlife nature lion cub 

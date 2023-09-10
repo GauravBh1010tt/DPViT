@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vonlohmann
+Photo URL    : https://www.flickr.com/photos/vonlohmann/11635107825/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 14 14:07:00 GMT+0100 2013
+Upload Date  : Mon Dec 30 01:07:46 GMT+0100 2013
+Geotag Info  : Latitude:36.779903, Longitude:-121.892303
+Views        : 104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale flukes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Monterey Bay, California
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

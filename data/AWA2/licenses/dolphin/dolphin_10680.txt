@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlexandreRoux01
+Photo URL    : https://www.flickr.com/photos/30142279@N07/15757483033/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 25 05:18:01 GMT+0100 2015
+Upload Date  : Tue Jan 27 03:53:17 GMT+0100 2015
+Views        : 327
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lagenorhynchus obscurus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dusky Dolphin in New Zealand
+
+
++--------+
+|  TAGS  |
++--------+
+dusky dolphin lagenorhynque obscur Lagenorhynchus obscurus 

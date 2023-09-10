@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : swampa
+Photo URL    : https://www.flickr.com/photos/swampa/19816461742/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 20 14:05:54 GMT+0200 2015
+Upload Date  : Sun Jul 19 12:44:37 GMT+0200 2015
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Melbourne Zoo 

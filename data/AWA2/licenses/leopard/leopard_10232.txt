@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A. M. D.
+Photo URL    : https://www.flickr.com/photos/116782478@N08/22440877626/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 25 15:05:24 GMT+0100 2015
+Upload Date  : Sun Oct 25 18:23:32 GMT+0100 2015
+Geotag Info  : Latitude:50.962255, Longitude:6.979290
+Views        : 222
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard #2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+AMD canon EOS 7D pic picture photography foto Fotografie bild Wildpark NRW tier Tierpark tiere spaziergang spaß fun köln zoo Cologne kölner Leopard 

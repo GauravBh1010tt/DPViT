@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markbyzewski
+Photo URL    : https://www.flickr.com/photos/markbyzewski/4691391605/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 5 08:11:38 GMT+0100 2004
+Upload Date  : Sat Jun 12 00:57:19 GMT+0200 2010
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2004-12-05 019
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Buffalo in Southpark near Fairplay, Colorado. I removed the fence in photoshop for this one.
+
+
++--------+
+|  TAGS  |
++--------+
+Buffalo Bison Southpark 

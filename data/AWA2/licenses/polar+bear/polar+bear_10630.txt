@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jschauma
+Photo URL    : https://www.flickr.com/photos/jschauma/8585192683/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 23 13:11:08 GMT+0100 2013
+Upload Date  : Sun Mar 24 15:57:04 GMT+0100 2013
+Geotag Info  : Latitude:40.767444, Longitude:-73.971934
+Views        : 416
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Central Park Zoo" flickriosapp:filter=NoFilter uploaded:by=flickr_mobile 

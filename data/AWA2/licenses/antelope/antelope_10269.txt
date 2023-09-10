@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joshuashnider
+Photo URL    : https://www.flickr.com/photos/joshuashnider/5084812592/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 28 19:20:37 GMT+0200 2010
+Upload Date  : Fri Oct 15 22:34:00 GMT+0200 2010
+Geotag Info  : Latitude:-3.391248, Longitude:36.662921
+Views        : 124
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+DPP_0046
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

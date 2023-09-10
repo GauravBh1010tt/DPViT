@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/7516200980/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 6 15:25:36 GMT+0200 2012
+Upload Date  : Fri Jul 6 21:20:27 GMT+0200 2012
+Views        : 1,137
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bosch Kühlschrank KGE36AL40 für Angie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Juli 2012
+Canon EOS 40D
+EF-S 17-85mm f/4-5.6 IS USM
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+Bosch Kühlschrank KGE36AL40 dalmatiner dalmatian hund dog 

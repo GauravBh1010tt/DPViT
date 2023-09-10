@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : valkrye131
+Photo URL    : https://www.flickr.com/photos/valkrye131/3782703153/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 1 17:58:28 GMT+0200 2009
+Upload Date  : Mon Aug 3 03:22:58 GMT+0200 2009
+Views        : 139
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+here's the tan male
+
+
++--------+
+|  TAGS  |
++--------+
+philadelphia zoo fauna cats lions 

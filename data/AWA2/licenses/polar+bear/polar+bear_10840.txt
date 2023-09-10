@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : masataka_muto
+Photo URL    : https://www.flickr.com/photos/muto_masataka/16765469930/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 10 15:26:45 GMT+0200 2013
+Upload Date  : Sat Mar 28 09:42:26 GMT+0100 2015
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+しろくま
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

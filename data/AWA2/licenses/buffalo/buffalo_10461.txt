@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : iAryeh
+Photo URL    : https://www.flickr.com/photos/aryehalex/19594344321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 5 21:12:39 GMT+0200 2015
+Upload Date  : Sat Jul 11 02:35:11 GMT+0200 2015
+Geotag Info  : Latitude:44.675244, Longitude:-110.476112
+Views        : 255
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Yellowstone National Park" "Grand Teton National Park" "National Parks" Wyoming Montana Bison Geyers Tetons Yellowstone Elk "Leica Typ(109)" "Canon 60d" Wildlife Nature 

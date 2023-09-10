@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DaveCrosby
+Photo URL    : https://www.flickr.com/photos/wikidave/4497207287/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 5 13:59:30 GMT+0200 2010
+Upload Date  : Tue Apr 6 20:44:51 GMT+0200 2010
+Geotag Info  : Latitude:51.997841, Longitude:-0.593220
+Views        : 204
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Looking For Worms
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"woburn safari park" rhino rhinoceros worms 

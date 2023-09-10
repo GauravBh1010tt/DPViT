@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : plastAnka
+Photo URL    : https://www.flickr.com/photos/plastanka/19019508073/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 10 10:23:05 GMT+0200 2015
+Upload Date  : Sun Jul 12 21:51:48 GMT+0200 2015
+Geotag Info  : Latitude:58.663024, Longitude:16.454118
+Views        : 268
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EOS 50D" "Canon 70-200 f4 is" Kolmården Sweden animal rhino "Ceratotherium simum simum" "White rhinoceros" "square-lipped rhinoceros" noshörning 

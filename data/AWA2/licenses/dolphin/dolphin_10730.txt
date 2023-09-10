@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RedTail_Panther
+Photo URL    : https://www.flickr.com/photos/redtailpanther/5642007407/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 10 16:20:09 GMT+0200 2011
+Upload Date  : Fri Apr 22 06:36:37 GMT+0200 2011
+Geotag Info  : Latitude:29.460329, Longitude:-98.701278
+Views        : 2,657
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+P4100324 - 'Hi!'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seaworld, San Antonio Texas...
+
+
++--------+
+|  TAGS  |
++--------+
+"Seaworld San Antonio Texas" "M. Zuiko 14-150ED" "Olympus E-PL2" "Bottlenose Dolphin" Seaworld 

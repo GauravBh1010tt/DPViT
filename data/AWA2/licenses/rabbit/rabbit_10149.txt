@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ibm4381
+Photo URL    : https://www.flickr.com/photos/j_benson/4668285101/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 3 06:27:18 GMT+0200 2010
+Upload Date  : Fri Jun 4 12:35:04 GMT+0200 2010
+Views        : 1,914
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bun
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another young rabbit grazing along the path in Owen Park and pretty much ignoring me.  A few of my shots he actually was in the act of chewing a leaf, but they aren't as clean as this.  A little more light would have been nice.  But I did get an interesting reflection in his eye.
+
+
++--------+
+|  TAGS  |
++--------+
+owen park madison rabbit "Canon EF 400mm F4 DO IS USM" "800mm hand held" 

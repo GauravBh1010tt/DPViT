@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D-Stanley
+Photo URL    : https://www.flickr.com/photos/davidstanleytravel/5062716585/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 8 13:05:27 GMT+0200 2010
+Upload Date  : Fri Oct 8 22:05:27 GMT+0200 2010
+Geotag Info  : Latitude:39.938274, Longitude:116.332790
+Views        : 18,224
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Panda Bears, Beijing Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Panda bears cavorting the the Beijing Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+beijing china panda bears 

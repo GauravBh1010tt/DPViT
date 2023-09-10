@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rharrison
+Photo URL    : https://www.flickr.com/photos/rharrison/3360599819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 8 09:29:28 GMT+0100 2009
+Upload Date  : Tue Mar 17 00:05:39 GMT+0100 2009
+Geotag Info  : Latitude:35.579613, Longitude:-78.965114
+Views        : 556
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hiking-bartley_holloman-011.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lake dog labrador retriever Bonzer "german shepherd" "Harris Lake" 

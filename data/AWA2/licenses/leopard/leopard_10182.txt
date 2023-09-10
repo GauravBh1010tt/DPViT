@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nachans
+Photo URL    : https://www.flickr.com/photos/pancakeplan/5896474499/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 3 20:54:45 GMT+0200 2011
+Upload Date  : Sun Jul 3 13:54:45 GMT+0200 2011
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+imgp5695
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal leopard 

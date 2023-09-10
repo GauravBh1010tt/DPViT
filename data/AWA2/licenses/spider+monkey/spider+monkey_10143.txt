@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Calgary Reviews
+Photo URL    : https://www.flickr.com/photos/calgaryreviews/6047842259/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 14 13:37:25 GMT+0200 2011
+Upload Date  : Tue Aug 16 05:44:13 GMT+0200 2011
+Views        : 1,308
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey - Calgary Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Visit the <a href="http://www.calgaryreviews.ca" rel="nofollow">Calgary Zoo</a>
+
+
++--------+
+|  TAGS  |
++--------+
+monkey calgary alberta canada "calgary zoo" olympus "olympus high grade" "zuiko high grade" 14-54mm 

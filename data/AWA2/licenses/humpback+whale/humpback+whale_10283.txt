@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jennifrog
+Photo URL    : https://www.flickr.com/photos/jennifrog/6184471125/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 24 15:48:49 GMT+0200 2011
+Upload Date  : Mon Sep 26 12:39:23 GMT+0200 2011
+Views        : 1,399
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale tail
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Whitsundays "Whitsunday Islands" Australia Whale "Humpback whale" "Paradise Bay" "Long Island" 

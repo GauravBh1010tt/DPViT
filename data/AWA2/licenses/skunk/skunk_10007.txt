@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A. Drauglis
+Photo URL    : https://www.flickr.com/photos/artdrauglis/3568081749/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 24 06:24:04 GMT+0200 2009
+Upload Date  : Wed May 27 03:22:49 GMT+0200 2009
+Geotag Info  : Latitude:38.060797, Longitude:-78.482165
+Views        : 373
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+A Live Skunk!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+First time I've seen one in the wild. I wanted to get better pictures, but that would have entailed getting closer......
+
+
++--------+
+|  TAGS  |
++--------+
+skunk virginia charlottesville wildlife city urban nature mammals morning walk "striped skunk" "Mephitis mephitis" 

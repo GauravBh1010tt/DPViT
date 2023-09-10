@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lars MS
+Photo URL    : https://www.flickr.com/photos/larsms/6680675333/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 27 17:05:41 GMT+0100 2011
+Upload Date  : Wed Jan 11 21:54:30 GMT+0100 2012
+Views        : 1,303
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion III
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This lion was sleepy and quiet until I held my camera out of the car. Then it woke up and stared at me, looking not too pleased.
+
+
++--------+
+|  TAGS  |
++--------+
+Lion Løve "Maasai Mara" "Masai Mara" Kenya Basecamp 

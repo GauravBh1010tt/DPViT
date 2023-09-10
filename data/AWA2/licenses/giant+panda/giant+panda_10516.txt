@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mamamusings
+Photo URL    : https://www.flickr.com/photos/liz/2401023381/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 9 12:10:16 GMT+0200 2008
+Upload Date  : Wed Apr 9 22:22:22 GMT+0200 2008
+Views        : 82
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda 8
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+washington "national zoo" 

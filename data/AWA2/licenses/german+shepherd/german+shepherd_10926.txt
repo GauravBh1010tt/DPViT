@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : duskandsummer
+Photo URL    : https://www.flickr.com/photos/duskandsummer/3609407021/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 4 14:33:21 GMT+0200 2009
+Upload Date  : Tue Jun 9 08:08:00 GMT+0200 2009
+Views        : 230
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"german shepherd" puppy "long haired german shepherd" 

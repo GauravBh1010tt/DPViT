@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8192256076/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 29 13:39:00 GMT+0200 2012
+Upload Date  : Sat Nov 17 01:00:07 GMT+0100 2012
+Geotag Info  : Latitude:47.291907, Longitude:8.529338
+Views        : 7,788
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Fox with half closed eyes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This picture is cute, I like how his eyes are half closed! The plants in the background also bring something to the picture.
+
+
++--------+
+|  TAGS  |
++--------+
+cute "closed eyes" standing male plants vegetation grass fox vulpine canid canine red wildpark wildnisspark langenberg park zürich switzerland nikon d4 

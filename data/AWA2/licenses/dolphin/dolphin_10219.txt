@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fran Ramos.
+Photo URL    : https://www.flickr.com/photos/unicido/7592553562/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 23 18:54:07 GMT+0200 2012
+Upload Date  : Tue Jul 17 22:11:38 GMT+0200 2012
+Geotag Info  : Latitude:39.465015, Longitude:-0.344486
+Views        : 1,094
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Delfín
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oceanográfic
+
+
++--------+
+|  TAGS  |
++--------+
+delfín acuario niña 

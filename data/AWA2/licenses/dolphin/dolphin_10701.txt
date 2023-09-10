@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ngwt2355
+Photo URL    : https://www.flickr.com/photos/ngwt/2158416094/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 5 15:19:42 GMT+0100 2007
+Upload Date  : Wed Jan 2 14:24:18 GMT+0100 2008
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+My Domain
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

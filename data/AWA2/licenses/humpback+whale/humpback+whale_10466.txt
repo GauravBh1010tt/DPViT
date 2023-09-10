@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peat Bakke
+Photo URL    : https://www.flickr.com/photos/mistermoss/640255747/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 26 11:49:17 GMT+0200 2007
+Upload Date  : Wed Jun 27 21:19:37 GMT+0200 2007
+Geotag Info  : Latitude:58.185727, Longitude:-135.002059
+Views        : 27,375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whales Feeding 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This group of humpback whales surfaced right in front of our boat.  They were hunting a school of tiny fish as a group, and we were lucky enough to catch the show.
+
+
++--------+
+|  TAGS  |
++--------+
+humpback whale whales lunch alaska juneau 

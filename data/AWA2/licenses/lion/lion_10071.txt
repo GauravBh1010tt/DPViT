@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dkolitha
+Photo URL    : https://www.flickr.com/photos/dkolitha/19536634963/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 25 22:07:30 GMT+0200 2015
+Upload Date  : Fri Jul 31 03:52:10 GMT+0200 2015
+Views        : 2,828
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+African Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion africa roar grass sun cat large teeth animal cecil shade beautiful wild fur 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sarah.Ahearn
+Photo URL    : https://www.flickr.com/photos/sarahahearn/6318001167/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 27 22:30:14 GMT+0200 2011
+Upload Date  : Sun Nov 6 15:05:36 GMT+0100 2011
+Geotag Info  : Latitude:-1.282117, Longitude:36.816043
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kenya Amboseli Africa safari 

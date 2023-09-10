@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nicolas.boullosa
+Photo URL    : https://www.flickr.com/photos/faircompanies/2672696467/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 15 22:03:20 GMT+0200 2008
+Upload Date  : Wed Jul 16 06:19:40 GMT+0200 2008
+Geotag Info  : Latitude:45.383019, Longitude:-110.258789
+Views        : 572
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+looking at us
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+perc ecamp enviropreneurs montana bozeman "flying d ranch" bison buffalo "ecamp 2008" 

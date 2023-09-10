@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeff Kubina
+Photo URL    : https://www.flickr.com/photos/kubina/2906359248/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 20 11:51:13 GMT+0200 2008
+Upload Date  : Thu Oct 2 03:33:48 GMT+0200 2008
+Geotag Info  : Latitude:38.928497, Longitude:-77.046188
+Views        : 2,198
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"taken by jeff kubina" 200808 "united states" lioness "district of columbia" 2008 "national zoo" "smithsonian national zoological park" "washington d.c." smithsonian "70.0-300.0 mm f/4.5-5.6" public 

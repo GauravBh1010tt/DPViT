@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : meaduva
+Photo URL    : https://www.flickr.com/photos/meaduva/1586104265/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 29 10:14:23 GMT+0200 2007
+Upload Date  : Tue Oct 16 12:26:47 GMT+0200 2007
+Views        : 308
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Leao
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion nairobi kenya "safari walk" animals 

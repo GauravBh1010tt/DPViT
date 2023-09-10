@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hardwarehank
+Photo URL    : https://www.flickr.com/photos/ralree/5381510966/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 23 07:41:09 GMT+0100 2011
+Upload Date  : Sun Jan 23 18:06:13 GMT+0100 2011
+Views        : 299
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+What?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ruby dog "german shepherd" cute gsd puppy 

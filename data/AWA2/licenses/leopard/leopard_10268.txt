@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steve Slater (used to be Wildlife Encounters)
+Photo URL    : https://www.flickr.com/photos/wildlife_encounters/16453514134/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 3 16:56:16 GMT+0200 2003
+Upload Date  : Wed Apr 8 11:42:30 GMT+0200 2015
+Views        : 318
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+leopard growling
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+leopard growling
+
+
++--------+
+|  TAGS  |
++--------+
+HDR How Leopard Mammals Nature "South Africa" What Where Wildlife abstract artistic "fine art" "wildlife encounters" Eastbourne UK 

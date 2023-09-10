@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rexboggs5
+Photo URL    : https://www.flickr.com/photos/rexboggs5/6630966547/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 30 03:19:40 GMT+0100 2011
+Upload Date  : Tue Jan 3 23:54:19 GMT+0100 2012
+Views        : 1,894
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Lyin'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Safari Park, San Diego California
+
+
++--------+
+|  TAGS  |
++--------+
+lion "san diego" california "safari park" "san diego zoo" comps-FCG 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David Jones
+Photo URL    : https://www.flickr.com/photos/davidcjones/6363290417/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 18 11:03:43 GMT+0200 2011
+Upload Date  : Sat Nov 19 15:56:45 GMT+0100 2011
+Geotag Info  : Latitude:48.181509, Longitude:16.305245
+Views        : 2,081
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear at Vienna Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Vienna Wien Austria "Tiergarten Schönbrunn" zoo "polar bear" "Ursus maritimus" 

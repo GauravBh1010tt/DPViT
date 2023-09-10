@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roy.luck
+Photo URL    : https://www.flickr.com/photos/royluck/5945815497/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 21 14:05:23 GMT+0200 2011
+Upload Date  : Sun Jul 17 15:07:15 GMT+0200 2011
+Geotag Info  : Latitude:48.884134, Longitude:-125.492019
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale dives in Barkley Sound
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Broken Group Islands, Pacific Rim NP
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

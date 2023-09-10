@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/18867680384/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 6 13:58:47 GMT+0200 2015
+Upload Date  : Tue Jul 7 10:57:45 GMT+0200 2015
+Views        : 137
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Twycross Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Snow Leopards
+
+
++--------+
+|  TAGS  |
++--------+
+"Twycross Zoo" "Snow Leopards" 

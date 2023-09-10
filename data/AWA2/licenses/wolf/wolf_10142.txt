@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Riebart
+Photo URL    : https://www.flickr.com/photos/riebart/4859988021/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 31 14:53:09 GMT+0200 2010
+Upload Date  : Wed Aug 4 18:07:22 GMT+0200 2010
+Geotag Info  : Latitude:49.891316, Longitude:-95.187435
+Views        : 5,070
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Friendly Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hemi looks an awful lot like a wolf here. This is interesting because he is pure (i think) collie. 
+
+Some mild processing was done to extract the detail in his coat and bring up the luminance (mostly fill light and exposure adjustments);
+
+
++--------+
+|  TAGS  |
++--------+
+dog wolf manitoba canada whiteshell 

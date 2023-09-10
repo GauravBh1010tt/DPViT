@@ -1,0 +1,47 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dalbera
+Photo URL    : https://www.flickr.com/photos/dalbera/6081009992/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 16 17:47:43 GMT+0200 2011
+Upload Date  : Thu Aug 25 23:25:37 GMT+0200 2011
+Geotag Info  : Latitude:52.507416, Longitude:13.338621
+Views        : 830
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bisons (Zoo de Berlin)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Le zoo de Berlin a été créé à la fin du 18ème siècle dans l'île aux Paons, puis transféré en 1844 dans un parc près du centre-ville aménagé par Peter Joseph Lenné. Il est toujours dans cet espace situé aujourd'hui au coeur de Berlin.
+
+Les premiers pavillons du zoo ont été conçus dans le style des pays d'où provenaient les animaux qui y étaient hébergés. 
+
+Le zoo et l'aquarium de Berlin ont reçu près de 3.000.000 de visiteurs en 2010.
+
+Le zoo est célèbre dans le monde et le plus visité en Europe.
+
+article de Wikipedia
+<a href="http://en.wikipedia.org/wiki/Berlin_Zoological_Garden" rel="nofollow">en.wikipedia.org/wiki/Berlin_Zoological_Garden</a>
+
+site officiel du zoo de Berlin
+<a href="http://www.zoo-berlin.de/zoo.html?L=1" rel="nofollow">www.zoo-berlin.de/zoo.html?L=1</a>
+
+
++--------+
+|  TAGS  |
++--------+
+dalbera zoo Berlin Germany Allemagne "jardin zoologique" Deutschland "zoologischer Garten" 

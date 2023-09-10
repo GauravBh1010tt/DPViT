@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/14456415819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 6 11:43:07 GMT+0200 2014
+Upload Date  : Mon Jul 14 05:52:13 GMT+0200 2014
+Views        : 1,847
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Watching the birdies
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese Truffles watching 

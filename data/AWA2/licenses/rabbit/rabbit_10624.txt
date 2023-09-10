@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : poonam.agarwal.s
+Photo URL    : https://www.flickr.com/photos/poonamagarwal/9093833534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 16 06:42:29 GMT+0200 2013
+Upload Date  : Thu Jun 20 16:25:44 GMT+0200 2013
+Views        : 1,486
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Listening Intently
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Black-naped Hare at Ranthambhore National Park
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife animal India Nature "ranthambhore national park" hare rabbit 

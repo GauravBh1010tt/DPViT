@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thevoiceofsue
+Photo URL    : https://www.flickr.com/photos/thevoiceofsue/4986705634/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 12 16:52:32 GMT+0200 2009
+Upload Date  : Mon Sep 13 15:35:43 GMT+0200 2010
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Common Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Observing NZ Marine Mammals 

@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sybarite48
+Photo URL    : https://www.flickr.com/photos/sybarite48/4064879823/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 27 15:56:56 GMT+0200 2009
+Upload Date  : Sun Nov 1 20:57:45 GMT+0100 2009
+Geotag Info  : Latitude:46.130006, Longitude:1.881752
+Views        : 3,181
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Loup d'Europe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Les Loups de Chabrières  
+Parc Animalier des Monts de Guéret 
+23000 
+Sainte-Feyre
+
+
++--------+
+|  TAGS  |
++--------+
+loup loups wolf France lobo lupo Chabrières Guéret Creuse 

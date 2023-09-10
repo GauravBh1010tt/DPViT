@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/2917614798/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 4 11:13:46 GMT+0200 2008
+Upload Date  : Mon Oct 6 05:04:03 GMT+0200 2008
+Views        : 107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wilds "cathy's pic" "animals and society animal and human interactions" bison 'animals "society animal" human interactions Ohio "ohio state" "ohio state university" OSU 

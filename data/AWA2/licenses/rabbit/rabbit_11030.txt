@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cecil Sanders
+Photo URL    : https://www.flickr.com/photos/cecilsanders/2967212180/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 11 18:28:11 GMT+0200 2008
+Upload Date  : Thu Oct 23 16:55:14 GMT+0200 2008
+Views        : 335
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Watchful Rabbit by Cecil Sanders
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photographed on Williwaw Lakes trail above Anchorage, Alaska.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbitt hare alaska palmer "williwaw lakes trail" nikon "cecil sanders" 

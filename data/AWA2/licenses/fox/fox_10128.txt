@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Cathrae
+Photo URL    : https://www.flickr.com/photos/suckamc/4586027323/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 5 17:03:58 GMT+0200 2010
+Upload Date  : Fri May 7 14:56:03 GMT+0200 2010
+Geotag Info  : Latitude:46.248160, Longitude:-63.130145
+Views        : 18,236
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Cute Baby Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Baby foxes are tres cute.  I've got some video as well, I will try to figure out a way to share that.
+
+
++--------+
+|  TAGS  |
++--------+
+baby fox omg cute kit den 

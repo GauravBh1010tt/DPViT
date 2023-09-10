@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/7640090114/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 7 12:51:52 GMT+0200 2012
+Upload Date  : Wed Jul 25 01:42:56 GMT+0200 2012
+Geotag Info  : Latitude:32.736299, Longitude:-117.150971
+Views        : 3,364
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giant Panda (Ailuropoda melanoleuca) sleeping
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photographed at the San Diego Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+animal mammal Panda "Giant Panda" "Ailuropoda melanoleuca" sleeping 

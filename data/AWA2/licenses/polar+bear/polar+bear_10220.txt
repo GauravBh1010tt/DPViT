@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dierk schaefer
+Photo URL    : https://www.flickr.com/photos/dierkschaefer/5515541784/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 9 19:49:23 GMT+0100 2011
+Upload Date  : Thu Mar 10 19:28:26 GMT+0100 2011
+Views        : 241
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär on the blocks
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Deutschland Germany Allemagne Baden-Württemberg Stuttgart Wilhelma Zoologischer Garten dierkschaefer 

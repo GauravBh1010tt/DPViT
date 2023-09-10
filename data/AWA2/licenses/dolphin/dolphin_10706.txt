@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aViaTioNuT
+Photo URL    : https://www.flickr.com/photos/areyouin86/17261435745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 29 18:55:29 GMT+0200 2014
+Upload Date  : Sat Apr 25 06:33:38 GMT+0200 2015
+Geotag Info  : Latitude:22.230247, Longitude:114.251824
+Views        : 1,182
+Comments     : 29
+
+
++---------+
+|  TITLE  |
++---------+
+Ocean dreaming
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The sun is out, time to hit the outdoor and live up you dream!
+
+
++--------+
+|  TAGS  |
++--------+
+sea ocean water blue "hong kong" wall art dolphin PlatinumHeartAward 

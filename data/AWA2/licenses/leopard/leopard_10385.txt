@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alacchi
+Photo URL    : https://www.flickr.com/photos/alacchi/9903056906/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 23 22:03:21 GMT+0200 2013
+Upload Date  : Mon Sep 23 22:20:24 GMT+0200 2013
+Views        : 6,628
+Comments     : 25
+
+
++---------+
+|  TITLE  |
++---------+
+Léopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nature animal nikon d7000 france zoo faune sauvage wildlife "nikkor 55-300mm" "Digital Camera Club" 

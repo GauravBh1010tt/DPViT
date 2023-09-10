@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Leandro Martinez
+Photo URL    : https://www.flickr.com/photos/leandromartinez/2720377674/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 1 00:00:00 GMT+0100 2007
+Upload Date  : Thu Jul 31 19:31:34 GMT+0200 2008
+Geotag Info  : Latitude:-34.554285, Longitude:-58.469227
+Views        : 456
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Katy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ojazos!
+
+
++--------+
+|  TAGS  |
++--------+
+Gato Katy "ojos claros" ojazos siames FotoCompetition FotoCompetitionBronze cat "blue eyes" FotoCompetitionSilver 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joxeankoret
+Photo URL    : https://www.flickr.com/photos/joxeankoret/6085667319/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 20 17:06:58 GMT+0200 2011
+Upload Date  : Sat Aug 27 18:51:40 GMT+0200 2011
+Views        : 310
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nakuru
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A rhinocero in Lake Nakuru National Park.
+
+
++--------+
+|  TAGS  |
++--------+
+Kenya Nakuru "Lake Nakuru" Rhinoceros rhino 

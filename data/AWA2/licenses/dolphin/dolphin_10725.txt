@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : larkin.family
+Photo URL    : https://www.flickr.com/photos/larkin_family/3756087818/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 24 09:49:19 GMT+0200 2009
+Upload Date  : Sat Jul 25 22:35:10 GMT+0200 2009
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1120944.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sea World" Dolphin 

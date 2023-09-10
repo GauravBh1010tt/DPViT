@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : over_kind_man
+Photo URL    : https://www.flickr.com/photos/over_kind_man/5913007339/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 22 12:05:51 GMT+0100 2010
+Upload Date  : Thu Jul 7 23:06:04 GMT+0200 2011
+Geotag Info  : Latitude:17.219666, Longitude:-89.626334
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Spider Monkey at Tikal, Guatemala
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

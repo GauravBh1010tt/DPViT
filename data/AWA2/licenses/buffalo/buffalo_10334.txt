@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rjones0856
+Photo URL    : https://www.flickr.com/photos/91829349@N00/3298313111/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 1 00:00:00 GMT+0200 1993
+Upload Date  : Sun Feb 22 02:51:26 GMT+0100 2009
+Geotag Info  : Latitude:36.089095, Longitude:-86.735773
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nashville zoo (I think)
+
+
++--------+
+|  TAGS  |
++--------+
+tennessee 

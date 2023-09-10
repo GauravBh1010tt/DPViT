@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daniela.magallon
+Photo URL    : https://www.flickr.com/photos/87776777@N00/372595532/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 28 12:10:09 GMT+0100 2007
+Upload Date  : Mon Jan 29 01:18:06 GMT+0100 2007
+Views        : 610
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Fuser turista 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Fuser "pastor aleman" "german shepherd" ASOVAL schäferhund "LOL DOGS Invited PHOTOS Only!" 

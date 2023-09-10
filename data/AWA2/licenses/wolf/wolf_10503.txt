@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/5840061455/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 16 16:53:35 GMT+0200 2011
+Upload Date  : Thu Jun 16 22:53:35 GMT+0200 2011
+Views        : 1,776
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Finally visited Heaven's Corner Zoo and Sanctuary (Ohio)
+
+I've tried twice over the past 2 years to do an interview there for the zoo and sanctuary research project, but they ignore my emails/phone calls
+
+They seem to be a legit sanctuary, but can't be certain - shooting at a sanctuary has it's own set of challenges, including in many cases double layers of fencing
+
+
++--------+
+|  TAGS  |
++--------+
+"Heaven's Corner" zoo Sanctuary Ohio "Paul's pic" 2011 Wolf 

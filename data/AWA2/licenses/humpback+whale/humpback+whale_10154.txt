@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Littleisland lighthouse
+Photo URL    : https://www.flickr.com/photos/littleisland-lighthouse/4937404439/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 29 15:53:33 GMT+0200 2010
+Upload Date  : Sun Aug 29 15:57:42 GMT+0200 2010
+Geotag Info  : Latitude:68.592228, Longitude:14.309992
+Views        : 602
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback jumping
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In the bay at Littleisland lighthouse.
+Photo by Wim Launspach
+
+
++--------+
+|  TAGS  |
++--------+
+"Humpback whale" 

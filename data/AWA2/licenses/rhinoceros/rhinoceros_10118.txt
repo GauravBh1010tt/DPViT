@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Monkey Mash Button
+Photo URL    : https://www.flickr.com/photos/monkeymashbutton/8809234170/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 10 15:02:58 GMT+0100 2012
+Upload Date  : Fri May 24 04:02:18 GMT+0200 2013
+Geotag Info  : Latitude:32.722905, Longitude:-97.356741
+Views        : 1,128
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+baby rhino rhinoceros Asha Ft. Worth Zoo FW Canon 1Ds Mark II MkII Mk2 full frame ff 

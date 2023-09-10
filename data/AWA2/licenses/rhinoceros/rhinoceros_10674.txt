@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : infomatique
+Photo URL    : https://www.flickr.com/photos/infomatique/8070785314/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 29 12:48:35 GMT+0200 2012
+Upload Date  : Tue Oct 9 16:18:03 GMT+0200 2012
+Geotag Info  : Latitude:53.353702, Longitude:-6.304267
+Views        : 1,693
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinos: Dublin Zoo In Phoenix Park (Dublin)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scientific name: Ceratotherium simum simum
+IUCN status: Near threatened
+Habitat: Southern Africa – grassland and open woodland with mud wallows
+Diet: Herbivore – grasses
+The name ‘white’ rhino comes from the mispronunciation of the Afrikaans word for ‘wide’ and refers to their wide, flat mouth adapted for grazing. Thought to be extinct over 100 years ago due to hunting – their horns were used in traditional Far Eastern medicines and for Middle Eastern dagger handles, white rhinos have survived due to intense conservation efforts. They have poor eyesight but acute senses of hearing and smell.
+
+
++--------+
+|  TAGS  |
++--------+
+Infomatique Dublin Ireland Zoo "Dublin Zoo" "Streets Of Dublin" Europe Sony NEX-7 "White Rhinos" "Southern White Rhinoceros" Rhino "Photographed By William Murphy" "Phoenix Park" "Sony NEX-7" parksandgardensinfomatique 

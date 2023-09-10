@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tanya Durrant
+Photo URL    : https://www.flickr.com/photos/tanyadurrant/5181544340/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 15 14:10:50 GMT+0100 2010
+Upload Date  : Tue Nov 16 11:44:30 GMT+0100 2010
+Geotag Info  : Latitude:50.991798, Longitude:-1.283082
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Amur Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo wildcats marwell leopard cat bigcats animals "Marwell Wildlife" 

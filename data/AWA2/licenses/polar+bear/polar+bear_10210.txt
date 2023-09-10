@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stefanweihs
+Photo URL    : https://www.flickr.com/photos/stefan-w/3243439823/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 31 15:23:25 GMT+0100 2009
+Upload Date  : Sun Feb 1 14:42:36 GMT+0100 2009
+Geotag Info  : Latitude:48.181526, Longitude:16.305449
+Views        : 3,202
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär. / Polar Bear.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Schönbrunn "Tiergarten Tiergarten Schönbrunn" Zoo Eisbär "Polar Bear" Snow cold ICONSDETOTO "Stefan Weihs" EOS Canon white 40d stone stein rock fels eyes closed "geschlossene augen" 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : funky1opti
+Photo URL    : https://www.flickr.com/photos/funky1opti/5204523786/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 24 17:02:22 GMT+0200 2010
+Upload Date  : Wed Nov 24 16:47:44 GMT+0100 2010
+Geotag Info  : Latitude:48.182262, Longitude:16.302938
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9754
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wien Tiergarten Schönbrunn
+Eisbär
+
+
++--------+
+|  TAGS  |
++--------+
+Österreich Austria Wien Vienna Zoo Tiergarten Schönnbrunn Tier Animal Eisbär Icebear 

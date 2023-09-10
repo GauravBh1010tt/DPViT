@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Parker2012
+Photo URL    : https://www.flickr.com/photos/chrisparker2012/8560556290/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 14 10:26:23 GMT+0100 2013
+Upload Date  : Fri Mar 15 20:33:38 GMT+0100 2013
+Views        : 765
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"British wildlife centre" wildlife Surrey nature "Fuji HS20" Fox 

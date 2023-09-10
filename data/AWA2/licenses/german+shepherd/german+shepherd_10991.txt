@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neon Tommy
+Photo URL    : https://www.flickr.com/photos/neontommy/8736019407/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 27 15:32:40 GMT+0200 2013
+Upload Date  : Tue May 14 01:45:27 GMT+0200 2013
+Views        : 212
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Westside German Shepherd Rescue in Los Angeles- One more chance for abandoned dogs!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+10)Hollywood Grooming helps the shelter by coming over once in a while to groom the dogs.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marcwitzel
+Photo URL    : https://www.flickr.com/photos/28244776@N07/7655489642/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 00:00:26 GMT+0200 2012
+Upload Date  : Fri Jul 27 12:26:35 GMT+0200 2012
+Views        : 231
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär beim Fressen II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eisbär (Ursus maritimus) in der Zoom Erlebniswelt in Gelsenkirchen am 26.07.2012
+
+<a href="http://de.wikipedia.org/wiki/Eisbär" rel="nofollow">de.wikipedia.org/wiki/Eisbär</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Zoom Gelsenkirchen Zoo Animal Tier Tiere Erlebniswelt 

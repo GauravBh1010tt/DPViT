@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rafales2008
+Photo URL    : https://www.flickr.com/photos/26314167@N06/2468434538/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 26 14:17:28 GMT+0200 2008
+Upload Date  : Mon May 5 18:44:37 GMT+0200 2008
+Geotag Info  : Latitude:52.261643, Longitude:21.017961
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion warsaw poland zoo lew 

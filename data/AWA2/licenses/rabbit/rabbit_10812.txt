@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tedkerwin
+Photo URL    : https://www.flickr.com/photos/tedkerwin/2574395960/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 12 17:28:49 GMT+0200 2008
+Upload Date  : Fri Jun 13 02:09:37 GMT+0200 2008
+Geotag Info  : Latitude:40.219388, Longitude:-74.090766
+Views        : 1,197
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+kerwin neptune monmouthcounty rabbit bunny "AIG Office" june 2008 nj newjersey 

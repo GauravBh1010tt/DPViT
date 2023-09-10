@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Sträter
+Photo URL    : https://www.flickr.com/photos/stuutje/4528782082/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 17 14:41:26 GMT+0200 2010
+Upload Date  : Sat Apr 17 19:20:25 GMT+0200 2010
+Geotag Info  : Latitude:51.927337, Longitude:4.441051
+Views        : 692
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Indische Neushoorn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rotterdam "Diergaarde Blijdorp" Dierentuin "Indische Neushoorn" Pantserneushoorn "Indian Rhinoceros" Bertus "Rhinoceros unicornis" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mrmoorey
+Photo URL    : https://www.flickr.com/photos/mrmoorey/7482854934/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 30 11:17:53 GMT+0200 2012
+Upload Date  : Mon Jul 2 01:08:46 GMT+0200 2012
+Geotag Info  : Latitude:36.932261, Longitude:-122.015533
+Views        : 356
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two Humpback Whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"santa cruz" "whale watching" whales feeding mrmoorey "alan moore" canon "humpback whale" humpback 'Megaptera novaeangliae 

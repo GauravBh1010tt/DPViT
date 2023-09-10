@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher Lane Photography
+Photo URL    : https://www.flickr.com/photos/christopherlanephotography/6423151331/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 21 13:46:06 GMT+0200 2011
+Upload Date  : Tue Nov 29 17:28:00 GMT+0100 2011
+Geotag Info  : Latitude:28.408331, Longitude:-81.461906
+Views        : 170
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Family of Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sea World" dolphins dolphin 

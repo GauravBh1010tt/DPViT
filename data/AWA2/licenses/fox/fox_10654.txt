@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wallygrom
+Photo URL    : https://www.flickr.com/photos/33037982@N04/4412529278/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 3 11:39:22 GMT+0100 2010
+Upload Date  : Sun Mar 7 02:11:40 GMT+0100 2010
+Geotag Info  : Latitude:50.814483, Longitude:-0.483849
+Views        : 1,020
+Comments     : 18
+
+
++---------+
+|  TITLE  |
++---------+
+You might think you're cute ...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+... but I wish you'd go sit in someone else's garden!
+
+
++--------+
+|  TAGS  |
++--------+
+England "West Sussex" "East Preston" fox "urban fox" "March 2010" 2010 

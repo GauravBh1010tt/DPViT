@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fat Joe's (胖Joe's) Photos
+Photo URL    : https://www.flickr.com/photos/lrq20501/8174350013/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 4 10:09:37 GMT+0100 2012
+Upload Date  : Sun Nov 11 08:14:14 GMT+0100 2012
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2012_1104_036
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+travel 四川 熊貓基地 成都 Panda 

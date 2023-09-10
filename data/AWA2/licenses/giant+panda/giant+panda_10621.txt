@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matthijs Koster
+Photo URL    : https://www.flickr.com/photos/matthijskoster/747285252/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 21 02:51:55 GMT+0200 2007
+Upload Date  : Sat Jul 7 14:07:03 GMT+0200 2007
+Views        : 182
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+China 

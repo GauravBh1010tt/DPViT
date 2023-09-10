@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nedrichards
+Photo URL    : https://www.flickr.com/photos/nedrichards/9355135107/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 9 11:49:46 GMT+0200 2013
+Upload Date  : Wed Jul 24 10:46:08 GMT+0200 2013
+Geotag Info  : Latitude:51.742922, Longitude:-0.062314
+Views        : 927
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Broxbourne England "United Kingdom" 

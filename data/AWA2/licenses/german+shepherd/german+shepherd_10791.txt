@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sidewalk flying
+Photo URL    : https://www.flickr.com/photos/sidewalk_flying/3604824628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 6 18:11:53 GMT+0200 2009
+Upload Date  : Sun Jun 7 21:44:56 GMT+0200 2009
+Views        : 1,156
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Saturday, sunshine
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog shambles lyingdown carpet rug sunshine afternoon lazy relaxing beagle "german shepherd" 

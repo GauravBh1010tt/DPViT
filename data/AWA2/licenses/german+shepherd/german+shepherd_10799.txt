@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ceris42
+Photo URL    : https://www.flickr.com/photos/ceris/5018752022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 22 14:13:17 GMT+0200 2010
+Upload Date  : Thu Sep 23 22:47:01 GMT+0200 2010
+Views        : 933
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sebastian our 9 week old German Shepherd Puppy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Basti savages lil' Annville
+
+
++--------+
+|  TAGS  |
++--------+
+German Shepherd Puppy 

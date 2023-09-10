@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Doug Letterman
+Photo URL    : https://www.flickr.com/photos/dougletterman/2765567665/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 8 19:45:01 GMT+0200 2008
+Upload Date  : Fri Aug 15 22:22:06 GMT+0200 2008
+Views        : 3,551
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Bison milling near the road in the Lamar Valley.
+
+
++--------+
+|  TAGS  |
++--------+
+Bison WY Wyoming Yellowstone 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mertie.
+Photo URL    : https://www.flickr.com/photos/100780486@N02/19583623790/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 13 13:47:50 GMT+0200 2015
+Upload Date  : Fri Jul 17 14:29:24 GMT+0200 2015
+Geotag Info  : Latitude:-35.103759, Longitude:139.143733
+Views        : 341
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American Bison (Monarto Zoo)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"American Bison" Bison "Monarto Zoo" 

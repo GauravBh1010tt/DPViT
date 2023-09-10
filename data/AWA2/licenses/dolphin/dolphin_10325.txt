@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Choconancy1
+Photo URL    : https://www.flickr.com/photos/choconancy/2815418633/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 11 22:05:56 GMT+0200 2003
+Upload Date  : Mon Sep 1 03:40:47 GMT+0200 2008
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+New_Zealand South_Island "Abel Tasman National Park" dolphin 

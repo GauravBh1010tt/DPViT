@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : slongacre
+Photo URL    : https://www.flickr.com/photos/tlongacre/6610959373/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 21 10:29:43 GMT+0100 2011
+Upload Date  : Sun Jan 1 07:49:08 GMT+0100 2012
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Scenes from Etosha Park, Namibia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

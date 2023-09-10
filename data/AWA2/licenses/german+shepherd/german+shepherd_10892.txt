@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EpicFireworks
+Photo URL    : https://www.flickr.com/photos/epicfireworks/2902034794/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 29 15:33:21 GMT+0200 2008
+Upload Date  : Tue Sep 30 15:36:54 GMT+0200 2008
+Geotag Info  : Latitude:51.525833, Longitude:-0.230712
+Views        : 860
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Head of Security
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+epic firework staff bruce "german shepherd" "guard dog" dog 

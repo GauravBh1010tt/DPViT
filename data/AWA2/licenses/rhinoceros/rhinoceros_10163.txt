@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fred Postles
+Photo URL    : https://www.flickr.com/photos/fredpostles/9310639104/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 17 20:34:48 GMT+0200 2013
+Upload Date  : Thu Jul 18 00:06:58 GMT+0200 2013
+Views        : 323
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+CNV00057 copy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Nepal 35mm analog travel "chitwan national park" safari rhinoceros "elephant safari" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mulligan Stu
+Photo URL    : https://www.flickr.com/photos/mulliganstu/8267351214/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 12 09:09:27 GMT+0200 2012
+Upload Date  : Wed Dec 12 16:34:25 GMT+0100 2012
+Views        : 1,149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chengdu Panda Base - Giant Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mother and cub
+
+
++--------+
+|  TAGS  |
++--------+
+Chengdu "Sichuan Giant Panda Sanctuaries" "Chengdu Panda Base" "Giant Panda" "mother and cub" China "UNESCO World Natural Heritage Site" UNESCO 

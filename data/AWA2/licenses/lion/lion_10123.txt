@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ben Mason
+Photo URL    : https://www.flickr.com/photos/siberianluck/5376511516/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 21 14:54:19 GMT+0100 2011
+Upload Date  : Fri Jan 21 23:03:31 GMT+0100 2011
+Views        : 179
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Denver Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Denver Zoo" Lion 

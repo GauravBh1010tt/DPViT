@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Areola Grande.
+Photo URL    : https://www.flickr.com/photos/mandimaebe/9008899621/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 30 07:15:14 GMT+0200 2013
+Upload Date  : Mon Jun 10 21:46:01 GMT+0200 2013
+Views        : 188
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9343
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2013 "Akron Zoo" Zoo snow leopard 

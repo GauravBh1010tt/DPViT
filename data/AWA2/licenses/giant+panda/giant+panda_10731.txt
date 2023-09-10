@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Keith Roper
+Photo URL    : https://www.flickr.com/photos/keithroper/8131581760/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 12 07:32:45 GMT+0200 2012
+Upload Date  : Sun Oct 28 18:00:38 GMT+0100 2012
+Views        : 3,422
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pandas 5
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pandas at Beijing Zoo. October 2012
+
+
++--------+
+|  TAGS  |
++--------+
+Pandas China 

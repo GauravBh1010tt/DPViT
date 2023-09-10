@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/4960880815/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 12 12:26:51 GMT+0200 2010
+Upload Date  : Sun Sep 5 22:10:16 GMT+0200 2010
+Geotag Info  : Latitude:52.507993, Longitude:13.337831
+Views        : 747
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Berlin Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polar Bears - Knut
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin Germany "Berlin Zoo" "polar bears" Knut 

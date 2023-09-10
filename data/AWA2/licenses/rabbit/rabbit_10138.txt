@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steve Slater (used to be Wildlife Encounters)
+Photo URL    : https://www.flickr.com/photos/wildlife_encounters/16888469340/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 6 17:43:38 GMT+0200 2006
+Upload Date  : Wed Apr 8 11:41:16 GMT+0200 2015
+Views        : 996
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brer rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Brer rabbit
+
+
++--------+
+|  TAGS  |
++--------+
+England HDR How Mammals Nature Sussex What Where Wildlife abstract artistic "fine art" rabbit "wildlife encounters" Eastbourne UK 

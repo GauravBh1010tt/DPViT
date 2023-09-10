@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kurayba
+Photo URL    : https://www.flickr.com/photos/kurt-b/5133746445/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 31 15:52:22 GMT+0100 2010
+Upload Date  : Mon Nov 1 02:56:25 GMT+0100 2010
+Geotag Info  : Latitude:53.476703, Longitude:-113.556168
+Views        : 693
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit Changing Colour
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+edmonton alberta canada pentax k-7 whitemud ravine park nature preserve creek rabbit changing colour color winter brown white sigma 400 f/5.6 hare bunny wild handheld APO Macro 

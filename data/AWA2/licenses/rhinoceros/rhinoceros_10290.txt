@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JUSU
+Photo URL    : https://www.flickr.com/photos/jusu/3619641274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 10 02:48:50 GMT+0200 2009
+Upload Date  : Fri Jun 12 15:44:17 GMT+0200 2009
+Views        : 82
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mr. Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros "Toronto Zoo" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GorissenM
+Photo URL    : https://www.flickr.com/photos/71963413@N06/21100714861/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 30 15:40:35 GMT+0200 2015
+Upload Date  : Wed Sep 2 21:21:27 GMT+0200 2015
+Geotag Info  : Latitude:52.149661, Longitude:5.345661
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+merging with the surroundings
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dierenpark Dieren Park Amersfoort Dierentuin Zoo Animal Outdoor Gelderland Netherlands Nederland Canon SX280 Rhino Indische neushoorn Rhinoceros unicornis 

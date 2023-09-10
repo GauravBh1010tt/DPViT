@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JohnGoode
+Photo URL    : https://www.flickr.com/photos/johnnieb/2427479207/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 20 13:54:44 GMT+0200 2008
+Upload Date  : Sun Apr 20 17:22:29 GMT+0200 2008
+Views        : 1,264
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+LEOPALD
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+johnnieb Marwell Leopard "shot through glass" johnnieb63  @johngoode 

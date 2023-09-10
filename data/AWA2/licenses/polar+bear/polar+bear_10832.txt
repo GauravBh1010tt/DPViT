@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bm.iphone
+Photo URL    : https://www.flickr.com/photos/bmiphone/6000885873/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 26 18:17:30 GMT+0100 2004
+Upload Date  : Tue Aug 2 11:03:51 GMT+0200 2011
+Views        : 221
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+wild animals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

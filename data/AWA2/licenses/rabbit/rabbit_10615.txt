@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : travelinknu
+Photo URL    : https://www.flickr.com/photos/dknuth/10216082794/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 11 16:13:02 GMT+0200 2013
+Upload Date  : Sat Oct 12 01:43:13 GMT+0200 2013
+Geotag Info  : Latitude:16.740646, Longitude:-92.636250
+Views        : 488
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Last Import-7
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

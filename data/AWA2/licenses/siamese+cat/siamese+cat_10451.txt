@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gsloan
+Photo URL    : https://www.flickr.com/photos/gsloan/6526376343/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 17 10:53:22 GMT+0100 2011
+Upload Date  : Sat Dec 17 17:59:33 GMT+0100 2011
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sully and Benny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sully and Benny, napping on a Saturday morning
+
+
++--------+
+|  TAGS  |
++--------+
+Siamese "black cat" cute "i can has" 

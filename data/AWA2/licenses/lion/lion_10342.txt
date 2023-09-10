@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jon Mountjoy
+Photo URL    : https://www.flickr.com/photos/mountjoy/5194435739/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 12 16:23:36 GMT+0100 2010
+Upload Date  : Sun Nov 21 14:42:03 GMT+0100 2010
+Views        : 1,387
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Couchant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sibuya lion 

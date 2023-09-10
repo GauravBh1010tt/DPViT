@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rerun van Pelt
+Photo URL    : https://www.flickr.com/photos/rerun/16940447837/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 5 15:56:43 GMT+0200 2015
+Upload Date  : Tue Apr 14 18:31:08 GMT+0200 2015
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Irland-2015-7.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Baltimore Irland 

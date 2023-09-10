@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : leighannemcc
+Photo URL    : https://www.flickr.com/photos/leighannemcc/3442860642/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 20 07:06:03 GMT+0200 2003
+Upload Date  : Tue Apr 14 22:38:29 GMT+0200 2009
+Views        : 477
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bunny-redeye
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chester rabbit 

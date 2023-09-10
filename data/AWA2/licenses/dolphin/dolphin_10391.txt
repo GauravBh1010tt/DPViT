@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Monday's Socks
+Photo URL    : https://www.flickr.com/photos/mondayssocks/8232257346/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 17 16:57:57 GMT+0100 2012
+Upload Date  : Fri Nov 30 10:46:46 GMT+0100 2012
+Geotag Info  : Latitude:-42.491570, Longitude:173.707352
+Views        : 20,463
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken with Canon 400D with EF 75-300mm f/4-5.6, 
+I was stunned with the colour of this photo, only developing done has been to the exposure.
+
+
++--------+
+|  TAGS  |
++--------+
+Kaikoura Canterbury "New Zealand" 

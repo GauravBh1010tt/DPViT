@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : poplinre
+Photo URL    : https://www.flickr.com/photos/poplinre/612179390/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 13 09:38:50 GMT+0200 2007
+Upload Date  : Sun Jun 24 16:55:24 GMT+0200 2007
+Geotag Info  : Latitude:40.157499, Longitude:-83.118883
+Views        : 293
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Black Rhinoceros #3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rhinocerotidae Animalia Mammalia rhinoceros Diceros Columbus rhino "Canon EF 200mm f/2.8L USM" "Diceros bicornis" handheld zoo 2007 Ohio "Columbus Zoo" "Black Rhinoceros" Perissodactyla Chordata animals Earth USA "United States of America" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : icmcwaffle
+Photo URL    : https://www.flickr.com/photos/icmcwaffle/8441251093/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 2 16:10:06 GMT+0100 2013
+Upload Date  : Sun Feb 3 20:30:09 GMT+0100 2013
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Whale Watching
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"whale watching" Ventura California "Island Packers" "Channel Islands" "national park" 

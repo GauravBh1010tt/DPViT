@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OontzMonster
+Photo URL    : https://www.flickr.com/photos/oontzmonster/5619674983/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 14 13:45:49 GMT+0200 2011
+Upload Date  : Thu Apr 14 22:45:49 GMT+0200 2011
+Geotag Info  : Latitude:33.655691, Longitude:-117.622257
+Views        : 220
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+My Cat Saharaa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram Walden cat Siamese blue 

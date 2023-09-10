@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : em_j_bishop
+Photo URL    : https://www.flickr.com/photos/emmabishop/6355792313/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 9 10:46:04 GMT+0100 2011
+Upload Date  : Fri Nov 18 01:11:04 GMT+0100 2011
+Views        : 956
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Blakava
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Churchill Manitoba Canada "November 2011" "polar bears" Blakava "Wapusk National Park" 

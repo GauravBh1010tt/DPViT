@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Orion Wiseman
+Photo URL    : https://www.flickr.com/photos/79305942@N00/6976721482/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 28 10:03:44 GMT+0200 2012
+Upload Date  : Sun Apr 29 01:49:29 GMT+0200 2012
+Views        : 3,625
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A polar bear licking his chops over a scrap of whale meat.
+
+
++--------+
+|  TAGS  |
++--------+
+Barrow Alaska Polar Bear 

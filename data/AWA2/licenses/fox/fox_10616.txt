@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : em_j_bishop
+Photo URL    : https://www.flickr.com/photos/emmabishop/6375719339/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 13 11:19:09 GMT+0100 2011
+Upload Date  : Mon Nov 21 11:35:18 GMT+0100 2011
+Views        : 4,466
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Churchill Manitoba Canada "November 2011" "Polar bears" "Wapusk National Park" "Arctic fox" "Hudson Bay" tunda "tundra buggy tour" "Churchill Wildlife Management Area" tundra 

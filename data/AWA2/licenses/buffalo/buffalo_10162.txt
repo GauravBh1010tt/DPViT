@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EOL Learning and Education Group
+Photo URL    : https://www.flickr.com/photos/44919417@N04/6843272989/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 8 13:52:52 GMT+0100 2012
+Upload Date  : Wed Feb 8 22:52:52 GMT+0100 2012
+Views        : 508
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison bison athabascae, Wood Bison. Source: U.S. Fish & Wildlife Service Endangered Species Program
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"taxonomy:trinomial=Bison bison athabascae" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : uzink
+Photo URL    : https://www.flickr.com/photos/uzink/4822371565/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 22 15:25:42 GMT+0200 2010
+Upload Date  : Sat Jul 24 05:44:14 GMT+0200 2010
+Geotag Info  : Latitude:42.530820, Longitude:-70.453948
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0749_tonemapped
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+humpback whale
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

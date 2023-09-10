@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Somma
+Photo URL    : https://www.flickr.com/photos/ideonexus/12282269363/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 00:03:28 GMT+0100 1980
+Upload Date  : Mon Feb 3 06:29:11 GMT+0100 2014
+Views        : 1,227
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6291
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

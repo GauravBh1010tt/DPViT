@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ruth and Dave
+Photo URL    : https://www.flickr.com/photos/ruthanddave/53080930/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 16 13:54:04 GMT+0200 2005
+Upload Date  : Sun Oct 16 21:13:48 GMT+0200 2005
+Geotag Info  : Latitude:51.853488, Longitude:-0.546398
+Views        : 325
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolves
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wolves whipsnade zoos 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ilouque
+Photo URL    : https://www.flickr.com/photos/ilouque/5603612536/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 9 08:32:13 GMT+0200 2011
+Upload Date  : Sat Apr 9 18:43:07 GMT+0200 2011
+Geotag Info  : Latitude:29.974420, Longitude:-93.089958
+Views        : 366
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cute
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit eastern cottontail bunny grazing feeding grass louisiana cameron prairie national wildlife refuge 

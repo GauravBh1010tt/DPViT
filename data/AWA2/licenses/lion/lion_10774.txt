@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chris.murphy
+Photo URL    : https://www.flickr.com/photos/chris-murphy/4637704839/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 3 02:23:34 GMT+0200 2010
+Upload Date  : Tue May 25 08:19:08 GMT+0200 2010
+Views        : 596
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Ngorongoro Crater" lions Tanzania 

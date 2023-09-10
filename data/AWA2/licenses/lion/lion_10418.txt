@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pius Mahimbi
+Photo URL    : https://www.flickr.com/photos/pius_mahimbi/5251521756/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 23 05:55:04 GMT+0100 2010
+Upload Date  : Sat Dec 11 14:58:10 GMT+0100 2010
+Views        : 32,549
+Comments     : 143
+
+
++---------+
+|  TITLE  |
++---------+
+Lion: Panthera leo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ruaha National Park, Iringa, Tanzania
+
+
++--------+
+|  TAGS  |
++--------+
+Lion Animalia Chordata Mammalia Carnivora Felidae "Panthera leo" "Ruaha National Park" Iringa Tanzania Africa wildlife nature FlickrBigCats SpecAnimal FlickrDiamond 

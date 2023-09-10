@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/24446685346/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 18 14:53:07 GMT+0100 2016
+Upload Date  : Tue Jan 19 04:47:23 GMT+0100 2016
+Geotag Info  : Latitude:37.590703, Longitude:-122.319620
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+WP_20160118_14_53_09_Pro (2)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Channel Island fox.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

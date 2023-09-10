@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Traveloscopy
+Photo URL    : https://www.flickr.com/photos/rodeime/15257040182/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 6 15:40:52 GMT+0100 2010
+Upload Date  : Tue Sep 16 14:44:22 GMT+0200 2014
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tibet - Snow Leopard Kris Madden
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Snow leopard (lat. Uncia uncia) with his prey in the snow
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

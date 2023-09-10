@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : crimfants
+Photo URL    : https://www.flickr.com/photos/crimfants/3602043929/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 6 17:58:59 GMT+0200 2009
+Upload Date  : Sun Jun 7 07:31:08 GMT+0200 2009
+Views        : 346
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brownie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We're fostering Brownie for adoption by a family no cats and only older children.  Seh's very smart and athletic and full of energy.  Very sociable with other dogs.
+
+
++--------+
+|  TAGS  |
++--------+
+dog german shepherd Aperture coolpix prone 

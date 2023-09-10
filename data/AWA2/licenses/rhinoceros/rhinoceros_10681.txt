@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carine06
+Photo URL    : https://www.flickr.com/photos/43555660@N00/11938060545/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 22 19:34:02 GMT+0200 1998
+Upload Date  : Tue Jan 14 01:34:11 GMT+0100 2014
+Views        : 1,194
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+White rhinos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Matobo National Park
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Zimbabwe rhinoceros "white rhino" "Matobo National Park" "Rhodes Matopos National Park" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrHicks46
+Photo URL    : https://www.flickr.com/photos/teosaurio/15236975910/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 03:32:18 GMT+0200 2014
+Upload Date  : Fri Oct 3 01:24:25 GMT+0200 2014
+Views        : 321
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Whales in Favorite Channel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback whales in Favorite Channel, Alaska. Shot from the ferry from Haines to Juneau.
+
+
++--------+
+|  TAGS  |
++--------+
+flickr ferry export alaska rtw2014 whales usa juneau nex 

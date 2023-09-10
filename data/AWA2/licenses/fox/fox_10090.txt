@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : em_j_bishop
+Photo URL    : https://www.flickr.com/photos/emmabishop/6356985421/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 9 13:51:32 GMT+0100 2011
+Upload Date  : Fri Nov 18 06:56:12 GMT+0100 2011
+Views        : 2,240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Arctic Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Churchill Manitoba Canada "November 2011" "polar bears" "Wapusk National Park" "Hudson Bay" tunda "tundra buggy tour" "Arctic fox" "Churchill Wildlife Management Area" tundra 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pointnshoot
+Photo URL    : https://www.flickr.com/photos/pointnshoot/118502520/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 22 15:49:10 GMT+0100 2006
+Upload Date  : Mon Mar 27 04:36:24 GMT+0200 2006
+Geotag Info  : Latitude:37.824912, Longitude:-122.202515
+Views        : 118
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Skunked
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shepherd Canyon Rd. Oakland
+
+
++--------+
+|  TAGS  |
++--------+
+dead roadkill skunk 

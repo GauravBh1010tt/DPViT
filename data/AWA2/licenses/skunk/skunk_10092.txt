@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loco Steve
+Photo URL    : https://www.flickr.com/photos/locosteve/4927650881/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 25 10:45:25 GMT+0200 2010
+Upload Date  : Thu Aug 26 03:18:51 GMT+0200 2010
+Geotag Info  : Latitude:30.602531, Longitude:-89.611186
+Views        : 1,334
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Skunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Poor skunk i was cutting the grass with the tractor today  when a skunk ran off so i chased him with the tractor taking photo's of it across the field  only to find i had the camera on macro But there is a small area of it's tail that is in focus : )
+
+
++--------+
+|  TAGS  |
++--------+
+mississippi jpeg Skunk "Flickriver .com" "Tag Galaxy" 

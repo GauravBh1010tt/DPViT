@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Timitrius
+Photo URL    : https://www.flickr.com/photos/nox_noctis_silentium/5321092020/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 4 17:05:18 GMT+0100 2011
+Upload Date  : Mon Jan 3 19:55:56 GMT+0100 2011
+Geotag Info  : Latitude:51.853753, Longitude:-0.539188
+Views        : 362
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo Whipsnade white rhinoceros 

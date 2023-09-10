@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : René Mayorga
+Photo URL    : https://www.flickr.com/photos/elchurro/8688745079/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 27 05:11:13 GMT+0200 2013
+Upload Date  : Sun Apr 28 18:57:28 GMT+0200 2013
+Views        : 591
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Relajado
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Un León macho, sin preocupación alguna, esperando que su grupo vuelva de cazar
+Ngorongoro Crater, Tanzania, 2013
+
+
++--------+
+|  TAGS  |
++--------+
+Tanzania Lion Ngorongoro 

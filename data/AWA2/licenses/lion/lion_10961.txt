@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : elaine...
+Photo URL    : https://www.flickr.com/photos/elaine13/828677618/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 7 12:01:41 GMT+0200 2007
+Upload Date  : Mon Jul 16 15:33:29 GMT+0200 2007
+Views        : 86
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+barcelona zoo lion 

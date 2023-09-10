@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/14165505151/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 12 11:43:40 GMT+0100 2014
+Upload Date  : Mon May 12 15:00:06 GMT+0200 2014
+Geotag Info  : Latitude:47.547509, Longitude:7.578211
+Views        : 38,238
+Comments     : 95
+
+
++---------+
+|  TITLE  |
++---------+
+Posing lion dad
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+When Mbali the male lion of the Basel zoo poses, you always can get nice pictures!
+
+
++--------+
+|  TAGS  |
++--------+
+male posing lying beautiful rock stone lion big wild cat zoo basel zolli switzerland nikon d4 

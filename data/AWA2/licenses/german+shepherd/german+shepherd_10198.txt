@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StrickenAza34
+Photo URL    : https://www.flickr.com/photos/70163101@N06/7549150360/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 6 16:50:05 GMT+0200 2012
+Upload Date  : Wed Jul 11 15:13:06 GMT+0200 2012
+Views        : 370
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0158
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Balmain Black German Shepherd Dog Shadow 

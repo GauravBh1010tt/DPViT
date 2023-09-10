@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ed Clayton
+Photo URL    : https://www.flickr.com/photos/edclayton/5902520751/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 3 14:44:02 GMT+0200 2011
+Upload Date  : Tue Jul 5 01:01:40 GMT+0200 2011
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0914
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Monkey
+&quot;Spider Monkey&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+"London Zoo" 

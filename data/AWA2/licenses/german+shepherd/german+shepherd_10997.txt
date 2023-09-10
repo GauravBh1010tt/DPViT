@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : frankpierson
+Photo URL    : https://www.flickr.com/photos/frankpierson/4507618235/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 7 15:58:15 GMT+0200 2010
+Upload Date  : Sat Apr 10 18:06:17 GMT+0200 2010
+Views        : 476
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+What do you want?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My dog looking at me after my truck woke him up...I don't think he's quite awake in this one.
+
+
++--------+
+|  TAGS  |
++--------+
+dog riley pet "german shepherd" rest sleep wake day sun tired "canon t1i" 

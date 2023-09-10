@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/9358640295/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 14 13:34:21 GMT+0200 2013
+Upload Date  : Wed Jul 24 21:51:13 GMT+0200 2013
+Geotag Info  : Latitude:53.230161, Longitude:-2.889211
+Views        : 3,999
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Quite long horns!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I don't know (anymore) the name of this antelope. But they come from Africa. Does someone know it? They have impressive long horns!
+
+Edit: this is a scimitar oryx or scimitar-horned oryx, thanks wiinterrr for the ID! :)
+
+
++--------+
+|  TAGS  |
++--------+
+antelope brown white horns long grazing grass chester zoo uk "united kingdom" england nikon d4 oryx 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarinaAvila
+Photo URL    : https://www.flickr.com/photos/marinaavila/3195717326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 13 23:07:07 GMT+0100 2009
+Upload Date  : Wed Jan 14 02:12:50 GMT+0100 2009
+Views        : 2,430
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eva, my bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eva is a hermelin (polish) bunny. A lovely pet
+
+
++--------+
+|  TAGS  |
++--------+
+pet animal rodent coelho mini anão livros books orange white laranja background fundo branco branca terceiro olho thir eye cute furry funny ears good macro 

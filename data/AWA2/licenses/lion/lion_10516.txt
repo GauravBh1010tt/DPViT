@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Laurent de Walick
+Photo URL    : https://www.flickr.com/photos/dewalick/3122027309/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 18 08:45:41 GMT+0100 2008
+Upload Date  : Sat Dec 20 15:41:07 GMT+0100 2008
+Views        : 303
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ngorongoro tanzania safari lion 

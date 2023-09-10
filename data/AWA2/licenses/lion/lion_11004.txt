@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Laurent de Walick
+Photo URL    : https://www.flickr.com/photos/dewalick/15843819237/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 11 06:29:22 GMT+0100 2014
+Upload Date  : Mon Dec 15 19:14:59 GMT+0100 2014
+Geotag Info  : Latitude:-25.364580, Longitude:31.683926
+Views        : 1,364
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young male lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lion Lwakhahle 

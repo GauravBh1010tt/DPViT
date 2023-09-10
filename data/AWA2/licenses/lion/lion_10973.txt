@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PreciousBytes
+Photo URL    : https://www.flickr.com/photos/72562013@N06/12026600895/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 19 13:34:51 GMT+0100 2014
+Upload Date  : Sun Jan 19 10:38:00 GMT+0100 2014
+Views        : 1,388
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Werribee Open Range Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Picture taken through glass.
+
+
++--------+
+|  TAGS  |
++--------+
+lion yawn yawning tongue resting 

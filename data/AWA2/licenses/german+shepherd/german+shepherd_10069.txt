@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quiddle.
+Photo URL    : https://www.flickr.com/photos/quiddle/149515291/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 18 20:01:35 GMT+0200 2006
+Upload Date  : Sat May 20 01:43:57 GMT+0200 2006
+Geotag Info  : Latitude:41.433581, Longitude:-81.391509
+Views        : 1,550
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Arthur has left the building
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Arthur is at the kennel for the weekend, while we attend a wedding. He likes it there- he can bark all he wants.
+
+
++--------+
+|  TAGS  |
++--------+
+arthur dog "german shepherd" 

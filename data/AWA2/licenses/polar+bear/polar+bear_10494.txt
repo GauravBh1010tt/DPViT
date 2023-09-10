@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Will Ellis
+Photo URL    : https://www.flickr.com/photos/wills/124102609/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 31 12:08:58 GMT+0200 2006
+Upload Date  : Thu Apr 6 08:37:36 GMT+0200 2006
+Views        : 1,306
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear swimming
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Singapore Zoo" Bear "Polar Bear" Singapore "Round The World Trip" "Gap Year" 

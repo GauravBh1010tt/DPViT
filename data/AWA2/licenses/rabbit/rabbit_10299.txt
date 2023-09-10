@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jkirkhart35
+Photo URL    : https://www.flickr.com/photos/jkirkhart35/3514239373/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 8 11:06:50 GMT+0200 2009
+Upload Date  : Sat May 9 09:10:35 GMT+0200 2009
+Views        : 606
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Cottontail Rabbit (Sylvilagus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Notice the ticks on the left ear and the engorged one under its eye.  Best seen on larger sizes.  the rabbit was under a bush, and needed flash to show what it shows.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

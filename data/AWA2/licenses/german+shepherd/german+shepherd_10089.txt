@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tobyotter
+Photo URL    : https://www.flickr.com/photos/78428166@N00/8459100106/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 9 11:50:20 GMT+0100 2013
+Upload Date  : Sat Feb 9 18:02:21 GMT+0100 2013
+Geotag Info  : Latitude:37.105333, Longitude:-76.511500
+Views        : 219
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beautiful German Shepherd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+His name is Laredo, he was at the dog clinic for his shots. He is very friend, well trained and two years old.
+
+
++--------+
+|  TAGS  |
++--------+
+flickriosapp:filter=NoFilter uploaded:by=flickr_mobile 

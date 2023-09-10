@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : haroldmeerveld
+Photo URL    : https://www.flickr.com/photos/haroldmeerveld/14742742297/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 15 19:49:05 GMT+0200 2014
+Upload Date  : Fri Aug 15 22:28:24 GMT+0200 2014
+Views        : 6,705
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Kalibra's Sekei Von Excalibur
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Old German Shepherd running on a sand drift in the Netherlands.
+
+
++--------+
+|  TAGS  |
++--------+
+dog "german shepherd" netherlands 

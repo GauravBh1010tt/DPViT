@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tom hartley
+Photo URL    : https://www.flickr.com/photos/26096505@N02/4029400677/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 1 23:02:29 GMT+0200 2009
+Upload Date  : Tue Oct 20 22:15:52 GMT+0200 2009
+Geotag Info  : Latitude:48.847321, Longitude:-125.322761
+Views        : 33
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale, Broken Islands Group
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

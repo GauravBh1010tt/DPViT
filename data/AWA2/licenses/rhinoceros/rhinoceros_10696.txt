@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rascal76160
+Photo URL    : https://www.flickr.com/photos/129993975@N04/23381348055/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 13 10:47:29 GMT+0100 2015
+Upload Date  : Sun Nov 29 00:36:03 GMT+0100 2015
+Views        : 75
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zoo10
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal rhinoceros 

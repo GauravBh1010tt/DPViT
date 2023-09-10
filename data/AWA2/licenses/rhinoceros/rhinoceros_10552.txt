@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fortherock
+Photo URL    : https://www.flickr.com/photos/fortherock/3899268242/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 2 10:30:48 GMT+0100 2008
+Upload Date  : Tue Sep 8 05:15:18 GMT+0200 2009
+Views        : 3,200
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+San Diego Wild Animal Park - Color
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+San Diego Wild Animal Park - Color
+
+
++--------+
+|  TAGS  |
++--------+
+San Diego Wild Animal Park Safari rhino rhinos Rhinoceros 

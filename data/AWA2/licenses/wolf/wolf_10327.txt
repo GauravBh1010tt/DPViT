@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Cathrae
+Photo URL    : https://www.flickr.com/photos/suckamc/6834633638/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 4 12:39:52 GMT+0100 2012
+Upload Date  : Wed Mar 14 02:11:18 GMT+0100 2012
+Geotag Info  : Latitude:45.685556, Longitude:-74.948043
+Views        : 7,023
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Timber Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Looking pretty warm with his/her fur coat.
+
+
++--------+
+|  TAGS  |
++--------+
+"Parc Omega" Montebello Quebec Canada park animals "timber wolf" wolf winter snow 

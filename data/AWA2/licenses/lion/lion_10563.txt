@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mpfl
+Photo URL    : https://www.flickr.com/photos/mpfl/5286983535/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 12 10:26:36 GMT+0100 2010
+Upload Date  : Fri Dec 24 08:21:40 GMT+0100 2010
+Views        : 1,311
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Panthera leo senegalensis
+
+
++--------+
+|  TAGS  |
++--------+
+life lion nature 

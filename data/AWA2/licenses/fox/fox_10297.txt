@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gavin_shen
+Photo URL    : https://www.flickr.com/photos/abnershen/9840265544/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 20 15:45:49 GMT+0200 2013
+Upload Date  : Fri Sep 20 19:56:22 GMT+0200 2013
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+shanghai
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nystromedit
+Photo URL    : https://www.flickr.com/photos/100033012@N06/9676170288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 4 14:38:09 GMT+0200 2013
+Upload Date  : Wed Sep 4 23:40:28 GMT+0200 2013
+Views        : 363
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback_Whale_underwater_shot
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Credit: NOAA
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

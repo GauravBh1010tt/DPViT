@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : poplinre
+Photo URL    : https://www.flickr.com/photos/poplinre/613212432/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 13 13:04:11 GMT+0200 2007
+Upload Date  : Sun Jun 24 19:07:12 GMT+0200 2007
+Geotag Info  : Latitude:40.155347, Longitude:-83.122381
+Views        : 552
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard (Panthera pardus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animalia Mammalia Columbus "Canon EF 200mm f/2.8L USM" Felidae handheld "Panthera pardus" Carnivora zoo 2007 Ohio "Columbus Zoo" leopard Chordata animals Earth Panthera USA "United States of America" 

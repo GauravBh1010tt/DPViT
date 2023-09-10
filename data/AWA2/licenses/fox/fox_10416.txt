@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StephenGilmer
+Photo URL    : https://www.flickr.com/photos/stephengilmer/1317365117/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 3 14:21:14 GMT+0200 2007
+Upload Date  : Tue Sep 4 06:45:25 GMT+0200 2007
+Geotag Info  : Latitude:41.882901, Longitude:-87.622919
+Views        : 95
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Little brown fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Wild Animal Pictures 

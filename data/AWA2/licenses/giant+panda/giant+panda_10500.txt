@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Madeleine_H
+Photo URL    : https://www.flickr.com/photos/madeleine_h/10949386445/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 8 23:55:02 GMT+0200 2013
+Upload Date  : Tue Nov 19 20:36:03 GMT+0100 2013
+Geotag Info  : Latitude:32.735053, Longitude:-117.150306
+Views        : 1,396
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda - San Diego Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+California LX7 "North America" panda RTW "San Diego" USA 

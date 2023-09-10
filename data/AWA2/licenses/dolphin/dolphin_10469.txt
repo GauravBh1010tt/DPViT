@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lukasbenc
+Photo URL    : https://www.flickr.com/photos/lukasbenc/4140563606/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 22 13:10:57 GMT+0200 2009
+Upload Date  : Sat Nov 28 10:17:40 GMT+0100 2009
+Geotag Info  : Latitude:-35.037937, Longitude:150.673112
+Views        : 119
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphins "jervis bay" shoalhaven australia "my faves" 

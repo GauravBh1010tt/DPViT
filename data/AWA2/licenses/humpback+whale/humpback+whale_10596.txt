@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : clr_flickr
+Photo URL    : https://www.flickr.com/photos/clr-photos/3828476703/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 2 18:34:50 GMT+0200 2009
+Upload Date  : Mon Aug 17 06:51:28 GMT+0200 2009
+Geotag Info  : Latitude:-18.716089, Longitude:-174.128665
+Views        : 130
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6411
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback Whale showing off
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

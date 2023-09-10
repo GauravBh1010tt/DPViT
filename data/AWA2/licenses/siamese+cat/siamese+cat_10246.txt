@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vonguard
+Photo URL    : https://www.flickr.com/photos/vonguard/2584772149/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 29 09:26:56 GMT+0200 2008
+Upload Date  : Tue Jun 17 00:20:48 GMT+0200 2008
+Views        : 178
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Butter Red
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+oakland butter kitty cat red siamese 

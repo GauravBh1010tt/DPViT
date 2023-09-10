@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/7694153288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 14:07:41 GMT+0200 2012
+Upload Date  : Thu Aug 2 02:25:15 GMT+0200 2012
+Geotag Info  : Latitude:33.096575, Longitude:-116.999502
+Views        : 277
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern White Rhino (Ceratotherium simum simum) hanging out with a Cape Buffalo (Syncerus caffer)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photographed at the San Diego Zoo Safari Park in Escondido, CA
+
+
++--------+
+|  TAGS  |
++--------+
+white rhino rhinoceros ungulate ruminate animal mammal bovine buffalo "cape buffalo" "Ceratotherium simum simum" "Syncerus caffer" 

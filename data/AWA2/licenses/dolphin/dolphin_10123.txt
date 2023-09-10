@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DRSPIEGEL14
+Photo URL    : https://www.flickr.com/photos/drspiegel14/2870346371/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 7 15:04:10 GMT+0200 2005
+Upload Date  : Fri Sep 19 22:16:06 GMT+0200 2008
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC01104
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

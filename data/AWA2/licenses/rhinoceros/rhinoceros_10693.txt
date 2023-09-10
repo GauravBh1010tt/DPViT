@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : styeb
+Photo URL    : https://www.flickr.com/photos/styeb/5347591716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 9 15:16:19 GMT+0100 2011
+Upload Date  : Tue Jan 11 23:50:54 GMT+0100 2011
+Geotag Info  : Latitude:43.641159, Longitude:3.876731
+Views        : 202
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo de Lunaret - Rhinoceros - P1600266
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo lunaret montpellier 

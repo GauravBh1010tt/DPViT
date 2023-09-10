@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MatHampson
+Photo URL    : https://www.flickr.com/photos/mathampson/3966206353/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 31 08:10:50 GMT+0200 2009
+Upload Date  : Tue Sep 29 21:26:08 GMT+0200 2009
+Views        : 2,133
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+panda bamboo eating 

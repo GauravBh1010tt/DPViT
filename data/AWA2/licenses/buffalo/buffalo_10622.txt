@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sedoglia
+Photo URL    : https://www.flickr.com/photos/sedoglia/1240203746/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 15 14:56:56 GMT+0200 2007
+Upload Date  : Sun Aug 26 14:25:23 GMT+0200 2007
+Views        : 5,539
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+European Bisons, Highland Wildlife Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Wisent or European Bison (Bison bonasus)  is a bison species and the heaviest land animal in Europe. A typical wisent is about 2.9 m long and 1.8–2 m tall, and weighs 300 to 920 kg.
+
+( <a href="http://en.wikipedia.org/wiki/European_Bison" rel="nofollow">en.wikipedia.org/wiki/European_Bison</a> )
+( <a href="http://en.wikipedia.org/wiki/Highland_Wildlife_Park" rel="nofollow">en.wikipedia.org/wiki/Highland_Wildlife_Park</a> )
+
+
++--------+
+|  TAGS  |
++--------+
+"Highland Wildlife Park" Wisent "European Bison" Bison Bisons Highland Scotland Bisonte Bisonti 

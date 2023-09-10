@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mostly Dans
+Photo URL    : https://www.flickr.com/photos/dannyboymalinga/4707511734/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 16 10:46:09 GMT+0200 2010
+Upload Date  : Wed Jun 16 23:36:31 GMT+0200 2010
+Geotag Info  : Latitude:51.863400, Longitude:0.835604
+Views        : 1,149
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This 3 year old male, Bailey replaces Subu who sadly died earlier this year.
+
+
++--------+
+|  TAGS  |
++--------+
+lion colchester zoo 

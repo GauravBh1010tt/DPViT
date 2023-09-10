@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : poodle_tastic
+Photo URL    : https://www.flickr.com/photos/poodle_tastic/5490769380/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 26 10:18:12 GMT+0100 2011
+Upload Date  : Wed Mar 2 03:20:36 GMT+0100 2011
+Views        : 579
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A German Shepherd (the same one that competed for Best Of Group.
+
+Rahkantra Enchantment &quot;Xena&quot; (Bitch)
+
+Bred by: Candyce Orchard
+Owned by: Candyce Orchard
+Handled by: Keith Orchard
+
+
++--------+
+|  TAGS  |
++--------+
+GermanShepherd AshburtonKennelAssociationChampionshipShow2011 WorkingGroupAshburtonKennelAssociationChampionshipShow2011 

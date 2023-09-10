@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gregory "Slobirdr" Smith
+Photo URL    : https://www.flickr.com/photos/slobirdr/14600165004/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 7 17:42:31 GMT+0200 2014
+Upload Date  : Tue Jul 8 07:08:12 GMT+0200 2014
+Geotag Info  : Latitude:35.309241, Longitude:-121.025047
+Views        : 2,518
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale (Megaptera novaeangliae)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A fun, late afternoon ride on the Dos Osos took us through the flock of Sooty Shearwaters Mike Baird (thank you for the mail alert Mike!) wrote about.  That was on the way to watching the whales do at least thirty breaches (one that came up about ten metres from the boat) fifty tail slaps and innumerable pectoral waves.  Captain Kevin did a great job of finding the whales and putting what little dune there was at our backs...
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

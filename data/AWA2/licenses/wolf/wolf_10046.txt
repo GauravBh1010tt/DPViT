@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pne
+Photo URL    : https://www.flickr.com/photos/pne/5657958094/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 25 10:40:31 GMT+0200 2011
+Upload Date  : Tue Apr 26 16:49:15 GMT+0200 2011
+Geotag Info  : Latitude:53.443899, Longitude:9.887051
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+100_6444
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wolf 

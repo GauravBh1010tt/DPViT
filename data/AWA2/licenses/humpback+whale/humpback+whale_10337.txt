@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Moosealope
+Photo URL    : https://www.flickr.com/photos/8510057@N02/5400292954/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 19 20:10:26 GMT+0100 2005
+Upload Date  : Sun Jan 30 06:26:42 GMT+0100 2011
+Geotag Info  : Latitude:20.581367, Longitude:-105.341720
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Humpback Whale Puerto Vallarta Mexico 

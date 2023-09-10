@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : katalog
+Photo URL    : https://www.flickr.com/photos/12306261@N04/3811752307/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 4 18:05:29 GMT+0200 2008
+Upload Date  : Tue Aug 11 21:21:04 GMT+0200 2009
+Views        : 2,662
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dolphin 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mallory1@sbcglobal.net
+Photo URL    : https://www.flickr.com/photos/malleycat/235695288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 25 03:00:17 GMT+0100 2006
+Upload Date  : Wed Sep 6 07:21:44 GMT+0200 2006
+Views        : 154
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

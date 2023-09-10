@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Emilio_13
+Photo URL    : https://www.flickr.com/photos/emil_kabanov/16512273946/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 25 13:37:19 GMT+0200 2014
+Upload Date  : Sun Feb 15 16:14:52 GMT+0100 2015
+Views        : 169
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wolfs dogs 

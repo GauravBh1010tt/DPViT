@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : laughingface2
+Photo URL    : https://www.flickr.com/photos/laughingface/831097596/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 15:39:14 GMT+0200 2007
+Upload Date  : Mon Jul 16 22:23:39 GMT+0200 2007
+Geotag Info  : Latitude:8.784823, Longitude:-82.660961
+Views        : 467
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Banjo at 6 months
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Our rapidly growing dalmatian.  He looks like the held him by the tail and dipped him in the ink.
+
+
++--------+
+|  TAGS  |
++--------+
+dog dalmatian pet 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DeaShoot
+Photo URL    : https://www.flickr.com/photos/dea_shoot/10392810435/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 31 17:56:05 GMT+0200 2013
+Upload Date  : Mon Oct 21 02:46:01 GMT+0200 2013
+Views        : 263
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey in Tortuguero
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tortuguero National Park Costa Rica Wildlife river tour Evergreen Lodge 

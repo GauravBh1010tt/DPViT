@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : panza_rayada
+Photo URL    : https://www.flickr.com/photos/69109033@N04/24222019685/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 17 15:11:26 GMT+0100 2015
+Upload Date  : Thu Jan 7 04:06:55 GMT+0100 2016
+Geotag Info  : Latitude:16.255816, Longitude:-90.861911
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mono araña centroamericano
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Centro Ecoturístico Las Guacamayas" "Ejido Reforma Agraria" Chiapas México Mexico "Mono araña centroamericano" "Ateles geoffroyi" "Black-handed Spider Monkey" 

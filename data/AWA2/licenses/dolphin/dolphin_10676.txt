@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Inmediahk
+Photo URL    : https://www.flickr.com/photos/inmediahk/8594802796/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 20 11:53:17 GMT+0100 2012
+Upload Date  : Wed Mar 27 07:41:27 GMT+0100 2013
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kyoto_0357
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

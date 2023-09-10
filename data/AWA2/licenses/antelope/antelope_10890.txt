@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Crazy Creatures
+Photo URL    : https://www.flickr.com/photos/47456200@N04/4422514396/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 5 11:09:05 GMT+0200 2008
+Upload Date  : Wed Mar 10 14:26:37 GMT+0100 2010
+Views        : 688
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Springbok
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Springboks are the national animal of South Africa. There used to be millions of them but hunting by humans, and interruptions to their migration routes (Fences, roads, etc) have severely reduced their numbers to around 250,000.
+Springbok have a bizarre flap on their back, which they raise when they stot or pronk, and is related to the release of a strong scent. Researchers are unsure of it's exact use, but it is thought to used to compete with other males and to help fend off predators.
+
+Find out about many different animals at <a href="http://www.crazycreatures.org" rel="nofollow">www.crazycreatures.org</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Springbok Namibia Antidorcas "Antidorcas marsupialis" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karen's Cats
+Photo URL    : https://www.flickr.com/photos/karens4sharing/7170388424/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 25 10:45:23 GMT+0200 2012
+Upload Date  : Thu May 10 14:22:45 GMT+0200 2012
+Views        : 315
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pixie and Petal (6 months)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+iPhone Pixie Petal kittens siamese sisters cats cute "Pixie and Petal" 

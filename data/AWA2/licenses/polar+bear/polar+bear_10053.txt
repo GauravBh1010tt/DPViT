@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dancing_triss
+Photo URL    : https://www.flickr.com/photos/dancing_triss/3392159435/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 28 12:24:34 GMT+0100 2009
+Upload Date  : Sat Mar 28 19:05:05 GMT+0100 2009
+Geotag Info  : Latitude:50.116821, Longitude:14.408483
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2009_03_28_033
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

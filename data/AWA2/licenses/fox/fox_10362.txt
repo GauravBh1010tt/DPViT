@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mpeirce
+Photo URL    : https://www.flickr.com/photos/michaelpeirce/4788448986/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 4 19:45:34 GMT+0200 2010
+Upload Date  : Tue Jul 13 01:18:40 GMT+0200 2010
+Geotag Info  : Latitude:36.237168, Longitude:-75.776052
+Views        : 746
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gray Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen behind the beach house we sayed at last week between Corolla and Duck, North Carolina (northern outer banks). There were two adults and a small kit that we saw several times.
+
+
++--------+
+|  TAGS  |
++--------+
+fox obx outerbanks 

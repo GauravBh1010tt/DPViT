@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chasingwildlife
+Photo URL    : https://www.flickr.com/photos/chasingwildlife/22854018160/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 19 16:05:40 GMT+0100 2005
+Upload Date  : Fri Nov 20 17:41:36 GMT+0100 2015
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider_Monkeys_Santa_Rosa,_Bolivia_(2_of_8).jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus digital camera
+
+
++--------+
+|  TAGS  |
++--------+
+Amazon Bolivia Monkeys Olympus Rosa Santa Wildlife jungle monkey riverside squirrel 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rich Pianka
+Photo URL    : https://www.flickr.com/photos/rpianka/2501801997/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 11 18:10:38 GMT+0200 2008
+Upload Date  : Sun May 18 18:53:41 GMT+0200 2008
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+SeaWorld dolphin 

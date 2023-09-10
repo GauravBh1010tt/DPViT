@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/6815551144/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 2 00:23:35 GMT+0100 2012
+Upload Date  : Wed Mar 7 14:57:36 GMT+0100 2012
+Views        : 2,053
+Comments     : 40
+
+
++---------+
+|  TITLE  |
++---------+
+Miss Truffles
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Truffie said it was her turn for some &quot;face time&quot; :)
+Happy Whisker Wednesday !
+
+
++--------+
+|  TAGS  |
++--------+
+cat "Miss Truffles" siamese "Blue eyes" Whiskers HWW 

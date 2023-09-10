@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wolfsavard
+Photo URL    : https://www.flickr.com/photos/wolfsavard/4877685263/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 9 16:55:36 GMT+0200 2010
+Upload Date  : Tue Aug 10 06:15:36 GMT+0200 2010
+Geotag Info  : Latitude:41.783377, Longitude:-72.234506
+Views        : 1,005
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+fifty-four/three-sixty-five
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+365 "german shepherd" yancy 

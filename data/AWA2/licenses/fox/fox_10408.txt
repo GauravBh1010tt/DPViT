@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Cathrae
+Photo URL    : https://www.flickr.com/photos/suckamc/4602890782/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 12 08:12:50 GMT+0200 2010
+Upload Date  : Thu May 13 03:11:45 GMT+0200 2010
+Geotag Info  : Latitude:46.248160, Longitude:-63.130145
+Views        : 2,398
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Itchy Baby Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The foxes sure do itch a lot... fleas maybe?
+
+
++--------+
+|  TAGS  |
++--------+
+itching fox baby kit cute charlottetown pei canada 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Kilpatrick
+Photo URL    : https://www.flickr.com/photos/rkilpatrick21/16889385339/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 1 19:05:33 GMT+0200 2015
+Upload Date  : Wed Apr 8 11:07:03 GMT+0200 2015
+Views        : 164
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Mashatu safari Botswana wildlife Africa "Africa safari" leopard 

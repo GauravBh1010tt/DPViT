@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RuthArt
+Photo URL    : https://www.flickr.com/photos/ruthart/3651577922/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 22 11:47:13 GMT+0200 2009
+Upload Date  : Mon Jun 22 20:47:13 GMT+0200 2009
+Views        : 1,615
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Wiena4 - RuthArt
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+she actually looks quite mellow here!!
+PNG transparent background, free to use in your art.
+
+
++--------+
+|  TAGS  |
++--------+
+RuthArt PNG "transparent background" Snips Tubes "German Shepherd" puppy Wiena 

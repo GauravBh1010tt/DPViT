@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jamiriquai
+Photo URL    : https://www.flickr.com/photos/jmr/3655814205/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 03:19:53 GMT+0200 2009
+Upload Date  : Wed Jun 24 08:50:50 GMT+0200 2009
+Views        : 1,292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego Zoo" panda 

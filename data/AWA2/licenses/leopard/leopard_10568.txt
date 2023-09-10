@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lilyfan
+Photo URL    : https://www.flickr.com/photos/lilyfan/3853886633/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 8 16:01:41 GMT+0200 2006
+Upload Date  : Tue Aug 25 03:52:06 GMT+0200 2009
+Geotag Info  : Latitude:34.692509, Longitude:135.190200
+Views        : 1,129
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard (side)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Picture of a snow leopard at Kobe Oji zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Leopard SnowLeopard Kobe OjiZoo ユキヒョウ 雪豹 王子動物園 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : down@earth
+Photo URL    : https://www.flickr.com/photos/downearth/14975099621/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 13 16:04:39 GMT+0200 2011
+Upload Date  : Wed Aug 20 11:43:06 GMT+0200 2014
+Views        : 2,587
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion yellow animal 

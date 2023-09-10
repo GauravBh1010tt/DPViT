@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mangrove Mike
+Photo URL    : https://www.flickr.com/photos/8632225@N08/2072827728/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 28 17:54:24 GMT+0100 2007
+Upload Date  : Thu Nov 29 02:54:24 GMT+0100 2007
+Geotag Info  : Latitude:17.224676, Longitude:-89.619426
+Views        : 436
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Aeffchen
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spider monkey with its young in tree canopy at Tikal, Guatemala.
+
+
++--------+
+|  TAGS  |
++--------+
+spidermonkey monkey tikal rainforest canopy 

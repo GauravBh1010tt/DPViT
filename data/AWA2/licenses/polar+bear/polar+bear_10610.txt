@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pretendtious
+Photo URL    : https://www.flickr.com/photos/27273053@N05/6388456743/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 23 15:45:24 GMT+0200 2011
+Upload Date  : Wed Nov 23 12:07:02 GMT+0100 2011
+Views        : 2,749
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photos taken at the <a href="http://www.clemetzoo.com/index.asp" rel="nofollow">Cleveland Metroparks Zoo</a>, Sunday, October 23, 2011. This was the first day of our trip.
+
+
++--------+
+|  TAGS  |
++--------+
+"Cleveland Metroparks Zoo" animals "polar bear" 

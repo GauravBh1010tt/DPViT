@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sarowen
+Photo URL    : https://www.flickr.com/photos/sarowen/16774167279/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 2 12:52:03 GMT+0200 2013
+Upload Date  : Sun Mar 29 01:14:25 GMT+0100 2015
+Views        : 357
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spinner Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kailua-Kona, Hawaii
+The Big Island
+
+
++--------+
+|  TAGS  |
++--------+
+Hawaii "Hawaii Island" "The Big Island" dolphin dolphins "spinner dolphin" "spinner dolphins" spinner water ocean 

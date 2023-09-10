@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Headquarters
+Photo URL    : https://www.flickr.com/photos/usfwshq/6709465663/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 16 13:49:19 GMT+0100 2012
+Upload Date  : Mon Jan 16 19:49:19 GMT+0100 2012
+Views        : 961
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+red fox hunting, scene 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sunkhaze Meadows National Wildlife Refuge, ME
+January 3, 2012
+Photo courtesy of Dave Small, Friends of Sunkhaze Meadows National Wildlife Refuge
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

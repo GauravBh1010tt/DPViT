@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Williss
+Photo URL    : https://www.flickr.com/photos/dwilliss/7730193260/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 6 19:37:52 GMT+0200 2012
+Upload Date  : Tue Aug 7 04:54:28 GMT+0200 2012
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

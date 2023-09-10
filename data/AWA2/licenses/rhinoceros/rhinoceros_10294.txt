@@ -1,0 +1,42 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BenSanborn
+Photo URL    : https://www.flickr.com/photos/bensanborn/6145582414/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 10 17:37:26 GMT+0200 2011
+Upload Date  : Wed Sep 14 01:01:04 GMT+0200 2011
+Geotag Info  : Latitude:39.852565, Longitude:-81.729354
+Views        : 602
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+My Armor Plated Friend
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I was not far from this little guy. 
+
+True Fact: Rhino skin feels like tree bark.
+True Fact 2: Yes, I felt one.
+
+Photo taken at The Wilds in Cumberland, OH.
+Camera: Canon T1i
+Lens: 55-250 f/4.0-5.6
+
+
++--------+
+|  TAGS  |
++--------+
+"The Wilds" Rhino Armor Nature Realism rhinoceros 

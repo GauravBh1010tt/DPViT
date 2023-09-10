@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ~ezs
+Photo URL    : https://www.flickr.com/photos/missizss/3254666753/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 4 19:05:04 GMT+0100 2009
+Upload Date  : Thu Feb 5 10:57:28 GMT+0100 2009
+Views        : 1,596
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+boxer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+my cute lil rabbit
+
+
++--------+
+|  TAGS  |
++--------+
+missizss beauty angle creativity angola rabbit bunny brownish greyish whitish "Sony Cyber-shot T2" 

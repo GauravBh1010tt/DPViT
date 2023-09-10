@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WEAZ 73
+Photo URL    : https://www.flickr.com/photos/weaz73/4542555953/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 22 16:23:16 GMT+0200 2010
+Upload Date  : Thu Apr 22 13:24:53 GMT+0200 2010
+Views        : 62
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+P1030883
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"taronga zoo" lion "WEAZ 73" 

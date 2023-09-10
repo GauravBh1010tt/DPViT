@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : freestock-by-melissasundman
+Photo URL    : https://www.flickr.com/photos/105677693@N05/10327320183/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 16 14:09:01 GMT+0200 2013
+Upload Date  : Thu Oct 17 14:25:30 GMT+0200 2013
+Views        : 668
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Keelah [Freestock, read description]
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My dog.You can use the picture and edit it if you want, but &quot;MSPhotography&quot; needs to stay visible in the picture.
+
+
++--------+
+|  TAGS  |
++--------+
+keelah german shepherd alaskan husky leaves 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregTheBusker
+Photo URL    : https://www.flickr.com/photos/gregthebusker/5890394636/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 23 08:48:11 GMT+0200 2011
+Upload Date  : Fri Jul 1 09:46:10 GMT+0200 2011
+Geotag Info  : Latitude:37.590346, Longitude:-122.323107
+Views        : 680
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Skunks
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+California June 2011 skunk coyote point 

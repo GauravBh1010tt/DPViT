@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : allanmaxfield
+Photo URL    : https://www.flickr.com/photos/115894386@N05/12218137503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 18 16:10:53 GMT+0200 2013
+Upload Date  : Thu Jan 30 10:02:54 GMT+0100 2014
+Views        : 795
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hunger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbit Grass White 

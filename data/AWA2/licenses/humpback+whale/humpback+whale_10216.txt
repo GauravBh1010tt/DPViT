@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JRWhitaker1
+Photo URL    : https://www.flickr.com/photos/jrwhitaker_photos/8056767118/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 12 10:51:48 GMT+0200 2012
+Upload Date  : Fri Oct 5 17:08:40 GMT+0200 2012
+Views        : 537
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale calf (Megaptera novaeangliae)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photographed on the Bay of Fundy near Brier Island, Nova Scotia
+
+
++--------+
+|  TAGS  |
++--------+
+"Humpback whale" "Nova Scotia" "Bay of Fundy" Canada calf whale "marine mammal" "taxonomy:binomial:Megatera noveeangliae" cetacean 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lwtt93
+Photo URL    : https://www.flickr.com/photos/37195641@N03/4386320588/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 8 04:49:06 GMT+0100 2010
+Upload Date  : Thu Feb 25 01:54:00 GMT+0100 2010
+Views        : 188
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+KAIKOURA
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

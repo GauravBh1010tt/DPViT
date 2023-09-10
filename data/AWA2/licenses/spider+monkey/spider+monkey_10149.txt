@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sub_lime79
+Photo URL    : https://www.flickr.com/photos/mistybushell/2412269278/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 12 16:41:23 GMT+0200 2008
+Upload Date  : Mon Apr 14 03:13:56 GMT+0200 2008
+Views        : 1,131
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey and the sky
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken wih a Sigma 70-200mm f2.8 lens.
+
+Best viewed <a href="http://www.flickr.com/photos/mistybushell/2412269278/sizes/l/">large</a>
+
+
++--------+
+|  TAGS  |
++--------+
+leaf primate spidermonkey zoo taronga d40 sydney blue sigma70-200 monkey 

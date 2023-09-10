@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/3765705678/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 25 17:20:04 GMT+0200 2009
+Upload Date  : Tue Jul 28 14:51:07 GMT+0200 2009
+Geotag Info  : Latitude:52.304096, Longitude:0.638778
+Views        : 1,303
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lackford Lakes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bunny Rabbit
+
+
++--------+
+|  TAGS  |
++--------+
+Suffolk Nature "Suffolk Wildlife Trust" "Lackford Lakes" iPhoto "Nikon D90" "Bunny Rabbit" Photojournalism Lackford "70.0-300.0 mm f/4.5-5.6" 

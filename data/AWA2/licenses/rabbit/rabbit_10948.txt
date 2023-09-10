@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richardjo53
+Photo URL    : https://www.flickr.com/photos/richardjo53/2084409437/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 14 07:53:50 GMT+0100 2007
+Upload Date  : Mon Dec 3 23:33:12 GMT+0100 2007
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snowy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Canon Eos 400D 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dingopup
+Photo URL    : https://www.flickr.com/photos/dingopup/4820015435/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 22 15:07:33 GMT+0200 2010
+Upload Date  : Fri Jul 23 09:40:03 GMT+0200 2010
+Views        : 12,649
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard Cubs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two month old snow leopard cubs at the Cat Survival Trust in Welwyn, Hertfordshire, UK.
+
+
++--------+
+|  TAGS  |
++--------+
+snow leopard cubs cats welwyn uk cat panthera uncia 

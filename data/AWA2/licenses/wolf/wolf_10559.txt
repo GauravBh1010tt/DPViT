@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : captain.orange
+Photo URL    : https://www.flickr.com/photos/10527553@N03/4124943394/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 25 15:53:02 GMT+0100 2009
+Upload Date  : Sun Nov 22 15:33:22 GMT+0100 2009
+Geotag Info  : Latitude:48.540408, Longitude:16.346980
+Views        : 216
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Wölfe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Austria Niederösterreich Österreich "Pentax K20D" Wölfe wolves 

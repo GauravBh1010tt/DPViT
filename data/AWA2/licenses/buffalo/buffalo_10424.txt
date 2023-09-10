@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edenpictures
+Photo URL    : https://www.flickr.com/photos/edenpictures/8713062834/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 5 04:09:37 GMT+0200 2013
+Upload Date  : Mon May 6 05:55:03 GMT+0200 2013
+Views        : 321
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Queens Zoo" "Flushing Meadows Corona Park" Queens "New York City" zoo park NYC May spring 

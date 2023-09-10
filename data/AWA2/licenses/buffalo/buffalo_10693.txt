@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NAParish
+Photo URL    : https://www.flickr.com/photos/naparish/5504253440/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 23 00:11:12 GMT+0100 2011
+Upload Date  : Sun Mar 6 23:50:44 GMT+0100 2011
+Views        : 394
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8028
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone "Winter in Wonderland" thermal geothermal bison winter Wyoming "Yellowstone Association" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : La Priz
+Photo URL    : https://www.flickr.com/photos/sujuhyte/6804822768/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 19 07:00:43 GMT+0100 2012
+Upload Date  : Sun Mar 4 04:47:20 GMT+0100 2012
+Geotag Info  : Latitude:30.670000, Longitude:104.071022
+Views        : 4,292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young Panda in Chengdu Panda Base
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chengdu "chengdu china" "west china" sichuan panda "giant panda" "giant panda chengdu" "chengdu panda" "pandas china" "panda china" pandas "giant panda china" "chinese panda" "chinese pandas" "panda bamboo" "Priscilla Dorresteijn" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mostly Dans
+Photo URL    : https://www.flickr.com/photos/dannyboymalinga/4575206119/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 3 17:22:01 GMT+0200 2010
+Upload Date  : Mon May 3 20:45:08 GMT+0200 2010
+Geotag Info  : Latitude:51.560170, Longitude:0.708017
+Views        : 1,077
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+young fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+we fed this one some bread to encourage it to pose.
+
+
++--------+
+|  TAGS  |
++--------+
+fox animal mammal wildlfe urban 

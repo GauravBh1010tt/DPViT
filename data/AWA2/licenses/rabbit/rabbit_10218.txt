@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ShaLynn
+Photo URL    : https://www.flickr.com/photos/shalynn/2513957183/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 17 12:15:21 GMT+0200 2008
+Upload Date  : Thu May 22 22:38:45 GMT+0200 2008
+Geotag Info  : Latitude:45.410502, Longitude:-92.644615
+Views        : 813
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal 

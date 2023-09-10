@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sebastien.faillon
+Photo URL    : https://www.flickr.com/photos/128090976@N08/15745734460/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 13:04:59 GMT+0200 2014
+Upload Date  : Tue Dec 2 21:44:59 GMT+0100 2014
+Geotag Info  : Latitude:43.625576, Longitude:5.207090
+Views        : 323
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinocéros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Parc Zoo Animaux Animaliers Nature Provence Rhinocéros Rhino 

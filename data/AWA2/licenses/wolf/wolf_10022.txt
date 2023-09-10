@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/14786228230/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 6 12:45:32 GMT+0200 2014
+Upload Date  : Tue Aug 19 22:00:06 GMT+0200 2014
+Geotag Info  : Latitude:53.357108, Longitude:-6.305980
+Views        : 6,148
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Timberwolf before the big log
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This timberwolf knew how to pose!
+
+
++--------+
+|  TAGS  |
++--------+
+standing posing grass log wood portrait wolf timberwolf canine canid dog dublin zoo ireland nikon d4 

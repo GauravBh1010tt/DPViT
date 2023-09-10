@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chuckas_McFly
+Photo URL    : https://www.flickr.com/photos/64751998@N08/6942034872/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 1 00:00:00 GMT+0200 2011
+Upload Date  : Tue Apr 17 20:49:48 GMT+0200 2012
+Geotag Info  : Latitude:43.614833, Longitude:7.123166
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Marineland_039
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Antibes Marineland" 

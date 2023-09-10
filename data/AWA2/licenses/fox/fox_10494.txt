@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steveslater195
+Photo URL    : https://www.flickr.com/photos/leopardsteve/17074789272/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 19 15:57:26 GMT+0200 2013
+Upload Date  : Wed Apr 8 12:16:35 GMT+0200 2015
+Views        : 270
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox close up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Red Fox close up
+
+
++--------+
+|  TAGS  |
++--------+
+Fox "close up" "european mammals" garden "red fox" "urban fox" wildlife 

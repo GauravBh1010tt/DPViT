@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hen_son
+Photo URL    : https://www.flickr.com/photos/henson/4122445607/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 21 10:10:47 GMT+0100 2009
+Upload Date  : Sat Nov 21 23:11:18 GMT+0100 2009
+Views        : 38
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal lion 

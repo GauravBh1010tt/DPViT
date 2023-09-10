@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeffgunn
+Photo URL    : https://www.flickr.com/photos/jeffgunn/5406203196/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 30 03:02:21 GMT+0100 2011
+Upload Date  : Tue Feb 1 00:51:19 GMT+0100 2011
+Geotag Info  : Latitude:33.666925, Longitude:-84.118709
+Views        : 492
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Arabia Mountain
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+State Park - January
+
+
++--------+
+|  TAGS  |
++--------+
+2011 Nature georgia Aayla "arabia mountain" "state park" lithonia granite winter "german shepherd" 

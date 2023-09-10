@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/9710950748/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 9 11:07:22 GMT+0200 2013
+Upload Date  : Mon Sep 9 16:20:31 GMT+0200 2013
+Geotag Info  : Latitude:51.562091, Longitude:0.026350
+Views        : 919
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Where's that puppy?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bessy dog "German Shepherd" GSD Maxx "Wanstead Flats" 

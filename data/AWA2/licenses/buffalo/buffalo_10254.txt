@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : U.S. Fish and Wildlife Service - Midwest Region
+Photo URL    : https://www.flickr.com/photos/usfwsmidwest/4514382365/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 12 10:15:59 GMT+0200 2010
+Upload Date  : Mon Apr 12 17:15:59 GMT+0200 2010
+Views        : 2,888
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bison roam the fields at Neal Smith National Wildlife Refuge by Richard C. Hager
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2nd place in the 2009 photo contest for the Animals category. USFWS photo by Richard C. Hager.
+
+This photo was the winner of the People's Choice award for it's category.
+
+
++--------+
+|  TAGS  |
++--------+
+Bison USFWS "U.S. Fish and Wildlife Service" FWS Iowa IA Midwest "National Wildlife Refuge" "Neal Smith" NWR Refuge "Creative Commons" 

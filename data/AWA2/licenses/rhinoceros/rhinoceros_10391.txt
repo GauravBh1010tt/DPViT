@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hobgadlng
+Photo URL    : https://www.flickr.com/photos/hobgadlng/7668920220/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 30 12:51:38 GMT+0200 2012
+Upload Date  : Sun Jul 29 16:51:25 GMT+0200 2012
+Geotag Info  : Latitude:-19.267396, Longitude:16.677417
+Views        : 176
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Namibia animal Etosha rhino rhinoceros 

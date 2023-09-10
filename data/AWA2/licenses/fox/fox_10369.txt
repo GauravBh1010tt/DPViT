@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : regexman
+Photo URL    : https://www.flickr.com/photos/regexman/23985680232/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 27 13:55:09 GMT+0100 2015
+Upload Date  : Fri Jan 1 01:16:41 GMT+0100 2016
+Geotag Info  : Latitude:37.440586, Longitude:-122.110428
+Views        : 87
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gray Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

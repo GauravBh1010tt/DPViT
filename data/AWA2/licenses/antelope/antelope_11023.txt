@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HBarrison
+Photo URL    : https://www.flickr.com/photos/hbarrison/7557828010/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 07:00:44 GMT+0200 2012
+Upload Date  : Thu Jul 12 22:08:01 GMT+0200 2012
+Geotag Info  : Latitude:-2.345841, Longitude:34.265441
+Views        : 659
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Western Serengeti_2012 06 03_3630
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Impala (Aepyceros melampus) is a medium-sized African antelope
+
+
++--------+
+|  TAGS  |
++--------+
+Africa HBarrison "Harvey Barrison" Tauck Serengeti Tanzania "Serengeti National Park" Impala Taxonomy:binomial=Aepyceros melampus 

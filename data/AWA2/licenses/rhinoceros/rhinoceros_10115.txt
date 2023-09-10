@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roberto Verzo
+Photo URL    : https://www.flickr.com/photos/verzo/2968767163/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 7 14:46:03 GMT+0200 2008
+Upload Date  : Fri Oct 24 16:57:23 GMT+0200 2008
+Views        : 299
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Asiatisches Panzernashorn (Rhinoceros unicornis)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Panzernashorn in seiner 6000m² großen Freianlage des Tiergartens Schönbrunn.
+
+
++--------+
+|  TAGS  |
++--------+
+rhino rhinoceros "Rhinoceros unicornis" "Indian rhinoceros" Tiergarten "zoological garden" zoo Schönbrunn Schoenbrunn Wien Vienna sightseeing 

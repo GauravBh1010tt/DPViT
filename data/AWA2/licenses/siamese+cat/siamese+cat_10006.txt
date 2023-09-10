@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/4724371661/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 22 00:48:04 GMT+0200 2010
+Upload Date  : Tue Jun 22 19:13:26 GMT+0200 2010
+Views        : 240
+Comments     : 24
+
+
++---------+
+|  TITLE  |
++---------+
+Is there any doubt , whatsoever , who Rules ?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat kitten calico siamese mainecoonmix Stevie Truffles Tugger 

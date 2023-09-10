@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pinti 1
+Photo URL    : https://www.flickr.com/photos/pinti1/9330365282/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 20 11:06:34 GMT+0200 2013
+Upload Date  : Sat Jul 20 21:48:08 GMT+0200 2013
+Geotag Info  : Latitude:52.652481, Longitude:-1.530359
+Views        : 710
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sunbathing!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Twycross Zoo" meerkat fighting play nature animals wildlife penguin owl tortoise "giant tortoise" monkey "spider monkey" orangutang ape elephant 

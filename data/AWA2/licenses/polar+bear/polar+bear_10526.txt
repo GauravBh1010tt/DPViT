@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jessica :]
+Photo URL    : https://www.flickr.com/photos/jessicalovesphotography/445769123/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 31 12:59:52 GMT+0200 2007
+Upload Date  : Wed Apr 4 07:25:04 GMT+0200 2007
+Views        : 434
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+:] hes so adorable.
+
+
++--------+
+|  TAGS  |
++--------+
+SF Zoo animals 

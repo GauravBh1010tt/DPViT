@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AndyRobertsPhotos
+Photo URL    : https://www.flickr.com/photos/aroberts/3972091774/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 1 13:25:56 GMT+0200 2009
+Upload Date  : Thu Oct 1 17:09:42 GMT+0200 2009
+Views        : 14,993
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fox
+
+Fox
+
+
++--------+
+|  TAGS  |
++--------+
+Fox 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Monica_b182
+Photo URL    : https://www.flickr.com/photos/32665540@N05/6219350889/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 19 14:21:50 GMT+0100 2011
+Upload Date  : Fri Oct 7 11:00:09 GMT+0200 2011
+Views        : 860
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1060235
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog german shepherd 

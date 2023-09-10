@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/5435626613/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 17 05:19:25 GMT+0100 2011
+Upload Date  : Fri Feb 11 14:10:03 GMT+0100 2011
+Views        : 5,305
+Comments     : 91
+
+
++---------+
+|  TITLE  |
++---------+
+***  Truffles  ***
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Happy Furry Friday  !
+Texture by Nasos3 : <a href="http://www.flickr.com/photos/nasos3/5345038623/">www.flickr.com/photos/nasos3/5345038623/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Truffles cat siamese "Happy Furry Friday" texture 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SkyWhisperer
+Photo URL    : https://www.flickr.com/photos/skywhisperer/3286651643/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 5 17:03:12 GMT+0100 2009
+Upload Date  : Tue Feb 17 09:37:37 GMT+0100 2009
+Geotag Info  : Latitude:36.112682, Longitude:-115.177756
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sigfried and Roy's Secret Garden
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Las Vegas Trip
+
+
++--------+
+|  TAGS  |
++--------+
+vegas dolphins 

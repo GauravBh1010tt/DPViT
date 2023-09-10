@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/5501948421/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 5 12:07:49 GMT+0100 2011
+Upload Date  : Sun Mar 6 14:43:13 GMT+0100 2011
+Views        : 731
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+'Pickles'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at the British Wildlife Centre, Newchapel, Surrey; 'Pickles', the vixen, distracted by some geese in the distance.
+
+
++--------+
+|  TAGS  |
++--------+
+British Wildlife Centre Newchapel Surrey Fox Vulpes Peter Trimming Sigma 300mm EX DG 

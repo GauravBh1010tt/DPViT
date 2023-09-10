@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : U.S. Fish and Wildlife Service - Midwest Region
+Photo URL    : https://www.flickr.com/photos/usfwsmidwest/11194209193/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 6 16:52:40 GMT+0100 2013
+Upload Date  : Tue Dec 3 20:56:07 GMT+0100 2013
+Views        : 1,394
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison at Dunn Ranch, in a prairie restored by The Nature Conservancy in northwest Missouri. Photo by Rick Hansen/USFWS.
+
+
++--------+
+|  TAGS  |
++--------+
+Bison fall spring prairie wildlife grasses grasslands grassland Landscape Land Lands Landscapes Mammal Mammals Missouri Midwest MO "Creative Commons" USFWS "U.S. Fish and Wildlife Service" 

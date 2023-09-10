@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jerseygal2009
+Photo URL    : https://www.flickr.com/photos/jerseygal2009/6103314784/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 16 18:46:52 GMT+0200 2011
+Upload Date  : Thu Sep 1 16:26:48 GMT+0200 2011
+Geotag Info  : Latitude:58.343064, Longitude:-134.513683
+Views        : 569
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale tail fluke
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska Juneau "whale watching" "Humpback whale" "bubble net feeding" ocean inlet sea sealife whales incredible water splash 

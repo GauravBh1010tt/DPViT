@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/16854959937/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 16:03:57 GMT+0200 2015
+Upload Date  : Tue Apr 7 05:34:28 GMT+0200 2015
+Geotag Info  : Latitude:42.462697, Longitude:-71.093636
+Views        : 1,657
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Arctic Fox Full Coat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo massachusetts arctic fox white fluffy winter coat 

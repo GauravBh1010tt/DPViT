@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DebMomOf3
+Photo URL    : https://www.flickr.com/photos/debmomof3/9649482091/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 31 12:48:04 GMT+0200 2013
+Upload Date  : Mon Sep 2 07:11:59 GMT+0200 2013
+Views        : 264
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ToledoZoo-Aug2013 (11)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+outside zoo Ohio 2013 Toledo "Toledo Zoo" "polar bears" 

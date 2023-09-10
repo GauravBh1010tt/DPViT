@@ -1,0 +1,43 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lip Kee
+Photo URL    : https://www.flickr.com/photos/lipkee/2433538911/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 14 13:20:08 GMT+0200 2008
+Upload Date  : Tue Apr 22 17:34:02 GMT+0200 2008
+Geotag Info  : Latitude:26.673231, Longitude:93.404903
+Views        : 569
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Jungle myna on rhino - a habitat shot?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Great One-horned Rhinoceros or
+Asian One-horned Rhinoceros 
+(Rhinoceros unicornis)
+Kazaringa, Assam, India
+April 14, 2008 
+
+
+
+690V4458
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

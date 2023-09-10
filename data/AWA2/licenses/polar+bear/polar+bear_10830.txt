@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kathrin_mezger
+Photo URL    : https://www.flickr.com/photos/26094756@N04/2728490101/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 3 08:57:02 GMT+0200 2008
+Upload Date  : Sun Aug 3 21:06:21 GMT+0200 2008
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wilbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Wilhelma Zoo Tiere Tiergarten Wilbär Eisbär animal Säugetier mammal polarbear 

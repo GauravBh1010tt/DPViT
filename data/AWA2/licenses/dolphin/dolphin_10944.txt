@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gurana
+Photo URL    : https://www.flickr.com/photos/gurana/2380202116/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 13 09:34:38 GMT+0200 2006
+Upload Date  : Tue Apr 1 14:37:54 GMT+0200 2008
+Geotag Info  : Latitude:20.733238, Longitude:-156.925964
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+wedding album 85
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hawaii honeymoon lanai dolphin 

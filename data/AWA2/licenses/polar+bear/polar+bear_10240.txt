@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kathrin_mezger
+Photo URL    : https://www.flickr.com/photos/26094756@N04/8234879505/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 30 11:06:17 GMT+0200 2011
+Upload Date  : Sat Dec 1 20:40:51 GMT+0100 2012
+Views        : 90
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tierpark Zoo Hellabrunn München Animals Tiere Tiergarten 

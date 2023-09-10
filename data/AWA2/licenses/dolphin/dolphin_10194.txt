@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Román Emin
+Photo URL    : https://www.flickr.com/photos/roman_emin/3840155931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 26 13:57:32 GMT+0200 2009
+Upload Date  : Thu Aug 20 22:36:38 GMT+0200 2009
+Geotag Info  : Latitude:25.727781, Longitude:-80.236405
+Views        : 518
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Delfin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Durante las vacaciones en Miami pudimos disfrutar del show de los delfines en el Miami Seaquarium.
+
+
++--------+
+|  TAGS  |
++--------+
+Animales Delfines EEUU Florida Miami Seaquarium "Top Deck Dolphin Show" "United States" EU "Miami Seaquarium" Dolphins 

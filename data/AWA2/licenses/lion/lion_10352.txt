@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derek Keats
+Photo URL    : https://www.flickr.com/photos/dkeats/3785427365/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 31 15:39:36 GMT+0200 2009
+Upload Date  : Mon Aug 3 21:14:21 GMT+0200 2009
+Views        : 567
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lion cub
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Glen Afric
+
+
++--------+
+|  TAGS  |
++--------+
+"animal planet" 

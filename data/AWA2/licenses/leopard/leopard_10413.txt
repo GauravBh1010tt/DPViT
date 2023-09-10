@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tajkd
+Photo URL    : https://www.flickr.com/photos/tajkd/16429493361/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 27 11:20:34 GMT+0200 2013
+Upload Date  : Tue Feb 3 00:41:23 GMT+0100 2015
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

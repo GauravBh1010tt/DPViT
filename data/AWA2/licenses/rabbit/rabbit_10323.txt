@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fiskfisk
+Photo URL    : https://www.flickr.com/photos/fiskfisk/2673017732/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 14 14:32:34 GMT+0200 2008
+Upload Date  : Wed Jul 16 02:57:33 GMT+0200 2008
+Views        : 1,855
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cute Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals bunny eating "nordens ark" 

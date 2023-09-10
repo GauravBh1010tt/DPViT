@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : www.metaphoricalplatypus.com
+Photo URL    : https://www.flickr.com/photos/29638108@N06/6168575730/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 30 12:52:56 GMT+0200 2010
+Upload Date  : Wed Sep 21 06:51:19 GMT+0200 2011
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+132
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Samsung digital camera
+
+
++--------+
+|  TAGS  |
++--------+
+cat "siamese cat" animals 

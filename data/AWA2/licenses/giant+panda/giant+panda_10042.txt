@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : heschong
+Photo URL    : https://www.flickr.com/photos/heschong/469352814/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 22 08:02:56 GMT+0200 2007
+Upload Date  : Mon Apr 23 05:01:08 GMT+0200 2007
+Views        : 410
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+atlanta zoo vacation 

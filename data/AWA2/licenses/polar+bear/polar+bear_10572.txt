@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : douglaspperkins
+Photo URL    : https://www.flickr.com/photos/douglaspperkins/3802512793/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 3 10:46:54 GMT+0200 2009
+Upload Date  : Sun Aug 9 07:53:17 GMT+0200 2009
+Views        : 768
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polar bear, Asahiyama Zoo, Hokkaido, Japan.
+旭山動物園、北海道、日本。
+
+
++--------+
+|  TAGS  |
++--------+
+Japan Hokkaido Asahiyama zoo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/10001290116/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 15 09:29:40 GMT+0200 2013
+Upload Date  : Sun Sep 29 17:42:38 GMT+0200 2013
+Geotag Info  : Latitude:52.702030, Longitude:10.262775
+Views        : 4,779
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pepe the skunk in the grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is Pepe the skunk. I don't have many skunk pictures, so I'm glad I got this one!
+
+
++--------+
+|  TAGS  |
++--------+
+skunk male black white grass portrait "filmtierpark eschede" park celle germany nikon d4 

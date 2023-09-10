@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : *Muhammad*
+Photo URL    : https://www.flickr.com/photos/etobicokesouth/627112436/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 23 17:28:20 GMT+0200 2007
+Upload Date  : Tue Jun 26 05:12:54 GMT+0200 2007
+Geotag Info  : Latitude:43.460083, Longitude:-80.031924
+Views        : 2,774
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Run Rabbit Run
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mountsberg wildlife animal Center.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit haltonfalls milton farm animal ontario canada "Beautiful Canada" beautiful Canadien Canadian 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Smith2010
+Photo URL    : https://www.flickr.com/photos/lsmith2010/14928704105/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 15 08:59:51 GMT+0200 2014
+Upload Date  : Fri Aug 15 21:08:48 GMT+0200 2014
+Geotag Info  : Latitude:34.717719, Longitude:-98.638834
+Views        : 5,575
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Cottontail Rabbit 1 8-15-14
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wichita Mountains Wildlife Refuge
+SW Oklahoma
+
+
++--------+
+|  TAGS  |
++--------+
+"Wichita Mountains" "Larry Smith" Oklahoma "Cottontail Rabbit" rabbit cottontail "Wichita Mountains Wildlife Refuge" 

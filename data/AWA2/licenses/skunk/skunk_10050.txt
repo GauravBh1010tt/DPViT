@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HAM guy
+Photo URL    : https://www.flickr.com/photos/yodudedan/206206697/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 3 21:10:45 GMT+0200 2006
+Upload Date  : Fri Aug 4 05:37:41 GMT+0200 2006
+Views        : 192
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Little Furry Friend
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On guard.  Am I little too close?
+
+
++--------+
+|  TAGS  |
++--------+
+skunk 

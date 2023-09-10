@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : no1ziggy
+Photo URL    : https://www.flickr.com/photos/ziggyspix/117877944/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 16 13:40:04 GMT+0100 2005
+Upload Date  : Sun Mar 26 03:27:09 GMT+0200 2006
+Views        : 237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+An arrangement of legs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He's quite a contortionist at times...
+
+
++--------+
+|  TAGS  |
++--------+
+siamese cats asleep peace funny comical amusing 

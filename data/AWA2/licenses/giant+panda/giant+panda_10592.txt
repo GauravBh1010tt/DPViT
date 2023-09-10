@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : scjody
+Photo URL    : https://www.flickr.com/photos/scjody/4771024106/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 20 06:40:07 GMT+0200 2010
+Upload Date  : Wed Jul 7 11:42:22 GMT+0200 2010
+Views        : 8,870
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Panda pile!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Guys, do you mind?  I am a panda.
+
+Chengdu, China
+
+
++--------+
+|  TAGS  |
++--------+
+panda Chengdu "giant panda" 

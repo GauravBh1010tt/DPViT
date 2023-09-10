@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NatalieMaynor
+Photo URL    : https://www.flickr.com/photos/nataliemaynor/9609248301/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 20 13:28:35 GMT+0200 2013
+Upload Date  : Wed Aug 28 03:02:48 GMT+0200 2013
+Views        : 3,781
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buffalo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+South Dakota
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo bison "South Dakota" 

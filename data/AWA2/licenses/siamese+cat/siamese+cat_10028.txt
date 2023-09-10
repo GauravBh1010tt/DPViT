@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/6862427022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 22 01:41:47 GMT+0100 2012
+Upload Date  : Fri Mar 23 15:52:51 GMT+0100 2012
+Views        : 773
+Comments     : 46
+
+
++---------+
+|  TITLE  |
++---------+
+By the pricking of my thumbs, Something wicked this way comes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Well , paws,not thumbs :) , and it's the dreaded garbage truck LOL !
+Happy Furry Friday !
+
+
++--------+
+|  TAGS  |
++--------+
+cat window "on guard" "what goes there?" "Miss Truffles" Truffles siamese BlueEyes 

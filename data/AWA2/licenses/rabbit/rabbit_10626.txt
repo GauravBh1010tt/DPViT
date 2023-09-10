@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : synspectrum
+Photo URL    : https://www.flickr.com/photos/epector/19887455720/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 27 18:40:26 GMT+0200 2015
+Upload Date  : Tue Jul 28 07:06:56 GMT+0200 2015
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Little bunny munching grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oakhurst, Kane CO
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

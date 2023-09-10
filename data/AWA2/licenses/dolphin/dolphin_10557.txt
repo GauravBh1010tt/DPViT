@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jwendland
+Photo URL    : https://www.flickr.com/photos/jwendland/1336163353/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 30 15:09:55 GMT+0200 2007
+Upload Date  : Thu Sep 6 17:59:27 GMT+0200 2007
+Geotag Info  : Latitude:38.382440, Longitude:-28.304214
+Views        : 1,384
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Großer Tümmler - bottlenose dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shot from a boat of Espaco Talassa, Lajes do Pico.
+
+
++--------+
+|  TAGS  |
++--------+
+Atlantik Delphin "Großer Tümmler" Meer Natur Tiere "Tursiops truncatus" Wasser "Lajes do Pico" Azoren Portugal wildlife 

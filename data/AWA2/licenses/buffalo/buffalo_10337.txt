@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ComputerHotline
+Photo URL    : https://www.flickr.com/photos/computerhotline/3447270868/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 15 12:10:52 GMT+0200 2009
+Upload Date  : Thu Apr 16 11:22:20 GMT+0200 2009
+Geotag Info  : Latitude:47.733680, Longitude:7.350174
+Views        : 3,059
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison bison
+
+
++--------+
+|  TAGS  |
++--------+
+animal nature life vie "Bison bison" Bison Alsace France Mulhouse "Zoo de Mulhouse" FRA 

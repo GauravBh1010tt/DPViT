@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rigib
+Photo URL    : https://www.flickr.com/photos/rigib/1316282990/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 3 18:34:30 GMT+0200 2007
+Upload Date  : Tue Sep 4 01:34:30 GMT+0200 2007
+Views        : 1,868
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Maybe I can stare you down.&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit "Canon PowerShot S5 IS" IMG_154 

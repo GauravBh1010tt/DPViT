@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : psyberartist
+Photo URL    : https://www.flickr.com/photos/psyberartist/7660340396/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 17:17:35 GMT+0200 2012
+Upload Date  : Sat Jul 28 07:41:00 GMT+0200 2012
+Geotag Info  : Latitude:27.326415, Longitude:-82.428853
+Views        : 12,183
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+lion face
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion animal zoo Sarasota Florida portrait paws face mane 

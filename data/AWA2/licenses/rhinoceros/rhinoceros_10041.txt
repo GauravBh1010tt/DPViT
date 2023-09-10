@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/3738076456/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 23 13:39:08 GMT+0200 2009
+Upload Date  : Mon Jul 20 06:19:41 GMT+0200 2009
+Views        : 103
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Indian Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+safariwest Animals animal Animalia Chordata Vertebrata Mammalia Perissodactyla Rhinocerotidae 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ayagane
+Photo URL    : https://www.flickr.com/photos/ayagane/25976043602/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 12 13:16:50 GMT+0100 2016
+Upload Date  : Sun Mar 27 16:22:08 GMT+0200 2016
+Geotag Info  : Latitude:35.091338, Longitude:136.877830
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20160312_IMGP0014.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+名古屋港水族館 名古屋市 愛知県 日本 

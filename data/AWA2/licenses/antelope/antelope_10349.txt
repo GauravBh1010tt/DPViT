@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cláudio Franco
+Photo URL    : https://www.flickr.com/photos/claudiof/943190439/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 25 12:03:24 GMT+0200 2007
+Upload Date  : Mon Jul 30 00:07:40 GMT+0200 2007
+Views        : 165
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC03627
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+photo by Cláudio Franco / claudiofranco.net
+
+This photo is licensed under a Creative Commons license. If you use this photo within the terms of the license or make special arrangements to use the photo, please list the photo credit as &quot;claudiofranco.net&quot;.
+
+
++--------+
+|  TAGS  |
++--------+
+badoca 

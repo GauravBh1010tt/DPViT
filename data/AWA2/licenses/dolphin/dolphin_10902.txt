@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wahiawaboy
+Photo URL    : https://www.flickr.com/photos/wahiawaboy/202504153/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 30 21:15:22 GMT+0200 2006
+Upload Date  : Mon Jul 31 06:15:22 GMT+0200 2006
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dolphinbreakingsurface
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"sea life park" dolphin 

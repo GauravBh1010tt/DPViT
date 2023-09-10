@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jcarbaugh
+Photo URL    : https://www.flickr.com/photos/jcarbaugh/37905313/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 21 17:48:43 GMT+0200 2005
+Upload Date  : Sun Aug 28 17:12:11 GMT+0200 2005
+Geotag Info  : Latitude:33.099813, Longitude:-117.001272
+Views        : 212
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinos at San Diego Zoo Wild Animal Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+california "san diego" zoo rhino rhinoceros 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karamellzucker
+Photo URL    : https://www.flickr.com/photos/karamell/3415198169/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 5 23:15:19 GMT+0200 2009
+Upload Date  : Sun Apr 5 23:15:19 GMT+0200 2009
+Geotag Info  : Latitude:48.805125, Longitude:9.207701
+Views        : 134
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Wilbär mit Mama
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Wilhelma Stuttgart Wilbär Eisbär 

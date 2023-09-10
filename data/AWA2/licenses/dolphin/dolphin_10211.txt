@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : códicestudio
+Photo URL    : https://www.flickr.com/photos/ramonstein/2290987055/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 14 14:30:49 GMT+0100 2008
+Upload Date  : Mon Feb 25 17:26:10 GMT+0100 2008
+Views        : 69
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Delfín 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+color varios 

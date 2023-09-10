@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher.Michel
+Photo URL    : https://www.flickr.com/photos/cmichel67/8754150817/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 19 12:51:55 GMT+0200 2013
+Upload Date  : Sun May 19 21:51:55 GMT+0200 2013
+Views        : 573
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+A whale of a hello. Antarctica.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"In the Heart of the Sea" "Moby Dick" humpbacks ocean 

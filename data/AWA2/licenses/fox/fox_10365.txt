@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bill85704
+Photo URL    : https://www.flickr.com/photos/billmorrow/13900131819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 30 09:16:47 GMT+0200 2014
+Upload Date  : Fri May 2 08:23:16 GMT+0200 2014
+Views        : 450
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+GRAY FOX
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Which is not the same as a Redd Foxx.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

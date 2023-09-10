@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : geopungo
+Photo URL    : https://www.flickr.com/photos/36319440@N05/3912496591/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 26 06:31:22 GMT+0200 2009
+Upload Date  : Sat Sep 12 20:54:42 GMT+0200 2009
+Views        : 2,616
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in Washington while sight seeing......
+
+
++--------+
+|  TAGS  |
++--------+
+washington rabbit grass nature wildlife 

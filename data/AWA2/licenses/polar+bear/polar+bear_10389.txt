@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Günter Hentschel
+Photo URL    : https://www.flickr.com/photos/v230gh/2451825492/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 5 10:44:54 GMT+0200 2004
+Upload Date  : Tue Apr 29 12:15:49 GMT+0200 2008
+Geotag Info  : Latitude:48.096884, Longitude:11.554355
+Views        : 700
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+München 2004
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+München 2004 Olympiastadion Zoo Eisbären Bär Marion Günter Fleischerstr.Oktoberfest Wies'n 

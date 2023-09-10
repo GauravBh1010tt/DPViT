@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : crd!
+Photo URL    : https://www.flickr.com/photos/crd/2829210777/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 4 23:09:04 GMT+0200 2008
+Upload Date  : Fri Sep 5 07:09:04 GMT+0200 2008
+Views        : 82
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+wyoming convoy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cause we got a great big convoy, rockin' through the night..
+
+C O N V O Y
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo wy ynp 

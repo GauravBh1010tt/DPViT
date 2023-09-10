@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tillwe
+Photo URL    : https://www.flickr.com/photos/tillwe/6201258358/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 4 12:24:25 GMT+0200 2011
+Upload Date  : Sat Oct 1 20:39:21 GMT+0200 2011
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino III
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo tillwe 2011-09 basel zooli rhino rhinoceros nashorn 

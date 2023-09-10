@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Sträter
+Photo URL    : https://www.flickr.com/photos/stuutje/7468642586/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 29 13:26:41 GMT+0200 2012
+Upload Date  : Fri Jun 29 23:32:54 GMT+0200 2012
+Geotag Info  : Latitude:51.927337, Longitude:4.441051
+Views        : 346
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Indische antilope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deze foto is gemaakt in Diergaarde Blijdorp.
+
+This picture was taken at Rotterdam Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+"Diergaarde Blijdorp" "Rotterdam Zoo" Dierentuin Zoo "Indische antilope" hertegeitantilope "zwarte Bok" "Antilope cervicapra" Blackbuck 

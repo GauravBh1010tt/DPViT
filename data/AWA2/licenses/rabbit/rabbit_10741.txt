@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Stainthorp
+Photo URL    : https://www.flickr.com/photos/pstainthorp/7339355128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 4 17:15:04 GMT+0200 2012
+Upload Date  : Tue Jun 5 01:01:29 GMT+0200 2012
+Geotag Info  : Latitude:53.207883, Longitude:-0.103640
+Views        : 818
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pointyears got loose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horncastle, Lincolnshire. Monday, 4 June, 2012
+
+
++--------+
+|  TAGS  |
++--------+
+pointyears rabbit garden 

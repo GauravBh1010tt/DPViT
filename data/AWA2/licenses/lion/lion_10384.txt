@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bill Allen1
+Photo URL    : https://www.flickr.com/photos/38786587@N05/5586042998/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 19 14:42:14 GMT+0100 2011
+Upload Date  : Sun Apr 3 19:58:07 GMT+0200 2011
+Geotag Info  : Latitude:53.811180, Longitude:-3.011584
+Views        : 16,240
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Eating
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lion at Blackpool Zoo 2011
+
+
++--------+
+|  TAGS  |
++--------+
+"Blackpool Zoo" Lion "Lion eating" "lion mane" FlickrBigCats 

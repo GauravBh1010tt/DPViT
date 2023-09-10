@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roy.luck
+Photo URL    : https://www.flickr.com/photos/royluck/19414368604/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 11 09:46:36 GMT+0200 2015
+Upload Date  : Mon Jul 27 01:26:17 GMT+0200 2015
+Geotag Info  : Latitude:44.655893, Longitude:-111.098685
+Views        : 688
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf, Grizzly & Wolf Discovery Center
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+West Yellowstone MT.  B&amp;W image.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

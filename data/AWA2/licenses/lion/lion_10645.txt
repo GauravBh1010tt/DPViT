@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AJC ajcann.wordpress.com
+Photo URL    : https://www.flickr.com/photos/ajc1/13129359684/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 13 16:29:19 GMT+0100 2014
+Upload Date  : Thu Mar 13 17:29:19 GMT+0100 2014
+Views        : 6,120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Source: <a href="http://en.wikipedia.org/wiki/File:Lion_waiting_in_Namibia.jpg" rel="nofollow">en.wikipedia.org/wiki/File:Lion_waiting_in_Namibia.jpg</a>
+
+
++--------+
+|  TAGS  |
++--------+
+lion wildlife 

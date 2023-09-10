@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : r.j.wagner
+Photo URL    : https://www.flickr.com/photos/wagnerr/3885124551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 29 12:28:02 GMT+0200 2009
+Upload Date  : Fri Sep 4 02:15:10 GMT+0200 2009
+Views        : 304
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mrs Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+baltimore maryland zoo 

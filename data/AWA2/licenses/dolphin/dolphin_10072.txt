@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : j.e.mcgowan
+Photo URL    : https://www.flickr.com/photos/16484155@N08/13584240445/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 14 14:24:14 GMT+0100 2014
+Upload Date  : Wed Apr 2 18:28:09 GMT+0200 2014
+Geotag Info  : Latitude:-35.224229, Longitude:174.170207
+Views        : 1,369
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bay of Island's Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"New Zealand" "Bay of Islands" Dolphin Canon 60D 70D 

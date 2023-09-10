@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Susan E Adams
+Photo URL    : https://www.flickr.com/photos/susanad813/2126596950/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 30 13:48:06 GMT+0100 2006
+Upload Date  : Fri Dec 21 08:06:12 GMT+0100 2007
+Views        : 246
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+CRW_0640
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Picnik springbok "hatada ranch" http://www.hatadaranch.com 

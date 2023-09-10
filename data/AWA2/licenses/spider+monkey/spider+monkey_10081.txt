@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ell brown
+Photo URL    : https://www.flickr.com/photos/ell-r-brown/4685678037/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 5 12:12:08 GMT+0200 2010
+Upload Date  : Wed Jun 9 22:16:31 GMT+0200 2010
+Geotag Info  : Latitude:51.534303, Longitude:-0.152805
+Views        : 455
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+London Zoo - Red-faced Black Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another monkey area in London Zoo.
+
+These ones are Red-faced Black Spider Monkey's.
+
+This one is lying down.
+
+Was near the tiger and lion areas.
+
+
++--------+
+|  TAGS  |
++--------+
+"london zoo" london "greater london" england "united kingdom" "great britain" "regent's park" zsl "zoological society of london" "red-faced black spider monkey" monkey monkeys "black spider monkey" "spider monkey" 

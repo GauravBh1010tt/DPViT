@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : neil alejandro
+Photo URL    : https://www.flickr.com/photos/nanderson/219463547/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 29 10:47:51 GMT+0200 2006
+Upload Date  : Sun Aug 20 00:34:40 GMT+0200 2006
+Geotag Info  : Latitude:44.533563, Longitude:-110.438255
+Views        : 168
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In our campsite? Yes.
+
+
++--------+
+|  TAGS  |
++--------+
+BJNOK "Nanos Perspective" "Road Trip" Wyoming Yellowstone 

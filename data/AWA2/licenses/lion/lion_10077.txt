@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kitty Terwolbeck
+Photo URL    : https://www.flickr.com/photos/kittysfotos/6954068433/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 2 15:28:06 GMT+0100 2012
+Upload Date  : Mon Mar 5 01:27:11 GMT+0100 2012
+Geotag Info  : Latitude:52.366595, Longitude:4.914493
+Views        : 1,743
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Alert lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Day at the Zoo - Artis Amsterdam, The Netherlands
+
+
++--------+
+|  TAGS  |
++--------+
+zoo artis dierentuin animals dieren nature natuur lion leeuw alert 

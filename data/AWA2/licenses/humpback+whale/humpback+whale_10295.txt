@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SubbuThePeaceful
+Photo URL    : https://www.flickr.com/photos/67446336@N00/1084238393/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 13 16:42:24 GMT+0200 2007
+Upload Date  : Sat Aug 11 21:06:08 GMT+0200 2007
+Geotag Info  : Latitude:59.755011, Longitude:-149.495601
+Views        : 2,153
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback Whale Mother off Seward, Alaska
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska "Humpback Whale" "Kenai Fjords" Seward 

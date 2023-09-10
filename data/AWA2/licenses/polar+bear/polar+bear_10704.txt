@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photogirl7.1
+Photo URL    : https://www.flickr.com/photos/kitkaphotogirl/6047811330/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 3 14:11:35 GMT+0200 2011
+Upload Date  : Tue Aug 16 02:08:05 GMT+0200 2011
+Geotag Info  : Latitude:47.255854, Longitude:-122.439571
+Views        : 7,902
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pooped polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I went to the Point Defiance zoo on a rare hot and sunny day.  This poor polar bear was really out of it.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "Point Defiance Zoo" polar bear 

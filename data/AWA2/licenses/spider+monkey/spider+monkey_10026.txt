@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/5925067874/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 10 16:30:43 GMT+0200 2011
+Upload Date  : Mon Jul 11 05:50:23 GMT+0200 2011
+Geotag Info  : Latitude:42.462773, Longitude:-71.093666
+Views        : 1,171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Black Handed Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+melancholy
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo massachusetts spider monkey melancholy green 

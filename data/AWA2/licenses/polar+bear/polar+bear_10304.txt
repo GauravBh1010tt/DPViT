@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hasan Basri AKIRMAK
+Photo URL    : https://www.flickr.com/photos/hbamoba/3552175198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 21 15:34:19 GMT+0200 2009
+Upload Date  : Thu May 21 19:53:20 GMT+0200 2009
+Views        : 5,493
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1777
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+polar bear kutup ayısı 

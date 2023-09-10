@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HBarrison
+Photo URL    : https://www.flickr.com/photos/hbarrison/8491306232/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 5 09:53:09 GMT+0100 2013
+Upload Date  : Wed Feb 20 04:05:35 GMT+0100 2013
+Geotag Info  : Latitude:44.912182, Longitude:-110.109157
+Views        : 570
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yellowstone_2013 02 05_0446
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Continuing on to the Lamar Valley - Bison
+
+
++--------+
+|  TAGS  |
++--------+
+"Yellowstone National Park" HBarrison "Harvey Barrison" "National Park Foundation" Bison "American Buffalo" "American Bison" "Taxonomy:binomial=Bison bison" 

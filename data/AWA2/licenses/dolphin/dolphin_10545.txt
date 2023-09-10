@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lakewentworth
+Photo URL    : https://www.flickr.com/photos/roome/3085330771/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 27 14:12:11 GMT+0100 2008
+Upload Date  : Sat Dec 6 03:27:23 GMT+0100 2008
+Views        : 1,231
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Flippers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gotta love the water in the Bahamas.
+
+VIsit <a href="http://www.roomephotography.com" rel="nofollow">www.roomephotography.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+bahamas water ocean blue dolphins 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : premii
+Photo URL    : https://www.flickr.com/photos/premii/3575813639/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 25 08:57:19 GMT+0200 2009
+Upload Date  : Fri May 29 19:35:23 GMT+0200 2009
+Geotag Info  : Latitude:38.555366, Longitude:-122.696388
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Safari West
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Safari West &amp; Bodega bay
+
+
++--------+
+|  TAGS  |
++--------+
+safariwest 2009 may2009 may 

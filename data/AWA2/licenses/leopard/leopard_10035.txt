@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 2sirius
+Photo URL    : https://www.flickr.com/photos/peterv/6074974851/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 23 11:27:18 GMT+0200 2011
+Upload Date  : Wed Aug 24 05:27:34 GMT+0200 2011
+Views        : 665
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20110823_1081.CR2.500
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Snow leopard.
+
+
++--------+
+|  TAGS  |
++--------+
+Toronto Ontario Canada Meadowvale Zoo leopard "snow leopard" 

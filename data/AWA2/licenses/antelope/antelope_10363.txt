@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/7663227340/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 12:23:55 GMT+0200 2012
+Upload Date  : Sat Jul 28 20:49:34 GMT+0200 2012
+Geotag Info  : Latitude:33.096790, Longitude:-116.999416
+Views        : 349
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+East African or Patterson's Eland (Taurotragus oryx pattersonianus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Common elands are spiral-horned antelopes. They are the world's largest and slowest antelope.The East African or Patterson's eland (Taurotragus oryx pattersonianus) is a sub-species found in east Africa, hence its common name. 
+
+Photographed at the San Diego Zoo Safari Park in Escondido, CA
+
+
++--------+
+|  TAGS  |
++--------+
+Eland antelope hoofstock animal mammal Africa Patterson's "Taurotragus oryx pattersonianus" "East African" 

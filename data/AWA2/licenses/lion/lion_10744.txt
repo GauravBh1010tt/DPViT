@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mara 1
+Photo URL    : https://www.flickr.com/photos/flametree/35154764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 10 16:50:56 GMT+0200 2002
+Upload Date  : Thu Aug 18 22:14:16 GMT+0200 2005
+Views        : 313
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Do we really have to do this?
+
+
++--------+
+|  TAGS  |
++--------+
+Wildlife lions 

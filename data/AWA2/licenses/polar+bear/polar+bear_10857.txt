@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Axel Schwenke
+Photo URL    : https://www.flickr.com/photos/schwenke/2646695836/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 4 11:31:32 GMT+0200 2008
+Upload Date  : Mon Jul 7 18:22:42 GMT+0200 2008
+Geotag Info  : Latitude:51.240063, Longitude:7.110085
+Views        : 188
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo-Wuppertal_2008-07-04 11-31-32
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Deutschland Germany Zoo Wuppertal Tier Tiere Animal Animals Wildlife Wildniss NRW Westfalen Eisbär Eisbären Icebear Icebears polarbear polar bear nahaufnahme closeup closeups 

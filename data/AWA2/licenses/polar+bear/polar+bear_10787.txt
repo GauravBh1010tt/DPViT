@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Elstad Ranch
+Photo URL    : https://www.flickr.com/photos/elstadranch/4832506325/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 11 13:26:45 GMT+0200 2010
+Upload Date  : Tue Jul 27 04:29:21 GMT+0200 2010
+Views        : 761
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Milwaukee Zoo" "Polar Bear" 

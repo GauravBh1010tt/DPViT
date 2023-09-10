@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bird Brian
+Photo URL    : https://www.flickr.com/photos/birdbrian/4429148482/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 31 20:51:15 GMT+0200 2009
+Upload Date  : Sat Mar 13 10:52:35 GMT+0100 2010
+Views        : 159
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_8928.NEF
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spider Monkey
+
+
++--------+
+|  TAGS  |
++--------+
+Tambopata_Research_Centre Peru Amazon_Basin 

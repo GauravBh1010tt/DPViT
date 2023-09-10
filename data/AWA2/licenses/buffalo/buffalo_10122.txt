@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Fraley
+Photo URL    : https://www.flickr.com/photos/mrfraley/6979073290/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 10:40:28 GMT+0200 2012
+Upload Date  : Sun Apr 29 19:40:28 GMT+0200 2012
+Views        : 1,068
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 03
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Minolta SRT-201
+Walgreens 200
+Miida 300mm/f4.5
+03/23/2012
+
+
++--------+
+|  TAGS  |
++--------+
+bison 

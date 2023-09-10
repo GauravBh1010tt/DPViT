@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Liz Henry
+Photo URL    : https://www.flickr.com/photos/lizhenry/3645733648/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 20 15:22:33 GMT+0200 2009
+Upload Date  : Sun Jun 21 03:53:14 GMT+0200 2009
+Views        : 207
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+cats in a drawer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hotspur has a very bendy neck.
+
+
++--------+
+|  TAGS  |
++--------+
+cats "siamese cats" 

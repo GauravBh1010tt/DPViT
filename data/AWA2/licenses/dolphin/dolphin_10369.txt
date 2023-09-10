@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tarale
+Photo URL    : https://www.flickr.com/photos/tarale/527279967/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 29 08:26:33 GMT+0100 2004
+Upload Date  : Sun Jun 3 06:48:20 GMT+0200 2007
+Geotag Info  : Latitude:-34.268043, Longitude:138.132734
+Views        : 151
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photograph by my &quot;step-dad&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin nature ocean 

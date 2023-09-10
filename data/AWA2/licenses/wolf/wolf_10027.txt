@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/16090301328/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 5 08:50:43 GMT+0200 2014
+Upload Date  : Wed Jan 14 11:00:21 GMT+0100 2015
+Geotag Info  : Latitude:47.547509, Longitude:7.578211
+Views        : 8,085
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cleopatra showing her tongue after drinking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of Cleopatra while she was drinking, she showed me her tongue!
+
+
++--------+
+|  TAGS  |
++--------+
+portrait face female gray tongue drinking water close eyes wolf timberwolf canid canine dog basel zoo zolli switzerland nikon d4 

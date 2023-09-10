@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bnanative
+Photo URL    : https://www.flickr.com/photos/54478620@N00/2368162996/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 24 10:09:42 GMT+0100 2008
+Upload Date  : Fri Mar 28 04:47:26 GMT+0100 2008
+Geotag Info  : Latitude:33.738615, Longitude:-84.371738
+Views        : 762
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chow time
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The baby panda at Zoo Atlanta thought it was a good time for a snack.
+
+
++--------+
+|  TAGS  |
++--------+
+panda bamboo zoo Atlanta 

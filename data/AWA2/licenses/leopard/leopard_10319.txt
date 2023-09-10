@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Navdeep Raj
+Photo URL    : https://www.flickr.com/photos/navdeepraj/505815069/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 20 13:08:46 GMT+0200 2007
+Upload Date  : Sun May 20 15:26:31 GMT+0200 2007
+Geotag Info  : Latitude:12.976456, Longitude:77.575149
+Views        : 1,864
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of my favorites....
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife animals cheetah closeup impressedbeauty naturesfinest 

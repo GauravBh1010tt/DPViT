@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Bowler
+Photo URL    : https://www.flickr.com/photos/mbowler/3473538158/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 24 16:55:17 GMT+0200 2009
+Upload Date  : Sat Apr 25 16:10:36 GMT+0200 2009
+Views        : 233
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit in the backyard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

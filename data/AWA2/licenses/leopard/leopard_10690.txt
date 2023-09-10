@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lola's Big Adventure!
+Photo URL    : https://www.flickr.com/photos/kokalola/4952317438/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 17 11:04:11 GMT+0100 2010
+Upload Date  : Thu Sep 2 21:59:19 GMT+0200 2010
+Geotag Info  : Latitude:55.945931, Longitude:-3.271179
+Views        : 258
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+edinburgh zoo edinburghzoo "amur leopard" 

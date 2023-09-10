@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : René Mayorga
+Photo URL    : https://www.flickr.com/photos/elchurro/9119073467/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 25 08:43:28 GMT+0200 2013
+Upload Date  : Mon Jun 24 00:00:33 GMT+0200 2013
+Views        : 932
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Puntos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Caminando por el pasto
+
+
++--------+
+|  TAGS  |
++--------+
+Leopard Serengeti 

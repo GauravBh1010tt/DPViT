@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ErikLevin
+Photo URL    : https://www.flickr.com/photos/eriklevin/9373617468/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 14 23:47:48 GMT+0100 2012
+Upload Date  : Fri Jul 26 22:15:45 GMT+0200 2013
+Geotag Info  : Latitude:33.436027, Longitude:-118.049470
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphings jumping
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal dolphin sea water 

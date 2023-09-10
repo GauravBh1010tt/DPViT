@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/3800694439/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 1 00:00:00 GMT+0100 1975
+Upload Date  : Sat Aug 8 19:02:31 GMT+0200 2009
+Geotag Info  : Latitude:43.819201, Longitude:-79.193229
+Views        : 110
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Toronto Zoo" Ontario Slide 

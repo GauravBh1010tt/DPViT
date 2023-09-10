@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : comaposada
+Photo URL    : https://www.flickr.com/photos/ciclope69/5937558198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 14 09:58:44 GMT+0200 2011
+Upload Date  : Thu Jul 14 18:58:44 GMT+0200 2011
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DELFIN
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ettore Balocchi
+Photo URL    : https://www.flickr.com/photos/29882791@N02/8300307032/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 23 13:30:18 GMT+0100 2012
+Upload Date  : Sun Dec 23 13:30:14 GMT+0100 2012
+Views        : 127
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bovidae - Bison bison - American bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+American Bison - Bos bison
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

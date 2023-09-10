@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dan Costin
+Photo URL    : https://www.flickr.com/photos/dcostin/6118387310/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 3 13:12:12 GMT+0200 2011
+Upload Date  : Tue Sep 6 01:27:41 GMT+0200 2011
+Views        : 243
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison farm
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

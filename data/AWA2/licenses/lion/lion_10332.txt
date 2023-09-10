@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sociotard
+Photo URL    : https://www.flickr.com/photos/9918311@N02/3549581729/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 20 14:16:47 GMT+0200 2009
+Upload Date  : Thu May 21 02:55:04 GMT+0200 2009
+Views        : 4,090
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion at Tauphus Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A male lion at the Idaho Falls Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+lion zoo 

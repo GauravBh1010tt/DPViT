@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lilli2de
+Photo URL    : https://www.flickr.com/photos/seven_of9/5336101475/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 1 11:15:33 GMT+0100 2011
+Upload Date  : Sat Jan 8 19:52:13 GMT+0100 2011
+Views        : 2,149
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Snow fun with Theo 028
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Jan2011 1/1/2011 Germany "Land Brandenburg" Niederlausitz Elbe-Elster "my mom's garden" Garten Winter Schnee snow Frost cold "Belgischer Schäferhund" "Belgian Shepherd Dog" "named Theo" "loves snow" 

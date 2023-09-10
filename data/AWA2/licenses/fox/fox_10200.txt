@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : YellowstoneNPS
+Photo URL    : https://www.flickr.com/photos/yellowstonenps/17627163846/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 29 20:25:50 GMT+0200 2015
+Upload Date  : Fri May 15 00:36:10 GMT+0200 2015
+Views        : 3,969
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox in motion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fox in motion on Blacktail Deer Plateau;
+Neal Herbert;
+April 2015;
+Catalog #20094d;
+Original #ndh-yell-4953
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone "Yellowstone National Park" wildlife 

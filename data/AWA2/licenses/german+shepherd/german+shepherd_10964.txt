@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/8969423934/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 6 12:02:46 GMT+0200 2013
+Upload Date  : Thu Jun 6 15:40:53 GMT+0200 2013
+Views        : 355
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+GSD "German Shepherd" "River Roding" river "Wanstead Park" Maxx 

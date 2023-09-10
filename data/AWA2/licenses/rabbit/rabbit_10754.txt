@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dluogs
+Photo URL    : https://www.flickr.com/photos/dluogs/7917191338/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 31 14:51:15 GMT+0200 2012
+Upload Date  : Mon Sep 3 00:28:56 GMT+0200 2012
+Views        : 4,766
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit 2a
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This rabbit bounded into the clearing in the scrub where I was bug-hunting.  He seemed a bit surprised to see me there and paused long enough for me to take a couple of pictures before he hurried away. Rabbit - <i><b>Oryctolagus cuniculus</b></i>, Whiteshute Ridge, Winchester, Hampshire, UK, 31st August 2012.
+
+OS Grid Ref: SU469276
+
+
++--------+
+|  TAGS  |
++--------+
+mammal Lagomorpha Leporidae "Oryctolagus cuniculus" wild rabbit "European rabbit" Hampshire Winchester "British wildlife" Dluogs "Whiteshute Ridge" "chalk downland" scrub "taxonomy:binomial=Oryctolagus cuniculus" "taxonomy:common=European rabbit" geo:county=Hampshire geo:country=England geo:region=Europe 

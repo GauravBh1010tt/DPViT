@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jome jome
+Photo URL    : https://www.flickr.com/photos/jomejome/2870473814/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 29 09:50:19 GMT+0200 2008
+Upload Date  : Fri Sep 19 16:18:13 GMT+0200 2008
+Geotag Info  : Latitude:16.338672, Longitude:-86.603336
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+delfín
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+vida subacuatica buceo submarinismo Roatan Honduras 

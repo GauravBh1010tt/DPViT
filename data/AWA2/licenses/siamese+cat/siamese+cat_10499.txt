@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wjklos
+Photo URL    : https://www.flickr.com/photos/wjklos/5018492/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 14 21:27:02 GMT+0200 2002
+Upload Date  : Fri Feb 18 22:24:34 GMT+0100 2005
+Geotag Info  : Latitude:39.327060, Longitude:-84.294233
+Views        : 773
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Young Wonton
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Blue-Point Siamese catching some much needed sleep.
+
+
++--------+
+|  TAGS  |
++--------+
+cats siamese 

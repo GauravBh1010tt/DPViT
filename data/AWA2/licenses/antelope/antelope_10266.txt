@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AntoGros
+Photo URL    : https://www.flickr.com/photos/atony/7092902853/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 30 11:51:04 GMT+0200 2006
+Upload Date  : Thu Apr 19 11:06:01 GMT+0200 2012
+Geotag Info  : Latitude:27.214220, Longitude:77.949500
+Views        : 173
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Deers & Chikara inside Sikandra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

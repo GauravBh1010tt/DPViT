@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : abardwell
+Photo URL    : https://www.flickr.com/photos/abardwell/498946398/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 14 09:39:24 GMT+0200 2007
+Upload Date  : Tue May 15 05:33:34 GMT+0200 2007
+Geotag Info  : Latitude:41.349881, Longitude:-81.705965
+Views        : 1,354
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox-9032
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox kits 2007 d50 foiltape nikon redfox 

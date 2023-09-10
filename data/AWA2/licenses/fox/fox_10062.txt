@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oskarlin
+Photo URL    : https://www.flickr.com/photos/oskarlin/3030699770/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 14 22:05:28 GMT+0100 2008
+Upload Date  : Fri Nov 14 22:24:59 GMT+0100 2008
+Views        : 423
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A253334 007
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sarek hiking mountains fox Basstavágge 

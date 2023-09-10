@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Franco Folini
+Photo URL    : https://www.flickr.com/photos/livenature/2644433716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 2 15:53:42 GMT+0200 2008
+Upload Date  : Mon Jul 7 02:47:08 GMT+0200 2008
+Geotag Info  : Latitude:37.769010, Longitude:-122.499178
+Views        : 7,353
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+American Bison, known as Buffalo (Bison bison) at the Golden Gate Park in San Francisco
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<b>Buffalo / American Bison</b> (<i>Bison bison</i>)
+Golden Gate Park
+San Francisco, CA
+
+
++--------+
+|  TAGS  |
++--------+
+Buffalo Bison Bisonte "San francisco" "Golden gate park" CA SF California US USA America mammal mammifero "Bison bison" Bovidae "American Bison" Bufalo "Franco Folini" Folini Photography Fotografia Foto Photo Immagine "Creative Commons Attribution Share-Alike" "Creative Commons" 

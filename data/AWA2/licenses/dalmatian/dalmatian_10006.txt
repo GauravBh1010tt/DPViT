@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/5899793731/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 30 20:00:49 GMT+0200 2011
+Upload Date  : Mon Jul 4 09:17:50 GMT+0200 2011
+Views        : 569
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Spielkiste mit Holzfäden
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Juni 2011
+Canon EOS 40D
+EF-S 17-85mm f/4-5.6 IS USM
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hündin dog welpe puppy dalmatiner female Dalmatian Dalmatinac 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eduardo Rodrigues
+Photo URL    : https://www.flickr.com/photos/eduardo_rodrigues/5382397729/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 23 15:00:01 GMT+0100 2011
+Upload Date  : Mon Jan 24 02:09:17 GMT+0100 2011
+Geotag Info  : Latitude:-15.854187, Longitude:-48.956451
+Views        : 310
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Morgana
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pirenópolis - GO
+
+
++--------+
+|  TAGS  |
++--------+
+gato cat siamese siamês pet animal felino blue eyes olho azul mascots 

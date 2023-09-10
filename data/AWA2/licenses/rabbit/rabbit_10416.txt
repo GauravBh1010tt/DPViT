@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrea Westmoreland
+Photo URL    : https://www.flickr.com/photos/andrea_pauline/3363770136/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 15 08:35:42 GMT+0100 2009
+Upload Date  : Tue Mar 17 21:04:34 GMT+0100 2009
+Views        : 1,376
+Comments     : 52
+
+
++---------+
+|  TITLE  |
++---------+
+Ehhh.....What's up, Doc!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A vewwy siwwy wabbit!  :)
+Rabbit from Lake Woodruff :) Happy St. Patrick's Day!
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

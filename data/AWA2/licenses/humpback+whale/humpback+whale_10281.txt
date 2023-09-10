@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roy.luck
+Photo URL    : https://www.flickr.com/photos/royluck/5945841589/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 21 17:28:16 GMT+0200 2011
+Upload Date  : Sun Jul 17 15:17:33 GMT+0200 2011
+Geotag Info  : Latitude:48.913079, Longitude:-125.370998
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale tail
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Broken Group Islands, Barkley Sound BC.  Individual whales may be identified by markings on their tail flukes.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

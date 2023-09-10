@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew.napier
+Photo URL    : https://www.flickr.com/photos/andrewnapier/10079668693/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 3 18:28:24 GMT+0200 2013
+Upload Date  : Fri Oct 4 06:41:18 GMT+0200 2013
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flickrandroidapp:filter=none 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : beaucon
+Photo URL    : https://www.flickr.com/photos/91349006@N05/14827262624/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 3 19:16:26 GMT+0200 2014
+Upload Date  : Mon Aug 4 20:55:54 GMT+0200 2014
+Geotag Info  : Latitude:39.403666, Longitude:-74.366465
+Views        : 2,348
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cautious Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fox roam dunes of Brigantine, NJ.
+
+
++--------+
+|  TAGS  |
++--------+
+"Red fox dunes" stealth stalk thin Brigantine NJ 

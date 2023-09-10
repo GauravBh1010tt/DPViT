@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LandBetweenTheLakesKYTN
+Photo URL    : https://www.flickr.com/photos/lblkytn/14651477228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 21 16:16:56 GMT+0200 2013
+Upload Date  : Tue Aug 5 20:53:04 GMT+0200 2014
+Views        : 409
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Striped Skunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Adorable Striped Skunk at Woodlands Nature Watch Area  in Land Between The Lakes.  Photo by Carrie Swzed
+
+
++--------+
+|  TAGS  |
++--------+
+LandBetweenTheLakesKYTN "Land Between The Lakes" "US Forest Service" nature "environmental education" "Kentucky Lake" "Lake Barkley" history camping birding biking hiking hunting Kentucky Tennessee "public lands" "scenic driving" "wildlife watching" 

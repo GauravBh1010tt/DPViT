@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markbyzewski
+Photo URL    : https://www.flickr.com/photos/markbyzewski/7906983096/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 11:03:26 GMT+0200 2012
+Upload Date  : Sat Sep 1 17:52:51 GMT+0200 2012
+Views        : 227
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_4752
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A white leopard in the Cheyenne Mountain Zoo. Colorado Springs, Colorado.
+
+
++--------+
+|  TAGS  |
++--------+
+"White Leopard" "Cheyenne Mountain Zoo" "Colorado Springs" Colorado 

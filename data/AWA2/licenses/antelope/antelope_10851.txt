@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David Berkowitz
+Photo URL    : https://www.flickr.com/photos/davidberkowitz/5699610876/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 22 07:59:39 GMT+0100 2011
+Upload Date  : Sun May 8 15:44:43 GMT+0200 2011
+Views        : 760
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Serengeti National Park safari - Tanzania, Africa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A safari in the Serengeti National Park, February 2011, Tanzania - East Africa
+
+
+(cc) David Berkowitz - <a href="http://www.twitter.com/dberkowitz" rel="nofollow">www.twitter.com/dberkowitz</a> - <a href="http://www.marketersstudio.com" rel="nofollow">www.marketersstudio.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+serengeti safari africa tanzania 

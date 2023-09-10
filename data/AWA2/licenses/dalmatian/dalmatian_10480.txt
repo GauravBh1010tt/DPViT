@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ketk_
+Photo URL    : https://www.flickr.com/photos/ketk/6807571171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 2 12:30:50 GMT+0100 2012
+Upload Date  : Thu Feb 2 18:23:46 GMT+0100 2012
+Views        : 578
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dálmata
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sentado y tranquilo
+
+
++--------+
+|  TAGS  |
++--------+
+dálmata perro dog dalmata dalmatian 

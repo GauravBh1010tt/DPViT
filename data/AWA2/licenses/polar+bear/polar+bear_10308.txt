@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pak21
+Photo URL    : https://www.flickr.com/photos/pak21/3979524679/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 28 10:47:53 GMT+0100 2009
+Upload Date  : Sun Oct 4 15:53:10 GMT+0200 2009
+Geotag Info  : Latitude:48.097400, Longitude:11.553325
+Views        : 627
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_2271
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+munich "tierpark hellabrunn" "polar bear" 

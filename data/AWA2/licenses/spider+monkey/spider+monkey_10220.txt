@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pixculture
+Photo URL    : https://www.flickr.com/photos/pixculture/8455460304/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 15 05:00:45 GMT+0100 2013
+Upload Date  : Fri Feb 8 07:13:30 GMT+0100 2013
+Geotag Info  : Latitude:18.082384, Longitude:-88.561305
+Views        : 241
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Belize Caribbean "Central America" Commonwealth Inland Jungle Maya "Mayan Ruins" "Northern Belize" "Orange Walk District" "Orange Walk Town" Ruins Travel Vacation 

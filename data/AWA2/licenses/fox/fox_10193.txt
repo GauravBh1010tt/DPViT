@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lauris Rubenis
+Photo URL    : https://www.flickr.com/photos/beardforgood/9347486421/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 22 22:05:20 GMT+0200 2013
+Upload Date  : Tue Jul 23 09:54:22 GMT+0200 2013
+Views        : 1,139
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox eating mole
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

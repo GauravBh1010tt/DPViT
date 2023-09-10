@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vbo
+Photo URL    : https://www.flickr.com/photos/vbo/78209625/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 27 15:02:46 GMT+0100 2005
+Upload Date  : Wed Dec 28 00:02:46 GMT+0100 2005
+Geotag Info  : Latitude:30.685163, Longitude:104.076232
+Views        : 261
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+chine05_3_0031
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sichuan tibet china travel animal panda 

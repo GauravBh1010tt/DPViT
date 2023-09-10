@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : western4uk
+Photo URL    : https://www.flickr.com/photos/western4uk/155754599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 28 14:30:51 GMT+0200 2006
+Upload Date  : Mon May 29 21:02:42 GMT+0200 2006
+Views        : 194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1000489
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Leopard "Chester Zoo" Zoo Animals 

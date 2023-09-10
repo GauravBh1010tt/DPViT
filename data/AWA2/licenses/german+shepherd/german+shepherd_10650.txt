@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lilli2de
+Photo URL    : https://www.flickr.com/photos/seven_of9/4418118630/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 6 17:04:25 GMT+0100 2010
+Upload Date  : Mon Mar 8 21:36:15 GMT+0100 2010
+Views        : 207
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+My ball
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Snow returns on Saturday..
+
+
++--------+
+|  TAGS  |
++--------+
+6März2010 Dog Theo "Belgischer Schäferhund" Auslauf "neuer Schnee" 

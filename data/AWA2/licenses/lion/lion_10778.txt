@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Stevenson
+Photo URL    : https://www.flickr.com/photos/pss/5562155628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 20 11:11:53 GMT+0100 2011
+Upload Date  : Sat Mar 26 21:03:11 GMT+0100 2011
+Views        : 12,940
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion wildlife "yorkshire wildlife park" yorkshire "big 5" "big five" "big cat" 

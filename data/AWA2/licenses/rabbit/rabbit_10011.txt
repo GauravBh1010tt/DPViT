@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ukpix
+Photo URL    : https://www.flickr.com/photos/ulfk/8236171866/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 26 09:10:24 GMT+0200 2012
+Upload Date  : Sat Dec 1 22:10:42 GMT+0100 2012
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_5964
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

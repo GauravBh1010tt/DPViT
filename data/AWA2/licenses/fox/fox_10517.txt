@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ajburcar
+Photo URL    : https://www.flickr.com/photos/ajburcarannis/3876811078/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 24 09:55:52 GMT+0200 2009
+Upload Date  : Tue Sep 1 04:05:47 GMT+0200 2009
+Geotag Info  : Latitude:63.716887, Longitude:-149.361877
+Views        : 218
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Snowing in August at Denali Park
+
+
++--------+
+|  TAGS  |
++--------+
+"Denali National Park" Alaska 

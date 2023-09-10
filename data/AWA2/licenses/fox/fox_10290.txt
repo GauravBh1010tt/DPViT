@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FolioRoad
+Photo URL    : https://www.flickr.com/photos/folioroad/7634723324/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 16 16:16:18 GMT+0200 2006
+Upload Date  : Tue Jul 24 07:08:57 GMT+0200 2012
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox 

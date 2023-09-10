@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/8044634185/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 29 15:50:16 GMT+0200 2012
+Upload Date  : Mon Oct 1 22:04:52 GMT+0200 2012
+Views        : 933
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Schwester Alma
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+September 2012
+Canon EOS 40D
+EF-S 55-250mm f/4-5.6 IS II
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hündin dog dalmatiner female dalmatian Dalmatinac 

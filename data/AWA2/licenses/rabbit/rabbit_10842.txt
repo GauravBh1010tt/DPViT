@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jans canon
+Photo URL    : https://www.flickr.com/photos/43158397@N02/5567529629/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 27 17:25:20 GMT+0200 2011
+Upload Date  : Mon Mar 28 15:44:31 GMT+0200 2011
+Views        : 3,491
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbit bunny 

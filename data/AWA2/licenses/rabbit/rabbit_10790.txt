@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : torisan3500
+Photo URL    : https://www.flickr.com/photos/torisan3500/494453529/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 12 14:39:33 GMT+0200 2007
+Upload Date  : Sat May 12 07:39:33 GMT+0200 2007
+Views        : 902
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rabbit rhein with his very short front legs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+japan tokyo rabbit 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christof Stromberger
+Photo URL    : https://www.flickr.com/photos/stromi/4528316442/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 8 12:04:30 GMT+0200 2010
+Upload Date  : Sat Apr 17 15:54:03 GMT+0200 2010
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+85mm 1/500s f/5,6 ISO200
+
+
++--------+
+|  TAGS  |
++--------+
+Nikon D90 16-85mm Vienna Schönbrunn Zoo Wien 

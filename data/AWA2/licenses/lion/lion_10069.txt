@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John5199
+Photo URL    : https://www.flickr.com/photos/jonnyb558/10703721713/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 20 14:42:57 GMT+0200 2013
+Upload Date  : Wed Nov 6 07:56:05 GMT+0100 2013
+Geotag Info  : Latitude:51.998583, Longitude:-0.593218
+Views        : 617
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+African Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Woburn Safari Park.
+
+
++--------+
+|  TAGS  |
++--------+
+D3000 Nikon "Woburn Safari Park" Woburn "sigma 150-500" 

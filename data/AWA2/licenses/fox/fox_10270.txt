@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bullets95
+Photo URL    : https://www.flickr.com/photos/29147646@N03/5254743152/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 16 14:52:54 GMT+0200 2008
+Upload Date  : Sun Dec 12 17:25:32 GMT+0100 2010
+Views        : 180
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ヌプントムラウシ温泉 Hokkaido 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : baka_san
+Photo URL    : https://www.flickr.com/photos/baka_san/6994807918/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 25 16:13:57 GMT+0200 2012
+Upload Date  : Fri May 4 05:54:19 GMT+0200 2012
+Views        : 645
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison grazing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+just outside Grand Teton
+
+
++--------+
+|  TAGS  |
++--------+
+Wyoming Bison "Grand Teton" 

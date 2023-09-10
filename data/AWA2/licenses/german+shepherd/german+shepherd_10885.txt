@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jake Sutton
+Photo URL    : https://www.flickr.com/photos/jakesutton/3082510/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 7 18:14:39 GMT+0100 2005
+Upload Date  : Sat Jan 8 02:14:39 GMT+0100 2005
+Views        : 519
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Apartment Shepherd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My dog Mingus. He's like a German Shepherd, but smaller.
+
+
++--------+
+|  TAGS  |
++--------+
+pets dog mingus 

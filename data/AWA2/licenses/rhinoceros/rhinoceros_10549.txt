@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HBarrison
+Photo URL    : https://www.flickr.com/photos/hbarrison/7189786611/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 18 08:24:33 GMT+0200 2012
+Upload Date  : Fri Jun 15 17:41:24 GMT+0200 2012
+Geotag Info  : Latitude:-24.873355, Longitude:31.643371
+Views        : 258
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sabi_2012 05 18_0435
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Morning Game Drive  /  The white rhinoceros or square-lipped rhinoceros (Ceratotherium simum) is one of the five species of rhinoceros that still exist. It has a wide mouth used for grazing and is the most social of all rhino species.
+
+
++--------+
+|  TAGS  |
++--------+
+Africa HBarrison "Harvey Barrison" Tauck "Sabi Sabi" "Kruger National Park" "South Africa" Rhino Rhinoceros "White Rhinoceros" "square-lipped rhinoceros" "Taxonomy:binomial=Ceratotherium simum" 

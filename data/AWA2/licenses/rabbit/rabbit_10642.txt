@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : treeday77
+Photo URL    : https://www.flickr.com/photos/53346708@N07/4978208835/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 10 21:49:06 GMT+0200 2010
+Upload Date  : Sat Sep 11 06:49:06 GMT+0200 2010
+Views        : 360
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lovely rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

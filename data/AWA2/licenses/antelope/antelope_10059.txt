@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ptwo
+Photo URL    : https://www.flickr.com/photos/ptwo/18383968709/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 4 08:03:57 GMT+0200 2015
+Upload Date  : Sun Jun 7 20:28:06 GMT+0200 2015
+Geotag Info  : Latitude:-25.016414, Longitude:31.484677
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+3683
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"south africa" mpumalanga "kruger national park" impala 

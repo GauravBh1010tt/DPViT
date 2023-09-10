@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : plastAnka
+Photo URL    : https://www.flickr.com/photos/plastanka/15003109277/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 6 15:32:31 GMT+0200 2014
+Upload Date  : Tue Sep 9 16:57:32 GMT+0200 2014
+Geotag Info  : Latitude:59.594276, Longitude:16.804447
+Views        : 674
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison Bonasus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal "Canon EOS 50D" "EF50mm f-1.8 II" kungsbyn västerås sweden "Bison bonasus" wisent visent 

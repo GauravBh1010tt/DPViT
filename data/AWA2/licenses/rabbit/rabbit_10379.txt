@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bird Brian
+Photo URL    : https://www.flickr.com/photos/birdbrian/15114824623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 6 19:59:36 GMT+0100 2014
+Upload Date  : Fri Nov 7 22:23:31 GMT+0100 2014
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4211
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

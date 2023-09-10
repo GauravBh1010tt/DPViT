@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USDAgov
+Photo URL    : https://www.flickr.com/photos/usdagov/19953493664/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 07:06:40 GMT+0200 2012
+Upload Date  : Fri Aug 14 22:11:12 GMT+0200 2015
+Views        : 702
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+New England Cottontail rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This New England Cottontail is easily identified by the purple ear tag used for tracking purposes. Photo courtesy of Cottontail Farm owner Tom McAvoy
+
+
++--------+
+|  TAGS  |
++--------+
+rabbits NRCS Conservation "New York" Vermont Maine "U.S. Fish and Wildlife Service" "Endangered Species Act" "Working Lands for Wildlife" Connecticut EQIP "Farm Bill" "Food Farm and Jobs Bill" 

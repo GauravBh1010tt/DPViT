@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cleanlucy123
+Photo URL    : https://www.flickr.com/photos/136187183@N05/23230268346/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 23 13:37:06 GMT+0100 2015
+Upload Date  : Mon Nov 23 22:37:54 GMT+0100 2015
+Views        : 113
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+fox-1920x1200
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+so cute
+
+
++--------+
+|  TAGS  |
++--------+
+favourite http://www.rainbowtoken.com/ 

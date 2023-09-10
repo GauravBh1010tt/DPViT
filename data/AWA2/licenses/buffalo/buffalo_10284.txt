@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tomas Caspers
+Photo URL    : https://www.flickr.com/photos/tomascaspers/120776200/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 31 18:01:27 GMT+0200 2006
+Upload Date  : Fri Mar 31 18:01:27 GMT+0200 2006
+Geotag Info  : Latitude:44.746733, Longitude:-110.676269
+Views        : 214
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wyoming yellowstone bison 

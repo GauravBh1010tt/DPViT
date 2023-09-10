@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ritzlart
+Photo URL    : https://www.flickr.com/photos/24076633@N08/5910571029/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 21 14:34:14 GMT+0200 2011
+Upload Date  : Thu Jul 7 05:10:27 GMT+0200 2011
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dsci0666
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

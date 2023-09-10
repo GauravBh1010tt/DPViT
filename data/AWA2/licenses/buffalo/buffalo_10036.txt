@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : puroticorico
+Photo URL    : https://www.flickr.com/photos/puroticorico/9497231925/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 2 11:40:04 GMT+0200 2013
+Upload Date  : Tue Aug 13 04:35:09 GMT+0200 2013
+Geotag Info  : Latitude:41.325714, Longitude:-88.911452
+Views        : 643
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American Bison Pair, Holly & Pebbles, at the Buffalo Rock State Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Starved Rock" park Illinois Utica Lasalle Ottawa history trails nature "Illinois River" waterfall water "Native American" native town "small town" path "main street" America IL dam river 

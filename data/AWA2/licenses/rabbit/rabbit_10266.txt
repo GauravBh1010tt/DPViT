@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neil T
+Photo URL    : https://www.flickr.com/photos/neilt/14541561901/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 29 10:46:50 GMT+0200 2014
+Upload Date  : Mon Jun 30 21:15:24 GMT+0200 2014
+Geotag Info  : Latitude:53.815827, Longitude:-3.010436
+Views        : 5,422
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bunny!
+
+
++--------+
+|  TAGS  |
++--------+
+blackpoolzoo bunny rabbit 

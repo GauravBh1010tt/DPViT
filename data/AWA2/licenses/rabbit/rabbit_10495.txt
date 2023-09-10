@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cbgrfx123
+Photo URL    : https://www.flickr.com/photos/72005145@N00/5739890743/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 20 11:13:05 GMT+0200 2011
+Upload Date  : Fri May 20 18:13:05 GMT+0200 2011
+Views        : 421
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hopps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Emma wanted him to lead us down the bunny hole to a new world but alas, that did not happen. :)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

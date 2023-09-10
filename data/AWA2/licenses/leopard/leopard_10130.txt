@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HockeyholicAZ
+Photo URL    : https://www.flickr.com/photos/hockeyholic/10531327804/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 27 08:46:41 GMT+0100 2013
+Upload Date  : Mon Oct 28 09:04:30 GMT+0100 2013
+Views        : 2,549
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_2213
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+leopard "phoenix zoo" fang "miley cyrus" yawn scary roar tongue 

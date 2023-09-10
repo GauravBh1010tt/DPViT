@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : k_millo
+Photo URL    : https://www.flickr.com/photos/27330306@N08/2642374626/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 6 07:04:06 GMT+0200 2008
+Upload Date  : Sun Jul 6 16:04:06 GMT+0200 2008
+Geotag Info  : Latitude:52.377380, Longitude:9.773025
+Views        : 134
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6651
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Hannover bock 

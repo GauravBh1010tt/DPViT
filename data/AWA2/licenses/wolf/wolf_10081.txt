@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Leolisa81
+Photo URL    : https://www.flickr.com/photos/leolisa81/8457575145/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 5 12:45:27 GMT+0100 2013
+Upload Date  : Sat Feb 9 14:53:53 GMT+0100 2013
+Geotag Info  : Latitude:46.204369, Longitude:11.041345
+Views        : 1,329
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+belfort lupo 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+italy wolf lupo belfort 

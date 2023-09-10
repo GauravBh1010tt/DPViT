@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Lonsdale
+Photo URL    : https://www.flickr.com/photos/davelonsdale/6246707554/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 14 10:19:11 GMT+0200 2011
+Upload Date  : Sat Oct 15 17:02:21 GMT+0200 2011
+Geotag Info  : Latitude:-1.561681, Longitude:-80.816603
+Views        : 335
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pod of three whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+With baby in front, mum and an escort
+
+
++--------+
+|  TAGS  |
++--------+
+humpback jorobada whale ballena dorsalfin 

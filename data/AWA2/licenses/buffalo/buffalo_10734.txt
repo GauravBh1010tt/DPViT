@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : YellowstoneNPS
+Photo URL    : https://www.flickr.com/photos/yellowstonenps/18614135161/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 19 11:40:33 GMT+0200 2015
+Upload Date  : Mon Jun 8 21:20:07 GMT+0200 2015
+Views        : 1,510
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moving with the herd, Lamar Valley
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cow bison and calves in Lamar Valley;
+Neal Herbert;
+May 2015;
+Catalog #20115d;
+Originial #ndh-yell-7268
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone "Yellowstone National Park" wildlife 

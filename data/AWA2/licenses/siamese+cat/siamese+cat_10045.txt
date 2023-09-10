@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/7724951216/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 07:51:21 GMT+0200 2012
+Upload Date  : Mon Aug 6 14:47:10 GMT+0200 2012
+Views        : 434
+Comments     : 31
+
+
++---------+
+|  TITLE  |
++---------+
+Is it Tuesday yet ?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Have a Great Week :))))))))))))
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese "Miss Truffles" mondays-blah "wake me when it's Tuesday" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hobgadlng
+Photo URL    : https://www.flickr.com/photos/hobgadlng/7766705254/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 19 09:04:04 GMT+0200 2012
+Upload Date  : Sun Aug 12 19:29:53 GMT+0200 2012
+Geotag Info  : Latitude:-17.789064, Longitude:25.192165
+Views        : 137
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sable Antelope (I think)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Botswana Chobe animal antelope 

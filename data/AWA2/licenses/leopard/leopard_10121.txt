@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : digitalART2
+Photo URL    : https://www.flickr.com/photos/digitalart/1141658443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 14 23:11:32 GMT+0200 2007
+Upload Date  : Fri Aug 17 01:08:36 GMT+0200 2007
+Views        : 2,630
+Comments     : 21
+
+
++---------+
+|  TITLE  |
++---------+
+Cool Cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Amur Leopard
+
+
++--------+
+|  TAGS  |
++--------+
+"Amur Leopard" Cat "Phila. Zoo" Nikon D50 "Black & White" SuperbMasterpiece BestOfFlickr "Nature Watcher" BlackRibbonBeauty ABigFave 

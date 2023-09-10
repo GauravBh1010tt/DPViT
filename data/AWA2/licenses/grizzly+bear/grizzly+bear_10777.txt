@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mwitt1337
+Photo URL    : https://pixabay.com/en/grizzly-bear-animal-wildlife-729449/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : April 18, 2015
+Uploaded     : April 20, 2015
+
++--------+
+|  TAGS  |
++--------+
+Grizzly, Bear, Animal, Wildlife, Mammal, Predator

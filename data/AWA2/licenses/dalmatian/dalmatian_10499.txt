@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photo pure
+Photo URL    : https://www.flickr.com/photos/110626600@N03/13029677134/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 8 18:13:48 GMT+0100 2014
+Upload Date  : Sun Mar 9 10:50:02 GMT+0100 2014
+Geotag Info  : Latitude:52.082431, Longitude:8.748979
+Views        : 704
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dalmatian
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dalmatian action dog moving 

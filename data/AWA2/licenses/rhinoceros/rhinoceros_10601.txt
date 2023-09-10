@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JasonParis
+Photo URL    : https://www.flickr.com/photos/jasonparis/5531244508/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 9 13:07:04 GMT+0100 2011
+Upload Date  : Wed Mar 16 04:38:12 GMT+0100 2011
+Geotag Info  : Latitude:43.822727, Longitude:-79.182774
+Views        : 227
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Toronto Zoo (Scarborough - Rouge)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+@ Rhino Pavillion.
+
+
++--------+
+|  TAGS  |
++--------+
+Toronto Zoo "Toronto Zoo" Animals Zoological Scarborough Rouge "Rouge Valley" "Indian Rhinoceros Pavillion" Rhinoceros 

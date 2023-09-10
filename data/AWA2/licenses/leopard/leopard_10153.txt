@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Furryscaly
+Photo URL    : https://www.flickr.com/photos/furryscalyman/336467892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 4 05:07:57 GMT+0100 2006
+Upload Date  : Thu Dec 28 20:15:26 GMT+0100 2006
+Geotag Info  : Latitude:47.771334, Longitude:-117.377994
+Views        : 5,852
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Fierce
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A leopard lets everyone know she's in no mood for your crap.  This is at Cat Tales Zoological Park in Mead, Washington.  They specialize in rescue of big cats, bears, and other animals in need of homes.  Their website is here:
+<a href="http://www.cattales.org" rel="nofollow">www.cattales.org</a>
+
+&quot;Panthera pardus&quot; &quot;leopard&quot; fierce ferocious mad angry grouchy grumpy aggressive aggravated disgruntled roar rawr growl snarl hiss &quot;sharp teeth&quot; teeth fangs canines &quot;canine teeth&quot; &quot;Cat Tales Zoological Park&quot; &quot;Cat Tales&quot; rescue &quot;animal rescue&quot; Mead Spokane WA Washington &quot;Washington state&quot; &quot;zoo animal&quot; zoo captivity captive chain-link fence pen penned cage caged Animalia animal taxonomy:kingdom=Animalia Chordata taxonomy:phylum=Chordata Mammalia mammal hairy furry taxonomy:class=Mammalia Carnivora carnivore meat-eater predator taxonomy:order=Carnivora Felidae feline cat taxonomy:family=Felidae Pantherinae Panthera &quot;big cat&quot; exotic &quot;exotic animal&quot; taxonomy:genus=Panthera &quot;Panthera pardus&quot; &quot;taxonomy:binomial=Panthera pardus&quot; leopard spots spotted pattern patterned yellow orange taxonomy:common=leopard &quot;endangered species&quot; endangered
+
+
++--------+
+|  TAGS  |
++--------+
+captive captivity 

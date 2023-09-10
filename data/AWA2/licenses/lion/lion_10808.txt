@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bovinity
+Photo URL    : https://www.flickr.com/photos/bovinity/137208985/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 29 12:46:50 GMT+0200 2006
+Upload Date  : Sun Apr 30 04:26:21 GMT+0200 2006
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think they spotted me...
+
+
++--------+
+|  TAGS  |
++--------+
+zoo lions 

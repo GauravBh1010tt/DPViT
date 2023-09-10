@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tom.lubbock
+Photo URL    : https://www.flickr.com/photos/tomlubbock/10652149286/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 15 16:49:16 GMT+0200 2013
+Upload Date  : Sun Nov 3 19:33:44 GMT+0100 2013
+Views        : 541
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3128
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion 

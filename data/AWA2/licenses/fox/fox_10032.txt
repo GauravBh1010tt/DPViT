@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/7381696410/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 16 16:06:51 GMT+0200 2012
+Upload Date  : Sat Jun 16 22:21:20 GMT+0200 2012
+Geotag Info  : Latitude:51.166750, Longitude:-0.049309
+Views        : 2,439
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Fox Grooming
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the British Wildlife Centre, Newchapel, Surrey; 'Frodo', with one of his sons.
+
+
++--------+
+|  TAGS  |
++--------+
+British Wildlife Centre Newchapel Surrey Fox Vulpes 2012 Frodo Peter Trimming 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jean-Marc Liotier
+Photo URL    : https://www.flickr.com/photos/liotier/2422560569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 4 08:55:49 GMT+0100 2008
+Upload Date  : Fri Apr 18 16:15:14 GMT+0200 2008
+Geotag Info  : Latitude:14.540666, Longitude:-16.999833
+Views        : 1,300
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+La Petite Cote en tandem avec Pauline
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal/African animal/black rhinoceros (diceros bicornis); Place/Continent/Africa; Place/Country/Senegal; Place/Country/Senegal/Bandia gallery2flickr "Animal/African animal/black rhinoceros (diceros bicornis)" Senegal 

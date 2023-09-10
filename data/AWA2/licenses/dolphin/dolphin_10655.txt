@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D-Stanley
+Photo URL    : https://www.flickr.com/photos/davidstanleytravel/10029930145/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 14 10:55:51 GMT+0200 2013
+Upload Date  : Tue Oct 1 03:50:34 GMT+0200 2013
+Geotag Info  : Latitude:-12.612280, Longitude:44.973993
+Views        : 4,375
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Indian Ocean Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+An Indian Ocean dolphin in the Mayotte lagoon.
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : margaretha_hopfner - 700.000+views
+Photo URL    : https://www.flickr.com/photos/margarethahopfner/3427655462/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 8 15:37:39 GMT+0200 2009
+Upload Date  : Thu Apr 9 23:48:00 GMT+0200 2009
+Views        : 320
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbaer in Schoenbrunn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Schoenbrunn Wien Zoo Zootiere Nikon Fotografie Hobby 

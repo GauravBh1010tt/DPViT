@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/11359725654/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 27 15:49:06 GMT+0200 2013
+Upload Date  : Sat Dec 14 01:00:15 GMT+0100 2013
+Geotag Info  : Latitude:47.193970, Longitude:7.603418
+Views        : 7,312
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Dog and water II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another funny picture of Cliff getting some cool water!
+
+
++--------+
+|  TAGS  |
++--------+
+"open mouth.portrait" face water spilling cooling "cooling down" hot fun male dog canine canid "german shepherd" raubtierpark subingen solothurn strickler zoo switzerland nikon d4 

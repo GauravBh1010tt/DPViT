@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PatrickRohe
+Photo URL    : https://www.flickr.com/photos/patrickrohe/5777845421/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 25 19:21:48 GMT+0200 2011
+Upload Date  : Tue May 31 00:16:43 GMT+0200 2011
+Geotag Info  : Latitude:43.665886, Longitude:-103.425981
+Views        : 250
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8214.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Along the Wildlife Loop in Custer State Park in the Black Hills, South Dakota
+
+
++--------+
+|  TAGS  |
++--------+
+bison 

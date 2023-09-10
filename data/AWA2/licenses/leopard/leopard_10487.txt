@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jagwriter78
+Photo URL    : https://www.flickr.com/photos/jagwriter78/17467378536/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 9 11:26:37 GMT+0200 2015
+Upload Date  : Sun May 10 18:53:14 GMT+0200 2015
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nap time for the Snow Leopards
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

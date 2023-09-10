@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lee Edwin Coursey
+Photo URL    : https://www.flickr.com/photos/leeco/490559491/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 28 20:04:07 GMT+0200 2007
+Upload Date  : Wed May 9 02:07:51 GMT+0200 2007
+Geotag Info  : Latitude:41.955558, Longitude:-87.779220
+Views        : 626
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2007-04 Visit to Chicago 158
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A rabbit next door
+
+
++--------+
+|  TAGS  |
++--------+
+spike robb chicago travel april 2007 chicago2007 rabbit 

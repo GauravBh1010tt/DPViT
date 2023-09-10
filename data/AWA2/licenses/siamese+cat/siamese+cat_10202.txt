@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LinaMon
+Photo URL    : https://www.flickr.com/photos/linamon/4470842263/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 28 17:19:52 GMT+0200 2010
+Upload Date  : Mon Mar 29 01:01:21 GMT+0200 2010
+Views        : 135
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+21 orejicortado
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+De vez en cuando no puedo evitar subir foto de mascota.
+
+
++--------+
+|  TAGS  |
++--------+
+21 cat gato siames 

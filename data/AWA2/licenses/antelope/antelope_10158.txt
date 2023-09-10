@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zerethv
+Photo URL    : https://www.flickr.com/photos/zereth/1506580143/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 6 11:46:20 GMT+0200 2006
+Upload Date  : Sun Oct 7 18:57:46 GMT+0200 2007
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Antilope Cuello Negro
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

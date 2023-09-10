@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cantanima
+Photo URL    : https://www.flickr.com/photos/cantanima/19852739351/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 18 14:23:29 GMT+0200 2015
+Upload Date  : Mon Jul 20 06:46:01 GMT+0200 2015
+Views        : 160
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+As one of the spectators said, &quot;!Que camino loco!&quot;
+
+(I think that's what he said. Modulo correct punctuation, of course...)
+
+
++--------+
+|  TAGS  |
++--------+
+"audubon zoo" primates "spider monkey" 

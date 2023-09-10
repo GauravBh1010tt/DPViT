@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : abbottsr
+Photo URL    : https://www.flickr.com/photos/abbottsr/6091956230/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 28 12:56:26 GMT+0200 2011
+Upload Date  : Mon Aug 29 06:49:33 GMT+0200 2011
+Geotag Info  : Latitude:29.698006, Longitude:-98.337786
+Views        : 179
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Waterbuck
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Posing for a shot
+
+
++--------+
+|  TAGS  |
++--------+
+animals african safari park texas antelope wildlife natural bridge 

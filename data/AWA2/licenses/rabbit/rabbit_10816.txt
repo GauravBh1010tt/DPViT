@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Svadilfari
+Photo URL    : https://www.flickr.com/photos/22280677@N07/2802044236/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 23 23:13:34 GMT+0200 2008
+Upload Date  : Wed Aug 27 04:26:18 GMT+0200 2008
+Views        : 4,512
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A rabbit at the Brooklyn Fair in Brooklyn, Connecticut
+
+
++--------+
+|  TAGS  |
++--------+
+"Brooklyn Connecticut" Brooklyn Connecticut "Brooklyn CT" CT "Brooklyn Fair" Fair "State Fair" "Country Fair" Country "Farm Animal" "Farm Animals" Animals Rabbit Bunny Hare "Bunny Rabbit" Pet 

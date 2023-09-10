@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nickolas Titkov
+Photo URL    : https://www.flickr.com/photos/titkov/11337142966/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 8 12:07:04 GMT+0100 2013
+Upload Date  : Thu Dec 12 12:14:56 GMT+0100 2013
+Geotag Info  : Latitude:55.827817, Longitude:37.390079
+Views        : 678
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SIA Alexy an Angel Sighs of Americano
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Сиамский кот Alexy an Angel Sighs of Americano, №118 по каталогу «Содружество-2013» (CFA). Кот. Окрас: сил пойнт (SIA n). Дата рождения: 23/01/2013. Владелец: Е.Д.Слободенюк. Клуб, город не указаны
+
+
++--------+
+|  TAGS  |
++--------+
+Sodruzhestvo "Grand Prix Royal Canin" 2013 "cat show" Moscow cats exposition Содружество "выставка кошек" Москва "Роял Канин" кошки SIA Siamese Сиамские 

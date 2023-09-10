@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : davidkn1
+Photo URL    : https://www.flickr.com/photos/david_knight/5873927322/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 12 00:10:19 GMT+0200 2011
+Upload Date  : Sun Jun 26 20:32:59 GMT+0200 2011
+Geotag Info  : Latitude:43.777911, Longitude:-103.410873
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+canon 50d 70-200 f4 L 17-55 f2.8 black hills south dakota america national park mount rushmore donkey deer buffalo countryside 

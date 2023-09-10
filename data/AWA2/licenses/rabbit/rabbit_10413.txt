@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/2782270995/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 16 18:18:47 GMT+0200 2008
+Upload Date  : Thu Aug 21 03:57:56 GMT+0200 2008
+Geotag Info  : Latitude:38.775850, Longitude:-76.065688
+Views        : 680
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Easton Bunneh
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We went over to the Eastern Shore on Saturday to visit with Art's family. The whole time we were worried about Petunia. Everywhere we turned, though, there were bunnies!
+
+
++--------+
+|  TAGS  |
++--------+
+"Talbot County" Maryland "Eastern shore" animal "Eastern cottontail" Easton "Sylvilagus floridanus" wildlife bunny rabbit 

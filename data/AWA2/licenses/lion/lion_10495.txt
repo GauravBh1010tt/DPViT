@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lauren elyse photography
+Photo URL    : https://www.flickr.com/photos/littlelaurenelyse/2402603660/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 9 14:29:51 GMT+0200 2008
+Upload Date  : Thu Apr 10 05:12:17 GMT+0200 2008
+Geotag Info  : Latitude:47.667836, Longitude:-122.350476
+Views        : 349
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Woodland Park Zoo" animals lion 

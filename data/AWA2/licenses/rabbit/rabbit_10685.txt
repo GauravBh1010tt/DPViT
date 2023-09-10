@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Albertella
+Photo URL    : https://www.flickr.com/photos/paulspace/6178672915/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 21 13:34:29 GMT+0200 2011
+Upload Date  : Sat Sep 24 23:15:05 GMT+0200 2011
+Views        : 1,581
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nonplussed
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We met this little fellow in the gardens at Dunham Massey. He made a token attempt to hide in the flower-beds when he spotted us, but he was really more interested in eating the grass.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit wildlife dunham massey 

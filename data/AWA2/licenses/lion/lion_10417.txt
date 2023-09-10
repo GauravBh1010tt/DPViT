@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/5612125718/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 1 16:48:21 GMT+0200 2011
+Upload Date  : Tue Apr 12 04:44:36 GMT+0200 2011
+Geotag Info  : Latitude:32.721686, Longitude:-97.357208
+Views        : 1,634
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Pair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fort worth zoo texas lion pair couple 

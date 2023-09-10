@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EarlRShumaker
+Photo URL    : https://www.flickr.com/photos/64141731@N03/9653197584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 1 16:48:59 GMT+0200 2013
+Upload Date  : Mon Sep 2 09:21:21 GMT+0200 2013
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+054
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hannaford Woods-Nickels Farm Forest Preserve       Kane Co., Il
+Sept. 1, 2013
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

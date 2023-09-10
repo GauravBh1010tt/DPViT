@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Günter Hentschel
+Photo URL    : https://www.flickr.com/photos/v230gh/9487823764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 11 12:04:13 GMT+0200 2013
+Upload Date  : Sun Aug 11 17:43:15 GMT+0200 2013
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo Gelsenkirchen (11.08.2013)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Besuch im Zoo von Gelsenkirchen. Auf Grund der Sommerferien in NRW war der Zoo sehr Gut Besucht.
+<a href="http://www.zoom-erlebniswelt.de/" rel="nofollow">www.zoom-erlebniswelt.de/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Löwe Bär Eisbär Kodiak Braunbär Gelsenkirchen Zoom Wildtiere Nikon D40 "Nikon D40" Deutschland Germany NRW Europa Ruhrgebiet 

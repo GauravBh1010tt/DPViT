@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tupfenmonster
+Photo URL    : https://www.flickr.com/photos/jl_209/5623654223/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 4 18:24:53 GMT+0200 2011
+Upload Date  : Sat Apr 16 12:47:15 GMT+0200 2011
+Geotag Info  : Latitude:50.049919, Longitude:8.421878
+Views        : 2,503
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Barney
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+my Barney is now 6,5 months
+ and such a cutie!
+
+
++--------+
+|  TAGS  |
++--------+
+Barney Dalmatiner dalmatian Hund dog cane Wiese Gras grass April 2011 "Canon Eos400d" 50mm "Animal Planet" 

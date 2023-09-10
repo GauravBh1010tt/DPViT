@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fihu
+Photo URL    : https://www.flickr.com/photos/fihu/8178637/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 31 11:29:45 GMT+0200 2005
+Upload Date  : Sat Apr 2 10:54:01 GMT+0200 2005
+Geotag Info  : Latitude:53.558767, Longitude:8.568992
+Views        : 429
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bears
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo bremerhaven zooammeer polarbear eisbär water wasser fight kampf animals tiere EXS100 

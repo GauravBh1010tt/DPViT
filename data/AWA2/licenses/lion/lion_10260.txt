@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jjmusgrove
+Photo URL    : https://www.flickr.com/photos/jjmusgrove/11970472473/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 26 07:40:42 GMT+0100 2013
+Upload Date  : Wed Jan 15 22:36:29 GMT+0100 2014
+Geotag Info  : Latitude:-2.723570, Longitude:34.945461
+Views        : 306
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+King Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+SONY DSC
+
+
++--------+
+|  TAGS  |
++--------+
+Tanzania OAT 

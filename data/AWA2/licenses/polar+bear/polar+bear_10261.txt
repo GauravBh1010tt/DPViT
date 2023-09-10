@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : b.roveran
+Photo URL    : https://www.flickr.com/photos/vagabondiamo/25491195064/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 23 17:55:17 GMT+0100 2016
+Upload Date  : Mon Mar 28 18:55:57 GMT+0200 2016
+Views        : 7
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Foto scattata alla mostra al "Jardin du Luxembourg" a Parigi
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+RUSSIA-SIBERIA-U.S.A.-GROENLANDIA-GIAPPONE- NORVEGIA-FINLANDIA-CANADA
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

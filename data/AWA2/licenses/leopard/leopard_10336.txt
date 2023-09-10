@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charles D P Miller
+Photo URL    : https://www.flickr.com/photos/cdpm/3651859628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 9 12:08:50 GMT+0200 2006
+Upload Date  : Mon Jun 22 22:24:42 GMT+0200 2009
+Geotag Info  : Latitude:50.992366, Longitude:-1.287288
+Views        : 850
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Leopard Marwell Zoo 

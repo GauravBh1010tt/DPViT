@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eliane C.
+Photo URL    : https://www.flickr.com/photos/camuse/12844642954/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 26 17:34:11 GMT+0100 2014
+Upload Date  : Sat Mar 1 01:19:12 GMT+0100 2014
+Geotag Info  : Latitude:47.270149, Longitude:1.376260
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Léopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo de Beauval
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

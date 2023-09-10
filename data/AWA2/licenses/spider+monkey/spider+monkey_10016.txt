@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pelican
+Photo URL    : https://www.flickr.com/photos/pelican/4893300276/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 15 09:18:08 GMT+0200 2010
+Upload Date  : Sun Aug 15 09:25:01 GMT+0200 2010
+Views        : 286
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Asahiyama zoo, Asahikawa, Japan
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+K200D "sigma apo 70-300mm F4-5.6" zoo "asahiyama zoo" asahikawa japan "spider monkey" monkey 

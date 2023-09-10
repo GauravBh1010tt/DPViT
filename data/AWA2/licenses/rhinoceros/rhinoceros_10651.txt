@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/2874383655/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 16 11:41:55 GMT+0200 2008
+Upload Date  : Sun Sep 21 12:05:58 GMT+0200 2008
+Geotag Info  : Latitude:-28.370331, Longitude:31.180143
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Ceratotherium simum</i>
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" Hluhluwe Kwazulu-Natal Mammal _Favorite_ Life 

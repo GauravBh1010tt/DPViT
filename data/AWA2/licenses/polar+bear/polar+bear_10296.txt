@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrsSchell
+Photo URL    : https://www.flickr.com/photos/mrsschell/5678807138/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 11 11:06:03 GMT+0200 2011
+Upload Date  : Mon May 2 06:09:11 GMT+0200 2011
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1142
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

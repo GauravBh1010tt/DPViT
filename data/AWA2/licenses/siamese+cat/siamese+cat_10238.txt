@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SweetGirl©
+Photo URL    : https://www.flickr.com/photos/sweetgirl32/4524262853/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 15 21:20:20 GMT+0200 2010
+Upload Date  : Fri Apr 16 03:58:47 GMT+0200 2010
+Views        : 1,090
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Blue Point Siamese
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese "blue point" 

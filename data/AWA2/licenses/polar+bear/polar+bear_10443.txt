@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spencer77
+Photo URL    : https://www.flickr.com/photos/spencer77/7992780174/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 12 11:07:30 GMT+0200 2012
+Upload Date  : Sun Sep 16 20:08:02 GMT+0200 2012
+Geotag Info  : Latitude:51.927542, Longitude:4.446201
+Views        : 1,377
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear (Ursos maritimus), Diergaarde Blijdorp
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Holland Netherlands Rotterdam Blijdorp Zoo Animal Mammal Bear polar Oso ursos 

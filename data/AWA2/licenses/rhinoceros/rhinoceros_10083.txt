@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : diastème (Sarah Giboni)
+Photo URL    : https://www.flickr.com/photos/sahlameche/10605799784/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 30 17:16:23 GMT+0100 2013
+Upload Date  : Fri Nov 1 10:34:08 GMT+0100 2013
+Views        : 199
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+# 6
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pairi daiza belgium rhinoceros animal "Pairi Daiza" 

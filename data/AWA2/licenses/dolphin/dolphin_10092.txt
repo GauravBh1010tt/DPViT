@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roger Smith
+Photo URL    : https://www.flickr.com/photos/rogersmith/7750362598/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 27 15:14:31 GMT+0200 2012
+Upload Date  : Fri Aug 10 04:32:47 GMT+0200 2012
+Views        : 2,243
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bottlenose dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is one of the bottlenose dolphins at the<a href="http://www.imms.org" rel="nofollow"> Institute for Marine Mammal Studies </a> in Gulfport, Mississippi.  IMMS is a research and education organization that also performs rescue work for injured dolphins and sea turtles.  The Ship Island photos that I've posted the last couple of days was part of an educational field trip led by one of their researchers.  It was an awesome day, and IMMS is well worth a visit if you're in the area (reservations required).
+
+
++--------+
+|  TAGS  |
++--------+
+"bottlenose dolphin" dolphin "Institute for Marine Mammal Studies" IMMS marine mammal gulfport mississippi 

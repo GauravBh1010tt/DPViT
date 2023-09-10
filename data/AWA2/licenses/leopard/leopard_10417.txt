@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sebastien.faillon
+Photo URL    : https://www.flickr.com/photos/128090976@N08/19582578616/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 11 14:22:11 GMT+0200 2015
+Upload Date  : Sat Jul 11 19:21:10 GMT+0200 2015
+Geotag Info  : Latitude:49.792180, Longitude:5.079245
+Views        : 282
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Léopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Panthère Léopard Jaguar 

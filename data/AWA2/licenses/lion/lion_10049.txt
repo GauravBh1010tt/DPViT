@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/3012798973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 7 17:01:05 GMT+0100 2008
+Upload Date  : Sat Nov 8 20:15:44 GMT+0100 2008
+Geotag Info  : Latitude:3.207832, Longitude:101.756486
+Views        : 228
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+African Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Negara
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo negara malaysia selangor kl kuala lumpur wildlife nature animals 

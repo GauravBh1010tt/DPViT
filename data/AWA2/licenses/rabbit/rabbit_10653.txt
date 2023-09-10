@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Theresa_QViews
+Photo URL    : https://www.flickr.com/photos/theresa_qviews/6035489130/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 12 09:08:57 GMT+0200 2011
+Upload Date  : Fri Aug 12 16:08:57 GMT+0200 2011
+Views        : 558
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+mb-110812-bp
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of Rupert
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit 

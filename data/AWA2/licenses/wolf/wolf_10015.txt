@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8635790323/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 29 13:44:48 GMT+0100 2012
+Upload Date  : Wed Apr 10 06:00:12 GMT+0200 2013
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 17,364
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf walking on the rocks
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A wolf walking on the rocks of his enclosure, you can see drops of water!...
+
+
++--------+
+|  TAGS  |
++--------+
+walking rocks stone water approaching brown mongolian wolf canine canid dog zürich zoo switzerland nikon d4 

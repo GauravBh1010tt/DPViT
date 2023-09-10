@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sheribeari
+Photo URL    : https://www.flickr.com/photos/bysheribeari/6560213285/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 26 08:36:37 GMT+0100 2009
+Upload Date  : Fri Dec 23 19:09:27 GMT+0100 2011
+Views        : 181
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Christmas 2009
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"german shepherd" dog pet 

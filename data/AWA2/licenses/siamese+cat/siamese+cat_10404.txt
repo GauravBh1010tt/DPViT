@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dreamsjung
+Photo URL    : https://www.flickr.com/photos/dreamsjung/5170184984/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 7 11:05:09 GMT+0100 2010
+Upload Date  : Fri Nov 12 20:37:52 GMT+0100 2010
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sammy @ the Westside Co-op
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+olympia washington olywa oly cat siamese westside co-op 

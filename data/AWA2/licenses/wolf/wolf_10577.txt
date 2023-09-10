@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ocultado
+Photo URL    : https://www.flickr.com/photos/ocultado/2749641564/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 9 10:26:44 GMT+0200 2008
+Upload Date  : Sun Aug 10 14:18:08 GMT+0200 2008
+Geotag Info  : Latitude:53.354444, Longitude:-6.305165
+Views        : 493
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolves
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Dublin Zoo" wolves 

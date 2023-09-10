@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rainbirder
+Photo URL    : https://www.flickr.com/photos/rainbirder/4827679516/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 30 11:37:54 GMT+0200 2009
+Upload Date  : Sun Jul 25 19:43:46 GMT+0200 2010
+Geotag Info  : Latitude:6.177419, Longitude:81.071205
+Views        : 1,843
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lord of all he surveys!
+
+
++--------+
+|  TAGS  |
++--------+
+"Panthera pardus kotiya" "Sri Lankan Leopard" SpecAnimal 

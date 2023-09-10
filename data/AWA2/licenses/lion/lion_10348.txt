@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kitty Terwolbeck
+Photo URL    : https://www.flickr.com/photos/kittysfotos/6807962226/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 2 15:27:21 GMT+0100 2012
+Upload Date  : Mon Mar 5 01:28:52 GMT+0100 2012
+Geotag Info  : Latitude:52.366595, Longitude:4.914493
+Views        : 2,108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion cub Kianga
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Day at the Zoo - Artis Amsterdam, The Netherlands
+
+
++--------+
+|  TAGS  |
++--------+
+zoo artis dierentuin animals dieren nature natuur "lion cub" welp welpje lion leeuw 

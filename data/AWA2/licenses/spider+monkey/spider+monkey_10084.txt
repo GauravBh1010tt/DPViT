@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : taubinphoto
+Photo URL    : https://www.flickr.com/photos/taubinphoto/8258156811/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 9 10:23:14 GMT+0100 2012
+Upload Date  : Sun Dec 9 22:15:44 GMT+0100 2012
+Views        : 137
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Looking back
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spider Monkey
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EOS 600D" "EF-S55-250mm f/4-5.6 IS II" "¹⁄₁₀₀ sec at f/8.0" "250 mm" "Auckland Zoo" Auckland "Spider Monkey" 

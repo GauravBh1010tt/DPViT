@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/7024880129/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 29 16:28:45 GMT+0200 2010
+Upload Date  : Wed Mar 28 22:46:08 GMT+0200 2012
+Views        : 3,790
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison on the National Elk Refuge
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bison investigates a section of pipeline that would later be installed as part of an American Recovery and Reinvestment Act (ARRA) project. The ARRA project significantly expanded the National Elk Refuge's irrigation system.
+
+Credit: Lori Iverson / USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+"bison buffalo" usfws "national elk refuge" "wildlife refuge" "National Wildlife Refuge System" "U.S. FISH AND WILDLIFE SERVICE" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mohd fahmi
+Photo URL    : https://www.flickr.com/photos/pump937/803713243/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 11:16:25 GMT+0200 2007
+Upload Date  : Sat Jul 14 05:16:25 GMT+0200 2007
+Views        : 233
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+PB271961.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+arnab rabbit bunny 

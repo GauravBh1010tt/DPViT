@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lolilujah
+Photo URL    : https://www.flickr.com/photos/lolilujah/8088037938/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 13 11:11:25 GMT+0200 2012
+Upload Date  : Mon Oct 15 00:28:04 GMT+0200 2012
+Views        : 2,162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin at Sea World, San Diego
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo can be downloaded and used for whatever your own &quot;porpoises,&quot; EXCEPT FOR MONEY (because that's stealing, and stealing makes everyone sad).
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin point rocky preserve sea world seaworld san diego california ca interaction connection connections jumping playing feeding swimming smiling captive captivity train trained trainer weigh weighing scale 

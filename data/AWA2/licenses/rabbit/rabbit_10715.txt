@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : caligula1995
+Photo URL    : https://www.flickr.com/photos/pussreboots/14387363194/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 18 11:47:36 GMT+0200 2013
+Upload Date  : Tue Jun 10 07:01:52 GMT+0200 2014
+Geotag Info  : Latitude:37.750269, Longitude:-122.147287
+Views        : 280
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P6186608D Oakland Zoo 20130618
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rabbits at the zoo
+
+
++--------+
+|  TAGS  |
++--------+
+2013 "Oakland Zoo" rabbit 

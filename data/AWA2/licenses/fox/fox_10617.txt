@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Courtney Emery
+Photo URL    : https://www.flickr.com/photos/c_emery/17136183153/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 13 16:37:34 GMT+0200 2015
+Upload Date  : Sun May 17 05:16:24 GMT+0200 2015
+Views        : 182
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal fox 

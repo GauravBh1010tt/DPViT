@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wwarby
+Photo URL    : https://www.flickr.com/photos/wwarby/2405267726/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 1 12:52:10 GMT+0200 2008
+Upload Date  : Fri Apr 11 09:50:59 GMT+0200 2008
+Geotag Info  : Latitude:-1.905530, Longitude:34.088570
+Views        : 4,830
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Impala
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Male Impala in the Serengeti grasses turning to scratch his back with more animals from the heard in the background in the Serengeti National Park, Tanzania
+
+PERMISSION TO USE: you are welcome to use this photo free of charge for any purpose including commercial. I am not concerned with how attribution is provided - a link to my flickr page or my name is fine. If the used in a context where attribution is impractical, that's fine too. I want my photography to be shared widely. I like hearing about where my photos have been used so please send me links, screenshots or photos where possible.
+
+
++--------+
+|  TAGS  |
++--------+
+70-300mm Africa E-510 Olympus "Olympus E-510" SLR Tanzania Zuiko "Zuiko Digital" abroad animal antlers digital-camera digital-slr family grass herd holiday horns impala mammal nature outdoors safari vacation wild wildlife 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jenniffer Baltzell
+Photo URL    : https://www.flickr.com/photos/jjfbaltzell/14658744457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 29 12:55:23 GMT+0100 2013
+Upload Date  : Wed Aug 6 19:49:21 GMT+0200 2014
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otto, 20 weeks, one day
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+GSD "German Shepherd Dog" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Schristia
+Photo URL    : https://www.flickr.com/photos/schristia/4637967242/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 22 15:41:23 GMT+0200 2010
+Upload Date  : Tue May 25 05:30:32 GMT+0200 2010
+Views        : 1,957
+Comments     : 36
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinoceros  (DSC_0126)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals rhinoceros zoo SpecAnimal 

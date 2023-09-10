@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/9550949605/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 12 16:07:12 GMT+0200 2013
+Upload Date  : Tue Aug 20 08:54:09 GMT+0200 2013
+Geotag Info  : Latitude:80.811844, Longitude:21.217813
+Views        : 2,596
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+In the wild - where they should be.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A selection of images from a recent trip to Svalbard.
+<a href="http://www.flickr.com/photos/smudge9000/sets/72157634799866136/">See the full set here eventually...</a>
+
+
++--------+
+|  TAGS  |
++--------+
+2013 Arctic Bear Ice Pack Polar "Polar Bear" Summer Svalbard "Ursus maritimus" "Svalbard and Jan Mayen" 

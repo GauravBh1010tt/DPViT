@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VirtualWolf
+Photo URL    : https://www.flickr.com/photos/virtualwolf/14232626178/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 14 13:52:43 GMT+0200 2014
+Upload Date  : Sat Jun 14 15:25:36 GMT+0200 2014
+Geotag Info  : Latitude:-33.809073, Longitude:150.764053
+Views        : 1,103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German shepherd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EOS 7D" Australia "New South Wales" "Canon EF 35mm f/1.4L USM" Techniques "Orchard Hills" Sydney Places "Dogs on Show" 2014 Domesticated Events Bokeh Equipment "German shepherd" Dog Animal 

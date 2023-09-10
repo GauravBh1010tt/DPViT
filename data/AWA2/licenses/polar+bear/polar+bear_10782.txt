@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : okano
+Photo URL    : https://www.flickr.com/photos/okano/3455033148/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 18 11:58:49 GMT+0200 2009
+Upload Date  : Sun Apr 19 07:54:05 GMT+0200 2009
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+olympus zuiko 

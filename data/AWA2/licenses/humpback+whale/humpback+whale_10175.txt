@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gregory "Slobirdr" Smith
+Photo URL    : https://www.flickr.com/photos/slobirdr/15683130514/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 13 10:42:52 GMT+0200 2010
+Upload Date  : Sun Jan 18 04:47:17 GMT+0100 2015
+Geotag Info  : Latitude:44.392579, Longitude:-66.340942
+Views        : 7,676
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale (Megaptera novaeangliae)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I am fortunate that I see quite a few whales of different species on my Naturalist Journeys tours.  But I have to admit that it is not very often that one (actually two on this day) just floats at the surface ten feet away from our boat...
+
+
++--------+
+|  TAGS  |
++--------+
+"Humpback Whale (Megaptera novaeangliae)" "Bay of Fundy" "Nova Scotia" "Brier Island Seabird & Whale Cruises" "marine mammal" "Gregory Slobirdr Smith" NaturalistJourneys.com 

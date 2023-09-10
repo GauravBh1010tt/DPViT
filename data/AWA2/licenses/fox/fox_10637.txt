@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aries Tottle
+Photo URL    : https://www.flickr.com/photos/aries_tottle/17906692378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 17:00:00 GMT+0200 2015
+Upload Date  : Mon May 25 22:24:18 GMT+0200 2015
+Geotag Info  : Latitude:41.225989, Longitude:23.591330
+Views        : 539
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Vulpes vulpes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Αλεπού στο  βουνό Λαϊλιάς Σερρών (όρη Βροντούς), γνωστή και ως «η πονήρω» ή «η Μαριώ».
+
+The red fox, Vulpes vulpes, is the largest of the true foxes and the most abundant wild member of the Carnivora, being present across the entire Northern Hemisphere from the Arctic Circle to North Africa, Central America and Asia.
+
+
++--------+
+|  TAGS  |
++--------+
+fox vulpes αλεπού "taxonomy:binomial=Vulpes vulpes" 

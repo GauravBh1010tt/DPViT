@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/7699813272/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 31 02:12:02 GMT+0200 2012
+Upload Date  : Thu Aug 2 23:10:21 GMT+0200 2012
+Views        : 1,324
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Interns visit the Black-Footed Ferrets
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In the summer of 2012, USFWS Region 6 interns visited the National Black-Footed Ferret Conservation Center (NBFFCC) in Wellington, Colorado. First species spotted was a cottontail bunny.
+
+For more information visit: <a href="http://blackfootedferret.org/" rel="nofollow">blackfootedferret.org/</a>
+
+Credit: Ryan Moehring / USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+"cottontail rabbit" bunny USFWS FWS GSA "Black-footed ferret" ferret 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : saf2285
+Photo URL    : https://www.flickr.com/photos/31468017@N04/3839740858/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 13 19:31:15 GMT+0200 2009
+Upload Date  : Thu Aug 20 13:30:13 GMT+0200 2009
+Views        : 83
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bolivia Pampas 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/2784885610/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 16 19:14:38 GMT+0200 2008
+Upload Date  : Thu Aug 21 20:10:08 GMT+0200 2008
+Geotag Info  : Latitude:38.784381, Longitude:-76.221148
+Views        : 1,148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Smaller Bunneh!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"talbot county" bunny rabbit "St. Michael's" "Eastern Cottontail" "Sylvilagus floridanus" wildlife mammal lagomorph grass 

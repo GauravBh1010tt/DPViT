@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cletch
+Photo URL    : https://www.flickr.com/photos/cletch/7984333296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 5 20:10:12 GMT+0200 2012
+Upload Date  : Fri Sep 14 04:33:57 GMT+0200 2012
+Views        : 344
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yellowstone National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Buffalo as far as the eye can see
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo bison 

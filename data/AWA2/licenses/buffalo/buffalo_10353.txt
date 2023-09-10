@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Irene's Pics
+Photo URL    : https://www.flickr.com/photos/irenes_pics/4074335277/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 4 04:52:50 GMT+0100 2009
+Upload Date  : Wed Nov 4 13:52:50 GMT+0100 2009
+Views        : 26
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

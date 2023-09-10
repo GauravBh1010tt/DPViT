@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Julie, Dave & Family
+Photo URL    : https://www.flickr.com/photos/dave_minogue/38816883/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 28 16:18:25 GMT+0200 2005
+Upload Date  : Wed Aug 31 08:35:52 GMT+0200 2005
+Geotag Info  : Latitude:32.735974, Longitude:-117.149620
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_5282733
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego" animals zoo animal california usa 

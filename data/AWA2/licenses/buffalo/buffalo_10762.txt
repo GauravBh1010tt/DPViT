@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : deux-chi
+Photo URL    : https://www.flickr.com/photos/deux-chi/20059800532/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 22 14:54:57 GMT+0200 2015
+Upload Date  : Tue Jul 28 07:54:40 GMT+0200 2015
+Geotag Info  : Latitude:44.740363, Longitude:-110.488453
+Views        : 105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+p7227609
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"West Yellowstone" Montana "United States" bison 

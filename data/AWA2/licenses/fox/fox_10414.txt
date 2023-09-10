@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daliscar1
+Photo URL    : https://www.flickr.com/photos/daliscar/16225765620/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 2 07:58:57 GMT+0200 2010
+Upload Date  : Sat Jan 31 23:05:36 GMT+0100 2015
+Views        : 84
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leicester Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+SONY DSC
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

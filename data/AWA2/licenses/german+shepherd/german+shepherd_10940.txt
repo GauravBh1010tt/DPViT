@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : shikiro famu
+Photo URL    : https://www.flickr.com/photos/phantomm_/5819534931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 3 18:33:19 GMT+0200 2011
+Upload Date  : Sat Jun 11 04:52:36 GMT+0200 2011
+Views        : 152
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog german shepherd canine water lake river rocks stones 

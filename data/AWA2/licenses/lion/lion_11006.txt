@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pijpers662
+Photo URL    : https://www.flickr.com/photos/8259447@N06/18253578226/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 14 14:28:47 GMT+0200 2015
+Upload Date  : Sat May 30 23:36:58 GMT+0200 2015
+Views        : 188
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo Antwerp
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Belgium
+
+
++--------+
+|  TAGS  |
++--------+
+FX zoo antwerpen D610 lion 

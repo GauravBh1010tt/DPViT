@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Coolstock
+Photo URL    : https://www.flickr.com/photos/michaelwitzel/2622836242/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 29 17:42:06 GMT+0200 2008
+Upload Date  : Mon Jun 30 00:42:06 GMT+0200 2008
+Views        : 1,279
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Gray Fox Family
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+coolstock_hcr_mammals "Urocyon cinereoargenteus" "common gray fox" fox mammal Canidae 

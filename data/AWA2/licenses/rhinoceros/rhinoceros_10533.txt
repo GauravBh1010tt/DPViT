@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : camophoto
+Photo URL    : https://www.flickr.com/photos/camophoto/3718265613/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 13 13:26:40 GMT+0200 2009
+Upload Date  : Tue Jul 14 03:23:53 GMT+0200 2009
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Louisville Zoo" Zoo rhinoceros 

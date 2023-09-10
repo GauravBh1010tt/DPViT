@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fessell810
+Photo URL    : https://www.flickr.com/photos/brindle95/9444511277/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 16 17:25:41 GMT+0200 2013
+Upload Date  : Mon Aug 5 22:41:08 GMT+0200 2013
+Geotag Info  : Latitude:-3.753263, Longitude:-73.233661
+Views        : 650
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Amazon 

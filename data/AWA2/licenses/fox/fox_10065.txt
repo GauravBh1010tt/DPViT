@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gregory "Slobirdr" Smith
+Photo URL    : https://www.flickr.com/photos/slobirdr/14140441518/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 1 12:40:46 GMT+0200 2014
+Upload Date  : Mon Jun 2 09:00:59 GMT+0200 2014
+Views        : 10,158
+Comments     : 14
+
+
++---------+
+|  TITLE  |
++---------+
+Alaska Red Fox (Vulpes vulpes)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Foraging alongside Safety Sound Road out of Nome, AK, she was not the least concerned about us or the pair of ravens hoping for a handout...
+
+
++--------+
+|  TAGS  |
++--------+
+"Alaska Red Fox" "Alaskan Red Fox" "Nome AK" Nome Alaska "Seward Peninsula" 

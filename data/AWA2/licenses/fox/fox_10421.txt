@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dzivnieku briviba
+Photo URL    : https://www.flickr.com/photos/dzivniekubriviba/8503465980/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 7 03:37:01 GMT+0200 2012
+Upload Date  : Sun Feb 24 12:33:18 GMT+0100 2013
+Geotag Info  : Latitude:56.809231, Longitude:26.228055
+Views        : 758
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Madona AB 02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox farming fur 

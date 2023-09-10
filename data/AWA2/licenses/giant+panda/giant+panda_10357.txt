@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wbrentprice
+Photo URL    : https://www.flickr.com/photos/wbrentprice/23028186555/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 6 11:18:34 GMT+0200 2011
+Upload Date  : Sun Nov 15 07:40:32 GMT+0100 2015
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3486.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

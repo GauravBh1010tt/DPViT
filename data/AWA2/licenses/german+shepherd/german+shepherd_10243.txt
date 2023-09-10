@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : miz_ginevra
+Photo URL    : https://www.flickr.com/photos/ginevra/4523519380/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 13 08:20:34 GMT+0200 2010
+Upload Date  : Thu Apr 15 16:44:30 GMT+0200 2010
+Views        : 315
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+EARS
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+nom nom nom
+
+
++--------+
+|  TAGS  |
++--------+
+"Miss Marie Tyree" "german shepherd" puppy ridiculous 

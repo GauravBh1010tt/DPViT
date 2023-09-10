@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : noeljordan
+Photo URL    : https://www.flickr.com/photos/noeljordan/11462360295/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 17 13:04:20 GMT+0100 2013
+Upload Date  : Fri Dec 20 10:54:52 GMT+0100 2013
+Views        : 349
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo-67
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal animals singapore photography photo photograph wildlife wild forest 

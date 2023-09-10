@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SiSter PhotograPher
+Photo URL    : https://www.flickr.com/photos/chasingmechasingyou/2058338197/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 23 23:26:18 GMT+0100 2007
+Upload Date  : Sat Nov 24 06:26:18 GMT+0100 2007
+Views        : 33,553
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf in New Mexico
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wolf Sanctuary in New Mexico
+w/ Leyton Cougar. Awesome place everyone should visit in New Mexico
+
+
++--------+
+|  TAGS  |
++--------+
+Wolf 

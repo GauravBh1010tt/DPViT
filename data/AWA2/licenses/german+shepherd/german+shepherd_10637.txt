@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pideaux
+Photo URL    : https://www.flickr.com/photos/pideaux/5132386405/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 21 17:00:06 GMT+0200 2010
+Upload Date  : Sun Oct 31 20:28:49 GMT+0100 2010
+Views        : 503
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Mill Race
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Nuke "GSD mix" mutt "German Shepherd" "Sheperd Mix" Indiana 

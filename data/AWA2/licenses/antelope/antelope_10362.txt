@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LaggedOnUser
+Photo URL    : https://www.flickr.com/photos/47847725@N04/4530692953/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 27 12:57:28 GMT+0100 2010
+Upload Date  : Sun Apr 18 16:21:04 GMT+0200 2010
+Views        : 506
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+East African bongo front view
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+East African bongo front view
+
+
++--------+
+|  TAGS  |
++--------+
+color jacksonville florida canon photo photography photos zoo garden jacksonvillezoo animal animals nature mammal mammals bongo antelope onehorned 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roy.luck
+Photo URL    : https://www.flickr.com/photos/royluck/5945928647/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 26 15:28:11 GMT+0200 2011
+Upload Date  : Sun Jul 17 15:51:07 GMT+0200 2011
+Geotag Info  : Latitude:49.300463, Longitude:-123.131160
+Views        : 516
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin, Vancouver aquarium
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Alex's birthday
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

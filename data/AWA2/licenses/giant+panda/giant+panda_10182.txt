@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : feserc
+Photo URL    : https://www.flickr.com/photos/feserc/3512078761/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 3 08:59:53 GMT+0200 2009
+Upload Date  : Fri May 8 13:54:40 GMT+0200 2009
+Geotag Info  : Latitude:30.665380, Longitude:104.064559
+Views        : 422
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eating
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chengdu china panda 

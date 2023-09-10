@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jondreyer
+Photo URL    : https://www.flickr.com/photos/jondreyer/14613455664/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 6 07:10:44 GMT+0200 2014
+Upload Date  : Wed Jul 9 23:56:19 GMT+0200 2014
+Geotag Info  : Latitude:42.350492, Longitude:-73.326438
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

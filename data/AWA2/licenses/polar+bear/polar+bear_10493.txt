@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : puliarf
+Photo URL    : https://www.flickr.com/photos/puliarfanita/22224562760/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 28 09:18:26 GMT+0200 2015
+Upload Date  : Fri Oct 23 18:02:57 GMT+0200 2015
+Views        : 2,231
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear Snicker
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A comical expression like this bear is about to tell a joke.  Kaktovik, AK on Barter Island.  Action Photo tour 2015
+
+
++--------+
+|  TAGS  |
++--------+
+alaska kaktovik,alaska "arctic ocean" "arctic circle" bear "polar bear" "kaktovik tours" "action photo tours" Iñupiat fairbanks "Barter Island" "wild bears" Marsh Creek Inn 

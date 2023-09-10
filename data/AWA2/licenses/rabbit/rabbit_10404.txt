@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/7823431946/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 19 03:21:00 GMT+0200 2012
+Upload Date  : Mon Aug 20 15:44:11 GMT+0200 2012
+Geotag Info  : Latitude:39.916278, Longitude:-75.323274
+Views        : 8,365
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eastern Cottontail Rabbit (Sylvilagus floridanus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+backyard rabbit 

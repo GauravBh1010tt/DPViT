@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neil Tackaberry
+Photo URL    : https://www.flickr.com/photos/23629083@N03/5998064454/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 21 15:08:49 GMT+0200 2011
+Upload Date  : Mon Aug 1 15:09:13 GMT+0200 2011
+Views        : 403
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+SnowLeopard-02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dublin Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+cat feline "big cat" predator "dublin zoo" dublin zoo yawn teeth "snow leopard" snow leopard yawning irish "irish moments" ireland wild wildlife animal neil_t 

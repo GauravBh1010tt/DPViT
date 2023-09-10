@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Linwood
+Photo URL    : https://www.flickr.com/photos/johnlinwood/223202051/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 23 12:30:58 GMT+0200 2006
+Upload Date  : Thu Aug 24 00:14:04 GMT+0200 2006
+Geotag Info  : Latitude:51.149094, Longitude:0.614204
+Views        : 6,287
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Snow leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Snow leopard
+
+
++--------+
+|  TAGS  |
++--------+
+"big cats" "Wildlife Heritage Foundation" "Experience Seminars" snow leopard "snow leopard" utata_feature public whf 

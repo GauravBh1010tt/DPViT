@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : clofresh
+Photo URL    : https://www.flickr.com/photos/clofresh/252898794/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 22 14:25:04 GMT+0200 2006
+Upload Date  : Tue Sep 26 03:35:51 GMT+0200 2006
+Views        : 259
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Azn bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animals washingtondc panda 

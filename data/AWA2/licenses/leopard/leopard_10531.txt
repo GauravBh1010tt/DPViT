@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BigTallGuy
+Photo URL    : https://www.flickr.com/photos/bigtallguy/103369877/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 23 10:51:20 GMT+0100 2006
+Upload Date  : Thu Feb 23 11:51:20 GMT+0100 2006
+Views        : 575
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Relaxed
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Amur Leopard (Panthera pardus orientalis) at Twycross Zoo, Atherstone, Warwickshire.
+
+
++--------+
+|  TAGS  |
++--------+
+300d Amur Leopard twycross zoo "twycross zoo" atherstone sigma 28-200mm 

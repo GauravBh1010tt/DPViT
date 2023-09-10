@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Luke Brooks
+Photo URL    : https://www.flickr.com/photos/lukebrooksdesign/4974349000/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 8 17:09:26 GMT+0200 2010
+Upload Date  : Thu Sep 9 17:23:52 GMT+0200 2010
+Views        : 206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+28-84mm sigma lens test.
+
+
++--------+
+|  TAGS  |
++--------+
+28-84mm sigma 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bryce Bradford
+Photo URL    : https://www.flickr.com/photos/brb_photography/3456454171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 18 16:47:19 GMT+0200 2009
+Upload Date  : Sun Apr 19 23:37:04 GMT+0200 2009
+Views        : 352
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sydney
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bottlenose dolphins sea world san diego california olympus e-500 zuiko 40-150mm f/3.5-4.5 

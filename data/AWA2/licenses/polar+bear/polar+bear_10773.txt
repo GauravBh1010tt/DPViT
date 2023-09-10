@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karamellzucker
+Photo URL    : https://www.flickr.com/photos/karamell/4083996418/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 28 13:19:33 GMT+0200 2009
+Upload Date  : Sat Nov 7 21:31:56 GMT+0100 2009
+Geotag Info  : Latitude:49.454311, Longitude:11.073940
+Views        : 329
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Uahhhhhhhhhrrrr
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Eisbär Flocke müde gähnen Zoo Nürnberg "Tiergarten Nürnberg" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : riana_dzasta
+Photo URL    : https://www.flickr.com/photos/riana_dzasta/519353170/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 20 14:35:28 GMT+0200 2006
+Upload Date  : Tue May 29 07:05:28 GMT+0200 2007
+Views        : 1,696
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+A sad dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My dalmatian-blue heeler cross, looking miserable about the cold. Then again, dalmatians always manage to look a little dissatisfied :)
+
+
++--------+
+|  TAGS  |
++--------+
+dog "blue heeler" morose dalmatian 

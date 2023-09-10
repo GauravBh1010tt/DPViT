@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PacificKlaus
+Photo URL    : https://www.flickr.com/photos/pacificklaus/4010666702/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 6 00:03:31 GMT+0200 2009
+Upload Date  : Wed Oct 14 05:57:27 GMT+0200 2009
+Geotag Info  : Latitude:19.575317, Longitude:-156.016845
+Views        : 1,060
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Exhaling
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kona Hawaii Dolphin "marine mammal" "under water" 

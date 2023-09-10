@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OnyxDog86
+Photo URL    : https://www.flickr.com/photos/75471828@N03/8525775958/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 7 16:02:49 GMT+0100 2011
+Upload Date  : Sun Mar 3 20:53:47 GMT+0100 2013
+Views        : 3,097
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eating Leftovers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in West Yellowstone. Summit was enjoying a snack of elk ribs.
+
+Shot through glass.
+
+
++--------+
+|  TAGS  |
++--------+
+wolf canine wild Yellowstone pack meat dog 

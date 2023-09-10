@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foto4lizzie
+Photo URL    : https://www.flickr.com/photos/foto4lizzie/4945465849/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 21 03:33:22 GMT+0200 2010
+Upload Date  : Tue Aug 31 20:41:08 GMT+0200 2010
+Geotag Info  : Latitude:52.535385, Longitude:19.702177
+Views        : 252
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4782
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Płock zoo leopard snooze snoozing sleeping nap animal feline 

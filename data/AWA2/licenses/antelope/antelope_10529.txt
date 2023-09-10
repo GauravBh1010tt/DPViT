@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Luca Esposti
+Photo URL    : https://www.flickr.com/photos/luca-esposti/5553072754/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 17 14:37:26 GMT+0100 2011
+Upload Date  : Wed Mar 23 14:11:49 GMT+0100 2011
+Geotag Info  : Latitude:-3.154228, Longitude:40.061645
+Views        : 991
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6957
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+kenya antilope 

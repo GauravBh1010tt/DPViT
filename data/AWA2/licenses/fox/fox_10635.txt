@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MIKI Yoshihito (´･ω･)
+Photo URL    : https://www.flickr.com/photos/mujitra/23805919693/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 17 16:10:40 GMT+0100 2016
+Upload Date  : Sun Jan 17 10:37:55 GMT+0100 2016
+Views        : 453
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Vulpes vulpes schrencki.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+キタキツネに遭遇。
+
+
++--------+
+|  TAGS  |
++--------+
+Vulpes schrencki "Vulpes vulpes schrencki" fox キタキツネ 北狐 hokkaido sapporo 滝野 滝野すずらん丘陵公園 国営滝野すずらん丘陵公園 

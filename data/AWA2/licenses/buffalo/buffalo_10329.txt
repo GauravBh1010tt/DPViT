@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnrosner
+Photo URL    : https://www.flickr.com/photos/68273161@N00/2859796241/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 22 18:57:22 GMT+0200 2008
+Upload Date  : Mon Sep 15 21:16:04 GMT+0200 2008
+Views        : 87
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

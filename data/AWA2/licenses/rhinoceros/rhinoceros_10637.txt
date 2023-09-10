@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cpence
+Photo URL    : https://www.flickr.com/photos/pence/6095118550/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 11 17:37:21 GMT+0200 2011
+Upload Date  : Tue Aug 30 02:53:15 GMT+0200 2011
+Geotag Info  : Latitude:-27.900535, Longitude:32.264657
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinoceros (Ceratotherium simum)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I *think* all the rhinos we saw were actually white rhinos, part of a breeding population.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

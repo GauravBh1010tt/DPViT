@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/17944939282/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 3 17:49:48 GMT+0200 2015
+Upload Date  : Fri May 22 01:00:20 GMT+0200 2015
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 7,289
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Standing arctic wolf looking at me
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A pretty arctic wolf standing...
+
+
++--------+
+|  TAGS  |
++--------+
+standing posing portrait face rock arctic polar white beige wolf canine canid dog amnéville zoo france nikon d4 

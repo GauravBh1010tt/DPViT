@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bdunnette
+Photo URL    : https://www.flickr.com/photos/bdunnette/5338175428/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 28 16:28:19 GMT+0100 2010
+Upload Date  : Sun Jan 9 05:20:28 GMT+0100 2011
+Geotag Info  : Latitude:32.244911, Longitude:-111.166920
+Views        : 722
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mexican Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

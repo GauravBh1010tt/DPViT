@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Spiegel
+Photo URL    : https://www.flickr.com/photos/spiegel/140275296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 4 14:55:42 GMT+0200 2006
+Upload Date  : Thu May 4 14:45:44 GMT+0200 2006
+Geotag Info  : Latitude:34.498015, Longitude:132.441756
+Views        : 427
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+in ASA ZOO, Hiroshima, Japan (<a href="http://www.baldanders.info/spiegel/remark/archives/000198.shtml" rel="nofollow">blog</a>)
+<a href="http://geobloggers.tafoni.net/" rel="nofollow">Geotagged </a>
+<a href="http://clip.alpslab.jp/bin/rd?flickr=140275296" rel="nofollow">[地図を表示]</a>
+
+
++--------+
+|  TAGS  |
++--------+
+japan hiroshima zoo geotagged geo:tool=GMiF geo:lat=34.4980153 geo:lon=132.4417567 

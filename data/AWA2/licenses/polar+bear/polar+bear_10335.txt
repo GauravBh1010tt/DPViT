@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Naoharu
+Photo URL    : https://www.flickr.com/photos/s_naoharu/3999345836/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 10 15:57:25 GMT+0200 2009
+Upload Date  : Sat Oct 10 23:52:48 GMT+0200 2009
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7316
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jon Niola
+Photo URL    : https://www.flickr.com/photos/jniola/18789191364/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 1 15:28:33 GMT+0200 2015
+Upload Date  : Sat Jul 4 19:11:22 GMT+0200 2015
+Views        : 150
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Young lions hanging out.
+
+
++--------+
+|  TAGS  |
++--------+
+"North Carolina Zoo" 

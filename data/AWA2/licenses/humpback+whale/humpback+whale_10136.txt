@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spi516
+Photo URL    : https://www.flickr.com/photos/spi/1352923376/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 8 10:18:41 GMT+0200 2007
+Upload Date  : Mon Sep 10 01:39:16 GMT+0200 2007
+Geotag Info  : Latitude:42.541445, Longitude:-70.616683
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Go down
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+whale humpback 

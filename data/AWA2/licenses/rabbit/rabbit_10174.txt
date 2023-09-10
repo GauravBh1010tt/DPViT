@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : howcheng
+Photo URL    : https://www.flickr.com/photos/howcheng/445803639/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 3 07:23:27 GMT+0200 2007
+Upload Date  : Wed Apr 4 08:12:37 GMT+0200 2007
+Views        : 1,142
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny bunny bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I believe this is a <a href="http://en.wikipedia.org/wiki/Desert_Cottontail" rel="nofollow">Desert Cottontail</a> (<i>Sylvilagus audubonii</i>), but could use some help with the species identification. Taken in my yard in Thousand Oaks, California.
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit "Sylvilagus audubonii" 

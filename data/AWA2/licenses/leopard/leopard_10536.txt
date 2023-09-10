@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marfis75
+Photo URL    : https://www.flickr.com/photos/marfis75/3646704672/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 19 15:13:41 GMT+0200 2009
+Upload Date  : Sun Jun 21 12:31:36 GMT+0200 2009
+Geotag Info  : Latitude:51.239794, Longitude:7.108798
+Views        : 1,772
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+right side
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scheeleopard
+
+
++--------+
+|  TAGS  |
++--------+
+right profile profil cat katze schneeleopard leopard raubkatze wild zoo zootier snowleopard ounce kölnerzoo zooköln animal marifis75 köln marfis75 "marfis75 on flickr" cc 

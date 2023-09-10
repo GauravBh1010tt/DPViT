@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ajmexico
+Photo URL    : https://www.flickr.com/photos/ajmexico/3936018274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 10 09:46:39 GMT+0200 2009
+Upload Date  : Sun Sep 20 03:33:35 GMT+0200 2009
+Views        : 1,251
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lioness
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lazy Lioness at Greenville, SC Zoo. Nice kitty.
+
+
++--------+
+|  TAGS  |
++--------+
+animals zoo lion cat closeup 

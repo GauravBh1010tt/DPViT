@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/4020660743/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 4 07:48:36 GMT+0200 2009
+Upload Date  : Sun Oct 18 05:54:30 GMT+0200 2009
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sometimes the grass is greener . . .
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Only one male has access to the females - the others are kept in a separate pasture
+The first set from the 2009 photo camp at The Wilds (October session)
+
+
++--------+
+|  TAGS  |
++--------+
+"Paul's pic" 2009 "The wilds" "photo camp" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobBixbyPhotography
+Photo URL    : https://www.flickr.com/photos/scubabix/8279956810/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 16 09:35:09 GMT+0100 2012
+Upload Date  : Mon Dec 17 03:08:32 GMT+0100 2012
+Geotag Info  : Latitude:30.402740, Longitude:-81.645506
+Views        : 326
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+JaxZoo_12-16-12-4362.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Jacksonville zoo Florida animals lion leopard bonobo monkey birds 

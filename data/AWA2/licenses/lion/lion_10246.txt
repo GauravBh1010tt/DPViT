@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobBixbyPhotography
+Photo URL    : https://www.flickr.com/photos/scubabix/16219259158/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 30 22:01:41 GMT+0100 2015
+Upload Date  : Sat Jan 31 04:04:35 GMT+0100 2015
+Geotag Info  : Latitude:30.399946, Longitude:-81.643763
+Views        : 742
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+JaxZoo_1-30-15-4893
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Jacksonville zoo animals" lion lioness lions 

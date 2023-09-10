@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gurdonark
+Photo URL    : https://www.flickr.com/photos/46183897@N00/8650675322/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 15 02:25:15 GMT+0200 2013
+Upload Date  : Mon Apr 15 02:15:34 GMT+0200 2013
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cottontail rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+glendover park allen texas 

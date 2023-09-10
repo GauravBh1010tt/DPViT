@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mzpi
+Photo URL    : https://www.flickr.com/photos/mzpi/4488988369/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 12 13:16:06 GMT+0100 2010
+Upload Date  : Sun Apr 4 14:24:40 GMT+0200 2010
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+s-DSC_0219
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

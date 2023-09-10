@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amkelley1
+Photo URL    : https://www.flickr.com/photos/131262400@N02/16623171790/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 13 16:31:54 GMT+0100 2015
+Upload Date  : Sat Mar 14 12:28:10 GMT+0100 2015
+Views        : 282
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lazy Friday
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tasha, 8 months, relaxing on a Friday afternoon.
+
+
++--------+
+|  TAGS  |
++--------+
+german shepherd dog puppy cute canon 5d mkii 

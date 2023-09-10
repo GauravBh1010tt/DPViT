@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : serenamatthews
+Photo URL    : https://www.flickr.com/photos/serenamatthews/523475068/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 31 10:15:06 GMT+0200 2007
+Upload Date  : Thu May 31 19:15:06 GMT+0200 2007
+Geotag Info  : Latitude:42.277308, Longitude:-70.290527
+Views        : 238
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+As seen on a whale cruise off the coast of Cape Cod.  The original isn't blurry, something went funky when I scanned it in. My scanner sucks.
+
+
++--------+
+|  TAGS  |
++--------+
+whale "cape cod" "whale tail" 

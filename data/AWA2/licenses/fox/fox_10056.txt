@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Glen Bowman
+Photo URL    : https://www.flickr.com/photos/glenbowman/7354917500/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 4 16:35:26 GMT+0200 2012
+Upload Date  : Sat Jun 9 19:31:02 GMT+0200 2012
+Geotag Info  : Latitude:55.263908, Longitude:-1.699533
+Views        : 725
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A fox close up - Eshott Heugh Animal Park, Felton, Northumberland
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Zoo "Animal Park" Cute Farm Mammal Northumberland England UK "Great Britain" "North East" 

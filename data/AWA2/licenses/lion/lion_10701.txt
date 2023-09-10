@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gregw66
+Photo URL    : https://www.flickr.com/photos/gregw66/3685502702/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 13 17:55:24 GMT+0200 2006
+Upload Date  : Fri Jul 3 22:32:34 GMT+0200 2009
+Geotag Info  : Latitude:-20.385831, Longitude:16.914688
+Views        : 756
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lioness
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Aloegrove Lion 

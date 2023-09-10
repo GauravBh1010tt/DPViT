@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edenpictures
+Photo URL    : https://www.flickr.com/photos/edenpictures/2837461319/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 1 00:00:02 GMT+0200 2008
+Upload Date  : Mon Sep 8 02:29:03 GMT+0200 2008
+Geotag Info  : Latitude:40.853633, Longitude:-73.876533
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo zoo "Bronx Zoo" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Junnosuke_Y
+Photo URL    : https://www.flickr.com/photos/junnosuke_y/3946528816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 20 11:30:10 GMT+0200 2009
+Upload Date  : Wed Sep 23 03:28:11 GMT+0200 2009
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+アムールヒョウ 神戸市立王子動物園 "150.0 mm f/2.0" "Kobe Zoo" 

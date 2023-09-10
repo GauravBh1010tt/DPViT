@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AndyLawson
+Photo URL    : https://www.flickr.com/photos/andylawson/3376597920/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 23 12:08:17 GMT+0100 2008
+Upload Date  : Sun Mar 22 19:33:32 GMT+0100 2009
+Views        : 2,403
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Madrid Zoo" panda eating bamboo giant "ailuropoda melanoleuca" 

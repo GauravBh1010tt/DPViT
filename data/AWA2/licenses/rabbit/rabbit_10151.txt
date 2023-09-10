@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Better Than Bacon
+Photo URL    : https://www.flickr.com/photos/slurm/2527442381/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 26 20:10:23 GMT+0200 2008
+Upload Date  : Tue May 27 16:40:25 GMT+0200 2008
+Views        : 699
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bunbun right
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+universityofwesternontario uwo bunny rabbit nature cute 

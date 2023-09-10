@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : avilasal
+Photo URL    : https://www.flickr.com/photos/7608209@N08/17054183427/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 21:40:58 GMT+0200 2015
+Upload Date  : Sat Apr 25 07:00:48 GMT+0200 2015
+Geotag Info  : Latitude:-25.268333, Longitude:27.124128
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pilanesberg Reserve, South Africa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

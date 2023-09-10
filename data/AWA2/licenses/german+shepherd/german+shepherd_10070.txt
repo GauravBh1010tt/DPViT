@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andreaarden
+Photo URL    : https://www.flickr.com/photos/andrea_arden/8339917027/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 2 22:51:11 GMT+0100 2013
+Upload Date  : Thu Jan 3 05:03:04 GMT+0100 2013
+Views        : 3,289
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Aspen Dogs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Labrador Mix and German Shepherd Dog
+
+
++--------+
+|  TAGS  |
++--------+
+"wheaten terrier" vizla "siberian husky" "rhodesian ridgeback" "golden retriever" goldendoodle "german sheperd" labradoodle "border collie" "bernese mountain dog" "jack russell terrier" aspen colorado dogs "dog parks" 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/14833748138/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 6 09:18:23 GMT+0100 2013
+Upload Date  : Sun Aug 24 17:22:29 GMT+0200 2014
+Views        : 1,655
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wintry Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison have thick skin and fur, long hair and lots of fat, allowing them to stay warm in the cold winter months.
+
+Photo Credit: USFWS / Cindy Souders
+
+
++--------+
+|  TAGS  |
++--------+
+USFWS FWS "U.S. FISH AND WILDLIFE SERVICE" "U.S. FISH & WILDLIFE SERVICE" "National Wildlife Refuge System" Refuge CONSERVATION NATURE WILDLIFE "Rocky Mountain Arsenal National Wildlife Refuge" Bison 

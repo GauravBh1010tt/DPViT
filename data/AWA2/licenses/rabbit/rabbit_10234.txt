@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kristine Paulus
+Photo URL    : https://www.flickr.com/photos/kpaulus/7390166892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 16 07:01:11 GMT+0200 2012
+Upload Date  : Mon Jun 18 01:42:53 GMT+0200 2012
+Views        : 525
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+New York Botanical Garden
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

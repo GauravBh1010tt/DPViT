@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/5478269619/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 5 07:15:12 GMT+0100 2010
+Upload Date  : Sat Feb 26 13:28:56 GMT+0100 2011
+Views        : 3,068
+Comments     : 160
+
+
++---------+
+|  TITLE  |
++---------+
+Truffles
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Texture by - Dyrk.Wyst : <a href="http://www.flickr.com/photos/dyrkwyst/5295730705">www.flickr.com/photos/dyrkwyst/5295730705</a>
+Texture by- encounter-Laura : <a href="http://www.flickr.com/photos/dontellaura/5469899148">www.flickr.com/photos/dontellaura/5469899148</a>
+
+Happy Caturday !
+
+
++--------+
+|  TAGS  |
++--------+
+Truffles texture cat siamese "Happy Caturday" 

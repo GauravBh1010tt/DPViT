@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hirotomo
+Photo URL    : https://www.flickr.com/photos/travelstar/39148371/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 21 14:17:59 GMT+0200 2004
+Upload Date  : Thu Sep 1 10:03:15 GMT+0200 2005
+Views        : 4,007
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+izu-mitsu sea-paradise
+at 2004
+
+
++--------+
+|  TAGS  |
++--------+
+travel izu dolphin aquarium 

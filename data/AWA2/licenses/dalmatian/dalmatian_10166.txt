@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/8701934373/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 17 14:17:45 GMT+0100 2013
+Upload Date  : Thu May 2 21:59:29 GMT+0200 2013
+Views        : 1,231
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Angespannt
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+März 2013
+Canon EOS 40D
+EF-S 55-250mm f/4-5.6 IS II
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hündin dog dalmatiner female dalmatian Dalmatinac schnee snow 

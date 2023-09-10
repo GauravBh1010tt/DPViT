@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jutuzga
+Photo URL    : https://www.flickr.com/photos/22478339@N05/2167288338/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 21 13:53:14 GMT+0100 2007
+Upload Date  : Fri Jan 4 23:22:42 GMT+0100 2008
+Views        : 1,245
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sad?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+german shepherd alsatian dog 

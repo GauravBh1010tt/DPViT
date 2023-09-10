@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MTSOfan
+Photo URL    : https://www.flickr.com/photos/mtsofan/28881156151/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 11 12:10:22 GMT+0200 2016
+Upload Date  : Sat Aug 13 19:27:06 GMT+0200 2016
+Geotag Info  : Latitude:40.662204, Longitude:-75.627105
+Views        : 91
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+A Little Shy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I've been unable, today, to upload onto Flickr, but it looks like it might work this time!
+
+This is a spotted skunk, the smallest of all the skunk species.  Despite the name, the spotted skunk has no spots -- unless you count the one on its forehead.
+
+
++--------+
+|  TAGS  |
++--------+
+spilogale "spotted skunk" shy timid skunk LVZ 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dr. T
+Photo URL    : https://www.flickr.com/photos/neillturner/2939666951/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 13 21:38:59 GMT+0200 2008
+Upload Date  : Tue Oct 14 04:23:07 GMT+0200 2008
+Views        : 1,111
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A hot day in Tampa means most of the animals are taking a nap in the hot sun including the lions
+
+
++--------+
+|  TAGS  |
++--------+
+africa meerkat tiger lion gorilla habitat safari giraffe zebra antelope nature wildlife roar hyena busch gardens tampa wild 

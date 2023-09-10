@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SteFou!
+Photo URL    : https://www.flickr.com/photos/stephen-oung/8056573307/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 22 11:42:19 GMT+0200 2012
+Upload Date  : Fri Oct 5 15:39:55 GMT+0200 2012
+Views        : 228
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Snow leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Germany Leipzig People Travel 

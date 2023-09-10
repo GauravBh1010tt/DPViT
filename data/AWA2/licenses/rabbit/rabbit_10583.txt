@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : goingslo
+Photo URL    : https://www.flickr.com/photos/goingslo/8898649555/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 29 06:06:18 GMT+0200 2013
+Upload Date  : Fri May 31 08:55:23 GMT+0200 2013
+Views        : 7,671
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Jack Rabbit - A Series
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Early morning visitor to the yard (taken through the window).
+As he moved across the weed-whacked grasses the many ticks on his ears really showed up.
+
+
++--------+
+|  TAGS  |
++--------+
+"Jack Rabbit" Rabbit Hare "Linda Tanner" GoingSLO "It's In My Nature Photography" 

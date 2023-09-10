@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EmilyGrace Photography
+Photo URL    : https://www.flickr.com/photos/emilygracephotography/6716827387/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 17 16:36:57 GMT+0100 2012
+Upload Date  : Tue Jan 17 23:36:57 GMT+0100 2012
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Johnathan the Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Houston Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Greyhawk68
+Photo URL    : https://www.flickr.com/photos/greyhawk68/520996185/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 27 06:48:08 GMT+0200 2007
+Upload Date  : Wed May 30 04:32:49 GMT+0200 2007
+Geotag Info  : Latitude:41.834899, Longitude:-87.833160
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo2007--31F
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal brookfield dolphin 

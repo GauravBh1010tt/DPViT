@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AngieCarvajal
+Photo URL    : https://www.flickr.com/photos/angiecarvajal/5425951159/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 7 15:44:38 GMT+0100 2011
+Upload Date  : Mon Feb 7 23:59:33 GMT+0100 2011
+Views        : 1,138
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nana *0*
+<a href="http://www.angiecarvajal.com" rel="nofollow">www.angiecarvajal.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Angie Carvajal Colombia photography cardozo Bucaramanga Santander "diseño gráfico" Fotografía 

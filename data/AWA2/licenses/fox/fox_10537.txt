@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AcrylicArtist
+Photo URL    : https://www.flickr.com/photos/acrylicartist/8155961497/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 3 21:40:04 GMT+0100 2012
+Upload Date  : Mon Nov 5 01:35:01 GMT+0100 2012
+Views        : 20,564
+Comments     : 116
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Red Fox (Vulpes vulpes
+
+
++--------+
+|  TAGS  |
++--------+
+Fox "Red Fox" Vulpes TheGALAXY COTH5 SpecAnimal 

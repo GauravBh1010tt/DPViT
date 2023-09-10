@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edenpictures
+Photo URL    : https://www.flickr.com/photos/edenpictures/8556305284/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 10 01:37:24 GMT+0100 2013
+Upload Date  : Thu Mar 14 01:34:51 GMT+0100 2013
+Views        : 354
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"American Museum of Natural History" "New York City" Manhattan "Upper West Side" NYC animal taxidermy specimen stuffed Asian mammal 

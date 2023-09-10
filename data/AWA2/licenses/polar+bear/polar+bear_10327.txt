@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joebaz
+Photo URL    : https://www.flickr.com/photos/joebaz/4707219745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 11 01:54:53 GMT+0200 2010
+Upload Date  : Thu Jun 17 02:21:36 GMT+0200 2010
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5730
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

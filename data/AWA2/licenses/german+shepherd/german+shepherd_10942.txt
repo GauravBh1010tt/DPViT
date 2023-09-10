@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/6347619631/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 15 13:35:45 GMT+0100 2011
+Upload Date  : Tue Nov 15 20:15:53 GMT+0100 2011
+Geotag Info  : Latitude:51.568904, Longitude:0.046429
+Views        : 150
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+autumn 2011 "Wanstead Park" Max "German Shepherd" "German Shepherd Dog" GSD 

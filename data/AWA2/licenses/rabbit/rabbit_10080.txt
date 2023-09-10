@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OC Always
+Photo URL    : https://www.flickr.com/photos/ocalways/21106479648/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 7 18:20:16 GMT+0200 2015
+Upload Date  : Thu Sep 10 13:46:47 GMT+0200 2015
+Views        : 395
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Apple Bunny 2c
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Truth: bunnies like apples more than carrots!
+
+
++--------+
+|  TAGS  |
++--------+
+buny rabbit wild brown grass apple 

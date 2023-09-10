@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Frank.Vassen
+Photo URL    : https://www.flickr.com/photos/42244964@N03/3926374325/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 7 11:31:55 GMT+0200 2009
+Upload Date  : Wed Sep 16 22:26:32 GMT+0200 2009
+Views        : 1,437
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Black Rhino, Etosha National Park, Namibia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Namibia Etosha "Diceros bicornis" Diceros "Black Rhinoceros" "Hook-lipped Rhinoceros" Rhinoceros Spitzmaulnashorn "Schwarzes Nashorn" Nashorn "Rhinocéros noir" Rhinocéros 

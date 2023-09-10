@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rick McCharles
+Photo URL    : https://www.flickr.com/photos/rickmccharles/4791032801/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 12 05:35:00 GMT+0200 2010
+Upload Date  : Wed Jul 14 00:10:57 GMT+0200 2010
+Views        : 294
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+East Coast Trail, Newfoundland
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit hare bunny hike hiking besthike besthike.com 

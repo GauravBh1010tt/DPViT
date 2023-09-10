@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/9602207492/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 26 19:10:39 GMT+0200 2013
+Upload Date  : Mon Aug 26 20:16:10 GMT+0200 2013
+Geotag Info  : Latitude:51.561833, Longitude:0.007167
+Views        : 401
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleeping Dogs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Photo Stream" Ben Bessy WideAngle GSD "German Shepherd" dog sleep 

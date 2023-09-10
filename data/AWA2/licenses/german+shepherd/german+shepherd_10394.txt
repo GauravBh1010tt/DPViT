@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : garryknight
+Photo URL    : https://www.flickr.com/photos/garryknight/2490866374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 3 12:24:33 GMT+0200 2008
+Upload Date  : Wed May 14 00:08:53 GMT+0200 2008
+Views        : 6,427
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherds
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at A Country Affair at Morden Hall Park, Surrey.
+
+
++--------+
+|  TAGS  |
++--------+
+"german shepherd" alsatian dog "A Country Affair" "Morden Hall Park" Surrey Canon 40D "Creative Commons" 

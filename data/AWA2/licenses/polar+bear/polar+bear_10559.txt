@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/2769825530/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 15 09:05:07 GMT+0200 2008
+Upload Date  : Sun Aug 17 04:19:07 GMT+0200 2008
+Views        : 148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Toledo Zoo - 2008
+
+
++--------+
+|  TAGS  |
++--------+
+"Paul's Pic" 2008 "Toledo Zoo" Ohio Zoo 

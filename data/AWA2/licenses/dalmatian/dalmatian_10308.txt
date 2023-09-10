@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tachyondecay
+Photo URL    : https://www.flickr.com/photos/tachyondecay/173561078/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 26 14:14:37 GMT+0100 2005
+Upload Date  : Sat Jun 24 03:19:49 GMT+0200 2006
+Geotag Info  : Latitude:48.289789, Longitude:-89.468536
+Views        : 708
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sky
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My sister's dog, Sky.  I'm rather afraid of dogs, and she isn't an exception, but once she stops barking, she is cute.
+
+
++--------+
+|  TAGS  |
++--------+
+animals dogs dalmatians 

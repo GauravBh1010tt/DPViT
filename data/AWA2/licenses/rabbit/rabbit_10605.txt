@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vivatier
+Photo URL    : https://www.flickr.com/photos/vivatier/4462185008/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 6 17:32:00 GMT+0200 2007
+Upload Date  : Thu Mar 25 10:07:04 GMT+0100 2010
+Views        : 317
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kleintiere_17
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kleintiere Kleintier Hamster Meerschwein Frettchen Hase 

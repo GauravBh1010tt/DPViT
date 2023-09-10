@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/5199249187/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 16 11:56:04 GMT+0200 2010
+Upload Date  : Mon Nov 22 23:38:46 GMT+0100 2010
+Geotag Info  : Latitude:57.037414, Longitude:9.898660
+Views        : 17,963
+Comments     : 142
+
+
++---------+
+|  TITLE  |
++---------+
+Swimming polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I also like this picture, how the instant is captured and its composition. The red object underwater is a big ball.
+
+Picture taken in the Aalborg zoo, Denmark.
+
+
++--------+
+|  TAGS  |
++--------+
+bear polar ursus white beige swimming water cold ball waves fun zoo aalborg denmark holidays nikon d300 

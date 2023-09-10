@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Zemlinki!
+Photo URL    : https://www.flickr.com/photos/zemlinki/176933060/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 31 15:23:56 GMT+0100 2005
+Upload Date  : Wed Jun 28 11:49:38 GMT+0200 2006
+Views        : 434
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He has a strange relationship with curtains.  He likes to hide behind them, eat them, and poo on them.
+
+
++--------+
+|  TAGS  |
++--------+
+2005 Bunny nikon d50 

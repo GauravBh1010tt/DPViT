@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kennethkonica
+Photo URL    : https://www.flickr.com/photos/littlebiglens/21429788374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 9 07:28:06 GMT+0200 2015
+Upload Date  : Fri Oct 9 14:28:06 GMT+0200 2015
+Views        : 1,895
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+One of my favorite animals in wildlife.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+You don't see a rabbit often and they don't stick around very long but it must be that I was a big fan of Bugs Bunny.
+
+
++--------+
+|  TAGS  |
++--------+
+"canon powershot" canon animal random usa america midwest "marion county" indiana indianapolis indy fun color city green grass lawn rabbit "animal eyes" eyes summer wildlife furry ears bunny nature still yard "animal planet" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/8070535659/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 9 13:35:43 GMT+0200 2012
+Upload Date  : Tue Oct 9 14:40:54 GMT+0200 2012
+Geotag Info  : Latitude:51.561833, Longitude:0.007333
+Views        : 292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two worn out dogs...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Maxx Bessy GSD "German Shepherd" Dog 

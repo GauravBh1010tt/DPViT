@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bjorn.watland
+Photo URL    : https://www.flickr.com/photos/bjornwatland/8568989808/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 9 16:47:00 GMT+0200 2012
+Upload Date  : Mon Mar 18 15:11:05 GMT+0100 2013
+Views        : 82
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P6099622.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus digital camera
+
+
++--------+
+|  TAGS  |
++--------+
+"como zoo" "spider monkey" 

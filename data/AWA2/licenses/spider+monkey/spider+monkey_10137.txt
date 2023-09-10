@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Sträter
+Photo URL    : https://www.flickr.com/photos/stuutje/4030026996/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 19 12:29:47 GMT+0200 2009
+Upload Date  : Tue Oct 20 21:29:36 GMT+0200 2009
+Geotag Info  : Latitude:50.868785, Longitude:6.045510
+Views        : 381
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Roodgezicht slingeraap
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+GaiaPark Kerkrade Dierentuin Zoo "Roodgezicht slingeraap" "Red-faced spider monkey" "Guiana Spider Monkey" "Red-faced Black Spider Monkey" 

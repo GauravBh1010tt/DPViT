@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/9707719469/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 9 11:48:00 GMT+0200 2013
+Upload Date  : Mon Sep 9 16:21:34 GMT+0200 2013
+Views        : 2,452
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Maxx!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+GSD dog "German Shepherd" Maxx 

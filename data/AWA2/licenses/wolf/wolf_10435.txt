@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bill Hails
+Photo URL    : https://www.flickr.com/photos/billhails/1018924996/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 5 11:11:44 GMT+0200 2007
+Upload Date  : Sun Aug 5 17:47:47 GMT+0200 2007
+Views        : 25
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo 

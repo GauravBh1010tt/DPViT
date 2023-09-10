@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/7652923214/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 10:50:48 GMT+0200 2012
+Upload Date  : Fri Jul 27 01:41:03 GMT+0200 2012
+Geotag Info  : Latitude:33.096215, Longitude:-116.999759
+Views        : 1,430
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lowland Nyala (Nyala angasii) and Grant's Gazelle (Nanger granti) babies
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The nyala (Nyala angasii), also called inyala, is a South African spiral-horned antelope. The coat is rusty or rufous brown in females and juveniles that grows a dark brown or slate grey in adult males, often with a bluish tinge. Females and young males have ten or more white vertical stripes on their sides. 
+
+The Grant's gazelle (Nanger granti) is a species of gazelle. Its populations are distributed from northern Tanzania to southern Sudan and Ethiopia. The most distinguishing feature of this pale fawn gazelle is the distinct vertical black stripe that runs down either side of the white buttocks. The underparts and inner legs are also white, and the tail is white at the base but has longer black hair towards the tip. The eyes are set in leaf-shaped, jet-black patches of skin.
+
+Photographed at San Diego Zoo Safari Park in Escondido, CA
+
+
++--------+
+|  TAGS  |
++--------+
+gazelle Grant's hoofstock animal mammal baby "Nanger granti" Nyala Lowland Africa "Nyala angasii" 

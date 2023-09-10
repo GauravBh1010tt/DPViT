@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DrGBB
+Photo URL    : https://www.flickr.com/photos/drgbb/7971823568/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 14 08:02:37 GMT+0200 2012
+Upload Date  : Mon Sep 10 18:09:42 GMT+0200 2012
+Views        : 90
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

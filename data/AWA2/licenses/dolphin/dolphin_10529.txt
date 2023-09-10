@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gabriman
+Photo URL    : https://www.flickr.com/photos/gabriman/5413989199/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 17 01:36:34 GMT+0200 2010
+Upload Date  : Fri Feb 4 00:16:20 GMT+0100 2011
+Geotag Info  : Latitude:39.452929, Longitude:-0.345125
+Views        : 114
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Dulces sueños
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Delfín Oceanographic Valencia acuario 

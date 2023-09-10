@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Edwin_Cheng
+Photo URL    : https://www.flickr.com/photos/edwincheng1/6153553780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 13 14:01:01 GMT+0200 2011
+Upload Date  : Fri Sep 16 19:36:32 GMT+0200 2011
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

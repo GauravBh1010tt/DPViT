@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rakugo
+Photo URL    : https://www.flickr.com/photos/jdlrobson/5557834805/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 13 17:03:55 GMT+0100 2011
+Upload Date  : Fri Mar 25 12:13:38 GMT+0100 2011
+Geotag Info  : Latitude:18.017915, Longitude:-88.615722
+Views        : 366
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey hanging out
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lamanai belize boat trip nature spider monkey 

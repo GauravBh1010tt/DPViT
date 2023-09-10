@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yoppy
+Photo URL    : https://www.flickr.com/photos/spilt-milk/10106725/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 17 16:13:10 GMT+0200 2005
+Upload Date  : Wed Apr 20 16:09:32 GMT+0200 2005
+Views        : 1,447
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Dalmatian
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog dalmatian 

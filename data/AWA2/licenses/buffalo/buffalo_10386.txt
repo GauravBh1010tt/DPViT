@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ben Christenson
+Photo URL    : https://www.flickr.com/photos/benchristenson/5601737513/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 21 21:06:33 GMT+0200 2004
+Upload Date  : Sat Apr 9 05:50:12 GMT+0200 2011
+Views        : 231
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Side of road, Alaska.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

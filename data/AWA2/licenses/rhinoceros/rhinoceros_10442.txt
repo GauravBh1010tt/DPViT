@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jesse Hollington
+Photo URL    : https://www.flickr.com/photos/jhollington/427508959/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 7 14:27:11 GMT+0200 2006
+Upload Date  : Tue Mar 20 02:07:18 GMT+0100 2007
+Views        : 113
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals toronto zoo 

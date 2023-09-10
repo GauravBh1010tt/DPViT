@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Five Furlongs
+Photo URL    : https://www.flickr.com/photos/fivefurlongs/4651023059/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 27 23:26:07 GMT+0200 2010
+Upload Date  : Sun May 30 03:50:55 GMT+0200 2010
+Views        : 439
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Fetch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog doggy pup puppy "dog beach" beach nj "new jersey" manesquan play playing run running sand ocean bay mer "german shepherd" male 

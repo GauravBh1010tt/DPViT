@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Borja Laullón
+Photo URL    : https://www.flickr.com/photos/blaullon/5560886853/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 4 12:32:42 GMT+0200 2009
+Upload Date  : Sat Mar 26 16:34:59 GMT+0100 2011
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea World-47
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sea World" "San Diego" California aquarium 

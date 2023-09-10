@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TAKA@P.P.R.S
+Photo URL    : https://www.flickr.com/photos/takapprs_flickr/11377075663/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 14 13:46:39 GMT+0100 2013
+Upload Date  : Sun Dec 15 04:02:22 GMT+0100 2013
+Views        : 152
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+【寫眞倶楽部】第壱回活動 @上野動物園_035
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+上野動物園 Ueno Zoo 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : synspectrum
+Photo URL    : https://www.flickr.com/photos/epector/20211034723/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 23 17:58:23 GMT+0200 2015
+Upload Date  : Mon Aug 24 05:01:13 GMT+0200 2015
+Views        : 275
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Springbrook Prairie, DuPage CO
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

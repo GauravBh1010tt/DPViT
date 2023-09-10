@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : madprime
+Photo URL    : https://www.flickr.com/photos/madprime/6314865020/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 31 10:20:59 GMT+0100 2011
+Upload Date  : Sat Nov 5 13:04:55 GMT+0100 2011
+Views        : 407
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+polarbear berlin zoo 

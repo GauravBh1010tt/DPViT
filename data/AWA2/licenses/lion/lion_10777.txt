@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jay-W
+Photo URL    : https://www.flickr.com/photos/15788688@N07/5535249797/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 16 23:47:40 GMT+0100 2011
+Upload Date  : Thu Mar 17 22:22:33 GMT+0100 2011
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

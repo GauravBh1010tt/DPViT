@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joffwilliams
+Photo URL    : https://www.flickr.com/photos/joffwilliams/4240837900/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 3 14:12:54 GMT+0100 2010
+Upload Date  : Sun Jan 3 14:50:12 GMT+0100 2010
+Views        : 165
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox in back garden
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox 

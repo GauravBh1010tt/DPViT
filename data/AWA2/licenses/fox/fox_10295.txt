@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kindl_jiri
+Photo URL    : https://www.flickr.com/photos/kindl_jiri/8905350189/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 8 14:45:01 GMT+0200 2013
+Upload Date  : Fri May 31 23:02:35 GMT+0200 2013
+Geotag Info  : Latitude:49.230924, Longitude:16.532814
+Views        : 239
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Fox 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/393896021/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 5 13:54:57 GMT+0100 2007
+Upload Date  : Sun Feb 18 12:08:04 GMT+0100 2007
+Geotag Info  : Latitude:-25.283333, Longitude:31.864833
+Views        : 169
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grumpy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kruger National Park" "South Africa" Africa Kruger rhino rhinoceros "white rhino" 

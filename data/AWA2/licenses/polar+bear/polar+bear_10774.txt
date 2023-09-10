@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kanegen
+Photo URL    : https://www.flickr.com/photos/kanegen/1845354798/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 3 11:35:46 GMT+0100 2007
+Upload Date  : Sat Nov 3 18:37:15 GMT+0100 2007
+Geotag Info  : Latitude:35.715507, Longitude:139.770523
+Views        : 229
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Ueno Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tokyo Ueno Zoo Animal 東京 上野 動物園 動物 2007 photo 写真 landscape 風景 景色 风景 tokio 

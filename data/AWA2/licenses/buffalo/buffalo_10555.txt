@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : climbingcrystal
+Photo URL    : https://www.flickr.com/photos/46053374@N05/4797752711/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 14 05:50:45 GMT+0200 2010
+Upload Date  : Fri Jul 16 05:59:22 GMT+0200 2010
+Views        : 348
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Children at Play
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The bison roam free at Custer State Park. We were greeted by the herd at the end of our hike.
+
+
++--------+
+|  TAGS  |
++--------+
+july bison hiking custer 

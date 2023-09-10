@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : scambelo_delete
+Photo URL    : https://www.flickr.com/photos/cambelo/2502619142/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 17 13:21:44 GMT+0200 2008
+Upload Date  : Sun May 18 18:49:49 GMT+0200 2008
+Geotag Info  : Latitude:40.409660, Longitude:-3.763230
+Views        : 128
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gacela
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Zoo de Madrid" Animales Animals 

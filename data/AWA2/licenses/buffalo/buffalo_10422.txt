@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : University of Exeter
+Photo URL    : https://www.flickr.com/photos/26126239@N02/8050455532/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 19 13:00:04 GMT+0100 2010
+Upload Date  : Wed Oct 3 16:13:54 GMT+0200 2012
+Views        : 182
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Montana State University Bozeman Biosciences study abroad 

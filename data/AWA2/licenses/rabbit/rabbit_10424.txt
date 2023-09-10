@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DanielaC173
+Photo URL    : https://www.flickr.com/photos/daniela_naturephotography/15450837880/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 26 17:26:02 GMT+0100 2014
+Upload Date  : Sun Oct 26 23:33:00 GMT+0100 2014
+Views        : 4,357
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+European Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Oryctolagus cuniculus</i>.
+
+Freezing before fleeing. They usually notice me before I notice them, but this time it was the other way around and I got close enough to elicit the freeze response and get this startled look.
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife "European Rabbit" coelho coelho-bravo "Oryctolagus cuniculus" 

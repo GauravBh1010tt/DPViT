@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : baynado1978
+Photo URL    : https://www.flickr.com/photos/baynado/2600649314/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 22 13:40:41 GMT+0200 2008
+Upload Date  : Sun Jun 22 15:29:37 GMT+0200 2008
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär :-D
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Zoom Erlebniswelt Gelsenkirchen 

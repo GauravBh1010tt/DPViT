@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : julialat34
+Photo URL    : https://www.flickr.com/photos/julialat34/6138846710/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 4 15:06:28 GMT+0200 2011
+Upload Date  : Mon Sep 12 03:42:31 GMT+0200 2011
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

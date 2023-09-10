@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wjklos
+Photo URL    : https://www.flickr.com/photos/wjklos/5170613326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 12 18:05:15 GMT+0100 2010
+Upload Date  : Sat Nov 13 00:05:15 GMT+0100 2010
+Geotag Info  : Latitude:32.606989, Longitude:-117.243347
+Views        : 3,816
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+whale mammal ocean humpback sandiego water gray blue "breach Humpback Whale in San Diego" 

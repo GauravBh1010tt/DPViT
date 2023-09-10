@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tomas Öhberg
+Photo URL    : https://www.flickr.com/photos/82814923@N08/14228846677/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 10 12:21:12 GMT+0200 2014
+Upload Date  : Sat Jun 14 00:01:16 GMT+0200 2014
+Views        : 317
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jump into the light
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bottlenose dolphin. Lagunen, Kolmården Zoo, Sweden.
+Flasknosdelfin
+
+
++--------+
+|  TAGS  |
++--------+
+Kolmården Flasknosdelfin Bottlenose Dolphin Jumping 

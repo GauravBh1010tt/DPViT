@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tanya Durrant
+Photo URL    : https://www.flickr.com/photos/tanyadurrant/4350064674/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 6 11:57:59 GMT+0100 2010
+Upload Date  : Fri Feb 12 00:17:41 GMT+0100 2010
+Geotag Info  : Latitude:50.991798, Longitude:-1.283082
+Views        : 127
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Indeever
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals "Snow Leopard" "big cats" zoo Marwell wildcats cat "Marwell Wildlife" 

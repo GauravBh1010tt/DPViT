@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Seabamirum
+Photo URL    : https://www.flickr.com/photos/seabamirum/2851722936/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 4 15:41:18 GMT+0200 2008
+Upload Date  : Fri Sep 12 21:54:05 GMT+0200 2008
+Views        : 256
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "berlin zoo" lion cage 

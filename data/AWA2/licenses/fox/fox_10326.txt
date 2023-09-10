@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dluogs
+Photo URL    : https://www.flickr.com/photos/dluogs/4895578807/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 10 14:40:37 GMT+0200 2010
+Upload Date  : Mon Aug 16 02:57:19 GMT+0200 2010
+Geotag Info  : Latitude:51.674900, Longitude:-4.313600
+Views        : 294
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox, Pembrey dunes 1a
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fox descending a sand dune, Pembrey, SW Wales.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

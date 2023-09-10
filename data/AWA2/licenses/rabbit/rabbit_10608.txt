@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FHKE
+Photo URL    : https://www.flickr.com/photos/fhke/2496208246/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 15 15:36:40 GMT+0200 2008
+Upload Date  : Fri May 16 03:25:21 GMT+0200 2008
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+KU
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elvis*F 

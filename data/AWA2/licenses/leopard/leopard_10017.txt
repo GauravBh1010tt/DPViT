@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/16234825586/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 11 15:41:23 GMT+0100 2015
+Upload Date  : Mon Jan 12 05:49:37 GMT+0100 2015
+Geotag Info  : Latitude:42.305369, Longitude:-71.089098
+Views        : 1,855
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard Looking at Camera
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo boston big cat amur leopard spots portrait 

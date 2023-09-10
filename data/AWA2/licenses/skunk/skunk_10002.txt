@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : youngthousands
+Photo URL    : https://www.flickr.com/photos/theyoungthousands/2346134301/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 15 16:43:55 GMT+0200 2006
+Upload Date  : Thu Mar 20 03:43:07 GMT+0100 2008
+Geotag Info  : Latitude:34.038822, Longitude:-117.043576
+Views        : 746
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+08-14-2006 037
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+skunk 

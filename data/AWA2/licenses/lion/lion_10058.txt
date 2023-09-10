@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : btwashburn
+Photo URL    : https://www.flickr.com/photos/btwashburn/6585792623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 27 13:25:44 GMT+0100 2011
+Upload Date  : Wed Dec 28 05:00:10 GMT+0100 2011
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+African Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+San Francisco Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

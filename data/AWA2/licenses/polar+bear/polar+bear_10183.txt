@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JΛCK VIΞW
+Photo URL    : https://www.flickr.com/photos/22340933@N05/9551802679/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 3 05:31:01 GMT+0200 2013
+Upload Date  : Tue Aug 20 11:52:06 GMT+0200 2013
+Views        : 319
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_6474
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

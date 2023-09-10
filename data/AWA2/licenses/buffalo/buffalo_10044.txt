@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Headquarters
+Photo URL    : https://www.flickr.com/photos/usfwshq/5448495142/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 23 10:40:48 GMT+0100 2005
+Upload Date  : Tue Feb 15 17:21:12 GMT+0100 2011
+Views        : 855
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Adult and juvenile bison on the National Bison Range in Montana
+
+
++--------+
+|  TAGS  |
++--------+
+mammals "hooved mammals" bison "National Bison Range" Montana "National Wildlife Refuge" nature 

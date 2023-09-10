@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : channing.wu
+Photo URL    : https://www.flickr.com/photos/136514205@N03/24177757152/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 1 15:56:58 GMT+0100 2016
+Upload Date  : Sun Jan 10 07:04:59 GMT+0100 2016
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0282
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

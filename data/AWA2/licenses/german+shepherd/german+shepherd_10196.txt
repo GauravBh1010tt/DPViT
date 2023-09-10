@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StrickenAza34
+Photo URL    : https://www.flickr.com/photos/70163101@N06/7548992406/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 4 13:42:18 GMT+0200 2012
+Upload Date  : Wed Jul 11 13:11:25 GMT+0200 2012
+Views        : 420
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0009
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Shadow black German Shepherd 

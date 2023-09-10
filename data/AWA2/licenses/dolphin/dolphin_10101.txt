@@ -1,0 +1,50 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David d'O / Schaapmans
+Photo URL    : https://www.flickr.com/photos/david_o/10408546766/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 17 16:57:41 GMT+0200 2013
+Upload Date  : Mon Oct 21 21:10:39 GMT+0200 2013
+Geotag Info  : Latitude:32.767777, Longitude:-16.651389
+Views        : 1,144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Common Bottlenose Dolphin - Madeira, Portugal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+17 September 2013 Common Bottlenose Dolphin / Tuimelaar (Tursiops truncatus) - Madeira (Atlantic Ocean), Portugal
+
+Whale, dolphin and bird watching excursion by boat with Madeira Wind Birds.
+Spotted several Common Bottlenose Dolphins (NL: Tuimelaar) (Tursiops truncatus).
+
+Click a link and you'll go to the page for that rank in the biological classification on <a href="http://www.wildlifespotting.com/" rel="nofollow">Schaapmans' Wildlife Spotting</a>.
+
+Kingdom: <a href="http://www.wildlifespotting.com/w/k/Animalia/" rel="nofollow">Animalia</a>; Animals / Dierenrijk
+Phylum: <a href="http://www.wildlifespotting.com/life/chordata/" rel="nofollow">Chordata</a>; Vertebrates / Gewervelden
+Class: <a href="http://www.wildlifespotting.com/life/mammalia/" rel="nofollow">Mammalia</a>; Mammals / Zoogdieren
+Order: <a href="http://www.wildlifespotting.com/life/mammalia/cetacea/" rel="nofollow">Cetacea</a>; Whales, Dolphins and Porpoises / Walvisachtigen
+Suborder: <a href="http://www.wildlifespotting.com/life/mammalia/cetacea/odontoceti/" rel="nofollow">Odontoceti</a>; Toothed Whales / Tandwalvissen
+Superfamily: <a href="http://www.wildlifespotting.com/life/mammalia/cetacea/delphinoidea/" rel="nofollow">Delphinoidea</a>; Toothed Whales / Tandwalvissen
+Family: <a href="http://www.wildlifespotting.com/life/mammalia/cetacea/delphinidae/" rel="nofollow">Delphinidae</a>; Oceanic Dolphins / Dolfijnen
+Genus: <a href="http://www.wildlifespotting.com/life/mammalia/cetacea/delphinidae/tursiops/" rel="nofollow">Tursiops</a>; Bottlenose Dolphins / Tuimelaars
+Species: <a href="http://www.wildlifespotting.com/life/mammalia/cetacea/delphinidae/tursiops/truncatus/" rel="nofollow">Tursiops truncatus</a>; Common Bottlenose Dolphin or Atlantic Bottlenose Dolphin / Tuimelaar
+
+
++--------+
+|  TAGS  |
++--------+
+Portugal geo:country=PT Madeira geo:island=Madeira "20130917 Day 10" "Canon EOS 70D" Animals Mammals Mammalia Artiodactyla "Even-toed ungulates" Evenhoevigen Cetacea Walvisachtigen "Whales, Dolphins and Porpoises" Zoogdieren Chordata Gewervelden Vertebrates taxonomy:phylum=Chordata taxonomy:class=Mammalia taxonomy:kingdom=Animalia status:IUCN=LC "Least Concern" Animalia collectingevent:ValidDistributionFlag=true Wild Dierenrijk TripWildlifespotting taxonomy:order=Cetacea Odontoceti "Toothed Whales" Tandwalvissen taxonomy:suborder=Odontoceti Delphinoidea taxonomy:superfamily=Delphinoidea Delphinidae "Oceanic Dolphins" taxonomy:family=Delphinidae Dolfijnen Tursiops taxonomy:genus=Tursiops "Bottlenose Dolphins" Tuimelaars "Tursiops truncatus" "taxonomy:binomial=Tursiops truncatus" "Common Bottlenose Dolphin" "Atlantic Bottlenose Dolphin" "taxonomy:common=Atlantic Bottlenose Dolphin" "taxonomy:common=Common Bottlenose Dolphin" Tuimelaar taxonomy:common=Tuimelaar taxonomy:species=truncatus taxonomy:order=Artiodactyla Cetruminantia taxonomy:suborder=Cetruminantia "Ruminants, Whales and Hippos" "Herkauwers, Walvissen en Nijlpaarden" Cetancodonta taxonomy:infraorder=Cetancodonta "Whales, Dolphins, Hipppotamuses" "Walvissen, Dolfijnen, Nijlpaarden" 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : schermpeter42
+Photo URL    : https://www.flickr.com/photos/schermpeter42/15399651452/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 10 17:30:54 GMT+0200 2014
+Upload Date  : Tue Sep 30 11:42:09 GMT+0200 2014
+Geotag Info  : Latitude:38.717388, Longitude:0.169186
+Views        : 3,637
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sad Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think it is a Dalmatian.
+--
+Zielige hond, Spanje
+
+
++--------+
+|  TAGS  |
++--------+
+dog sad eyes Dalmatian "Cumbre del Sol" Spain animal leash spots looking 

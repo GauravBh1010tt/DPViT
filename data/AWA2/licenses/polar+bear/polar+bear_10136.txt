@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kwadephotos
+Photo URL    : https://www.flickr.com/photos/kwphotos/763018558/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 9 13:21:57 GMT+0200 2007
+Upload Date  : Mon Jul 9 20:21:57 GMT+0200 2007
+Views        : 376
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+come play with me, mama!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hudson the baby polar bear and his mom at the Brookfield Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+polarbear chicagoist brookfield zoo animals "brookfield zoo" nikon d50 "nikon d50" 

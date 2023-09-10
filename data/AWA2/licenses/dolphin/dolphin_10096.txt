@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : side78
+Photo URL    : https://www.flickr.com/photos/side78/551553836/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 22 11:20:17 GMT+0100 2007
+Upload Date  : Fri Jun 15 13:03:42 GMT+0200 2007
+Geotag Info  : Latitude:-35.469058, Longitude:174.723815
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+CRW_5372
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dolphins, on the way to Hen &amp; Chicken Islands
+
+
++--------+
+|  TAGS  |
++--------+
+nature fish dolphins 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Umair's photos
+Photo URL    : https://www.flickr.com/photos/89854496@N08/8338086624/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 31 23:22:44 GMT+0100 2012
+Upload Date  : Wed Jan 2 14:01:30 GMT+0100 2013
+Views        : 527
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two generations side by side
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit father son 

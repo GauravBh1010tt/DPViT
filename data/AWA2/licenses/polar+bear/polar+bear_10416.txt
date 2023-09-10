@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : madprime
+Photo URL    : https://www.flickr.com/photos/madprime/7089213385/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 15 14:30:57 GMT+0200 2012
+Upload Date  : Wed Apr 18 04:29:50 GMT+0200 2012
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1140752.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

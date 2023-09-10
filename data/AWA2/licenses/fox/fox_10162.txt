@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/6953599944/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 18 10:42:17 GMT+0100 2012
+Upload Date  : Sat Apr 21 21:08:07 GMT+0200 2012
+Geotag Info  : Latitude:47.107873, Longitude:8.262104
+Views        : 19,360
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Fennec lying in the sun
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the fennecs of the Toni's zoo lying on their small house, at the outside enclosure.
+
+
++--------+
+|  TAGS  |
++--------+
+fennec fox cute "big ears" ears lying resting wood house sunny "tonis zoo" zoo rothenburg lucerne luzern switzerland nikon d700 

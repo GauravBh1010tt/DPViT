@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steffen239
+Photo URL    : https://www.flickr.com/photos/steffenhoffmann239/9605723633/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 18 11:12:42 GMT+0200 2013
+Upload Date  : Tue Aug 27 17:08:34 GMT+0200 2013
+Views        : 279
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

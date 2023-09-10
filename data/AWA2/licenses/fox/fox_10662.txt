@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wildreturn
+Photo URL    : https://www.flickr.com/photos/wildreturn/16604188611/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 21 11:44:37 GMT+0100 2015
+Upload Date  : Sat Feb 21 23:17:43 GMT+0100 2015
+Views        : 335
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2/21/15
+Carondelet Park
+Guess the kits have emerged.  This one was rolling in the snow and getting very close to us.  Not scared of people yet like he needs to be.  His tail looks a bit mangled.  Hmm.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

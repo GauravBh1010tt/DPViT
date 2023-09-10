@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tomas Caspers
+Photo URL    : https://www.flickr.com/photos/tomascaspers/120769515/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 31 17:44:05 GMT+0200 2006
+Upload Date  : Fri Mar 31 17:44:05 GMT+0200 2006
+Geotag Info  : Latitude:44.746733, Longitude:-110.676269
+Views        : 834
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+antelope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at David Ranch, Daniel, Wyo.
+
+
++--------+
+|  TAGS  |
++--------+
+wyoming antelope 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Colorado-Trevino's
+Photo URL    : https://www.flickr.com/photos/cigar-live-cypress/2867887612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 17 09:58:51 GMT+0200 2008
+Upload Date  : Thu Sep 18 14:14:40 GMT+0200 2008
+Views        : 5
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Orlando Vacation 08 218
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

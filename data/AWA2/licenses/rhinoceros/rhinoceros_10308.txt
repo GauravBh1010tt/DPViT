@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/17076667991/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 10 10:56:21 GMT+0100 2015
+Upload Date  : Wed Apr 8 15:00:14 GMT+0200 2015
+Geotag Info  : Latitude:47.386030, Longitude:8.573219
+Views        : 3,673
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Olmoti walking again
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another one of Olmoti walking, you can see the snout of her mother!
+
+
++--------+
+|  TAGS  |
++--------+
+walking profile hay mother "black rhinoceros" rhinoceros rhino baby cute young female zürich zoo switzerland nikon d4 

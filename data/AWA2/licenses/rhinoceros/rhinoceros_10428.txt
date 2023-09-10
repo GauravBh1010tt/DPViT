@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David in Lisburn
+Photo URL    : https://www.flickr.com/photos/tatchie/9319983912/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 15 13:09:29 GMT+0200 2013
+Upload Date  : Fri Jul 19 08:20:42 GMT+0200 2013
+Views        : 1,075
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros_263
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dublin "Dublin Zoo" "Phoenix Park" Ireland July holidays monkey chimps chimpanzee baboon lemur giraffe hippos rhinoceros ostrich gorilla endangered wildlife zoo safari "snow leopard" tiger wolf flamingo onyx "African Plains" "African Savanna" "Chimpanzee Island" "Gorilla Rainforest" education "endangered species" "red panda" 

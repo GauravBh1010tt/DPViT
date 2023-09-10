@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : raphael.chekroun
+Photo URL    : https://www.flickr.com/photos/raphaelchekroun/17457447102/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 8 15:56:01 GMT+0200 2015
+Upload Date  : Sat May 9 19:40:10 GMT+0200 2015
+Views        : 371
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Par Raphaël Chekroun 
+
+<a href="https://twitter.com/raphaelchekroun" rel="nofollow"> Twitter</a>
+
+You can press &quot;F&quot; to fave, and &quot;C&quot; to comment.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "la palmyre" royan 17 wild animaux polar bear ours polaire 

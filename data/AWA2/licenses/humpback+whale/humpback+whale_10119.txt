@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christoph Strässler
+Photo URL    : https://www.flickr.com/photos/christoph_straessler/14134650010/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 30 15:46:39 GMT+0200 2009
+Upload Date  : Sun Jun 1 18:03:31 GMT+0200 2014
+Views        : 94
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Diving Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+16-9 

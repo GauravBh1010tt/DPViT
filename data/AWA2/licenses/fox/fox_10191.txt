@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Evoflash
+Photo URL    : https://www.flickr.com/photos/evoflash/14106754985/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 4 10:29:48 GMT+0200 2014
+Upload Date  : Sun May 4 20:51:17 GMT+0200 2014
+Geotag Info  : Latitude:18.031702, Longitude:-77.826537
+Views        : 1,678
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox Cubs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Fox "Fox Cub" Foxes Jamaica 

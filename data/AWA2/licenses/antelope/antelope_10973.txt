@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/17296754155/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 7 15:05:45 GMT+0100 2015
+Upload Date  : Tue Apr 28 06:00:09 GMT+0200 2015
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 2,748
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Two Arabian oryx walking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two Arabian oryxes walking in the snow...
+
+
++--------+
+|  TAGS  |
++--------+
+"arabian oryx" oryx snow winter cold antelope two walking horns beige white zürich zoo switzerland nikon d4 

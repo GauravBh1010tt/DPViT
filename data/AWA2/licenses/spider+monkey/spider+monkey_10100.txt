@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quinn.anya
+Photo URL    : https://www.flickr.com/photos/quinnanya/4472801773/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 28 11:41:52 GMT+0200 2010
+Upload Date  : Mon Mar 29 16:50:29 GMT+0200 2010
+Views        : 215
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+monkey sitting grass black tail "spider monkey" "ateles geoffroyi" 

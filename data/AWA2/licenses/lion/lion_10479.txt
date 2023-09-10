@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/457797855/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 13 11:55:00 GMT+0200 2007
+Upload Date  : Fri Apr 13 18:08:05 GMT+0200 2007
+Geotag Info  : Latitude:51.079317, Longitude:0.981516
+Views        : 29,567
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lion at Port Lympne Wildlife Park, UK.
+
+<a href="http://bighugelabs.com/flickr/onblack.php?id=457797855&amp;size=large" rel="nofollow">View Large</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"Port Lympne" Lion Zoo "Wildlife Park" FlickrBigCats 

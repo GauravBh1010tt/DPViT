@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rkimpeljr
+Photo URL    : https://www.flickr.com/photos/rkimpeljr/4087615749/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 26 10:46:49 GMT+0100 2008
+Upload Date  : Mon Nov 9 03:33:15 GMT+0100 2009
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The King
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+HoustonZoo lion 

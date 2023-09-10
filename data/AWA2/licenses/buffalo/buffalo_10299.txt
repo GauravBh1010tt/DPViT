@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cpence
+Photo URL    : https://www.flickr.com/photos/pence/304751359/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 21 10:44:11 GMT+0200 2004
+Upload Date  : Fri Nov 24 07:25:20 GMT+0100 2006
+Geotag Info  : Latitude:32.174000, Longitude:-97.794435
+Views        : 214
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The bison hanging out at the front entrance of the center.
+
+
++--------+
+|  TAGS  |
++--------+
+Texas 

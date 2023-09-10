@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photoverulam
+Photo URL    : https://www.flickr.com/photos/photoverulam/5370666199/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 22 12:03:04 GMT+0100 2009
+Upload Date  : Wed Jan 19 23:19:28 GMT+0100 2011
+Geotag Info  : Latitude:51.159672, Longitude:0.663127
+Views        : 1,685
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A great day out at the Wildlife Heritage Foundation in Kent, March 2009
+
+
++--------+
+|  TAGS  |
++--------+
+"snow leopard" "Wildlife Heritage Foundation" kent 

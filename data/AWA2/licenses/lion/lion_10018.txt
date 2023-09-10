@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HaJo S
+Photo URL    : https://www.flickr.com/photos/hajo_s/8650624183/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 15 12:43:16 GMT+0200 2007
+Upload Date  : Mon Apr 15 10:34:10 GMT+0200 2013
+Geotag Info  : Latitude:-2.613839, Longitude:34.828033
+Views        : 97
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2007-09_Safari_0240
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lion
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Vacation Tanzania Honeymoon 

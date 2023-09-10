@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ljguitar
+Photo URL    : https://www.flickr.com/photos/ljguitar/475707841/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 28 09:57:38 GMT+0200 2007
+Upload Date  : Sat Apr 28 18:57:38 GMT+0200 2007
+Views        : 224
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox and Pups
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This mother has 4 pups, and the den is behind a friend's place.
+
+These were shot with a 500mm mirror lens - not noted for their sharp focus nor contrast abilities. it is also manual focus.
+
+It is the equivalent of a 1000mm lens on a 35mm camera, so I steadied it on a 6 pound homemade bean bag.
+
+Shot from about 40 yards.
+
+
++--------+
+|  TAGS  |
++--------+
+Olympus E-500 

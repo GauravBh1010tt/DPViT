@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JimXpp
+Photo URL    : https://www.flickr.com/photos/92607624@N07/17849008962/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 28 12:44:43 GMT+0200 2015
+Upload Date  : Tue May 19 10:44:16 GMT+0200 2015
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

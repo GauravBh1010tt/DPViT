@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : collinj
+Photo URL    : https://www.flickr.com/photos/collinj/28187871/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 6 09:46:53 GMT+0100 2003
+Upload Date  : Sun Jul 24 16:37:10 GMT+0200 2005
+Views        : 839
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+The King of Beasts
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+... has taken some damage to the head.
+
+
++--------+
+|  TAGS  |
++--------+
+kenya safari wildlife africa lion damage 

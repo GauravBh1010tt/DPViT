@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SamTheShepherd88
+Photo URL    : https://www.flickr.com/photos/samtheshepherd88/4107472299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 15 19:33:06 GMT+0100 2009
+Upload Date  : Mon Nov 16 04:33:06 GMT+0100 2009
+Views        : 407
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+thumb-8
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+German Shepherds Christmas 

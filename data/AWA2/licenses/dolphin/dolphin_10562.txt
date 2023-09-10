@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kanmax
+Photo URL    : https://www.flickr.com/photos/kanmax/16280071901/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 31 08:44:40 GMT+0100 2014
+Upload Date  : Wed Jan 14 23:04:17 GMT+0100 2015
+Geotag Info  : Latitude:-42.407837, Longitude:173.685694
+Views        : 318
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Happy New Yeay somersault
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

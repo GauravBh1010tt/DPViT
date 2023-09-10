@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobRyb
+Photo URL    : https://www.flickr.com/photos/robryb/5903047162/
+License      : (c) All Rights Reserved
+Taken Date   : Fri Jun 17 18:22:19 GMT+0200 2011
+Upload Date  : Tue Jul 5 00:51:04 GMT+0200 2011
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+PolarBear_01
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+New York "Bronx Zoo" "Polar Bear" 

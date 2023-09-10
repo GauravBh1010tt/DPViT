@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mara 1
+Photo URL    : https://www.flickr.com/photos/flametree/15997020616/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 23 15:17:03 GMT+0100 2009
+Upload Date  : Sun Dec 14 22:58:16 GMT+0100 2014
+Views        : 422
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard !
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

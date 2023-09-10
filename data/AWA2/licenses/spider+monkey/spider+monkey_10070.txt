@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Frontierofficial
+Photo URL    : https://www.flickr.com/photos/frontierofficial/16857019116/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 21 15:06:27 GMT+0100 2015
+Upload Date  : Sat Mar 21 16:06:27 GMT+0100 2015
+Views        : 269
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+How cute is this little spider monkey!? #Guatemala #baby #monkey #babyanimals #wildlife #conservation #volunteer #volunteerabroad #frontiergap #frontiervolunteer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+via Instagram <a href="http://ift.tt/1CIagTA" rel="nofollow">ift.tt/1CIagTA</a>
+
+
++--------+
+|  TAGS  |
++--------+
+IFTTT Instagram 

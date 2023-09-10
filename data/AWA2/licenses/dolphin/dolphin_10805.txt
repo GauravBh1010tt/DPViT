@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : r1aviator
+Photo URL    : https://www.flickr.com/photos/38534720@N00/6950808054/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 19 22:57:59 GMT+0200 2012
+Upload Date  : Fri Apr 20 20:42:32 GMT+0200 2012
+Views        : 247
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Swimming with Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+swimming dolphins 

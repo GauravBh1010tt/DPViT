@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Citizen59
+Photo URL    : https://www.flickr.com/photos/t_abdelmoumen/6934690936/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 26 16:26:51 GMT+0200 2012
+Upload Date  : Sun Apr 15 19:50:27 GMT+0200 2012
+Geotag Info  : Latitude:52.516638, Longitude:13.383064
+Views        : 896
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo de Berlin: Panda géant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Berlin Animals Animaux Panda géant 

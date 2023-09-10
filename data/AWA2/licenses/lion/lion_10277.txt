@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Åsa Berndtsson
+Photo URL    : https://www.flickr.com/photos/93892629@N07/12121233816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 9 08:13:32 GMT+0100 2013
+Upload Date  : Fri Jan 24 18:54:09 GMT+0100 2014
+Views        : 2,261
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lejon / Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Original file: IMG_1880.TIF-single-new
+
+
++--------+
+|  TAGS  |
++--------+
+Lejon Lion "Panthera leo" Sydafrika Entabeni 

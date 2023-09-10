@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lutramania
+Photo URL    : https://www.flickr.com/photos/lutramania/3940013589/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 21 21:29:48 GMT+0200 2009
+Upload Date  : Mon Sep 21 11:29:48 GMT+0200 2009
+Geotag Info  : Latitude:-41.319422, Longitude:174.784455
+Views        : 487
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+webDSC00975
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lions 

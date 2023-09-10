@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Scott McLeod
+Photo URL    : https://www.flickr.com/photos/mcleod/5956707386/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 20 14:13:13 GMT+0200 2011
+Upload Date  : Wed Jul 20 04:53:28 GMT+0200 2011
+Geotag Info  : Latitude:33.683058, Longitude:-111.967542
+Views        : 3,644
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Phoenix, Arizona
+
+JW Marriott Desert Ridge
+
+
++--------+
+|  TAGS  |
++--------+
+Arizona bunny rabbit 

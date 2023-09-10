@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobBixbyPhotography
+Photo URL    : https://www.flickr.com/photos/scubabix/16484889001/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 9 12:01:03 GMT+0100 2015
+Upload Date  : Tue Feb 10 00:08:37 GMT+0100 2015
+Geotag Info  : Latitude:30.399946, Longitude:-81.643763
+Views        : 2,031
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+JaxZoo_2-9-15-5772
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+babies baby cub Lion lions 

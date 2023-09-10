@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chi King
+Photo URL    : https://www.flickr.com/photos/davelau/13968484253/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 23 14:04:05 GMT+0200 2007
+Upload Date  : Mon Apr 21 12:20:36 GMT+0200 2014
+Views        : 842
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+african lion III
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

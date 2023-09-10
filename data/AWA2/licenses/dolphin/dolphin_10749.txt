@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ayuco
+Photo URL    : https://www.flickr.com/photos/ayuco/3010142230/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 7 17:00:00 GMT+0100 2008
+Upload Date  : Fri Nov 7 09:00:00 GMT+0100 2008
+Views        : 5
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+R0015005
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+GRD 

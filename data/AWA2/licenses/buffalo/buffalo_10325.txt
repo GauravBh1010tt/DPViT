@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gojeffrey
+Photo URL    : https://www.flickr.com/photos/gojeffrey/2761402029/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 13 15:28:44 GMT+0200 2008
+Upload Date  : Thu Aug 14 08:08:11 GMT+0200 2008
+Views        : 1,022
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Found in Lamar Valley, Yellowstone, WY
+
+
++--------+
+|  TAGS  |
++--------+
+bison wildlife yellowstone 

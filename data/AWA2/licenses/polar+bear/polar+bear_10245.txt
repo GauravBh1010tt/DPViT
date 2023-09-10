@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ThiloG
+Photo URL    : https://www.flickr.com/photos/thilog/11045237705/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 22 13:55:12 GMT+0200 2013
+Upload Date  : Mon Nov 25 09:13:47 GMT+0100 2013
+Geotag Info  : Latitude:51.544185, Longitude:7.115161
+Views        : 280
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Zoo Gelsenkirchen" "Zoom Erlebniswelt" 

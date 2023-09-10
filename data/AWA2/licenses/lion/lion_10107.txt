@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oliver.dodd
+Photo URL    : https://www.flickr.com/photos/oliverdodd/5124479079/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 28 01:21:33 GMT+0200 2010
+Upload Date  : Fri Oct 29 04:58:37 GMT+0200 2010
+Views        : 270
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+brothers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+africa tanzania safari serengeti lobo lion 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jkirkhart35
+Photo URL    : https://www.flickr.com/photos/jkirkhart35/5909422925/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 6 13:04:58 GMT+0200 2011
+Upload Date  : Wed Jul 6 22:04:58 GMT+0200 2011
+Views        : 513
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Fluke 4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken from a Sub Sea Whale Watching Tour set up by Mike Baird on July 5th.  My 1st Fluke Shots Thanks to Mike.  We saw about 30 whales this day.  I felt lucky to be on this trip.
+
+
++--------+
+|  TAGS  |
++--------+
+"Humpback Fluke" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alice Rosen
+Photo URL    : https://www.flickr.com/photos/alicerosen/6042374759/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 9 11:22:28 GMT+0200 2011
+Upload Date  : Sun Aug 14 21:25:56 GMT+0200 2011
+Geotag Info  : Latitude:53.443234, Longitude:-2.823314
+Views        : 147
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+knowsley safari park england uk lions 

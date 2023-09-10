@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harlequeen
+Photo URL    : https://www.flickr.com/photos/harlequeen/503166823/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 10 11:06:42 GMT+0200 2005
+Upload Date  : Fri May 18 12:23:22 GMT+0200 2007
+Geotag Info  : Latitude:52.116869, Longitude:0.039928
+Views        : 1,554
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Posing Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The red fox at Shepreth was out sunning herself.
+
+
++--------+
+|  TAGS  |
++--------+
+shepreth fox redfox 

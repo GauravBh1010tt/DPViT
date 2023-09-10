@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jkostya
+Photo URL    : https://www.flickr.com/photos/35860821@N03/5394009566/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 1 00:00:00 GMT+0100 2011
+Upload Date  : Thu Jan 27 22:04:22 GMT+0100 2011
+Views        : 1,390
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kayto the wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My Brother's pet in his back yard
+
+
++--------+
+|  TAGS  |
++--------+
+wolf 

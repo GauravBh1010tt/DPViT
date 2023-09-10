@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cianc
+Photo URL    : https://www.flickr.com/photos/cianc/2158625143/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 2 04:01:12 GMT+0100 2008
+Upload Date  : Wed Jan 2 20:47:32 GMT+0100 2008
+Views        : 26
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1020818
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo dublin rhinoceros 

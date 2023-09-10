@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GRVO TV
+Photo URL    : https://www.flickr.com/photos/64755053@N06/16352175338/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 15 12:35:23 GMT+0100 2015
+Upload Date  : Sun Feb 15 18:42:32 GMT+0100 2015
+Views        : 349
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard - Colchester Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+For reviews views &amp; opinions on camera equipment follow me on youtube, GRVO TV <a href="http://www.youtube.com/user/69acrowot/videos" rel="nofollow">www.youtube.com/user/69acrowot/videos</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

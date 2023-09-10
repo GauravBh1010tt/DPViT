@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oddernod
+Photo URL    : https://www.flickr.com/photos/oddernod/16509660703/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 14 12:34:58 GMT+0100 2015
+Upload Date  : Mon Apr 13 05:47:19 GMT+0200 2015
+Views        : 289
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gypsy Eyes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Some of the most amazing and graceful movements I've ever seen in person.
+
+
++--------+
+|  TAGS  |
++--------+
+Melbourne "Melbourne Zoo" animal daytime monkey outdoor "spider monkey" zoo 

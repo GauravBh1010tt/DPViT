@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Go Imai
+Photo URL    : https://www.flickr.com/photos/imi5/2056795376/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 23 10:46:45 GMT+0100 2007
+Upload Date  : Fri Nov 23 07:14:41 GMT+0100 2007
+Views        : 1,773
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My name is Gohgo
+
+
++--------+
+|  TAGS  |
++--------+
+zoo tennouji 天王寺 動物園 ホッキョクグマ 白熊　 Polar Bear animal 

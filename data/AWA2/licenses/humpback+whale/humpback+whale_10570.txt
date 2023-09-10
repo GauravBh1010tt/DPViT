@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OceanDip
+Photo URL    : https://www.flickr.com/photos/klwpics/15891842179/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 1 00:00:00 GMT+0200 2011
+Upload Date  : Mon Dec 22 09:16:30 GMT+0100 2014
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0416
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Stellwagen Bank" "humpback whales" 

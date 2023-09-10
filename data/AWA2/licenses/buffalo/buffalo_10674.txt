@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shnurman Photography
+Photo URL    : https://www.flickr.com/photos/shnurmanphotography/21865990935/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 22 16:23:31 GMT+0200 2015
+Upload Date  : Thu Oct 1 18:16:37 GMT+0200 2015
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4466
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo 

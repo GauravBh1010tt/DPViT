@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : uıɐɾ ʞ ʇɐɯɐs
+Photo URL    : https://www.flickr.com/photos/tamasrepus/9324619256/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 15 18:58:13 GMT+0200 2013
+Upload Date  : Sat Jul 20 00:43:57 GMT+0200 2013
+Views        : 3,762
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Maya stares me down
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Maya, my cheating ex-girlfriend's rescued German Shepherd.
+
+
++--------+
+|  TAGS  |
++--------+
+Dog "German Shepherd" 

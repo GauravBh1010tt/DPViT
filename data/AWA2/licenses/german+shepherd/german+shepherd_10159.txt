@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joebeone
+Photo URL    : https://www.flickr.com/photos/joebeone/2222848654/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 1 17:23:31 GMT+0100 2007
+Upload Date  : Sun Jan 27 10:40:04 GMT+0100 2008
+Views        : 1,046
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Chopper 9-1993 (5)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+another dog, chopper
+
+
++--------+
+|  TAGS  |
++--------+
+chopper dog "german shepherd" 

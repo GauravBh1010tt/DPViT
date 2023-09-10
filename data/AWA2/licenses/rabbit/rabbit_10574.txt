@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : boviate
+Photo URL    : https://www.flickr.com/photos/boviate/3787760844/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 2 19:12:37 GMT+0200 2009
+Upload Date  : Tue Aug 4 05:46:11 GMT+0200 2009
+Views        : 728
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMGP6142
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He let me get to the minimum focal distance of my lens (about 2 meters).
+
+
++--------+
+|  TAGS  |
++--------+
+nature rabbit 

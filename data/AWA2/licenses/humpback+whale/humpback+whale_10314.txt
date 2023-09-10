@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Bezaire
+Photo URL    : https://www.flickr.com/photos/dlbezaire/3566085620/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 25 17:41:25 GMT+0200 2009
+Upload Date  : Tue May 26 08:12:07 GMT+0200 2009
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Ketchikan AK "United States of America" USA 

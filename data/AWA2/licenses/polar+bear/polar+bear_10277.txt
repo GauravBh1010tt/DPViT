@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : "G" jewels g is for grandma
+Photo URL    : https://www.flickr.com/photos/g_jewels/4516233269/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 1 01:35:37 GMT+0200 2008
+Upload Date  : Tue Apr 13 04:38:27 GMT+0200 2010
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+I am watching you
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Toledo Zoo" animals summer 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : timsackton
+Photo URL    : https://www.flickr.com/photos/sackton/5655935465/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 3 15:29:59 GMT+0200 2011
+Upload Date  : Tue Apr 26 05:46:29 GMT+0200 2011
+Views        : 638
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken April, 2011 in San Diego, California, United States
+¹⁄₁₀₀ sec at f/5.6, ISO200, no flash.
+
+
++--------+
+|  TAGS  |
++--------+
+Animalia Carnivora Chordata Felidae Leopard Mammalia Metazoa "Panthera pardus" animal animals cat cats chordate chordates felid felids mammal mammals "San Diego" California "United States" "San Diego Zoo" 

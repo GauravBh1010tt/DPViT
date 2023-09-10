@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : shi-qi
+Photo URL    : https://www.flickr.com/photos/shi-qi/8492681398/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 8 13:46:40 GMT+0100 2013
+Upload Date  : Wed Feb 20 16:43:21 GMT+0100 2013
+Views        : 142
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+130108
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I went to the zoo over winter break...
+---
+I really like pandas. LOL.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo panda 

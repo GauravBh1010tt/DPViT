@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sdbeazley
+Photo URL    : https://www.flickr.com/photos/sdbeazley/5355245757/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 6 07:56:21 GMT+0200 2010
+Upload Date  : Sat Jan 15 00:36:33 GMT+0100 2011
+Geotag Info  : Latitude:10.548655, Longitude:-83.504676
+Views        : 83
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+baby spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

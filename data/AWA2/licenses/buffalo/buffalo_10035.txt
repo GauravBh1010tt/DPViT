@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Headquarters
+Photo URL    : https://www.flickr.com/photos/usfwshq/5847577492/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 18 23:49:54 GMT+0200 2011
+Upload Date  : Sun Jun 19 05:49:54 GMT+0200 2011
+Views        : 549
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American bison family
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Father Monte, mother Cinnamom and their four-day-old calf, April 2011
+Charles M. Russell National Wildlife Refuge
+Photo: USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

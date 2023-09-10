@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DrGBB
+Photo URL    : https://www.flickr.com/photos/drgbb/2601839569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 19 08:56:54 GMT+0200 2008
+Upload Date  : Mon Jun 23 02:41:43 GMT+0200 2008
+Views        : 525
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Bunny Up Close and Personal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nature animals 

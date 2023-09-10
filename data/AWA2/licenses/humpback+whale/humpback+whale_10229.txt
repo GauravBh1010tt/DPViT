@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ethan Ableman
+Photo URL    : https://www.flickr.com/photos/ethansphotosarecool/4924228984/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 4 18:25:59 GMT+0200 2010
+Upload Date  : Tue Aug 24 20:07:41 GMT+0200 2010
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale Fin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

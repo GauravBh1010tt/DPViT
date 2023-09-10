@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russellstreet
+Photo URL    : https://www.flickr.com/photos/russellstreet/4064995211/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 14:43:51 GMT+0100 2008
+Upload Date  : Sun Nov 1 21:29:07 GMT+0100 2009
+Geotag Info  : Latitude:-38.101578, Longitude:176.162530
+Views        : 435
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+African Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"African Lion" Animal "New Zealand" "Paradise Valley" Rotorua NZL 

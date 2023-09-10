@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/5147022571/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 3 01:06:35 GMT+0100 2010
+Upload Date  : Fri Nov 5 03:01:50 GMT+0100 2010
+Views        : 4,578
+Comments     : 77
+
+
++---------+
+|  TITLE  |
++---------+
+The Flying Nun , uh , Cat !
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+view large , on black :)
+Happy Furry Friday !
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese MissTruffles Truffie FlyingNun HFF 

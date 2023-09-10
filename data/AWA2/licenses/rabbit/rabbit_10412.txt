@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bunnygoth
+Photo URL    : https://www.flickr.com/photos/bunnygoth/7770018432/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 18 08:20:25 GMT+0200 2012
+Upload Date  : Mon Aug 13 02:32:48 GMT+0200 2012
+Views        : 261
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eastern Cottontail
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eastern cottontail rabbit in Connecticut
+
+
++--------+
+|  TAGS  |
++--------+
+eastern cottontail rabbit bunny conejo lapin connecticut wild 

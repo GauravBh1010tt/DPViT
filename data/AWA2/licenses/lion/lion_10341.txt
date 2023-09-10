@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/26143605796/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 31 14:59:35 GMT+0200 2016
+Upload Date  : Fri Apr 1 15:20:29 GMT+0200 2016
+Geotag Info  : Latitude:42.305272, Longitude:-71.088862
+Views        : 303
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Closeup
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo cat "big cat" lion mane 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hans s
+Photo URL    : https://www.flickr.com/photos/archeon/483437982/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 15:28:07 GMT+0200 2007
+Upload Date  : Fri May 4 06:32:41 GMT+0200 2007
+Views        : 1,092
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+meet flopsy!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+finally, she has a name, flopsy (after suggestion of <a href="http://www.flickr.com/photos/quadrapop/">quadrapop</a>), from the beginning of Beatrix Potter's Peter Rabbit: &quot;Once upon a time there were four little Rabbits, and their names were Flopsy, Mopsy, Cotton-tail and Peter.&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit hasaname flopsy SearchTheBest 

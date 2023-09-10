@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dominiqs
+Photo URL    : https://www.flickr.com/photos/dominiqs/2430885766/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 20 15:27:14 GMT+0200 2008
+Upload Date  : Mon Apr 21 10:27:46 GMT+0200 2008
+Geotag Info  : Latitude:45.527020, Longitude:11.062331
+Views        : 9,609
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in Parco Al Bosco, near Verona
+
+
++--------+
+|  TAGS  |
++--------+
+animals fox mammals nature Romagnano Verona Italy 

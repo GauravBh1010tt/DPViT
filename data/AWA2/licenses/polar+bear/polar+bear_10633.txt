@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HaleyDara
+Photo URL    : https://www.flickr.com/photos/haleydara/9258551756/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 30 12:21:17 GMT+0200 2012
+Upload Date  : Wed Jul 10 23:39:03 GMT+0200 2013
+Views        : 158
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Brookfield Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : afcone
+Photo URL    : https://www.flickr.com/photos/afcone/9297840415/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 4 16:45:15 GMT+0200 2013
+Upload Date  : Tue Jul 16 13:51:32 GMT+0200 2013
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Namibia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Namibia Africa Okonjima Leopard 

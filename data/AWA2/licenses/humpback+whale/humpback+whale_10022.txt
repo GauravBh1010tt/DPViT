@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : randyihara1
+Photo URL    : https://www.flickr.com/photos/rihara/4807637204/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 6 00:16:31 GMT+0200 2010
+Upload Date  : Mon Jul 19 06:13:20 GMT+0200 2010
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_-13
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback whale taking a look at us.
+
+
++--------+
+|  TAGS  |
++--------+
+alaska slideshow Images from Alaskan vacation 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Zippo S
+Photo URL    : https://www.flickr.com/photos/briansummers/6047621253/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 24 14:13:47 GMT+0200 2010
+Upload Date  : Tue Aug 16 04:19:51 GMT+0200 2011
+Geotag Info  : Latitude:47.506333, Longitude:-52.626167
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

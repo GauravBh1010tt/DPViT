@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The L-Girl
+Photo URL    : https://www.flickr.com/photos/thel-girl/129421669/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 16 14:47:30 GMT+0200 2006
+Upload Date  : Sun Apr 16 16:32:11 GMT+0200 2006
+Views        : 184
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+china 001
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+my cat Romeo
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese 

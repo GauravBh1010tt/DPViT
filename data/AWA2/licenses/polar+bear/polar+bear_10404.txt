@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Worm That Turned
+Photo URL    : https://www.flickr.com/photos/62747786@N02/5712285675/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 11 12:32:03 GMT+0200 2011
+Upload Date  : Thu May 12 12:15:10 GMT+0200 2011
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1000128
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

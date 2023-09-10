@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Vees (priorité maison)
+Photo URL    : https://www.flickr.com/photos/chris_vees/6222198731/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 22 12:30:33 GMT+0200 2011
+Upload Date  : Sun Oct 9 21:00:34 GMT+0200 2011
+Views        : 808
+Comments     : 24
+
+
++---------+
+|  TITLE  |
++---------+
+Joli saut
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Jeune stenelle tachetée
+<i> Stenella frontalis</i>
+Açores - Azores
+
+
++--------+
+|  TAGS  |
++--------+
+"Açores 2011 Sao Jorge" 

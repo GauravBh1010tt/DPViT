@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oregon Department of Fish & Wildlife
+Photo URL    : https://www.flickr.com/photos/odfw/17292450992/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 4 07:09:32 GMT+0200 2010
+Upload Date  : Tue Apr 28 00:52:07 GMT+0200 2015
+Views        : 3,104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+0462_wenaha_male_wolf_odfw
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+-Photo by Oregon Department of Fish and Wildlife-
+
+<a href="http://www.dfw.state.or.us/news/2010/august/080610.asp" rel="nofollow">Male wolf from Wenaha pack was fitted with a radio collar on Aug. 4, 2010. Aug. 4, 2010.</a>
+
+
++--------+
+|  TAGS  |
++--------+
+mammal canine wolf ODFW Oregon "gray wolf" "radio collar" male "Wenaha Pack" 

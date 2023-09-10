@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chung Ho Leung
+Photo URL    : https://www.flickr.com/photos/chungholeung/8742229679/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 15 09:19:48 GMT+0200 2013
+Upload Date  : Thu May 16 03:58:28 GMT+0200 2013
+Views        : 9,261
+Comments     : 20
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit in the wild
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Found this bunny strolling around in my backyard looking for food.
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbit Bunny Wildlife Grass Nature Ontario Canada Canon "Canon 70-200mm F/2.8L" 

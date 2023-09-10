@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ogwen
+Photo URL    : https://www.flickr.com/photos/ogwen/54695249/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 21 14:49:59 GMT+0200 2005
+Upload Date  : Sat Oct 22 00:49:59 GMT+0200 2005
+Views        : 639
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zimbabwe
+
+
++--------+
+|  TAGS  |
++--------+
+Lion zimbabwe 

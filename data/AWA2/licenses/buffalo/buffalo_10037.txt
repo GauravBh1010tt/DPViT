@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Laertes
+Photo URL    : https://www.flickr.com/photos/jonhurd/2469149024/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 3 20:01:54 GMT+0200 2008
+Upload Date  : Mon May 5 23:12:21 GMT+0200 2008
+Geotag Info  : Latitude:35.196256, Longitude:-106.533222
+Views        : 610
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Near Albuquerque, New Mexico.
+
+(~ 3 miles from home.)
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo bison Albuquerque "New Mexico" 

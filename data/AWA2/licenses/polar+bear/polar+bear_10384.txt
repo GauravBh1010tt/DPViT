@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Raphael Quinet
+Photo URL    : https://www.flickr.com/photos/raphaelquinet/1320971121/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 16:40:41 GMT+0200 2007
+Upload Date  : Tue Sep 4 16:29:59 GMT+0200 2007
+Geotag Info  : Latitude:50.499533, Longitude:5.741579
+Views        : 1,408
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+MondeSauvage-164041
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polar bear / <i>Ours blanc (Ursus maritimus)</i>
+
+
++--------+
+|  TAGS  |
++--------+
+Belgium Aywaille MondeSauvage polar bear 

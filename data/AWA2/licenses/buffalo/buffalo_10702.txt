@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StormCS
+Photo URL    : https://www.flickr.com/photos/77148176@N03/13969973812/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 17 14:45:55 GMT+0200 2014
+Upload Date  : Tue Apr 22 21:09:14 GMT+0200 2014
+Geotag Info  : Latitude:46.690972, Longitude:6.340752
+Views        : 211
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMGP1600.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bison Juraparc 

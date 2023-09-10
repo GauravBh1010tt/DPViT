@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : emdot
+Photo URL    : https://www.flickr.com/photos/emdot/408362/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 11 17:21:30 GMT+0200 2004
+Upload Date  : Sun Sep 12 02:21:30 GMT+0200 2004
+Geotag Info  : Latitude:35.276289, Longitude:-120.656844
+Views        : 1,207
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Wizzy and the Sculptures
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wizard cat sculpture "my neighborhood" siamese establishment 

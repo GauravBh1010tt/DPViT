@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/9158448085/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 2 23:11:51 GMT+0200 2013
+Upload Date  : Fri Jun 28 18:21:18 GMT+0200 2013
+Views        : 467
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scenery and wildlife at Lake Ilo National Wildlife Refuge in North Dakota
+
+Credit: USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+Refuge "National Wildlife Refuge" Prairie grasslands Bison "North Dakota" Dakota FWS USFWS "U.S. Fish and Wildlife Service" Conservation wildlife Nature 

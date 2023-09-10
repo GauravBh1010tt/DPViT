@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sheffield Tiger
+Photo URL    : https://www.flickr.com/photos/sheffield_tiger/4992302763/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 14 16:15:54 GMT+0200 2010
+Upload Date  : Wed Sep 15 12:58:43 GMT+0200 2010
+Views        : 1,653
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lioness
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion lioness "Yorkshire Wildlife Park" "Yorkshire Wildlife" 

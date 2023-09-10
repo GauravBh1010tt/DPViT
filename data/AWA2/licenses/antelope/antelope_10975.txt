@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dianaandleland
+Photo URL    : https://www.flickr.com/photos/dianaandleland/9123183214/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 26 22:13:49 GMT+0200 2002
+Upload Date  : Mon Jun 24 04:46:40 GMT+0200 2013
+Views        : 88
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two male impala
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

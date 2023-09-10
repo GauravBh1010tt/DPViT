@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Whistling in the Dark
+Photo URL    : https://www.flickr.com/photos/yaffamedia/9216942733/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 4 10:09:23 GMT+0200 2013
+Upload Date  : Sat Jul 6 00:28:59 GMT+0200 2013
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinoceros at South Lakes Wild Animal Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

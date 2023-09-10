@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Accretion Disc
+Photo URL    : https://www.flickr.com/photos/befuddledsenses/9828852044/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 17 23:51:19 GMT+0200 2013
+Upload Date  : Fri Sep 20 04:01:54 GMT+0200 2013
+Geotag Info  : Latitude:61.152264, Longitude:-149.950761
+Views        : 346
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mr Rico
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The cat
+
+
++--------+
+|  TAGS  |
++--------+
+cat cats "blue eyes" siamese lynx 

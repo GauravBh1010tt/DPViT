@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ceris42
+Photo URL    : https://www.flickr.com/photos/ceris/5144425040/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 21 19:19:39 GMT+0200 2010
+Upload Date  : Thu Nov 4 00:37:14 GMT+0100 2010
+Views        : 267
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sebastian
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This was his car ride home. Drove 500 miles for him! :)
+
+
++--------+
+|  TAGS  |
++--------+
+German Shepherd Puppy 

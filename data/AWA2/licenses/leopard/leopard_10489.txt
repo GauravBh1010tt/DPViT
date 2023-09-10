@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : belgianchocolate
+Photo URL    : https://www.flickr.com/photos/frank-wouters/3750708431/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 12:09:50 GMT+0200 2007
+Upload Date  : Fri Jul 24 06:13:21 GMT+0200 2009
+Views        : 1,097
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+nevelpanter - - Neofelis nebulosa -clouded leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Duisburg zoo dierentuin duitsland cat kat "Panthera nebulosa" "Neofelis nebulosa" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/2956583228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 23 12:10:15 GMT+0200 2008
+Upload Date  : Mon Oct 20 01:28:46 GMT+0200 2008
+Views        : 565
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Domesticated fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox Potsdam Germany Europe 2008 

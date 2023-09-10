@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sean.kelleher1
+Photo URL    : https://www.flickr.com/photos/seankelleher/25644474194/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 4 10:32:16 GMT+0200 2016
+Upload Date  : Tue Apr 5 11:47:58 GMT+0200 2016
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SFK40103.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus digital camera
+
+
++--------+
+|  TAGS  |
++--------+
+Lion 

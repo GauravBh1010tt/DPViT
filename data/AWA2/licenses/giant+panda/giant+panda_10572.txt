@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : popofatticus
+Photo URL    : https://www.flickr.com/photos/barretthall/2478623520/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 8 12:25:58 GMT+0200 2008
+Upload Date  : Fri May 9 17:25:07 GMT+0200 2008
+Views        : 11,608
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+panda gaze
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+atltrip atlzoo zoo panda animals photoblog atlanta lani best08 2008pics 2008top20int 

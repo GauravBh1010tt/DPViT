@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : albinson gallery
+Photo URL    : https://www.flickr.com/photos/tomanddonna/22572676350/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 30 19:04:25 GMT+0100 2015
+Upload Date  : Tue Nov 3 23:43:52 GMT+0100 2015
+Views        : 97
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tsavo West Park, Kenya (2015)
+
+
++--------+
+|  TAGS  |
++--------+
+Cheetah Kenya TsavoWest 

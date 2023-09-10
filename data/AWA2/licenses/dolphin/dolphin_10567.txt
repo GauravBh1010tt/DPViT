@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Earthrace Conservation
+Photo URL    : https://www.flickr.com/photos/earthraceconservation/9258484394/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 25 14:15:21 GMT+0100 2005
+Upload Date  : Wed Jul 10 23:25:11 GMT+0200 2013
+Views        : 931
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hectors sideflop male  thanks to Liz Slooten Otago University
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+January 2013:  Pete Bethune, Scotty Bowman and friends carried out covert surveillance on illegal fishing boats threatening the habitat of the last remaining Maui's dolphins in New Zealand.
+
+Despite producing good evidence of encroachment within marine protected areas, the authorities yet again did nothing.
+
+
++--------+
+|  TAGS  |
++--------+
+"Maui's dolphin" 'Hector's "marine conservation" 

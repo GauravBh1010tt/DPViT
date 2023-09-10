@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DBduo Photography
+Photo URL    : https://www.flickr.com/photos/drb62/3282586517/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 15 12:16:08 GMT+0100 2009
+Upload Date  : Mon Feb 16 02:16:44 GMT+0100 2009
+Views        : 959
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Baby bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Just hangin'
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbit Bunny 

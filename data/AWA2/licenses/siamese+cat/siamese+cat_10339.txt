@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Miss Claeson
+Photo URL    : https://www.flickr.com/photos/9650697@N06/2166393816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 4 11:53:54 GMT+0100 2008
+Upload Date  : Fri Jan 4 16:48:29 GMT+0100 2008
+Views        : 4,762
+Comments     : 33
+
+
++---------+
+|  TITLE  |
++---------+
+Just like a cheetah...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My cat Bill playing in the snow
+
+Used for this website about cats: <a href="http://www.all-about-siamese-cats.com/pictures-of-cats.html" rel="nofollow">www.all-about-siamese-cats.com/pictures-of-cats.html</a>
+
+
++--------+
+|  TAGS  |
++--------+
+dalarö sweden winter snow nikon d80 "Nikon D80" Oreengeness cat running play 

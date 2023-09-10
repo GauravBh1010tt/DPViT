@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GayleRE
+Photo URL    : https://www.flickr.com/photos/gaylespix/9679051411/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 22 12:28:37 GMT+0200 2013
+Upload Date  : Thu Sep 5 21:18:29 GMT+0200 2013
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC00640
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polar Bear
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

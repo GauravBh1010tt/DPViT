@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JP Guenard
+Photo URL    : https://www.flickr.com/photos/jp_guenard/5592879904/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 1 07:03:10 GMT+0100 2011
+Upload Date  : Tue Apr 5 19:26:21 GMT+0200 2011
+Geotag Info  : Latitude:21.314054, Longitude:-157.663722
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SLP21
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin 

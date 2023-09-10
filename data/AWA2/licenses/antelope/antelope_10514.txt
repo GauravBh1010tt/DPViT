@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : don_macauley
+Photo URL    : https://www.flickr.com/photos/27770620@N02/4461448765/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 19 07:02:05 GMT+0100 2010
+Upload Date  : Thu Mar 25 10:43:08 GMT+0100 2010
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5000
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

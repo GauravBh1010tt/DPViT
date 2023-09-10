@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/7508592042/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 5 07:19:16 GMT+0200 2012
+Upload Date  : Thu Jul 5 18:00:09 GMT+0200 2012
+Views        : 4,618
+Comments     : 35
+
+
++---------+
+|  TITLE  |
++---------+
+"Women and cats will do as they please, and men and dogs should relax and get used to the idea." Robert A. Heinlein
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+LOL !
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese thinking proclaiming "Miss Truffles" "Robert Heinlein" PicMonkey 

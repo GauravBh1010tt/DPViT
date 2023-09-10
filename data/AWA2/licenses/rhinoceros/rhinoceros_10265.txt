@@ -1,0 +1,42 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lip Kee
+Photo URL    : https://www.flickr.com/photos/lipkee/2442759707/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 14 18:57:22 GMT+0200 2008
+Upload Date  : Sat Apr 26 19:16:38 GMT+0200 2008
+Geotag Info  : Latitude:26.673231, Longitude:93.404903
+Views        : 873
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Keep your distance from my baby!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Asian One-horned Rhinoceros - female protective of cub in the background
+(Rhinoceros unicornis)
+Location: Kazaringa, Assam, India
+April 15, 2008 
+
+
+
+690V4903
+
+
++--------+
+|  TAGS  |
++--------+
+"Great One-horned Rhinoceros" "Asian One-horned Rhinoceros" "Rhinoceros unicornis" 

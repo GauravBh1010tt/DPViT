@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : IndyDina with Mr. Wonderful
+Photo URL    : https://www.flickr.com/photos/littlesister/57675122/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 29 14:47:48 GMT+0200 2005
+Upload Date  : Sun Oct 30 21:46:57 GMT+0100 2005
+Views        : 332
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+chocolate siamese
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Catbrooch asked me to add this to Chocolate cats...thank you for the invite and enjoy!!
+
+
++--------+
+|  TAGS  |
++--------+
+cats catshow 

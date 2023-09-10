@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jc.winkler
+Photo URL    : https://www.flickr.com/photos/51653562@N00/2844747410/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 30 08:41:05 GMT+0200 2008
+Upload Date  : Wed Sep 10 03:13:14 GMT+0200 2008
+Views        : 534
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Neighborhood bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bunny Rabbit Ducks "Wood Ducks" 

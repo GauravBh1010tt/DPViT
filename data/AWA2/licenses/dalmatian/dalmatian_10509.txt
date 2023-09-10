@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mara Mtnz
+Photo URL    : https://www.flickr.com/photos/mara_valhalla/10429951405/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 21 21:14:34 GMT+0200 2013
+Upload Date  : Wed Oct 23 00:52:30 GMT+0200 2013
+Views        : 385
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Doro
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mi vaquita jeje
+
+
++--------+
+|  TAGS  |
++--------+
+perro dog dalmata dalmatian can pet sweet beatiful bonito adorable encantador mara mtnz 

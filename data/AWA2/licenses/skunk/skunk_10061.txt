@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gamppart
+Photo URL    : https://www.flickr.com/photos/gamppart/7391222976/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 17 19:46:22 GMT+0200 2012
+Upload Date  : Mon Jun 18 04:46:22 GMT+0200 2012
+Views        : 925
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+On the Welcome Mat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+skunk animals wildlife garden 

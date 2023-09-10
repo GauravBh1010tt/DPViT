@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DogPark TV
+Photo URL    : https://www.flickr.com/photos/dogparktv/2449007134/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 26 11:12:29 GMT+0200 2007
+Upload Date  : Mon Apr 28 13:58:00 GMT+0200 2008
+Geotag Info  : Latitude:47.492964, Longitude:19.127197
+Views        : 1,089
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dalmatian hound hund dog is standing in the grass - Dalmata kutya áll a fűben
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On the Budapest CACIB a Dalmatian hound is standing in the grass. 
+
+A budapesti CACIB-on egy dalmata áll a fűben.
+
+More photos / Még több kép:
+<a href="http://www.dogpark.hu" rel="nofollow">www.dogpark.hu</a>
+
+
++--------+
+|  TAGS  |
++--------+
+dalmatian dalmatiener dog hound hund kutya grass CACIB fűben standing áll 

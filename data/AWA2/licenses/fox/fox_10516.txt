@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Avery
+Photo URL    : https://www.flickr.com/photos/33590535@N06/3520432650/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 25 13:30:54 GMT+0200 2009
+Upload Date  : Mon May 11 01:42:57 GMT+0200 2009
+Geotag Info  : Latitude:38.928167, Longitude:-105.221729
+Views        : 1,862
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Colorado Wolf and Wildlife Center Divide CO.
+These animals are rescues from a fur farmer.Coloration is due to selective breeding for a more marketable fur.
+
+
++--------+
+|  TAGS  |
++--------+
+"Colorado Wolf and Wildlife Center" "taxonomy:common=red fox" "taxonomy:binomial=Vulpes vulpes" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USDAgov
+Photo URL    : https://www.flickr.com/photos/usdagov/22358473575/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 6 08:36:37 GMT+0200 2015
+Upload Date  : Wed Oct 21 15:23:07 GMT+0200 2015
+Views        : 1,526
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A surrogate mother bison standing guard over her new baby
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A surrogate mother bison stands guard over her calf. The young bison is part of the Laramie Foothills Bison Conservation Herd, which is a group of genetically-pure and disease-free bison established by Colorado State University, U.S. Department of Agriculture (USDA) Animal and Plant Health Inspection Service (APHIS) Veterinary Services, the City of Fort Collins and Larimer County, Colorado. Photo by John Eisele, Colorado State University.
+
+
++--------+
+|  TAGS  |
++--------+
+APHIS bison Colorado "Colorado State University" "National Wildlife Research Center" "Red Mountain Open Space" "Soapstone Prairie Natural Area" "Veterinary Services" 

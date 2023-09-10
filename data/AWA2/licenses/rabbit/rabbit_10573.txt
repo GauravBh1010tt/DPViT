@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : boviate
+Photo URL    : https://www.flickr.com/photos/boviate/3787760200/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 25 15:40:38 GMT+0200 2009
+Upload Date  : Tue Aug 4 05:45:56 GMT+0200 2009
+Views        : 521
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMGP6096_cleanup_crop
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This little guy was so hungry he came out to graze in a cold rain.
+
+
++--------+
+|  TAGS  |
++--------+
+nature rabbit 

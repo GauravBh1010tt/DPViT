@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lucy Takakura
+Photo URL    : https://www.flickr.com/photos/lucytakakura/4297390408/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 23 11:11:39 GMT+0100 2010
+Upload Date  : Sat Jan 23 09:49:01 GMT+0100 2010
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+井の頭自然文化園
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

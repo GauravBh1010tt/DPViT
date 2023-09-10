@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : haru__q
+Photo URL    : https://www.flickr.com/photos/haru__q/25034812395/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 23 14:13:55 GMT+0100 2015
+Upload Date  : Mon Feb 15 04:10:20 GMT+0100 2016
+Views        : 561
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC00985c2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Panda
+
+
++--------+
+|  TAGS  |
++--------+
+上野動物園 sony a7 Konica AR HEXANON Panda パンダ 

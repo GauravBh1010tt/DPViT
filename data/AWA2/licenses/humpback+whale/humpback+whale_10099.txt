@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : magic_bee
+Photo URL    : https://www.flickr.com/photos/magic_bee/4654288428/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 20 22:24:52 GMT+0200 2010
+Upload Date  : Mon May 31 00:03:37 GMT+0200 2010
+Views        : 393
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bianca the humpback whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+iceland Húsavík animals whale humpback 

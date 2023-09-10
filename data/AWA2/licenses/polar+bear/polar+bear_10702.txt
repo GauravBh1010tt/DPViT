@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mmechtley
+Photo URL    : https://www.flickr.com/photos/mmechtley/540200457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 1 14:59:55 GMT+0200 2007
+Upload Date  : Mon Jun 11 07:48:38 GMT+0200 2007
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polary bear drying off
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Amsterdam Artis Zoo 

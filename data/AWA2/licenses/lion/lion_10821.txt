@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/8212558769/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 16 15:46:44 GMT+0100 2012
+Upload Date  : Sat Nov 24 10:56:37 GMT+0100 2012
+Geotag Info  : Latitude:-25.308493, Longitude:31.559944
+Views        : 2,387
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Löwe / Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ein Löwe im Krüger-Nationalpark (Südafrika).
+
+A Lion in the Kruger National Park (South Africa).
+
+
++--------+
+|  TAGS  |
++--------+
+Südafrika "South Africa" Safari "Kruger National Park" Löwe Lion Wildlife "Panthera leo" "Wild Feline Photography" "Kruger Park" Mpumalanga 

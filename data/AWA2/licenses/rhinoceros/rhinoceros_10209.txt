@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeff Kubina
+Photo URL    : https://www.flickr.com/photos/kubina/2901913053/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 9 16:29:20 GMT+0200 2008
+Upload Date  : Tue Sep 30 20:54:45 GMT+0200 2008
+Geotag Info  : Latitude:39.830875, Longitude:-81.738830
+Views        : 364
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Greater One-Horned Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"the wilds" ohio "greater one-horned rhinoceros" "united states" 200808 cumberland 2008 "taken by jeff kubina" "70.0-300.0 mm f/4.5-5.6" public 

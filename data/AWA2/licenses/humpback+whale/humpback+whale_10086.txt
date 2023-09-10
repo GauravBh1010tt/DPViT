@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/5037018678/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 29 14:16:02 GMT+0200 2010
+Upload Date  : Wed Sep 29 20:27:06 GMT+0200 2010
+Views        : 1,552
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+anim1089
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Curious humpback whale inspecting diver.
+
+
++--------+
+|  TAGS  |
++--------+
+NOAA whale 

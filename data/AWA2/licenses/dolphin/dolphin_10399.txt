@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roberto Carlos Pecino
+Photo URL    : https://www.flickr.com/photos/robertopecino/3462344963/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 24 18:48:50 GMT+0200 2008
+Upload Date  : Tue Apr 21 18:08:17 GMT+0200 2009
+Geotag Info  : Latitude:28.408444, Longitude:-16.564550
+Views        : 1,570
+Comments     : 37
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins - Smile please!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.pecino.com" rel="nofollow">www.pecino.com</a> Olympus e500
+
+
++--------+
+|  TAGS  |
++--------+
+Tenerife Sur Los Cristianos Loro Parque Aqualand Atracciones Diversión "Turimos en tenerife" "atracciones en tenerife" Delfin Orca Acantilado Rompiente Ola Tabla Body Mar Show Pecera Paisaje Relax Adeje "Santa Cruz" "Centro Comercial Safari" Cresta "Loro Parque" Siam Park "Siam Park" GroupTripod www.pecino.com "photographer andalucia" photographer 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tsukunepapa
+Photo URL    : https://www.flickr.com/photos/tsukunepapa/7272475622/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 21 11:03:42 GMT+0200 2012
+Upload Date  : Sat May 26 12:38:13 GMT+0200 2012
+Geotag Info  : Latitude:42.919223, Longitude:143.203697
+Views        : 105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20120521_110342_ObihiroTKN
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+おびひろ動物園　2012年5月21日
+
+
++--------+
+|  TAGS  |
++--------+
+おびひろ動物園 ホッキョクグマ 

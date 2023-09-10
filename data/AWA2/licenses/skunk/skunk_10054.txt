@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tehbieber
+Photo URL    : https://www.flickr.com/photos/tehbieber/4419433124/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 9 01:17:53 GMT+0100 2010
+Upload Date  : Tue Mar 9 07:37:32 GMT+0100 2010
+Geotag Info  : Latitude:27.495747, Longitude:-82.587661
+Views        : 134
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ms. Skunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+wandering around the bathroom
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

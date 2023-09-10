@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Allan Hack
+Photo URL    : https://www.flickr.com/photos/aehack/1926362898/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 7 14:09:45 GMT+0100 2007
+Upload Date  : Fri Nov 9 02:51:39 GMT+0100 2007
+Geotag Info  : Latitude:37.733050, Longitude:-122.503394
+Views        : 2,402
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+African Lion - Male
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+San Francisco Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Lion 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matthew Bietz
+Photo URL    : https://www.flickr.com/photos/mbietz/2289051381/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 23 10:52:30 GMT+0100 2008
+Upload Date  : Sun Feb 24 23:44:15 GMT+0100 2008
+Views        : 3,371
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Panda
+
+
++--------+
+|  TAGS  |
++--------+
+SanDiego SanDiegoZoo panda 

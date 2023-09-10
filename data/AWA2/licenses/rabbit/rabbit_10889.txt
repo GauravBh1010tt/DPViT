@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jimmcsweeney
+Photo URL    : https://www.flickr.com/photos/73118846@N04/20919900076/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 6 10:55:01 GMT+0200 2015
+Upload Date  : Fri Aug 28 10:46:42 GMT+0200 2015
+Views        : 932
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit wildlife lappin 

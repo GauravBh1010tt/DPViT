@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Günter Hentschel
+Photo URL    : https://www.flickr.com/photos/v230gh/8630298139/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 7 14:57:47 GMT+0200 2013
+Upload Date  : Mon Apr 8 13:34:11 GMT+0200 2013
+Geotag Info  : Latitude:51.542945, Longitude:7.111119
+Views        : 143
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo Gelsenkirchen (D)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.zoom-erlebniswelt.de/" rel="nofollow">www.zoom-erlebniswelt.de/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Gelsenkirchen Löwe Polarbär Eisbär Bären "Braun Bär" Nikon D40 "Nikon D40" Wildtiere Deutschland Europa NRW Affen 

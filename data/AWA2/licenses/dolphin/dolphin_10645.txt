@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bfrd
+Photo URL    : https://www.flickr.com/photos/morvantfamily/7748402844/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 09:30:04 GMT+0200 2012
+Upload Date  : Thu Aug 9 21:49:26 GMT+0200 2012
+Geotag Info  : Latitude:27.976973, Longitude:-82.819168
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9727
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

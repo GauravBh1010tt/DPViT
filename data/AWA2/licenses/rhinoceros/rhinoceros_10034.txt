@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/3549608579/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 8 18:28:16 GMT+0100 2008
+Upload Date  : Thu May 21 03:07:54 GMT+0200 2009
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Asian Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals animal Animalia Chordata Vertebrata Mammalia Perissodactyla Rhinocerotidae 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bo Mertz
+Photo URL    : https://www.flickr.com/photos/barahir/7041957019/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 18 14:33:33 GMT+0200 2011
+Upload Date  : Tue Apr 3 15:57:01 GMT+0200 2012
+Geotag Info  : Latitude:61.124427, Longitude:-149.792348
+Views        : 762
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6126.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska USA US Wolf 

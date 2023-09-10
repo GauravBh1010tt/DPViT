@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 陈霆, Ting Chen, Wing
+Photo URL    : https://www.flickr.com/photos/philopp/5394880869/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 12 14:20:45 GMT+0100 2011
+Upload Date  : Fri Jan 28 12:11:17 GMT+0100 2011
+Geotag Info  : Latitude:-1.388127, Longitude:36.920344
+Views        : 141
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Nairobi Rhinoceros 

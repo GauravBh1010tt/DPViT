@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Queralt jqmj
+Photo URL    : https://www.flickr.com/photos/62681247@N00/7274645752/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 12 12:00:16 GMT+0200 2012
+Upload Date  : Sat May 26 20:58:24 GMT+0200 2012
+Views        : 763
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Boleta gris 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dos conills regal de l'avi per Pasqua. Els nens van estar encantats!!!
+
+
++--------+
+|  TAGS  |
++--------+
+conill rabbit conejo A3B 

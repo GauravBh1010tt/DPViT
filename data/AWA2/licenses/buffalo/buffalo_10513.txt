@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jerseygal2009
+Photo URL    : https://www.flickr.com/photos/jerseygal2009/14507252987/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 2 13:05:03 GMT+0200 2014
+Upload Date  : Sat Jul 19 23:21:33 GMT+0200 2014
+Geotag Info  : Latitude:44.642154, Longitude:-110.955562
+Views        : 372
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+buffalo 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yellowstone Park 2014
+
+
++--------+
+|  TAGS  |
++--------+
+"Yellowstone National Park" Montana Wyoming USA buffalo bison herd animal wildlife 

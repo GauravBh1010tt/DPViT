@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/13901349301/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 8 09:58:31 GMT+0100 2014
+Upload Date  : Fri Apr 18 18:06:37 GMT+0200 2014
+Geotag Info  : Latitude:-24.620100, Longitude:31.780271
+Views        : 627
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard (Panthera pardus) female close-up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+S125 Road South of Satara, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+"Panthera pardus" "taxonomy:binomial=Panthera pardus" 

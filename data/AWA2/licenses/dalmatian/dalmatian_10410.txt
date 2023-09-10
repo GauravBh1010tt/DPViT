@@ -1,0 +1,45 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/18386644369/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 26 19:05:33 GMT+0200 2015
+Upload Date  : Sun Jun 7 21:54:27 GMT+0200 2015
+Views        : 491
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Angie testet
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.dalmi-blog.de/2015/06/07/angie-testet-meatsnax-hundesnacks-mit-irischem-rindfleisch/" rel="nofollow">www.dalmi-blog.de/2015/06/07/angie-testet-meatsnax-hundes...</a>
+
+Juni 2015
+
+Canon EOS 60D
+EF 24-105mm f/4L IS USM
+
+Creative Commons Licence BY 2.0
+<a href="https://creativecommons.org/licenses/by/2.0/" rel="nofollow">creativecommons.org/licenses/by/2.0/</a>
+
+Quellenangabe / Credit:
+Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund dog hunde dogs hündin female dalmatiner dalmatian schwarz weiß black white meatsnax test 

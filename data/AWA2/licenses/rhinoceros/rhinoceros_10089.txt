@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Allie_Caulfield
+Photo URL    : https://www.flickr.com/photos/wm_archiv/2725396502/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 16 13:48:25 GMT+0200 2006
+Upload Date  : Sat Aug 2 16:38:26 GMT+0200 2008
+Geotag Info  : Latitude:48.097973, Longitude:11.554441
+Views        : 153
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2006-09-16 Muenchen Hellabrunn_018
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+München 2006 September Herbst Munich Hellabrunn Zoo Tierpark Nashorn rhino rhinoceros Foto photo image picture Bild "creative commons" flickr "high resolution" stockphoto free cc 

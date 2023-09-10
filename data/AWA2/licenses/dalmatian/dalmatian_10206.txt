@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/10119613635/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 29 13:37:27 GMT+0200 2013
+Upload Date  : Sun Oct 6 19:26:24 GMT+0200 2013
+Views        : 661
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ganz schön wenig Platz hier 6-7
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+September 2013
+Canon EOS 60D
+EF 50mm f/1.8 II
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hündin dog dalmatiner female dalmatian Dalmatinac 

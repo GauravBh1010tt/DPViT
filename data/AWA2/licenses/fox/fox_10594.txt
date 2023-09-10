@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DrGBB
+Photo URL    : https://www.flickr.com/photos/drgbb/8741539474/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 8 17:40:17 GMT+0200 2013
+Upload Date  : Wed May 15 15:51:15 GMT+0200 2013
+Geotag Info  : Latitude:41.260902, Longitude:-80.859773
+Views        : 650
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SVBA Fox 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+SVBA Fox 1
+
+
++--------+
+|  TAGS  |
++--------+
+Animals fox nature Ohio SVBA Warren 

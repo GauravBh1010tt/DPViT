@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joo0ey
+Photo URL    : https://www.flickr.com/photos/joo0ey/3680333237/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 19 13:03:31 GMT+0200 2009
+Upload Date  : Thu Jul 2 08:41:58 GMT+0200 2009
+Views        : 1,652
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Testing Waters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Central Park Zoo
+____________________________________________________________
+My photo used on eHow.com, again!
+<a href="http://www.ehow.com/facts_5530347_arctic-national-wildlife-refuge.html" rel="nofollow">Click!</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"bronx zoo" zoo ny "new york" "new york city" nyc wild wildlife tree endanger central park "central park zoo" animals panda "red panda" seal sea lion "sea lion" tiger bear "polar bear" polar firefox foxkeh 

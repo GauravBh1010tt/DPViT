@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarilynJane
+Photo URL    : https://www.flickr.com/photos/marilynjane/3522522443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 11 09:28:49 GMT+0200 2009
+Upload Date  : Mon May 11 21:52:22 GMT+0200 2009
+Views        : 6,504
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Recall!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Enthusiastic return I nearly got bowled over!
+Kim and Mace (in front), sister and brother on Okeford Hill.
+
+
++--------+
+|  TAGS  |
++--------+
+Dogs GSD "German Shepherd" Pet 

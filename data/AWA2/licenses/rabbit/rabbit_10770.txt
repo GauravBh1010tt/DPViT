@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fingers SFV
+Photo URL    : https://www.flickr.com/photos/fingerssfv-aka-ryoung/3577469079/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 25 21:02:02 GMT+0200 2009
+Upload Date  : Sat May 30 10:58:41 GMT+0200 2009
+Views        : 774
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rabbit headshot
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit Bugsy fingerssfv 

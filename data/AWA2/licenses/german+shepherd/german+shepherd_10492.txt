@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Perfect Zero
+Photo URL    : https://www.flickr.com/photos/perfectzero/204667989/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 21 03:41:16 GMT+0200 2006
+Upload Date  : Wed Aug 2 09:56:59 GMT+0200 2006
+Views        : 175
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0351
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog "german shepherd" catch k9 pet 

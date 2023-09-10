@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : klndonnelly
+Photo URL    : https://www.flickr.com/photos/genvessel/533171761/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 15 09:47:54 GMT+0200 2007
+Upload Date  : Wed Jun 6 14:40:37 GMT+0200 2007
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+kenya07 may07 truett kenya africa safari animals "masai mara" 

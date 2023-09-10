@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Randy Wick
+Photo URL    : https://www.flickr.com/photos/cantchangerandy/2762890788/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 6 11:41:49 GMT+0200 2008
+Upload Date  : Thu Aug 14 15:47:26 GMT+0200 2008
+Views        : 504
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Buffalo: Making a Mess of the City
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He kept kicking up dirt and rolling over, probably to scratch his back.  It's so amazing to see a two-thousand pound animal crash to the ground and roll onto its back and then jump up and do it again.
+
+
++--------+
+|  TAGS  |
++--------+
+roadtrip wyoming yellowstone buffalo bison americanbison americanbuffalo 

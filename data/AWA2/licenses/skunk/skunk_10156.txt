@@ -1,0 +1,13 @@
++--------------------------------------+
+|             Photo Metadata           |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D.Fletcher
+Photo URL    : http://www.flickr.com/photos/23516965@N00/27117974556
+License      : Creative Commons Attribution-NoDerivs 2.0 Generic (https://creativecommons.org/licenses/by-nd/2.0/)
+Date         : 20.05.2016

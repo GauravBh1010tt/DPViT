@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cvalette
+Photo URL    : https://www.flickr.com/photos/cvalette/10071858106/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 22 11:09:12 GMT+0200 2013
+Upload Date  : Thu Oct 3 19:15:01 GMT+0200 2013
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+08_1_6206RhinocérosBlanc
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sigean "Réserve africaine" Rhinocéros "Rhinocéros blanc" 

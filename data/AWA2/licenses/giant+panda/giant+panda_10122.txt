@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Franckie Goes
+Photo URL    : https://www.flickr.com/photos/fkb_bxl/2053612454/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 1 00:00:00 GMT+0200 2007
+Upload Date  : Wed Nov 21 21:54:32 GMT+0100 2007
+Geotag Info  : Latitude:31.090574, Longitude:101.997070
+Views        : 131
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Chengdu_Panda_0904
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+China Tibet 

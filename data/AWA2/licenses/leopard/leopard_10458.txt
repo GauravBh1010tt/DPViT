@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike's Birds
+Photo URL    : https://www.flickr.com/photos/pazzani/6619587291/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 10 10:35:58 GMT+0100 2011
+Upload Date  : Mon Jan 2 13:36:46 GMT+0100 2012
+Geotag Info  : Latitude:-24.796187, Longitude:31.498266
+Views        : 241
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Leopards of Londolozi
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

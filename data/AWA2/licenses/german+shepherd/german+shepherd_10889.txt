@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bad Apple Photography
+Photo URL    : https://www.flickr.com/photos/h-productions/8325480128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 21 23:12:35 GMT+0200 2012
+Upload Date  : Sun Dec 30 11:05:02 GMT+0100 2012
+Views        : 1,449
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+The Ear!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog Paisley puppy German Shepherd mix Australian mutt dogtography CC Creative Commons stock 

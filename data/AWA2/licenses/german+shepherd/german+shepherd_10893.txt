@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lodian
+Photo URL    : https://www.flickr.com/photos/whostolecookies/2434814714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 22 11:09:26 GMT+0200 2008
+Upload Date  : Tue Apr 22 21:13:06 GMT+0200 2008
+Views        : 612
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+The Toy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+She loves this toy lol
+
+
++--------+
+|  TAGS  |
++--------+
+dog "german shepherd" 

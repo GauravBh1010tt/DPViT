@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BenSanborn
+Photo URL    : https://www.flickr.com/photos/bensanborn/6145577510/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 10 19:29:01 GMT+0200 2011
+Upload Date  : Wed Sep 14 00:58:55 GMT+0200 2011
+Geotag Info  : Latitude:39.852565, Longitude:-81.729354
+Views        : 551
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Faux Bone
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The most interesting thing about the horn of a rhino is that it isn't bone, it's compressed hair and cartilage
+
+Photo taken at The Wilds in Cumberland, OH.
+Camera: Canon T1i
+Lens: 55-250 f/4.0-5.6
+
+
++--------+
+|  TAGS  |
++--------+
+"The Wilds" Rhino Horn Tusk Bone rhinoceros 

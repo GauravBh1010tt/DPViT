@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fihu
+Photo URL    : https://www.flickr.com/photos/fihu/5574432749/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 20 12:42:09 GMT+0100 2011
+Upload Date  : Wed Mar 30 21:04:12 GMT+0200 2011
+Geotag Info  : Latitude:53.859462, Longitude:8.589849
+Views        : 527
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Pitsch Patsch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog hund watt meer sea northsea sahlenburg schäferhund "german shepherd" 

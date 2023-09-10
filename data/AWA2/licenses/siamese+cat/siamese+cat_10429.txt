@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Newtown grafitti
+Photo URL    : https://www.flickr.com/photos/newtown_grafitti/7170098610/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 10 14:13:05 GMT+0200 2012
+Upload Date  : Thu May 10 12:57:15 GMT+0200 2012
+Views        : 206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siamese cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Very talkative girl - not spooked by the camera as some cats are, but not sure what to make of it.
+
+
++--------+
+|  TAGS  |
++--------+
+Newtown 

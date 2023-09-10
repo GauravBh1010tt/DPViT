@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : frau schnatterliese
+Photo URL    : https://www.flickr.com/photos/frauschnatterliese/6889502832/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 1 11:41:46 GMT+0200 2011
+Upload Date  : Sun Apr 1 19:00:47 GMT+0200 2012
+Views        : 398
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+huggies, luzie & maria
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+:-)
+
+
++--------+
+|  TAGS  |
++--------+
+rhenen "huggies kids" 

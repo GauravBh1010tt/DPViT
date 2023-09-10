@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : YellowstoneNPS
+Photo URL    : https://www.flickr.com/photos/yellowstonenps/7606061450/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 18 01:00:35 GMT+0200 2012
+Upload Date  : Fri Jul 20 00:11:37 GMT+0200 2012
+Views        : 3,971
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow and bull bison in rut
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cow and bull bison in rut;
+Jim Peaco;
+July 2012;
+Catalog #18940d;
+Original #IMG_5670
+
+
++--------+
+|  TAGS  |
++--------+
+"yellowstone national park" yellowstone "national park" Wyoming 

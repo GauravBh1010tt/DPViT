@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sergio Kasusky
+Photo URL    : https://www.flickr.com/photos/sergiokasusky/16091957312/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 7 10:32:13 GMT+0200 2013
+Upload Date  : Wed Dec 24 06:30:08 GMT+0100 2014
+Views        : 260
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Mono araña
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mono Araña, Punta Laguna, Yucatán, México
+
+
++--------+
+|  TAGS  |
++--------+
+Mono Araña Punta Laguna Yucatán Yucatan México Mexico Spider Monkey Nature 

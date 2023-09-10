@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lawtonjm
+Photo URL    : https://www.flickr.com/photos/lawtonjm/7228775602/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 25 11:18:10 GMT+0100 2011
+Upload Date  : Sat May 19 21:29:22 GMT+0200 2012
+Views        : 2
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobosh_t
+Photo URL    : https://www.flickr.com/photos/frted/4850597641/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 30 21:05:23 GMT+0200 2010
+Upload Date  : Mon Aug 2 00:28:29 GMT+0200 2010
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+The Wilds Bison 

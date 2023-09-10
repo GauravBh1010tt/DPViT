@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FotoCavallo
+Photo URL    : https://www.flickr.com/photos/cecphotography/4922833487/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 21 14:52:17 GMT+0200 2010
+Upload Date  : Tue Aug 24 14:35:07 GMT+0200 2010
+Views        : 220
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Poley Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Philadelphia Philly animals zoo bats tiger monkey mammels amphibians snake PA 

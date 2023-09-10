@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : liber
+Photo URL    : https://www.flickr.com/photos/liberato/2680526525/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 18 13:03:40 GMT+0200 2008
+Upload Date  : Sat Jul 19 02:37:40 GMT+0200 2008
+Views        : 5,170
+Comments     : 37
+
+
++---------+
+|  TITLE  |
++---------+
+Atlantic Spotted Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"AF DC-Nikkor 135mm f/2D" delete delete2 delete3 delete4 delete5 delete6 delete7 save delete8 delete9 delete10 SAVE11 madeira portugal island water dolphin jumping 

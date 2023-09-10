@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daveynin
+Photo URL    : https://www.flickr.com/photos/daveynin/3657857243/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 24 18:52:09 GMT+0200 2009
+Upload Date  : Thu Jun 25 01:36:19 GMT+0200 2009
+Views        : 1,380
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hare
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+250mm zoom
+
+
++--------+
+|  TAGS  |
++--------+
+hare rabbit grass green 

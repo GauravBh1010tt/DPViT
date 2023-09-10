@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Somma
+Photo URL    : https://www.flickr.com/photos/ideonexus/4298131194/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 00:00:16 GMT+0100 1980
+Upload Date  : Sat Jan 23 17:59:32 GMT+0100 2010
+Views        : 345
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at the Okavango Delta section of the Virginia Zoo in Norfolk.
+
+Visit my blog at <a href="http://ideonexus.com" rel="nofollow">ideonexus.com</a> for a daily dose of geekdom.
+
+
++--------+
+|  TAGS  |
++--------+
+Okavango Delta Virginia Zoo Norfolk Rhinoceros 

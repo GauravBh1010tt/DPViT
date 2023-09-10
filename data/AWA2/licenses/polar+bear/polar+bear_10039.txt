@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : azza-bazoo
+Photo URL    : https://www.flickr.com/photos/hourann/2448668421/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 27 13:11:27 GMT+0200 2008
+Upload Date  : Mon Apr 28 17:46:22 GMT+0200 2008
+Views        : 712
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+100_4179
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" 

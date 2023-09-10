@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : keith.bellvay
+Photo URL    : https://www.flickr.com/photos/fromkeith/2935695764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 2 02:16:02 GMT+0100 2006
+Upload Date  : Sun Oct 12 21:44:10 GMT+0200 2008
+Geotag Info  : Latitude:-24.728122, Longitude:30.736484
+Views        : 145
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" Trip Grad Monkey 

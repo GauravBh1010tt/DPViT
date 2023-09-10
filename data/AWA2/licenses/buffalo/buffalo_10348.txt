@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gregw66
+Photo URL    : https://www.flickr.com/photos/gregw66/3952557379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 2 13:15:36 GMT+0200 2009
+Upload Date  : Fri Sep 25 15:22:16 GMT+0200 2009
+Geotag Info  : Latitude:44.868990, Longitude:-110.175110
+Views        : 511
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Yellowstone 09" "United States" Yellowstone temp Wyoming "Lamar Valley" "Yellowstone National Park" 

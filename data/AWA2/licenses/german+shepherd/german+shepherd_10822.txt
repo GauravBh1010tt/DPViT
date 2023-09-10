@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cathus
+Photo URL    : https://www.flickr.com/photos/cathus/4237531455/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 19 21:51:32 GMT+0100 2009
+Upload Date  : Sat Jan 2 21:08:40 GMT+0100 2010
+Views        : 164
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Serenity
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"german shepherd" puppy "Keith Roberts Photography" 

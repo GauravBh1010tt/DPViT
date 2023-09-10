@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oliver Ruhm
+Photo URL    : https://www.flickr.com/photos/ruhm/2753720412/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 2 17:42:15 GMT+0200 2008
+Upload Date  : Mon Aug 11 16:50:42 GMT+0200 2008
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale Husavik
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Osbornb
+Photo URL    : https://www.flickr.com/photos/osbornb/19641366898/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 18 10:03:02 GMT+0200 2015
+Upload Date  : Sun Jul 19 17:06:28 GMT+0200 2015
+Geotag Info  : Latitude:32.734358, Longitude:-117.152602
+Views        : 285
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Amur Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+four-year-old male
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "San Diego Zoo" "Amur leopard" 

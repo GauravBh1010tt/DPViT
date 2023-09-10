@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SdosRemedios
+Photo URL    : https://www.flickr.com/photos/sdosremedios/22556506198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 30 16:51:14 GMT+0200 2015
+Upload Date  : Fri Nov 13 02:32:27 GMT+0100 2015
+Views        : 113
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hwange National Park, Zimbabwe
+
+
++--------+
+|  TAGS  |
++--------+
+"(c) Steven dosRemedios" "Africa 2015" Botswana "Hwange National Park" Zimbabwe "© Steven dosRemedios" 

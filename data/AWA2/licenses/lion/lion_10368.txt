@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nils.Woxholt
+Photo URL    : https://www.flickr.com/photos/nilswoxholt/1402050511/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 2 17:37:59 GMT+0200 2007
+Upload Date  : Tue Sep 18 17:33:26 GMT+0200 2007
+Views        : 1,361
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lion cubs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Mashatu game reserve in Botswana
+
+
++--------+
+|  TAGS  |
++--------+
+lion cub cat ImpressedBeauty 

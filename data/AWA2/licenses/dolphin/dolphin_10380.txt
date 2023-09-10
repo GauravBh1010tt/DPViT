@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wildhog1977
+Photo URL    : https://www.flickr.com/photos/lamonicanature/6154006879/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 13 02:10:34 GMT+0100 2011
+Upload Date  : Sat Sep 17 03:21:48 GMT+0200 2011
+Geotag Info  : Latitude:28.538230, Longitude:-81.377388
+Views        : 2,276
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.photoblog.com/lamonicaphotos/" rel="nofollow">www.photoblog.com/lamonicaphotos/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+bottle dolphin fish flipper mammal ocean sea smile water waves 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mad House Photography
+Photo URL    : https://www.flickr.com/photos/mad_house_photography/4285743628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 16 13:04:20 GMT+0100 2010
+Upload Date  : Mon Jan 18 19:47:54 GMT+0100 2010
+Views        : 1,009
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sapphire
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sapphire the siamese cat
+
+
++--------+
+|  TAGS  |
++--------+
+blue eyes cat siamese "Tortie point" "blue eyes" tortie point feline cute kitty 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ashleigh louise.
+Photo URL    : https://www.flickr.com/photos/asharee/8216635812/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 23 18:09:35 GMT+0100 2012
+Upload Date  : Sun Nov 25 09:38:02 GMT+0100 2012
+Geotag Info  : Latitude:-36.882641, Longitude:174.768791
+Views        : 260
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spider Monkeys (Ateles Geoffroyi Geoffroyi), Auckland Zoo, 23 Nov 2012
+
+
++--------+
+|  TAGS  |
++--------+
+animal Spider Monkey Ateles Geoffroyi Auckland Zoo New Zealand NZ 

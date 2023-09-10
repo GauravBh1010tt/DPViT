@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HeyMoira
+Photo URL    : https://www.flickr.com/photos/snark/5439011091/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 12 10:54:18 GMT+0100 2011
+Upload Date  : Sat Feb 12 21:06:48 GMT+0100 2011
+Views        : 252
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1121
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo "golden gate park" "JFK Drive" grazing 

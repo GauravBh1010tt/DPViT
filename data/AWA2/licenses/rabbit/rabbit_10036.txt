@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KXPirt
+Photo URL    : https://www.flickr.com/photos/kpirt/9858139263/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 5 20:45:31 GMT+0200 2013
+Upload Date  : Sat Sep 21 22:42:54 GMT+0200 2013
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+140-IMG_5499
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

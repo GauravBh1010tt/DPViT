@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jordi Payà Canals
+Photo URL    : https://www.flickr.com/photos/arg0s/14834231628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 18 18:00:14 GMT+0200 2014
+Upload Date  : Sun Aug 24 18:07:36 GMT+0200 2014
+Geotag Info  : Latitude:41.385739, Longitude:2.190140
+Views        : 360
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+white rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Jordi Payà Canals Canon EOS 450D EF 70-300mm IS USM Catalonia Barcelona zoo zoological park mammal animal rhinoceros rhino white horn africa fauna 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 2e14
+Photo URL    : https://www.flickr.com/photos/2e14/5647902160/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 22 11:37:47 GMT+0200 2011
+Upload Date  : Sun Apr 24 01:29:05 GMT+0200 2011
+Views        : 597
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbären / Polar Bears
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+eisbär hannover kampf tiere zoo animals fight "polar bear" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : martinmeyer.co.za
+Photo URL    : https://www.flickr.com/photos/martinmeyercoza/5374373079/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 21 09:36:22 GMT+0100 2011
+Upload Date  : Fri Jan 21 08:36:22 GMT+0100 2011
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_5853
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The young leopard female begins tracking during a night game drive.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

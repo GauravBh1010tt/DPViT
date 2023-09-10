@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheGirlsNY
+Photo URL    : https://www.flickr.com/photos/thegirlsny/3757015658/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 25 12:58:48 GMT+0200 2009
+Upload Date  : Sun Jul 26 05:12:56 GMT+0200 2009
+Views        : 435
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Slurp!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Bronx Zoo" Lion Cub 

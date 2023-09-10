@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SmokingDonkey & ZumiWeb
+Photo URL    : https://www.flickr.com/photos/sable/13537886714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 29 17:37:29 GMT+0100 2014
+Upload Date  : Mon Mar 31 15:49:54 GMT+0200 2014
+Geotag Info  : Latitude:51.281501, Longitude:1.227936
+Views        : 713
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ex-circus, now just staying calm...
+
+
++--------+
+|  TAGS  |
++--------+
+Wingham 

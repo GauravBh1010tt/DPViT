@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ChameleonGreen
+Photo URL    : https://www.flickr.com/photos/chameleongreen/4533339446/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 6 06:22:22 GMT+0200 2010
+Upload Date  : Mon Apr 19 03:23:17 GMT+0200 2010
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

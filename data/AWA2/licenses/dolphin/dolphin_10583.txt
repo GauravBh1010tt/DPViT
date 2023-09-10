@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dislegal
+Photo URL    : https://www.flickr.com/photos/dislegal/6067696678/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 4 11:20:17 GMT+0100 2010
+Upload Date  : Mon Aug 22 02:24:17 GMT+0200 2011
+Geotag Info  : Latitude:-30.298689, Longitude:153.136453
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0974
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

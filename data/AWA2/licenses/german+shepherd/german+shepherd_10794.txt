@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mattschthe2nd
+Photo URL    : https://www.flickr.com/photos/matthiasschuessler/2096419710/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 8 22:46:54 GMT+0100 2007
+Upload Date  : Sat Dec 8 22:46:54 GMT+0100 2007
+Geotag Info  : Latitude:48.613718, Longitude:10.554047
+Views        : 490
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Schorschi will mit dem Stöckchen spielen
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Schorschi, der Schäferhund, schaut erwartungsvoll: Aber nicht, weil er fotografiert wird, sondern weil er mit dem Stöckchen (bzw. dem fetten Balken) im Vordergrund spielen will
+
+
++--------+
+|  TAGS  |
++--------+
+Hund dog Schäferhund spielen Holz sehen Hundeblick "German shepherd dog" expecpectant "full of expectation" fischauge fisheye Augen Blick Kieselsteine Kiesplatz 

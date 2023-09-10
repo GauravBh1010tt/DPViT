@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregTheBusker
+Photo URL    : https://www.flickr.com/photos/gregthebusker/538096728/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 2 14:01:20 GMT+0200 2004
+Upload Date  : Sun Jun 10 06:16:16 GMT+0200 2007
+Geotag Info  : Latitude:59.759161, Longitude:-149.902954
+Views        : 223
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale 6
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska 

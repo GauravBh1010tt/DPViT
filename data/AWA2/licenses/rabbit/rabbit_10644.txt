@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Heliøs
+Photo URL    : https://www.flickr.com/photos/helios89/2821203068/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 2 11:15:46 GMT+0200 2008
+Upload Date  : Tue Sep 2 11:15:46 GMT+0200 2008
+Geotag Info  : Latitude:44.269972, Longitude:12.331595
+Views        : 716
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Lucky Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mi ha sussurrato di fare l'&quot;In bocca al lupo&quot; (e già il suo tenero corpicino tremava tutto al pronunciare il nome del temuto nemico) ad AnnaLety per il suo imminente esame!
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit coniglio "parco naturale di cervia" "parco naturale" natural park parco naturale "Canon EOS 400D" 400D ish@Flickr 

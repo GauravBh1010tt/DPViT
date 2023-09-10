@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mhowry
+Photo URL    : https://www.flickr.com/photos/mhowry/1352597251/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 2 07:43:13 GMT+0200 2007
+Upload Date  : Mon Sep 10 04:31:06 GMT+0200 2007
+Views        : 211
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3219
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Atlanta Panda Zoo Georgia 

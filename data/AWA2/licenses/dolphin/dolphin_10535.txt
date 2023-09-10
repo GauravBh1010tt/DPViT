@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rol247*
+Photo URL    : https://www.flickr.com/photos/rol1000/16152472166/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 9 21:00:48 GMT+0100 2010
+Upload Date  : Fri Jan 2 22:50:01 GMT+0100 2015
+Geotag Info  : Latitude:29.526497, Longitude:34.936845
+Views        : 1,247
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Eilat reef dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I really appreciate their intelligence and their smile... but those demonic puppet eyes... 
+
+Have a look at my <a href="https://www.flickr.com/photos/rol1000/sets/72157648885097309">Israel Album</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

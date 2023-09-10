@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amitp
+Photo URL    : https://www.flickr.com/photos/amitp/19677117073/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 31 08:07:44 GMT+0200 2015
+Upload Date  : Wed Aug 5 00:02:05 GMT+0200 2015
+Views        : 1,057
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Smith Island rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I went to Smith Island north of Seattle to see birds, but there weren't many. This rabbit was there though.
+
+
++--------+
+|  TAGS  |
++--------+
+creatures rabbit e-m1 

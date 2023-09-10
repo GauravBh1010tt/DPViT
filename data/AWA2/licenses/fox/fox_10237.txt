@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Snake3yes
+Photo URL    : https://www.flickr.com/photos/snake3yes/200541599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 21 11:46:57 GMT+0200 2006
+Upload Date  : Fri Jul 28 23:28:22 GMT+0200 2006
+Views        : 918
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Fox wildlife animals 

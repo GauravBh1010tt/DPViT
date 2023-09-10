@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : www.beontheroad.com
+Photo URL    : https://www.flickr.com/photos/sankaracs/7938912120/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 11 20:29:58 GMT+0200 2012
+Upload Date  : Wed Sep 5 21:41:48 GMT+0200 2012
+Geotag Info  : Latitude:-0.378987, Longitude:36.111080
+Views        : 1,116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3967
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+White Rhinoceros - the second largest land mammal in the world
+
+
++--------+
+|  TAGS  |
++--------+
+Africa "BE ON THE ROAD" "BE ON THE ROAD - Travel and Photography" "East Africa" Kenya "Lake Nakuru" "Lake Nakuru National Park" "Rift Valley" "Sankara Subramanian C Photography" Travel "Travel and Tourism" "Travel Photography" "Wildlife Photography" www.beontheroad.com 

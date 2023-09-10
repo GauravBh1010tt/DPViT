@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jo Naylor
+Photo URL    : https://www.flickr.com/photos/pandora_6666/3652905249/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 23 04:10:29 GMT+0200 2009
+Upload Date  : Tue Jun 23 11:10:29 GMT+0200 2009
+Views        : 789
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+adorable bunny.png
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Uploaded with the <a href="http://www.flock.com/" rel="nofollow">Flock Browser</a></i>
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Antonio Cali
+Photo URL    : https://www.flickr.com/photos/8145696@N06/8401402582/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 10 12:18:32 GMT+0100 2013
+Upload Date  : Mon Jan 21 07:00:45 GMT+0100 2013
+Views        : 324
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cheasin' Gulls
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mexico - Rosarito
+
+age: 7.5 month
+
+
++--------+
+|  TAGS  |
++--------+
+"pastor aleman" "german Shepherd" 

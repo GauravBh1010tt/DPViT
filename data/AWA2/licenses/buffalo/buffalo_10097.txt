@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chuck Martin
+Photo URL    : https://www.flickr.com/photos/chuckmartin/3716187678/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 3 15:52:25 GMT+0200 2009
+Upload Date  : Mon Jul 13 08:49:39 GMT+0200 2009
+Geotag Info  : Latitude:44.658363, Longitude:-110.463256
+Views        : 468
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison (18)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone "Lamar Valley" Wildlife Bison 

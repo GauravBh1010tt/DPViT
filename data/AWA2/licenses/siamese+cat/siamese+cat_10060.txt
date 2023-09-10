@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/8461826472/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 31 12:12:37 GMT+0100 2013
+Upload Date  : Mon Feb 11 04:25:36 GMT+0100 2013
+Views        : 2,946
+Comments     : 35
+
+
++---------+
+|  TITLE  |
++---------+
+Miss Truffles
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+May you have a Blessed and Peaceful Sunday !
+
+
++--------+
+|  TAGS  |
++--------+
+cat Siamese "Miss Truffles" PicMonkey 

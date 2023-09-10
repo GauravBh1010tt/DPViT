@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mobikerbear
+Photo URL    : https://www.flickr.com/photos/mobikerbear/13826062225/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 12 15:27:34 GMT+0200 2014
+Upload Date  : Sun Apr 13 19:52:31 GMT+0200 2014
+Views        : 87
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC00275
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Amerikanischer Bison - Bison bison - American Bison
+
+
++--------+
+|  TAGS  |
++--------+
+2014 Cologne "Kölner Zoo" 

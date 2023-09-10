@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : anelasama
+Photo URL    : https://www.flickr.com/photos/anelasama/2074603551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 29 20:33:56 GMT+0100 2007
+Upload Date  : Fri Nov 30 05:33:56 GMT+0100 2007
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hawaii 

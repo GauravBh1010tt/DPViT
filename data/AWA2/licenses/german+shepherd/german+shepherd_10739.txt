@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MTAPhotos
+Photo URL    : https://www.flickr.com/photos/mtaphotos/9043420935/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 14 11:24:15 GMT+0200 2013
+Upload Date  : Fri Jun 14 23:20:53 GMT+0200 2013
+Views        : 2,937
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+POL_0097
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eight eager and well-trained canines – joined by their human partners – entered the ranks of the MTA Police Department’s Canine Unit at a graduation ceremony held on Friday, June 14, 2013, in Grand Central Terminal. The canines, who are roughly 1½ years old and are German Shepherds or German Shepherd/Belgian Shepherd mixes, completed an intensive 14-week course with their human partners in which they learned all aspects of explosives detection, recognition and handling. The MTA K-9 Unit is believed to be the largest such force in the nation, with 50 canines in service.
+
+Photo: Metropolitan Transportation Authority / Patrick Cashin
+
+
++--------+
+|  TAGS  |
++--------+
+MTAPD "MTA Police" "MTA Police Department" "Canine Unit" 

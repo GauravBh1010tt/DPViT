@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlexanderVisuals
+Photo URL    : https://www.flickr.com/photos/justalexanders/1253491973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 12 16:05:39 GMT+0100 2007
+Upload Date  : Tue Aug 28 04:28:06 GMT+0200 2007
+Geotag Info  : Latitude:20.871162, Longitude:-156.678600
+Views        : 183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Baby Breach
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Maui Whales 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrGuilt
+Photo URL    : https://www.flickr.com/photos/bontempscharly/7714884754/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 16:15:34 GMT+0200 2012
+Upload Date  : Sun Aug 5 06:54:32 GMT+0200 2012
+Geotag Info  : Latitude:39.831174, Longitude:-81.723110
+Views        : 642
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Rhino!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Ohio Rhinoceros "Zoos & Aquariums" 

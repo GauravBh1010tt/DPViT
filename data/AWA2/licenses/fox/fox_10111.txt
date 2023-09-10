@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pipilongstockings
+Photo URL    : https://www.flickr.com/photos/68732830@N06/6813135887/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 2 17:39:04 GMT+0100 2012
+Upload Date  : Fri Feb 3 20:06:11 GMT+0100 2012
+Views        : 747
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Caught Wiley in the daylight
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox wildlife nature 

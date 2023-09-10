@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/4816326982/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 13 07:40:32 GMT+0200 2010
+Upload Date  : Wed Jul 21 21:48:32 GMT+0200 2010
+Geotag Info  : Latitude:38.922691, Longitude:-76.974785
+Views        : 1,349
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Carrot Time!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+millie henrietta bunny rabbit "house rabbit" pet cute white minirex dwarf mix olaf 

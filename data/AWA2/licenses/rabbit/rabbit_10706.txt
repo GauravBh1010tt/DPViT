@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jpockele
+Photo URL    : https://www.flickr.com/photos/jpockele/2105735755/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 12 22:19:07 GMT+0100 2007
+Upload Date  : Wed Dec 12 22:19:07 GMT+0100 2007
+Geotag Info  : Latitude:51.279555, Longitude:4.442338
+Views        : 1,863
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ovide VIII
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ovide bunny rabbit angora cute 

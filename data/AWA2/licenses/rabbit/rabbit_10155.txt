@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neil T
+Photo URL    : https://www.flickr.com/photos/neilt/4790963369/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 7 14:22:29 GMT+0200 2010
+Upload Date  : Tue Jul 13 23:44:48 GMT+0200 2010
+Geotag Info  : Latitude:54.322931, Longitude:-4.514007
+Views        : 308
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunneh
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+isleofman curraghswildlifepark bunny rabbit wlny:geotagged=1 

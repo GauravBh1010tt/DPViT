@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex "Skud" Bayley
+Photo URL    : https://www.flickr.com/photos/alexsbayley/7169247340/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 10 15:02:18 GMT+0200 2012
+Upload Date  : Thu May 10 08:14:18 GMT+0200 2012
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 5
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Canada Edmonton Nature Travel 

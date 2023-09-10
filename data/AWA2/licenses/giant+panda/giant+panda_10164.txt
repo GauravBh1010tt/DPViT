@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : biggertree
+Photo URL    : https://www.flickr.com/photos/biggertree/3273642823/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 7 14:39:40 GMT+0100 2009
+Upload Date  : Thu Feb 12 15:06:41 GMT+0100 2009
+Views        : 1,560
+Comments     : 23
+
+
++---------+
+|  TITLE  |
++---------+
+Dreaming of Love with Le Le
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ya Ya looking dreamy.  Memphis Zoo.  Taken on the first warm Saturday in February.   As of mid-February we are now hoping to see signs that indeed Le Le came through (although artificially) and Ya Ya is pregnant.
+
+
++--------+
+|  TAGS  |
++--------+
+Panda Animal Nature Zoo "Memphis Zoo" "Memphis TN" SpecAnimal "It's a Zoo Out There" "SpecAnimal: Icon Of The Week" 

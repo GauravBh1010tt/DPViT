@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gvgoebel
+Photo URL    : https://www.flickr.com/photos/37467370@N08/7600939450/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 16 20:45:21 GMT+0200 2008
+Upload Date  : Thu Jul 19 04:15:26 GMT+0200 2012
+Views        : 1,435
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Ybpol_2b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+polar bear, Albuquerque Zoo, New Mexico / 2009
+
+
++--------+
+|  TAGS  |
++--------+
+animals mammals "polar bear" 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sez9
+Photo URL    : https://www.flickr.com/photos/sez9/4942116869/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 29 14:54:46 GMT+0200 2010
+Upload Date  : Mon Aug 30 20:41:29 GMT+0200 2010
+Geotag Info  : Latitude:37.983986, Longitude:23.905305
+Views        : 263
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+dolphinarium
+Attica park  zoo athens.
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin dolphinarium attica park zoo athens 

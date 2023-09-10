@@ -1,0 +1,44 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oswaldo
+Photo URL    : https://www.flickr.com/photos/oswaldo/576811877/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 20 09:27:23 GMT+0200 2007
+Upload Date  : Wed Jun 20 20:59:19 GMT+0200 2007
+Views        : 650
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Zorrillitos 01
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tres pequeños zorrillitos serán entregados al Centro
+Ecológico luego de que fueran descubiertos por empleados de una compañía
+de galletas.
+Las mofetas se encontraban cerca de un almacén de una empresa de galletas
+en el Mini Parque Industrial al norte de esta capital. Los tres simpáticos
+mamíferos fueron entregados a la estación de Bomberos de esa zona, que a
+su vez las llevará al Centro Ecológico del Estado de Sonora.
+Los zorrillitos aun son crías, por lo que no emiten los malolientes
+ataques que caracterizan a esa especie. Pertenecen a la especie Mephitis
+Mephitis, o zorrillo rayado, que habita en casi todo el norte de México,
+Estados Unidos y Canadá.
+
+
++--------+
+|  TAGS  |
++--------+
+Hermosillo Skunks 

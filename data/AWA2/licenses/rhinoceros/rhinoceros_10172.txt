@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/4512828938/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 10 13:34:33 GMT+0200 2010
+Upload Date  : Mon Apr 12 01:22:06 GMT+0200 2010
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 500
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dirty Horns
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwick zoo rhinoceros rhino horn dirty 

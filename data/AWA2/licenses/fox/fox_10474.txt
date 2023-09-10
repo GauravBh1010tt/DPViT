@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dr. friendly
+Photo URL    : https://www.flickr.com/photos/57777529@N02/5398870240/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 29 12:17:07 GMT+0100 2011
+Upload Date  : Sat Jan 29 20:03:29 GMT+0100 2011
+Views        : 1,330
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+polarfuchs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+arctic fox
+
+
++--------+
+|  TAGS  |
++--------+
+polarfuchs "arctic fox" 

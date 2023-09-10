@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rameshng
+Photo URL    : https://www.flickr.com/photos/rameshng/5560135619/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 29 16:55:01 GMT+0100 2011
+Upload Date  : Sat Mar 26 08:42:23 GMT+0100 2011
+Views        : 566
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros at Mysore Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rhinoceros  also known as rhino, is a group of five extant species of odd-toed ungulates in the family Rhinocerotidae. Two of these species are native to Africa and three to southern Asia.
+
+
++--------+
+|  TAGS  |
++--------+
+Rhinoceros Mysore zoo karnataka 

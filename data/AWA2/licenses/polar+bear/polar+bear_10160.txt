@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vonguard
+Photo URL    : https://www.flickr.com/photos/vonguard/2974723095/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 20 10:06:47 GMT+0200 2008
+Upload Date  : Sun Oct 26 19:58:00 GMT+0100 2008
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0057.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

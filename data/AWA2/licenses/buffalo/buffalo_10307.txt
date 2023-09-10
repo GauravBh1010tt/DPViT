@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : catlovers
+Photo URL    : https://www.flickr.com/photos/90389546@N00/869229460/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 21 14:35:09 GMT+0200 2007
+Upload Date  : Sun Jul 22 11:01:12 GMT+0200 2007
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+catlovers Expore Köln Zoo Koeln Tiere Tiergarten Kamel Baer Flamingo Reptilien Affe 

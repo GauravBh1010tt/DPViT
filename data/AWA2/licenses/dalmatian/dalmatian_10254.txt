@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/13494003215/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 29 12:14:21 GMT+0100 2014
+Upload Date  : Sat Mar 29 20:55:36 GMT+0100 2014
+Views        : 2,416
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dalmatiner Jimmy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+März 2014
+Canon EOS 60D
+EF-S 55-250mm f/4-5.6 IS II
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund dog hunde dogs rüde male dalmatian dalmatiner halsband collar 

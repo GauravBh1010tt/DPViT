@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loimere
+Photo URL    : https://www.flickr.com/photos/loimere/5198348678/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 13 12:20:04 GMT+0100 2010
+Upload Date  : Mon Nov 22 13:53:36 GMT+0100 2010
+Geotag Info  : Latitude:43.825664, Longitude:-79.182790
+Views        : 117
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Toronto Zoo 2010
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : calbeeb
+Photo URL    : https://www.flickr.com/photos/calbeeb/560686858/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 6 13:40:55 GMT+0200 2007
+Upload Date  : Sun Jun 17 19:28:27 GMT+0200 2007
+Geotag Info  : Latitude:22.235717, Longitude:114.167883
+Views        : 346
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+white bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"ocean park" rabbit bunny 

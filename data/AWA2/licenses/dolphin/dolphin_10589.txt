@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : princesskoko
+Photo URL    : https://www.flickr.com/photos/princesskoko/14207901567/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 17 16:23:30 GMT+0200 2007
+Upload Date  : Wed Jun 11 01:27:39 GMT+0200 2014
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1469
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+SeaWorld "SeaWorld San Diego" "San Diego, CA" 

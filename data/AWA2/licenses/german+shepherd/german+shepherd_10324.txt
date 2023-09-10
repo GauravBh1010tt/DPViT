@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pw95
+Photo URL    : https://www.flickr.com/photos/wen95/8652438007/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 13 16:30:00 GMT+0200 2013
+Upload Date  : Mon Apr 15 22:58:46 GMT+0200 2013
+Views        : 251
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deutscher Schäferhund
+
+
++--------+
+|  TAGS  |
++--------+
+flickriosapp:filter=NoFilter uploaded:by=flickr_mobile 

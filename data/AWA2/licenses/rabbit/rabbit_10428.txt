@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tomi Tapio
+Photo URL    : https://www.flickr.com/photos/tomitapio/4507394823/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 3 15:38:57 GMT+0200 2008
+Upload Date  : Sat Apr 10 16:29:32 GMT+0200 2010
+Views        : 1,247
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Extra Gray
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2008-05-03. Id 83734. <a href="http://bighugelabs.com/flickr/onblack.php?id=4507394823&amp;size=large" rel="nofollow">Large on black</a>
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel sqrl orava kurre Helsinki Hietaniemi cemetery tame eurasianredsquirrel sciurusvulgaris écureuil grayfur greyfur ears eartufts eyes face eyereflection eye paws eating "Canon EF 90-300mm F/4.5-5.6 USM" "ISO 400" "selected-area sharpening" muzzle chin fur "fur colours" 

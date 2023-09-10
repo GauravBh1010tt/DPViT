@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quinn.anya
+Photo URL    : https://www.flickr.com/photos/quinnanya/6992817319/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 17 13:58:49 GMT+0100 2012
+Upload Date  : Sun Mar 18 14:34:41 GMT+0100 2012
+Views        : 481
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nap in the sun
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nap naptime lioness lion sleeping 

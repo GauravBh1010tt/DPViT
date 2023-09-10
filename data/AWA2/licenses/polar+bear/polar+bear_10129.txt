@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : em_j_bishop
+Photo URL    : https://www.flickr.com/photos/emmabishop/6355814053/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 9 10:50:12 GMT+0100 2011
+Upload Date  : Fri Nov 18 01:16:48 GMT+0100 2011
+Views        : 1,795
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chocolate and her cubs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Churchill Manitoba Canada "November 2011" "polar bears" Chocolate cubs yearlings "Wapusk National Park" 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/7663108742/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 12:50:35 GMT+0200 2012
+Upload Date  : Sat Jul 28 20:49:54 GMT+0200 2012
+Geotag Info  : Latitude:33.096718, Longitude:-116.999416
+Views        : 538
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Roan Antelope (Hippotragus equinus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The roan antelope (Hippotragus equinus) is a savannah antelope found in Africa. Roan antelope are one of the largest species of antelope. Named for the &quot;roan' colour (a reddish brown), they have a lighter underbelly, white eyebrows and cheeks and a black face, lighter in females. There is a short erect mane, a very light beard and prominent red nostrils. The horns are ringed and can reach a meter long in males, slightly shorter in females. They arch backwards slightly.
+
+Photographed at the San Diego Zoo Safari Park in Escondido, CA
+
+
++--------+
+|  TAGS  |
++--------+
+antelope roan animal mammal hoofstock Africa "Hippotragus equinus" 

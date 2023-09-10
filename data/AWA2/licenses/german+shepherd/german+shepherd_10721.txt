@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ali Burçin Titizel / Gti861
+Photo URL    : https://www.flickr.com/photos/gti861/6333561403/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 10 19:05:30 GMT+0100 2011
+Upload Date  : Fri Nov 11 10:50:51 GMT+0100 2011
+Views        : 201
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pasha
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog pet cute "german shepherd" 

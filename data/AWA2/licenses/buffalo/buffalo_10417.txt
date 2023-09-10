@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ian D. Keating
+Photo URL    : https://www.flickr.com/photos/ian-arlett/7540150062/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 27 09:01:40 GMT+0200 2012
+Upload Date  : Tue Jul 10 05:18:50 GMT+0200 2012
+Geotag Info  : Latitude:44.731125, Longitude:-110.525207
+Views        : 1,817
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yellowstone National Park
+
+
++--------+
+|  TAGS  |
++--------+
+yellowstone animals gysers nature bison spring close buffalo E-PM1 

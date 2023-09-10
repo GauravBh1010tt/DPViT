@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tawheed Manzoor
+Photo URL    : https://www.flickr.com/photos/tawheedmanzoor/13714172414/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 8 05:35:15 GMT+0200 2014
+Upload Date  : Tue Apr 8 12:35:15 GMT+0200 2014
+Views        : 242
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Momma and baby posing #Yellowstone national park #bison #Wyoming #2010
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram "X-Pro II" 

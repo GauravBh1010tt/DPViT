@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oropeza
+Photo URL    : https://www.flickr.com/photos/jonoropeza/2427870375/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 21 17:35:50 GMT+0100 2008
+Upload Date  : Sun Apr 20 19:37:03 GMT+0200 2008
+Views        : 615
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+you'd look even better in a mustard sauce
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I love how his coloration matches the terrain. It's one thing to read about how Mom does it, quite another to see it for yourself on a spooked little scrap of coyote bait like this guy.
+
+
++--------+
+|  TAGS  |
++--------+
+2008springtriptotucson arizona bunny rabbit food tucson saguaronationalpark desert flowers 

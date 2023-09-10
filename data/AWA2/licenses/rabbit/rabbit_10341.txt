@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/3393598744/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 28 17:18:49 GMT+0100 2009
+Upload Date  : Sat Mar 28 23:22:00 GMT+0100 2009
+Geotag Info  : Latitude:31.821812, Longitude:-111.022977
+Views        : 398
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+desert jack rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Arizona desert wildlife rabbit bunny 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ethan Ableman
+Photo URL    : https://www.flickr.com/photos/ethansphotosarecool/5816641539/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 7 18:39:15 GMT+0200 2010
+Upload Date  : Fri Jun 10 05:05:12 GMT+0200 2011
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale Bubble-net Feeding
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

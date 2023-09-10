@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A.Poulos (Iya)
+Photo URL    : https://www.flickr.com/photos/24918962@N07/2353265847/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 7 17:06:21 GMT+0200 2007
+Upload Date  : Sun Mar 23 07:21:51 GMT+0100 2008
+Views        : 1,316
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Having a morning graze. Notice the frost on its back.
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo 

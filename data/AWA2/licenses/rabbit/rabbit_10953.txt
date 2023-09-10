@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tomi Tapio
+Photo URL    : https://www.flickr.com/photos/tomitapio/6172473399/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 7 17:23:50 GMT+0200 2010
+Upload Date  : Thu Sep 22 20:15:34 GMT+0200 2011
+Geotag Info  : Latitude:60.203695, Longitude:24.896339
+Views        : 4,732
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Stealth on a lawn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Urban rabbit near hir home burrow.
+
+2010-07-07 in Pikku-Huopalahti district. Id 13918.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny villikani Helsinki Pikku-Huopalahti ears eye grass "Canon EF 90-300mm F/4.5-5.6 USM" "ISO 200" 

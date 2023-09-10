@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : navid.vahdat
+Photo URL    : https://www.flickr.com/photos/71918578@N00/3466180677/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 13 06:38:49 GMT+0200 2009
+Upload Date  : Thu Apr 23 00:42:35 GMT+0200 2009
+Views        : 363
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kenia-1315
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lions kenya 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/19196441418/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 28 18:10:30 GMT+0200 2015
+Upload Date  : Fri Jul 3 18:37:43 GMT+0200 2015
+Geotag Info  : Latitude:50.327586, Longitude:-4.797292
+Views        : 226
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Cornwall Hotel and Spa, St Austell
+
+
++--------+
+|  TAGS  |
++--------+
+Cornwall 

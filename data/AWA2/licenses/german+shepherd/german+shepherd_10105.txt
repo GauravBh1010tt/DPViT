@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/8449792107/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 6 12:00:14 GMT+0100 2013
+Upload Date  : Wed Feb 6 15:22:50 GMT+0100 2013
+Geotag Info  : Latitude:51.564500, Longitude:0.019000
+Views        : 224
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bessy!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Photo Stream" Bessy dog GSD "German Shepherd" 

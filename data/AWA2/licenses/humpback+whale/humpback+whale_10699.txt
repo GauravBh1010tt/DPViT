@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mmooseman777
+Photo URL    : https://www.flickr.com/photos/mmooseman777/434343596/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 25 17:43:10 GMT+0200 2007
+Upload Date  : Mon Mar 26 02:43:10 GMT+0200 2007
+Views        : 201
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A baby humpback playing for the croud! or is it Nessi?
+
+
++--------+
+|  TAGS  |
++--------+
+whales ocean wildlife 

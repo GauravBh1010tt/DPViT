@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : armsultan
+Photo URL    : https://www.flickr.com/photos/izzonme/14699507859/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 3 18:03:47 GMT+0200 2014
+Upload Date  : Mon Aug 11 15:51:21 GMT+0200 2014
+Views        : 160
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCF4030
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo "terry bison ranch" ranch farm Cheyenne wyoming 

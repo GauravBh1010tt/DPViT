@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/1308140328/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 2 15:13:11 GMT+0200 2007
+Upload Date  : Mon Sep 3 03:43:04 GMT+0200 2007
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 331
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino Resting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"southwick's zoo" rhinoceros rhino sleep 

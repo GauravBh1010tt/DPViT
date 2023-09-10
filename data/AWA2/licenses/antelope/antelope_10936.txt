@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cyanocorax
+Photo URL    : https://www.flickr.com/photos/cyanocorax/21933919008/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 21 18:48:16 GMT+0200 2015
+Upload Date  : Tue Oct 13 03:02:29 GMT+0200 2015
+Geotag Info  : Latitude:-2.658600, Longitude:37.292230
+Views        : 151
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Thompson's Gazelle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"thompson's gazelle" kenya "amboseli national park" 

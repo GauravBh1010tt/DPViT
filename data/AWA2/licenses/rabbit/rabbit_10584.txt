@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dfbphotos
+Photo URL    : https://www.flickr.com/photos/dfb_photos/6137785406/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 1 21:48:26 GMT+0200 2011
+Upload Date  : Sun Sep 11 22:24:19 GMT+0200 2011
+Geotag Info  : Latitude:38.649857, Longitude:-109.498500
+Views        : 9,890
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+jack rabbit arches natl park moab utah
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+jack rabbit arches natl park moab utah
+
+
++--------+
+|  TAGS  |
++--------+
+"2011 sept utah moab arches national park jack rabbit" moab utah usa Nikon 

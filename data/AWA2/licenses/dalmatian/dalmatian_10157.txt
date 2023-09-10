@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MartaZ*
+Photo URL    : https://www.flickr.com/photos/martazappia/8811273346/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 27 09:11:08 GMT+0200 2010
+Upload Date  : Fri May 24 10:50:15 GMT+0200 2013
+Views        : 991
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog pet dalmatian window light bokeh nature flowers morning nikon photography still today 

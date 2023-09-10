@@ -1,0 +1,42 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : poodle_tastic
+Photo URL    : https://www.flickr.com/photos/poodle_tastic/5490769388/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 26 10:23:35 GMT+0100 2011
+Upload Date  : Wed Mar 2 03:20:36 GMT+0100 2011
+Views        : 1,700
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherd, Collie, and Cardigan Welsh Corgi
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A German Shepherd, Collie (Rough), and Cardigan Welsh Corgi lining up for Best Of Group.
+
+Rough Collie:
+
+Ch Lochburn Back On Track &quot;Oliver&quot; (Dog)
+
+Bred by: Angela Findlay
+Owned by: Angela Findlay
+Handled by: Kay Sime/Cherie Hill
+
+
++--------+
+|  TAGS  |
++--------+
+GermanShepherd CardiganWelshCorgi Collie(Rough) AshburtonKennelAssociationChampionshipShow2011 WorkingGroupAshburtonKennelAssociationChampionshipShow2011 

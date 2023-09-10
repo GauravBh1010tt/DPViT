@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Abdelrahman
+Photo URL    : https://www.flickr.com/photos/point/236022661/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 26 02:33:32 GMT+0200 2006
+Upload Date  : Wed Sep 6 17:38:15 GMT+0200 2006
+Views        : 220
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animals lion 

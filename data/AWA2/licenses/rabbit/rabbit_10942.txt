@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richard Masoner / Cyclelicious
+Photo URL    : https://www.flickr.com/photos/bike/343650204/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 2 16:34:54 GMT+0100 2007
+Upload Date  : Wed Jan 3 06:42:13 GMT+0100 2007
+Views        : 2,393
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Snow bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In a hotel parking lot outside of Denver, Colorado. Photo by my son Ian.
+
+
++--------+
+|  TAGS  |
++--------+
+denver colorado snow rabbit bunny whiskers ears 

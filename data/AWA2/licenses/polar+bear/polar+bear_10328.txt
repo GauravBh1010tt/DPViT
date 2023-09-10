@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Digital Magic Photography
+Photo URL    : https://www.flickr.com/photos/digitalmagicphotos/3721809374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 13 13:06:35 GMT+0200 2009
+Upload Date  : Tue Jul 14 23:00:41 GMT+0200 2009
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5816
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

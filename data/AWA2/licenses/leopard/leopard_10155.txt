@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WasifMalik
+Photo URL    : https://www.flickr.com/photos/wasifmalik/8308308847/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 24 23:11:51 GMT+0100 2012
+Upload Date  : Wed Dec 26 03:33:50 GMT+0100 2012
+Geotag Info  : Latitude:32.723844, Longitude:-97.356451
+Views        : 399
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fort Worth Zoo dec 2012 Dallas 063
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Top Five Zoos USA Fort Worth Zoo animals wild life world including Lions" Tigers Cheetah Bobcat Leopard Rhinoceros Hippo Giraffe Birds Parrots Parakeets "Exotic Birds" Eagles Flamingos Zebras Deer "Mountain Goats" Elephants "Bears etc all living in natural habitatFort Worth Zoo dallas plano irving arlington texas mckinney plano frisco grand prairie southlake grapevine richardson garland" 

@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Llima
+Photo URL    : https://www.flickr.com/photos/llimaorosa/2268034882/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 11 19:02:37 GMT+0100 2008
+Upload Date  : Sat Feb 16 00:34:59 GMT+0100 2008
+Views        : 9,395
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is, by far, my favorite dog.  To me, this is what a dog should be.
+
+SOME FACTS:
+The German Shepherd breed was invented by &quot;Captain Max&quot; von Stephanitz in 1899. His first German Shepherd, named Horand von Grafrath, is the genetic basis for the German Shepherd as we know it today.
+
+By nature a German Shepherd is wary of strangers, though once one is accepted by him he is a friend for life.
+
+Rin-Tin-Tin, a German Shepherd dog, was considered to be one of Hollywood's top stars during the 1920's and 30's. At the peak of his career, Rin-Tin-Tin received as many as 10,000 fan letters a week.
+
+
++--------+
+|  TAGS  |
++--------+
+"German Shepherd" "Alsatin herders" "Berger Alemand" "Deutscher Schäferhund" Schäferhund Alsatian Germany herding working pastoral "man's best friend" "Westminster Dog Show" "New York City" NYC MSG "Madison Square Garden" pet showdog companion friend "living being" creature perro dog animals display champions contestants 

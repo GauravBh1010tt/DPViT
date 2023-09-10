@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NathanaelBC
+Photo URL    : https://www.flickr.com/photos/purecaffeine/6016382111/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 7 10:41:30 GMT+0200 2011
+Upload Date  : Sun Aug 7 06:58:35 GMT+0200 2011
+Geotag Info  : Latitude:-42.516390, Longitude:173.546870
+Views        : 926
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dusky Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We went on a dolphin-watching cruise with Dolphin Encounter in Kaikoura on 7 August. The boat travelled 15km south-west of the Kaikoura Peninsula and found a pod of around 400 Dusky Dolpins just south of Goose Bay.
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin sea water ocean duskydolphin canon 400D dslr "Canon EF 24-85mm f/3.5-4.5 USM" 

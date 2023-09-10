@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Björn Söderqvist
+Photo URL    : https://www.flickr.com/photos/kapten/2352245609/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 22 15:34:17 GMT+0100 2008
+Upload Date  : Sat Mar 22 21:29:02 GMT+0100 2008
+Views        : 312
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bears
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ScubaBear68
+Photo URL    : https://www.flickr.com/photos/22310955@N02/4125032979/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 12 17:56:48 GMT+0200 2008
+Upload Date  : Sun Nov 22 20:49:22 GMT+0100 2009
+Views        : 221
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+More Siamese than Tortoise Shell
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ember looking quite asian for a change
+
+
++--------+
+|  TAGS  |
++--------+
+ember cat 

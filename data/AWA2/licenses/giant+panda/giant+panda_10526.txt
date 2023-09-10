@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roller Coaster Philosophy
+Photo URL    : https://www.flickr.com/photos/rollercoasterphilosophy/5594216299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 1 09:37:40 GMT+0200 2011
+Upload Date  : Wed Apr 6 10:17:51 GMT+0200 2011
+Views        : 110
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda Base 055
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Jiuzhaigou National Park" 

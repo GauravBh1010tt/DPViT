@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 3n
+Photo URL    : https://www.flickr.com/photos/3n/3681426159/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 19 11:34:21 GMT+0200 2009
+Upload Date  : Thu Jul 2 19:05:40 GMT+0200 2009
+Geotag Info  : Latitude:59.890659, Longitude:-149.349517
+Views        : 157
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+"Are you watching Mom?! Mom?!"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Watching humpback whales breach is really cool. Especially the first one, when the mom blasted fully out of the water (and then some) near our boat without any warning. Even the captain screamed.
+
+
++--------+
+|  TAGS  |
++--------+
+Geotagged "humpback whale" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steevithak
+Photo URL    : https://www.flickr.com/photos/steevithak/7670274644/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 1 00:00:00 GMT+0200 2004
+Upload Date  : Sun Jul 29 20:04:21 GMT+0200 2012
+Views        : 172
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img-024
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sophie's kittens, three weeks old. Shot in September of 2004 on film with a Canon T90 35mm SLR and a Canon FD 50mm f/1.4 lens.
+
+
++--------+
+|  TAGS  |
++--------+
+cats kittens siamese 

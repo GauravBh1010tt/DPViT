@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Benimoto
+Photo URL    : https://www.flickr.com/photos/benimoto/1376216085/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 13 20:29:32 GMT+0200 2007
+Upload Date  : Fri Sep 14 06:05:56 GMT+0200 2007
+Geotag Info  : Latitude:41.590411, Longitude:-84.601367
+Views        : 6,173
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit siblings
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The more I look at charts of rabbit genetics and their possible breeding combinations, the more it confuses me.
+
+
++--------+
+|  TAGS  |
++--------+
+williams county fair "williams county" "county fair" Montpelier ohio midwest people animals summer agriculture festival rabbit rabbits bunny bunnies white brown 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ewen and donabel
+Photo URL    : https://www.flickr.com/photos/donabelandewen/314403840/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 1 00:00:00 GMT+0100 1976
+Upload Date  : Tue Dec 5 00:33:44 GMT+0100 2006
+Geotag Info  : Latitude:52.527504, Longitude:-1.222282
+Views        : 226
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Misty the cat on Mum's bed
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat misty siamese bed 

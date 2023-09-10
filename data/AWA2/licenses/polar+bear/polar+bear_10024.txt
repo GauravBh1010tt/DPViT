@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tree Leaf Clover
+Photo URL    : https://www.flickr.com/photos/tree_leaf_clover/5675489706/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 1 13:19:23 GMT+0200 2011
+Upload Date  : Sun May 1 12:50:50 GMT+0200 2011
+Views        : 469
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_2017
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

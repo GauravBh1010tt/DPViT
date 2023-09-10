@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Cooper Ipswich
+Photo URL    : https://www.flickr.com/photos/m-a-r-t-i-n/12237521985/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 31 10:44:08 GMT+0100 2014
+Upload Date  : Fri Jan 31 17:18:09 GMT+0100 2014
+Geotag Info  : Latitude:51.937280, Longitude:1.322028
+Views        : 4,272
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wild European Common Rabbit (Oryctolagus cuniculus) photographed at the Landguard Nature Reserve, Felixtowe.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit Oryctolagus cuniculus Felixstowe Suffolk 

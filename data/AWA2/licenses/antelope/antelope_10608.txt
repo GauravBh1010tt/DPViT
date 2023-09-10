@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : diditstart
+Photo URL    : https://www.flickr.com/photos/rbcoert/5891123497/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 27 16:38:11 GMT+0200 2010
+Upload Date  : Fri Jul 1 20:09:39 GMT+0200 2011
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Impalas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

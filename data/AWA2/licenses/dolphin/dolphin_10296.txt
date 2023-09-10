@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StormyDog
+Photo URL    : https://www.flickr.com/photos/the-lees/134610867/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 13 16:17:20 GMT+0200 2006
+Upload Date  : Tue Apr 25 05:45:27 GMT+0200 2006
+Views        : 708
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Who is more interested in who?
+
+
++--------+
+|  TAGS  |
++--------+
+Australia wildlife animals dolphins marine mammals 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Daisyree Bakker
+Photo URL    : https://www.flickr.com/photos/27875041@N02/4332485462/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 7 13:09:05 GMT+0100 2010
+Upload Date  : Fri Feb 5 13:28:41 GMT+0100 2010
+Views        : 856
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+North Chinese Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Panthera pardus japonensis
+Photo taken at Hagenbeck Zoo, Hamburg, Germany.
+
+
++--------+
+|  TAGS  |
++--------+
+"big cat" leopard 

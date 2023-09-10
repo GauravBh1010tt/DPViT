@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/21473799011/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 13 14:43:39 GMT+0200 2015
+Upload Date  : Wed Sep 16 15:00:09 GMT+0200 2015
+Geotag Info  : Latitude:42.305300, Longitude:-71.088956
+Views        : 579
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo massachusetts big cat lion closeup portrait 

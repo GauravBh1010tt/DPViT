@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D-Stanley
+Photo URL    : https://www.flickr.com/photos/davidstanleytravel/9411100403/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 20 10:56:42 GMT+0200 2013
+Upload Date  : Thu Aug 1 06:08:50 GMT+0200 2013
+Geotag Info  : Latitude:50.582746, Longitude:-126.834154
+Views        : 1,301
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A humpback whale locally known as KC (Kelp Creature) dives into Johnstone Strait  near Telegraph Cove, British Columbia, Canada.
+
+
++--------+
+|  TAGS  |
++--------+
+"Telegraph Cove" "British Columbia" Canada 

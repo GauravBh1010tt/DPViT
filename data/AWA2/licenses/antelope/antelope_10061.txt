@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Panegyrics of Granovetter
+Photo URL    : https://www.flickr.com/photos/sarah_c_murray/14158841468/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 31 06:50:30 GMT+0200 2014
+Upload Date  : Wed Jun 4 17:23:38 GMT+0200 2014
+Geotag Info  : Latitude:31.457698, Longitude:35.389212
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+17521
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

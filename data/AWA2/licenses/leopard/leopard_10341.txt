@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/3779377675/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 1 00:00:00 GMT+0100 1977
+Upload Date  : Sun Aug 2 06:29:01 GMT+0200 2009
+Geotag Info  : Latitude:43.822824, Longitude:-79.182415
+Views        : 207
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Toronto Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"Toronto Zoo" Toronto Ontario 

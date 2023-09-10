@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brianfuller6385
+Photo URL    : https://www.flickr.com/photos/birdwatcher63/5127814259/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 30 12:18:13 GMT+0200 2010
+Upload Date  : Sat Oct 30 13:18:13 GMT+0200 2010
+Geotag Info  : Latitude:51.416137, Longitude:0.432715
+Views        : 284
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Autumn Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit wildlife animal Autumn leaves "autumn leaves" mammals 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kozumel
+Photo URL    : https://www.flickr.com/photos/kozumel/508573222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 5 17:19:17 GMT+0100 2006
+Upload Date  : Tue May 22 02:32:22 GMT+0200 2007
+Views        : 1,051
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Frida
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2006 Europe Spain "San Sebastián de los Reyes" Madrid "Nikon Coolpix L1" Dog Dalmatian Dotted Blue Black White 2007 twitter:username=kozumel twitter:user=kozumel lastfm:user=kozumel web:site=kozumel.info camera:brand=nikon camera:manufacturer=nikon dopplr:traveller=kozumel flickr:userid=42962212@N00 flickr:user=42962212@N00 flickr:userid=kozumel flickr:user=kozumel geo:continent=europe 

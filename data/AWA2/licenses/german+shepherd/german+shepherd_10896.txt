@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lilli2de
+Photo URL    : https://www.flickr.com/photos/seven_of9/5376634054/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 15 15:25:53 GMT+0100 2011
+Upload Date  : Sat Jan 22 00:02:41 GMT+0100 2011
+Views        : 769
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Theo 013
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2011 Germany "Land Brandenburg" Niederlausitz Elbe-Elster Finsterwalde "my mom's garden" Garten Natur nature Pflanzen plants Hund dog "named Theo" "Belgischer Schäferhund" "Belgian Shepherd Dog" 

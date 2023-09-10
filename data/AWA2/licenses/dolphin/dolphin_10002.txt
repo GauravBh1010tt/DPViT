@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tharunpkarun
+Photo URL    : https://www.flickr.com/photos/tharunpkarun/8038974850/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 30 17:32:41 GMT+0200 2012
+Upload Date  : Sun Sep 30 14:02:41 GMT+0200 2012
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+#dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram Earlybird foursquare:venue=4f88fde5e4b039b144b42d7f 

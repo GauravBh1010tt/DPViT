@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cheetah100
+Photo URL    : https://www.flickr.com/photos/devcentre/327960789/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 17 13:22:58 GMT+0100 2006
+Upload Date  : Wed Dec 20 09:44:22 GMT+0100 2006
+Views        : 12,223
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lion waits for lunch to be served.
+
+
++--------+
+|  TAGS  |
++--------+
+lion rotorua wildlife park 

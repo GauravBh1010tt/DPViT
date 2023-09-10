@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lilli2de
+Photo URL    : https://www.flickr.com/photos/seven_of9/4376661992/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 20 13:56:04 GMT+0100 2010
+Upload Date  : Sun Feb 21 19:23:12 GMT+0100 2010
+Views        : 353
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Theo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Febr2010 winter snow sunshine fun dog Theo Winterfreude Schnee Sonnenschein Hund "Belgischer Schäferhund" "verrückter Hund" lilli 

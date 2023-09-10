@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/2665271889/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 6 11:30:53 GMT+0200 2008
+Upload Date  : Mon Jul 14 02:01:40 GMT+0200 2008
+Geotag Info  : Latitude:38.591281, Longitude:-78.383545
+Views        : 875
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny in the Grass!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Those ears!
+
+
++--------+
+|  TAGS  |
++--------+
+"Shenandoah National Park" Virginia vacation outdoors tourism skylands "Skyline Drive" "Eastern cottontail" wild rabbit bunny "Central district" "Sylvilagus floridanus" cute grass ears 

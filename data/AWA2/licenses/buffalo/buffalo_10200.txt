@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Josh Friedman Luxury Travel
+Photo URL    : https://www.flickr.com/photos/joshfriedmantravel/7561765206/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 9 16:34:05 GMT+0200 2012
+Upload Date  : Fri Jul 13 15:28:06 GMT+0200 2012
+Views        : 132
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison Herd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I believe these were in Grand Teton.... More to come (a lot more) from Yellowstone's Hayden Valley
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

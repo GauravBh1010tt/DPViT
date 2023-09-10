@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rfaulds
+Photo URL    : https://www.flickr.com/photos/23234562@N04/2323396622/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 9 13:36:19 GMT+0100 2008
+Upload Date  : Mon Mar 10 05:34:25 GMT+0100 2008
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jane and Alice #2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Faulds dolphins 

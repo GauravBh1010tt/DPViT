@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sophiea
+Photo URL    : https://www.flickr.com/photos/sophiea/3604584102/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 6 05:53:32 GMT+0200 2009
+Upload Date  : Sun Jun 7 20:30:57 GMT+0200 2009
+Geotag Info  : Latitude:51.328479, Longitude:3.202428
+Views        : 581
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+wild-rabit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+capture taken today on my walk
+
+
++--------+
+|  TAGS  |
++--------+
+zeebrugge 

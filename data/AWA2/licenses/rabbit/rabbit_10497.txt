@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Albumen
+Photo URL    : https://www.flickr.com/photos/albumen/4996412445/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 28 10:29:21 GMT+0200 2010
+Upload Date  : Thu Sep 16 22:44:16 GMT+0200 2010
+Views        : 1,253
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hrmmph
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit "rabbit nose" "rabbit mouth" "disapproving rabbit" "bunny whiskers" 

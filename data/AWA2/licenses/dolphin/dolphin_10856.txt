@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bannonto
+Photo URL    : https://www.flickr.com/photos/23886620@N08/2266440115/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 23 21:46:51 GMT+0100 2007
+Upload Date  : Fri Feb 15 16:25:42 GMT+0100 2008
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_7196
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Good day Fishing
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin animal 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew E Davies
+Photo URL    : https://www.flickr.com/photos/aed/14567011589/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 26 12:56:48 GMT+0200 2014
+Upload Date  : Sun Jul 27 04:24:31 GMT+0200 2014
+Geotag Info  : Latitude:43.818365, Longitude:-79.183530
+Views        : 271
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AED_5859
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+toronto zoo "'toronto zoo'" "polar bear" 

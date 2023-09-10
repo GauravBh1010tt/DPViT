@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeff Kubina
+Photo URL    : https://www.flickr.com/photos/kubina/136659006/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 13 10:29:48 GMT+0200 2006
+Upload Date  : Sat Apr 29 04:02:32 GMT+0200 2006
+Geotag Info  : Latitude:39.145022, Longitude:-84.508992
+Views        : 467
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros "cincinnati zoo" "cincinnati zoo and botanical garden" zoo 2006 200604 color vacation public cincinnati ohio "taken by jeff kubina" kentucky 

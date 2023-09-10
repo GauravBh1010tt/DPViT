@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cambridge Cat
+Photo URL    : https://www.flickr.com/photos/alangley/2872571453/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 29 03:07:42 GMT+0200 2002
+Upload Date  : Sat Sep 20 20:44:32 GMT+0200 2008
+Geotag Info  : Latitude:13.730526, Longitude:100.543785
+Views        : 281
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siamese by definition
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Welcome to Bangkok. Meow.
+
+
++--------+
+|  TAGS  |
++--------+
+Bangkok "Lumphini Park" Cat 

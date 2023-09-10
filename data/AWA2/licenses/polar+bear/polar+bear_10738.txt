@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Crystalline Radical
+Photo URL    : https://www.flickr.com/photos/crystallineradical/559050889/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 13 11:43:48 GMT+0100 2007
+Upload Date  : Sun Jun 17 05:58:22 GMT+0200 2007
+Views        : 4,383
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sniffing Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sniffing "polar bear" 白クマ クンクン 旭山動物園 

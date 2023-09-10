@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pulkitsinha
+Photo URL    : https://www.flickr.com/photos/pulkitsinha/4759832869/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 21 17:33:14 GMT+0200 2010
+Upload Date  : Sun Jul 4 15:23:12 GMT+0200 2010
+Geotag Info  : Latitude:17.713900, Longitude:83.321170
+Views        : 3,524
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Dalmatian
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Saw this Dalmatian while roaming the beach road. I would have ignored it but my sister insisted I take photos. Turned out  to be rather interesting photo session.
+
+
++--------+
+|  TAGS  |
++--------+
+rkbeach visakhapatnam vizag pulkitsinha dalmatian spotted dog animal grass green white india 

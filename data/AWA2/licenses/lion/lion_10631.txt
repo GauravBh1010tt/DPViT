@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : davidjlee
+Photo URL    : https://www.flickr.com/photos/davidjlee/8670311686/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 21 10:15:42 GMT+0200 2013
+Upload Date  : Mon Apr 22 00:49:31 GMT+0200 2013
+Views        : 237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Smith2010
+Photo URL    : https://www.flickr.com/photos/lsmith2010/25677965066/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 11 08:41:24 GMT+0100 2016
+Upload Date  : Fri Mar 11 18:47:26 GMT+0100 2016
+Geotag Info  : Latitude:34.720503, Longitude:-98.674821
+Views        : 364
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Bison #2 3-11-16
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wichita Mountains Wildlife Refuge
+SW Oklahoma
+
+
++--------+
+|  TAGS  |
++--------+
+"Wichita Mountains" Oklahoma "Wichita Mountains Wildlife Refuge" "Larry Smith" bison buffalo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Todd Ryburn
+Photo URL    : https://www.flickr.com/photos/tryburn/3643983480/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 11:35:44 GMT+0200 2009
+Upload Date  : Sat Jun 20 15:31:14 GMT+0200 2009
+Geotag Info  : Latitude:40.737478, Longitude:-89.735770
+Views        : 687
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Get off my back
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bird catching a free ride.
+
+
++--------+
+|  TAGS  |
++--------+
+illinois nature telephoto zoo wpsp wild wildlife wildlifeprairestatepark wildlifeprairiestatepark canon500mmf40llens canon500mmf4 canon500mm40llens canon500mmf40isllens canon5dmarkii 500mmf4canonlens bison bird CanonEF500mmf4LISUSM 

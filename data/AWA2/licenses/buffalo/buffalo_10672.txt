@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KimonBerlin
+Photo URL    : https://www.flickr.com/photos/kimon/237346350/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 4 08:45:45 GMT+0200 2006
+Upload Date  : Fri Sep 8 05:06:28 GMT+0200 2006
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3900
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo bison custer "Canon EOS 20d" DSLR 

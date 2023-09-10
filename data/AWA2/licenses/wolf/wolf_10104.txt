@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sonja & Roland
+Photo URL    : https://www.flickr.com/photos/dutch-tiger/4733173859/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 20 15:50:55 GMT+0200 2010
+Upload Date  : Fri Jun 25 20:56:17 GMT+0200 2010
+Views        : 8,418
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Czechoslovakian Wolf Dogs / Tschechoslowakischer Wolfshund
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Czechoslovakian Wolfdog is a relatively new breed of dog from Eastern Europe. It is a cross between a German Shepherd and a Eurasian wolf. It looks mostly like a wolf but behaves like a dog. Until  2008 it was classified a 'Dangerous Wild Animal' in the UK.
+
+
++--------+
+|  TAGS  |
++--------+
+Tschechoslowakischer Wolfshund TWH Czechoslovakian Wolfdog Chien-loup tchécoslovaque "canis lupus lupus x canis lupus familiaris" dog Hund chien 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adman donmorgan
+Photo URL    : https://www.flickr.com/photos/38572395@N03/3638793799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 13 18:41:16 GMT+0200 2007
+Upload Date  : Thu Jun 18 22:10:45 GMT+0200 2009
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+humpback whales 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+school of humpback whales bubble feeding
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

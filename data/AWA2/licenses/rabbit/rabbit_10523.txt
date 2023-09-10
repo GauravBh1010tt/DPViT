@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zim2411
+Photo URL    : https://www.flickr.com/photos/zim2411/3719193246/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 24 17:51:27 GMT+0200 2009
+Upload Date  : Tue Jul 14 04:03:22 GMT+0200 2009
+Views        : 73
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0982
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

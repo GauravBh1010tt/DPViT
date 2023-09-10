@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stevendepolo
+Photo URL    : https://www.flickr.com/photos/stevendepolo/9531256980/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 17 09:46:41 GMT+0200 2013
+Upload Date  : Sat Aug 17 15:46:41 GMT+0200 2013
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siamese Cat  Wood Floor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram Brannan 

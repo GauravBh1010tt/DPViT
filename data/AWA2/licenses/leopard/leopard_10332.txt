@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Björn Söderqvist
+Photo URL    : https://www.flickr.com/photos/kapten/3160917185/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 2 12:11:26 GMT+0100 2009
+Upload Date  : Sat Jan 3 02:02:00 GMT+0100 2009
+Views        : 223
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cphtur20090102 zoo copenhagen 

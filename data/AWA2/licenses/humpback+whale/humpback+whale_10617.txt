@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Percita
+Photo URL    : https://www.flickr.com/photos/dittmars/1569261980/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 30 14:06:37 GMT+0200 2007
+Upload Date  : Sun Oct 14 15:06:38 GMT+0200 2007
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Merrimbula 2 dolphins follow us
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+They really like to swim in the wake of the boat - I guess it is slip streaming
+
+
++--------+
+|  TAGS  |
++--------+
+Whales "humpback whale" Merimbula 

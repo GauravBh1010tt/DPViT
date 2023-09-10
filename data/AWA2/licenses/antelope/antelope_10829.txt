@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/2908078432/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 28 18:07:55 GMT+0200 2008
+Upload Date  : Thu Oct 2 20:48:36 GMT+0200 2008
+Views        : 143
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sable antelope (1)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;The Wilds&quot; Photo Camp 2008
+Cumberland Ohio (9/26-9/28)
+
+
++--------+
+|  TAGS  |
++--------+
+"Paul's Pic" 2008 "wilds photo camp" "the wilds" photography camp sable antelope Ohio "conservation center" 

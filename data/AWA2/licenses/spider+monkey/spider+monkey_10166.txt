@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcamcamca
+Photo URL    : https://www.flickr.com/photos/27461854@N04/4983097103/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 12 12:49:54 GMT+0200 2010
+Upload Date  : Sun Sep 12 20:24:12 GMT+0200 2010
+Views        : 749
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Variegated Spider Monkey (Ateles Belzebuth hybridus) posing for the camera.
+
+
++--------+
+|  TAGS  |
++--------+
+copenhagen zoo animal mammal monkey "spider monkey" 

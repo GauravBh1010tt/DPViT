@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/5341661100/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 3 07:32:56 GMT+0100 2011
+Upload Date  : Mon Jan 10 03:52:47 GMT+0100 2011
+Views        : 4,072
+Comments     : 108
+
+
++---------+
+|  TITLE  |
++---------+
+Life is Good
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese MissTruffles happy 

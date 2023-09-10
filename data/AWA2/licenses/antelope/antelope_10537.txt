@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mark Scott Johnson
+Photo URL    : https://www.flickr.com/photos/markscottjohnson/522856780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 27 14:48:02 GMT+0200 2007
+Upload Date  : Thu May 31 09:02:41 GMT+0200 2007
+Geotag Info  : Latitude:-32.276084, Longitude:148.581418
+Views        : 72
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8333
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dubbo australia "western plains zoo" animal wildlife 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : localpups
+Photo URL    : https://www.flickr.com/photos/133374862@N02/20514840551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 12 00:36:51 GMT+0200 2015
+Upload Date  : Wed Aug 12 09:36:51 GMT+0200 2015
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+german-shepherd-164348_1280
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Please give any attribution to: <a href="http://www.localpuppybreeders.com" rel="nofollow">www.localpuppybreeders.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+dog puppy 

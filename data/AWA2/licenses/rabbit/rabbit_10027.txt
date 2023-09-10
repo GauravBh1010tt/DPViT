@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex France
+Photo URL    : https://www.flickr.com/photos/alexfrance/2749829437/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 8 15:20:11 GMT+0200 2008
+Upload Date  : Sun Aug 10 20:27:18 GMT+0200 2008
+Views        : 746
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+100_0452
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal rabbit cute 

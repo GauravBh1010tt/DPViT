@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mrmoorey
+Photo URL    : https://www.flickr.com/photos/mrmoorey/7482848622/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 30 11:31:39 GMT+0200 2012
+Upload Date  : Mon Jul 2 01:08:48 GMT+0200 2012
+Geotag Info  : Latitude:36.932261, Longitude:-122.015533
+Views        : 731
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"santa cruz" "whale watching" whales feeding mrmoorey "alan moore" canon tail fluke "humpback whale" humpback 'Megaptera novaeangliae 

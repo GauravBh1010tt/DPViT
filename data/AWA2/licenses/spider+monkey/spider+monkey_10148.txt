@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jefe Le Gran
+Photo URL    : https://www.flickr.com/photos/jefelegran/4716214716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 17 03:01:13 GMT+0200 2010
+Upload Date  : Sun Jun 20 05:08:15 GMT+0200 2010
+Geotag Info  : Latitude:9.151756, Longitude:-79.850006
+Views        : 138
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey and baby
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The monkeys put on quite a show for us
+
+
++--------+
+|  TAGS  |
++--------+
+Kendra 

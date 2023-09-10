@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amanderson2
+Photo URL    : https://www.flickr.com/photos/amanderson/4685708477/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 27 06:35:51 GMT+0200 2010
+Upload Date  : Wed Jun 9 22:28:40 GMT+0200 2010
+Views        : 2,980
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pride at waterhole Serengeti 12
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We ran into 19 lions at a waterhole watched them for 2 hrs until they left. Amazing site a highlight of the trip.
+
+
++--------+
+|  TAGS  |
++--------+
+Tanzania safari lion serengeti waterhole 

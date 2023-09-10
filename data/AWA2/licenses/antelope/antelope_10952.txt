@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oldandsolo
+Photo URL    : https://www.flickr.com/photos/shankaronline/8455648344/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 1 00:00:00 GMT+0100 2012
+Upload Date  : Fri Feb 8 09:40:03 GMT+0100 2013
+Views        : 1,199
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Thomson's gazelle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A much older photograph shows this elegant male Thomson's gazelle sniffing about in the parched, dry sand. Pity they have to spend their lives in an area with such sparse grass. For more photos of Thomson's gazelles in the wild, see my Kenya Animals set. (Al Ain, UAE, July 2010)
+
+
++--------+
+|  TAGS  |
++--------+
+"Al Ain" "Al Ain zoo" "Al Ain zoological park" "United Arab Emirates" ungulate herbivores "hoofed animals" antelope deer gazelle "Thomson's Gazelle" 

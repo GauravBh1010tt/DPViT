@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nicknbecka
+Photo URL    : https://www.flickr.com/photos/nicknbecka/1394753532/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 16 19:03:52 GMT+0200 2007
+Upload Date  : Mon Sep 17 04:03:52 GMT+0200 2007
+Geotag Info  : Latitude:47.668624, Longitude:-122.350316
+Views        : 1,091
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Arctic Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We didn't make it to the Zoo until about 3:00PM, and it seems that everybody was a little sleepy from lunch.
+
+
++--------+
+|  TAGS  |
++--------+
+"Woodland Park Zoo" Animals Seattle Washington "Arctic Fox" Fox Silver woodland park cute zoo sleepy 

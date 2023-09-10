@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/3841095959/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 3 15:08:22 GMT+0100 2008
+Upload Date  : Fri Aug 21 05:56:48 GMT+0200 2009
+Views        : 59
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Indian Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : magicwheelder
+Photo URL    : https://www.flickr.com/photos/magicwheelder/5832694421/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 11 09:02:33 GMT+0200 2011
+Upload Date  : Tue Jun 14 18:41:05 GMT+0200 2011
+Views        : 39
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dzoo poler2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

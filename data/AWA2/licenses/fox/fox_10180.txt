@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RTD Photography
+Photo URL    : https://www.flickr.com/photos/rtdphotography/2788976098/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 1 13:07:13 GMT+0200 2008
+Upload Date  : Sat Aug 23 07:35:37 GMT+0200 2008
+Geotag Info  : Latitude:47.985555, Longitude:-88.801546
+Views        : 3,703
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox at Malone Bay Campground -1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Here is a fox near our shelter at Malone Bay Campground.
+
+
++--------+
+|  TAGS  |
++--------+
+"isle royale" "Isle Royale National Park" Michigan Upper "animals wildlife" wild grass truewildlifeimages "RTD Photography" Top20Foxes "upper peninsula" fox nature wildlife "wild animals" animal "wildlife photography" "wildlife photographer" "wild fox" 

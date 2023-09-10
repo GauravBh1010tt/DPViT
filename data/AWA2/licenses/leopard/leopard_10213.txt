@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David Berkowitz
+Photo URL    : https://www.flickr.com/photos/davidberkowitz/5588256306/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 15 23:55:30 GMT+0100 2011
+Upload Date  : Mon Apr 4 08:57:02 GMT+0200 2011
+Views        : 862
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard - South Africa Safari - Djuma Game Reserve - Sabi Sand - Kruger National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A stay at Djuma Vuyatela Lodge in South Africa for a safari in the Sabi Sand area of Kruger National Park with Big Five animals (lions, cheetahs, leopards, water buffalo, rhino) - February 2011
+
+(cc) David Berkowitz <a href="http://www.marketersstudio.com" rel="nofollow">www.marketersstudio.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"sabi sand" "south africa" africa djuma safari 

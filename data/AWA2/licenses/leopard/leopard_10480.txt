@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jurvetson
+Photo URL    : https://www.flickr.com/photos/jurvetson/2230053/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 23 19:00:55 GMT+0100 2004
+Upload Date  : Wed Dec 15 18:19:09 GMT+0100 2004
+Views        : 6,640
+Comments     : 20
+
+
++---------+
+|  TITLE  |
++---------+
+medium kitty
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Baby Spotted Leopard.  
+
+It seems that the “blue eye” effect is cuter than “red eye”, in <a href="http://www.flickr.com/photos/jurvetson/1130892">various species</a>….
+
+
++--------+
+|  TAGS  |
++--------+
+baby spotted leopard cat blue eye top-v333 bigcats "not my cat" 

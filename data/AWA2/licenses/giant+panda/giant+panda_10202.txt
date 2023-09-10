@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pandora_60
+Photo URL    : https://www.flickr.com/photos/77843769@N00/1347566426/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 8 13:09:42 GMT+0200 2007
+Upload Date  : Sat Sep 8 19:09:42 GMT+0200 2007
+Views        : 247
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Fwootie Bliss2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"National Zoo" "Tai Shan" Pandas 

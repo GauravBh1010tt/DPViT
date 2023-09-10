@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Josh Freshy
+Photo URL    : https://www.flickr.com/photos/jfreshy/8676054310/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 21 01:20:29 GMT+0200 2013
+Upload Date  : Tue Apr 23 19:38:46 GMT+0200 2013
+Views        : 757
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+penn state happy valley college university park bunny rabbit baby babies duck ducky exposure mustang ford blue white weekend drunk puppy dog art 

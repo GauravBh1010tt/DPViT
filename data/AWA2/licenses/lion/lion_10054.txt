@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russellstreet
+Photo URL    : https://www.flickr.com/photos/russellstreet/4386448765/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 28 14:16:13 GMT+0100 2008
+Upload Date  : Thu Feb 25 11:24:18 GMT+0100 2010
+Geotag Info  : Latitude:-33.843834, Longitude:151.239825
+Views        : 1,096
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+African Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"African Lion" Animal Australia "Panthera leo senegalensis" Sydney "Taronga Zoo" "New South Wales" AU 

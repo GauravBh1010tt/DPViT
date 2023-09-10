@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lip Kee
+Photo URL    : https://www.flickr.com/photos/lipkee/2500560951/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 14 08:02:46 GMT+0200 2008
+Upload Date  : Sun May 18 07:54:56 GMT+0200 2008
+Views        : 628
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Asian One-horned Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Asian One-horned Rhinoceros 
+Rhinoceros unicornis
+Location: Kazaringa, Assam, India
+April 14, 2008 
+
+690V3745
+
+
++--------+
+|  TAGS  |
++--------+
+Kaziranga "Elephant safari" Assam India "Great One-horned Rhinoceros" "Asian One-horned Rhinoceros" "Rhinoceros unicornis" 

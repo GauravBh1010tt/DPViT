@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brianandjaclyn
+Photo URL    : https://www.flickr.com/photos/brianandjaclyn/4364506924/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 15 10:48:06 GMT+0100 2010
+Upload Date  : Wed Feb 17 05:20:12 GMT+0100 2010
+Geotag Info  : Latitude:41.867666, Longitude:-87.614000
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Chicago "United States" Illinois "Shedd Aquarium" 

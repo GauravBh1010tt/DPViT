@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Headquarters
+Photo URL    : https://www.flickr.com/photos/usfwshq/6880953627/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 15 09:12:37 GMT+0100 2012
+Upload Date  : Wed Feb 15 15:12:37 GMT+0100 2012
+Views        : 1,687
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White rhinos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nakuru National Park, Kenya
+Credit: Karl Stromayer/USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros wildlifewithoutborders multinational species 

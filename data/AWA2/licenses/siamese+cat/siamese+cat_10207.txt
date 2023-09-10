@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ** RCB **
+Photo URL    : https://www.flickr.com/photos/29233640@N07/12189591175/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 27 17:51:37 GMT+0100 2014
+Upload Date  : Tue Jan 28 15:43:28 GMT+0100 2014
+Views        : 48,143
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+2014-027 - clingly cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Time spent with a cat is never wasted.&quot; 
+- Colette
+
+
++--------+
+|  TAGS  |
++--------+
+cat chat siamese "365: the 2014 edition" "Project 365" 365:2014 "ldl portraits" 

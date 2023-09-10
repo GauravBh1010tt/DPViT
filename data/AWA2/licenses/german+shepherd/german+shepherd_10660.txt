@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ibbadib
+Photo URL    : https://www.flickr.com/photos/ibbadib/24099033280/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 15 14:48:23 GMT+0100 2016
+Upload Date  : Fri Jan 15 14:09:12 GMT+0100 2016
+Views        : 283
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+My German Shepherd in HDR
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My German Shepherd in HDR
+
+Please feel free to use this photo under the Creative Commons license.
+
+
++--------+
+|  TAGS  |
++--------+
+"German Shepherd" snow winter frost dog sun walk 

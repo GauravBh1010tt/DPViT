@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : M. Janicki
+Photo URL    : https://www.flickr.com/photos/mjanicki/4420994150/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 25 11:24:29 GMT+0100 2009
+Upload Date  : Tue Mar 9 22:29:49 GMT+0100 2010
+Views        : 524
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yoda - Side Portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog "german shepherd" 

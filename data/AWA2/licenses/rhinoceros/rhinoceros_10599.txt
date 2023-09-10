@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kyknoord
+Photo URL    : https://www.flickr.com/photos/kyknoord/1813181498/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 22 11:50:46 GMT+0200 2007
+Upload Date  : Thu Nov 1 07:28:26 GMT+0100 2007
+Views        : 484
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Thick skinned
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhino rhinoceros horn "Kruger Park" Mpumalanga "big five" 

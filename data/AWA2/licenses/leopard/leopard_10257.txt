@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/3439010044/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 31 06:20:24 GMT+0200 2009
+Upload Date  : Mon Apr 13 19:33:06 GMT+0200 2009
+Geotag Info  : Latitude:-24.969787, Longitude:31.685819
+Views        : 1,328
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard Cub
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nearly a great shot, but not quite.  Sadly the tail got cropped and it's not quite sharp.  Ho-hum.  Photographing nervous wild animals in low light is not easy!
+
+
++--------+
+|  TAGS  |
++--------+
+"Kruger National Park" "South Africa" leopard "leopard cub" 

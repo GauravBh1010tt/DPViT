@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : *36*
+Photo URL    : https://www.flickr.com/photos/erika3/3626285631/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 19:32:36 GMT+0200 2009
+Upload Date  : Mon Jun 15 01:32:36 GMT+0200 2009
+Views        : 161
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Trimming the Grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

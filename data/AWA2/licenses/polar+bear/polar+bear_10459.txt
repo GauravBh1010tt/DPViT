@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eiolos
+Photo URL    : https://www.flickr.com/photos/eiolos/11350656804/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 9 15:37:58 GMT+0200 2013
+Upload Date  : Fri Dec 13 13:37:28 GMT+0100 2013
+Geotag Info  : Latitude:43.614616, Longitude:7.125191
+Views        : 1,507
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear at Marineland
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Marineland Polar-bear France Provence 

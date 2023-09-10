@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ❀ Melissa Mathies /
+Photo URL    : https://www.flickr.com/photos/melissawarhol/5457678819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 16 07:09:28 GMT+0100 2011
+Upload Date  : Sat Feb 19 11:41:39 GMT+0100 2011
+Views        : 936
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dwarf rabbit white pink nose whiskers orange grey black blue mattress shadow 

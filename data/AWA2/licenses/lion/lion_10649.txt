@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neil T
+Photo URL    : https://www.flickr.com/photos/neilt/14265566312/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 19 10:44:20 GMT+0200 2014
+Upload Date  : Sun May 25 20:05:16 GMT+0200 2014
+Geotag Info  : Latitude:53.354111, Longitude:-6.305551
+Views        : 962
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dublinzoo zoo lion lions 

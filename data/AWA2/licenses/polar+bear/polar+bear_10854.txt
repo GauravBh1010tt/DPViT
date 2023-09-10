@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : colink.
+Photo URL    : https://www.flickr.com/photos/colink/187030855/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 8 16:36:28 GMT+0200 2006
+Upload Date  : Tue Jul 11 06:04:50 GMT+0200 2006
+Views        : 513
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zoo-46
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+torontozoo zoo "2006-07-08 Zoo Trip" "polar bear" 

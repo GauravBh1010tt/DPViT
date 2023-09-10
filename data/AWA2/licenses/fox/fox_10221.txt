@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StevoKebabo
+Photo URL    : https://www.flickr.com/photos/16927804@N07/8745135924/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 15 18:23:19 GMT+0200 2013
+Upload Date  : Thu May 16 19:45:03 GMT+0200 2013
+Geotag Info  : Latitude:51.383647, Longitude:0.068653
+Views        : 1,565
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox Play
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two foxes playing in my garden
+
+
++--------+
+|  TAGS  |
++--------+
+fox foxes play british wildlife animals garden 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adamnsinger
+Photo URL    : https://www.flickr.com/photos/77437968@N00/17139541338/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 28 16:17:27 GMT+0200 2015
+Upload Date  : Fri May 1 03:54:15 GMT+0200 2015
+Views        : 1,922
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Photographer sees wolf, wolf sees lunch.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grizzly &amp; Wolf Discovery Center ; West Yellowstone
+
+
++--------+
+|  TAGS  |
++--------+
+Wolf West Yellowstone road trip 2015 Grizzly Discovery Center 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Arctic Wolf Pictures
+Photo URL    : https://www.flickr.com/photos/arcticwoof/6979142378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 28 13:26:46 GMT+0100 2010
+Upload Date  : Sun Apr 29 20:02:22 GMT+0200 2012
+Views        : 686
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow patrol
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nice polar bear weather
+
+
++--------+
+|  TAGS  |
++--------+
+animal polar bear polarbear winter snow paw 

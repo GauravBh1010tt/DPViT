@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ben.hollis
+Photo URL    : https://www.flickr.com/photos/dalangalma/8196453769/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 25 11:09:15 GMT+0200 2012
+Upload Date  : Sun Nov 18 20:25:44 GMT+0100 2012
+Geotag Info  : Latitude:-18.357109, Longitude:23.525869
+Views        : 2,390
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard profile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Like all the big cats, she was beset by flies because of the blood from kills.
+
+
++--------+
+|  TAGS  |
++--------+
+africa lebala leopard Caprivi Namibia 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarilynJane
+Photo URL    : https://www.flickr.com/photos/marilynjane/4464733015/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 26 10:35:01 GMT+0100 2010
+Upload Date  : Fri Mar 26 20:05:21 GMT+0100 2010
+Views        : 2,152
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Two brothers!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dodger and Mace waiting for a biscuit.
+
+
++--------+
+|  TAGS  |
++--------+
+Dodger "Jack Russell Terrier" Terrier Mace GSD "German Shepherd" Dog Animal 

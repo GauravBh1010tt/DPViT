@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Meer
+Photo URL    : https://www.flickr.com/photos/meer/9844454814/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 8 21:04:07 GMT+0200 2013
+Upload Date  : Sat Sep 21 01:04:37 GMT+0200 2013
+Views        : 1,122
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Heads and Tails
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison milling through the road. This was the closest encounter we had this trip.
+
+
++--------+
+|  TAGS  |
++--------+
+yellowstone nationalpark bison haydenvalley 

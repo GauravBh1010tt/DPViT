@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : World Around Richa
+Photo URL    : https://www.flickr.com/photos/worldaroundricha/14762683147/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 15 08:44:42 GMT+0100 2013
+Upload Date  : Sun Aug 17 20:12:23 GMT+0200 2014
+Views        : 539
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Basking Bunny!!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny animal white pink "red eyes" basking sun warm light rays winter little fur soft 

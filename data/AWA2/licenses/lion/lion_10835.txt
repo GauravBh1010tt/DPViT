@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gregw66
+Photo URL    : https://www.flickr.com/photos/gregw66/3688070482/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 12 09:16:13 GMT+0200 2006
+Upload Date  : Sat Jul 4 20:58:51 GMT+0200 2009
+Geotag Info  : Latitude:-18.885995, Longitude:16.830877
+Views        : 1,683
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Male lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Etosha Lion 

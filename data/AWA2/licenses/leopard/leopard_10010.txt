@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/18872877142/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 12 15:43:27 GMT+0100 2013
+Upload Date  : Wed Jan 30 04:54:38 GMT+0100 2013
+Geotag Info  : Latitude:25.609216, Longitude:-80.403034
+Views        : 357
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Clouded Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoomiami zoo miami florida cat spots clouded leopard resting 

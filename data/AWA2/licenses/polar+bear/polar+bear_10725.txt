@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cayenne2006
+Photo URL    : https://www.flickr.com/photos/saluki_at/2350554022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 1 00:00:01 GMT+0100 2004
+Upload Date  : Fri Mar 21 20:00:50 GMT+0100 2008
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Schönbrunn08 103
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

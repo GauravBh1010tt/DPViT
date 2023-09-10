@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edwin van buuringen
+Photo URL    : https://www.flickr.com/photos/edwinvanbuuringen/7128732161/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 30 15:12:40 GMT+0200 2012
+Upload Date  : Mon Apr 30 18:22:43 GMT+0200 2012
+Geotag Info  : Latitude:51.928310, Longitude:4.446469
+Views        : 3,362
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ice cold bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rotterdam Blijdorp Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+sony animal rotterdam blijdorp zoo a77 polar bear 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mrpolyonymous
+Photo URL    : https://www.flickr.com/photos/mrpolyonymous/6863011459/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 9 11:13:57 GMT+0100 2012
+Upload Date  : Sun Feb 12 16:21:34 GMT+0100 2012
+Geotag Info  : Latitude:45.683877, Longitude:-74.946928
+Views        : 3,332
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Timber Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+With goofy tongue
+
+
++--------+
+|  TAGS  |
++--------+
+"Parc Omega" wolf "timber wolf" tongue 

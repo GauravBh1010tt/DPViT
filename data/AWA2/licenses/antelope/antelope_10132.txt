@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fvfavo
+Photo URL    : https://www.flickr.com/photos/fvfavo/15435466541/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 11 15:33:12 GMT+0200 2014
+Upload Date  : Sat Oct 4 19:11:48 GMT+0200 2014
+Geotag Info  : Latitude:-19.173548, Longitude:23.752291
+Views        : 487
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Antelope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Antelope Botswana 

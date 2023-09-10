@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gmd777
+Photo URL    : https://www.flickr.com/photos/gmds_stuff/14785041222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 12 22:44:58 GMT+0200 2014
+Upload Date  : Wed Jul 30 13:27:29 GMT+0200 2014
+Views        : 1,213
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Crouching Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Just come a little closer
+
+
++--------+
+|  TAGS  |
++--------+
+lion 

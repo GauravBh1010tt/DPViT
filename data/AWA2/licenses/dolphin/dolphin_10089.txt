@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hélène.Surmont
+Photo URL    : https://www.flickr.com/photos/112486494@N04/11554808744/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 27 10:55:32 GMT+0200 2013
+Upload Date  : Thu Dec 26 00:00:33 GMT+0100 2013
+Views        : 371
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bottlenose dolphin (Tursiops truncatus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In Strait of Gibraltar
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

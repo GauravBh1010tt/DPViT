@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Antonio Calero Garcia
+Photo URL    : https://www.flickr.com/photos/114666927@N08/14478156354/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 29 11:29:56 GMT+0200 2013
+Upload Date  : Sun Jun 22 12:50:42 GMT+0200 2014
+Views        : 8,300
+Comments     : 111
+
+
++---------+
+|  TITLE  |
++---------+
+Amigos para siempre
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animales paisajes personas delfines mar 

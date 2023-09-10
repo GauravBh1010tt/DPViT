@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ger Dekker
+Photo URL    : https://www.flickr.com/photos/ger_dekker/7586264318/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 31 14:51:59 GMT+0200 2012
+Upload Date  : Tue Jul 17 00:38:41 GMT+0200 2012
+Geotag Info  : Latitude:51.927172, Longitude:4.451093
+Views        : 294
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

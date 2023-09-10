@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/10851834653/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 14 12:20:07 GMT+0200 2013
+Upload Date  : Thu Nov 14 11:00:19 GMT+0100 2013
+Geotag Info  : Latitude:47.547509, Longitude:7.578211
+Views        : 4,355
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Male rhinoceros on the surface
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of the male rhinoceros of the Basel zoo, while he was having a bath!
+
+
++--------+
+|  TAGS  |
++--------+
+portrait face profile thinoceros rhino horn water bath surface zolli zoo basel switzerland nikon d4 

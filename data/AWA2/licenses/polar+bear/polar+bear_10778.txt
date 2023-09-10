@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : holisticmonkey
+Photo URL    : https://www.flickr.com/photos/jganderson/3017145327/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 9 13:31:23 GMT+0100 2008
+Upload Date  : Mon Nov 10 03:04:51 GMT+0100 2008
+Geotag Info  : Latitude:37.733166, Longitude:-122.499166
+Views        : 635
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+untitled
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" crying 

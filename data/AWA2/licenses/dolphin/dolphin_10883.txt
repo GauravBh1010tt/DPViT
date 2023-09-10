@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : echoforsberg
+Photo URL    : https://www.flickr.com/photos/echoforsberg/2334905640/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 24 15:15:41 GMT+0100 2007
+Upload Date  : Sat Mar 15 11:39:26 GMT+0100 2008
+Views        : 932
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin porpoise aquarium sealife marine 

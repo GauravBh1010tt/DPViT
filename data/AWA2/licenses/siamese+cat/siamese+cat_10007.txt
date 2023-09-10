@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/4732413799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 24 03:08:32 GMT+0200 2010
+Upload Date  : Fri Jun 25 14:50:21 GMT+0200 2010
+Views        : 2,532
+Comments     : 65
+
+
++---------+
+|  TITLE  |
++---------+
+Truffles
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Happy Furry Friday !
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese Truffles 

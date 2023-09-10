@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andy.v
+Photo URL    : https://www.flickr.com/photos/38998067@N04/4608881695/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 15 08:41:13 GMT+0200 2010
+Upload Date  : Sat May 15 19:32:40 GMT+0200 2010
+Views        : 394
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Trip to Brandon Marsh Warwickshire
+
+
++--------+
+|  TAGS  |
++--------+
+Wildlife trusts warwickshire Nature natural 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ceris42
+Photo URL    : https://www.flickr.com/photos/ceris/5143848445/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 31 04:26:59 GMT+0100 2010
+Upload Date  : Thu Nov 4 00:50:38 GMT+0100 2010
+Views        : 275
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sebastian as werewolf puppy.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+German Shepherd Puppy 

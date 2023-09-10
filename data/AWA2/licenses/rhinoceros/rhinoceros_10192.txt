@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobrayner
+Photo URL    : https://www.flickr.com/photos/bobrayner/322494061/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 3 22:49:06 GMT+0100 2006
+Upload Date  : Thu Dec 14 22:29:53 GMT+0100 2006
+Geotag Info  : Latitude:-27.891887, Longitude:32.140846
+Views        : 2,504
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+durer's rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Southern white rhino, Hluhluwe reserve, South Africa. 200mm uncropped.
+
+
++--------+
+|  TAGS  |
++--------+
+southern white rhino hluhluwe durer "south africa" rhinoceros 

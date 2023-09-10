@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ti Yab
+Photo URL    : https://www.flickr.com/photos/tiyab/8163305983/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 24 07:40:06 GMT+0200 2012
+Upload Date  : Wed Nov 7 07:59:26 GMT+0100 2012
+Geotag Info  : Latitude:34.684040, Longitude:135.509490
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Osaka 232.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

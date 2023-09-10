@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NCinDC
+Photo URL    : https://www.flickr.com/photos/ncindc/2596471856/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 30 16:08:14 GMT+0200 2008
+Upload Date  : Fri Jun 20 23:54:56 GMT+0200 2008
+Geotag Info  : Latitude:38.929469, Longitude:-77.051496
+Views        : 701
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zzzZZZ PANDA ZZZzzz
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Giant Panda at the Smithsonian National Zoo in Washington, D.C.
+
+
+<a href="http://en.wikipedia.org/wiki/Panda" rel="nofollow">en.wikipedia.org/wiki/Panda</a>
+
+
++--------+
+|  TAGS  |
++--------+
+dcist "washington dc" panda smithsonian "national zoo" 

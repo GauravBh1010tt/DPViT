@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/1806691456/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 30 11:50:17 GMT+0100 2007
+Upload Date  : Wed Oct 31 01:44:48 GMT+0100 2007
+Views        : 2,075
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ursus maritimus
+
+
++--------+
+|  TAGS  |
++--------+
+"Polar Bear" sanfranciscozoo Zoo Animals Animal Carnivore Mammal 

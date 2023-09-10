@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tillwe
+Photo URL    : https://www.flickr.com/photos/tillwe/2814349383/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 20 17:47:42 GMT+0200 2008
+Upload Date  : Sun Aug 31 21:18:59 GMT+0200 2008
+Views        : 144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tillwe 2008-08 rostock germany zoo animal nature "polar bear" eisbär beige 

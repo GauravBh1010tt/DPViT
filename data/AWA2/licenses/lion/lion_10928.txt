@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jjmusgrove
+Photo URL    : https://www.flickr.com/photos/jjmusgrove/11708309224/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 26 12:20:57 GMT+0100 2013
+Upload Date  : Thu Jan 2 14:47:51 GMT+0100 2014
+Geotag Info  : Latitude:-2.876220, Longitude:34.884555
+Views        : 396
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sleepy Lion
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Tanzania OAT 

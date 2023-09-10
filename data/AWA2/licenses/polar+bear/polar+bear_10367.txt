@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marmontel
+Photo URL    : https://www.flickr.com/photos/marmontel/5527448130/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 26 17:10:32 GMT+0100 2011
+Upload Date  : Mon Mar 14 22:05:07 GMT+0100 2011
+Geotag Info  : Latitude:52.509129, Longitude:13.336908
+Views        : 740
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Knut - Zoo de Berlin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Février 2011
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin Zoo Knut ours bear 

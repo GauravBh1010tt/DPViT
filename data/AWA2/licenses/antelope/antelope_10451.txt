@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chriest
+Photo URL    : https://www.flickr.com/photos/christophlorse/17649272760/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 17 17:24:26 GMT+0200 2015
+Upload Date  : Tue May 19 07:06:59 GMT+0200 2015
+Geotag Info  : Latitude:51.472047, Longitude:7.469308
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hirschziegenantilope / Sasin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Antilope cervicapra
+
+
++--------+
+|  TAGS  |
++--------+
+"Zoo Dortmund" Hirschziegenantilope Sasin "Antilope cervicapra" 

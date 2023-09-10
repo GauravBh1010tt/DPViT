@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ☺ Lee J Haywood
+Photo URL    : https://www.flickr.com/photos/leehaywood/4809279583/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 11 17:30:51 GMT+0200 2010
+Upload Date  : Mon Jul 19 21:45:15 GMT+0200 2010
+Views        : 442
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Resting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This lovely dog didn't even raise its head as our large group passed by.
+
+
++--------+
+|  TAGS  |
++--------+
+"German Shepherd" dog Alsatian 

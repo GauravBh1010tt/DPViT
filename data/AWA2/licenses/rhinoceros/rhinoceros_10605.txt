@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stephanemartin
+Photo URL    : https://www.flickr.com/photos/stephanemartin/203826390/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 7 00:28:49 GMT+0200 2005
+Upload Date  : Tue Aug 1 14:51:11 GMT+0200 2006
+Geotag Info  : Latitude:32.734801, Longitude:-117.148246
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Un rhinocéros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+californie "san diego" 

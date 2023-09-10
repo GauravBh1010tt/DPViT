@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mbarrison
+Photo URL    : https://www.flickr.com/photos/barrison/19450673135/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 5 08:14:28 GMT+0200 2015
+Upload Date  : Mon Jul 6 02:08:18 GMT+0200 2015
+Geotag Info  : Latitude:28.783758, Longitude:-82.575602
+Views        : 396
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eastern Cottontail Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Homosassa WMA
+
+
++--------+
+|  TAGS  |
++--------+
+"Eastern Cottontail Rabbit" bunny 

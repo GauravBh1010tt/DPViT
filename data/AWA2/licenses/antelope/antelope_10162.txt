@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alberto Ziveri
+Photo URL    : https://www.flickr.com/photos/albyzzolo/6218160312/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 18 15:23:30 GMT+0200 2011
+Upload Date  : Thu Oct 6 20:43:51 GMT+0200 2011
+Geotag Info  : Latitude:-29.801773, Longitude:30.634517
+Views        : 348
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Antilope eating near my room
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I love this shot for its sharpness
+
+
++--------+
+|  TAGS  |
++--------+
+Africa antilope eating impala room 

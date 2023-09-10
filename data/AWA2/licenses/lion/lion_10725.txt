@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fortherock
+Photo URL    : https://www.flickr.com/photos/fortherock/3897930435/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 9 09:12:09 GMT+0100 2008
+Upload Date  : Tue Sep 8 02:28:12 GMT+0200 2009
+Views        : 12,080
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Lions & Lion Cubs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lion Camp; Lion Cubs San Diego Wild Animal Park Safari Park March 2008
+
+
++--------+
+|  TAGS  |
++--------+
+Baby Lions Cubs Wild Animal Park San Diego Safari 

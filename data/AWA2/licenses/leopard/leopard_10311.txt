@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flowcomm
+Photo URL    : https://www.flickr.com/photos/flowcomm/11643615555/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 27 17:28:11 GMT+0100 2013
+Upload Date  : Mon Dec 30 11:34:08 GMT+0100 2013
+Views        : 356
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard yawning 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife "South Africa" "Sabi Sand" nature animals 

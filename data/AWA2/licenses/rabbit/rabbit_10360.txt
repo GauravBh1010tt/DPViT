@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mr_t_77
+Photo URL    : https://www.flickr.com/photos/mrt77/2397661846/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 9 20:11:40 GMT+0200 2005
+Upload Date  : Tue Apr 8 03:43:31 GMT+0200 2008
+Views        : 562
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0107
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Baby rabbits are cute.
+
+
++--------+
+|  TAGS  |
++--------+
+2005 rabbit critter august west-virginia 

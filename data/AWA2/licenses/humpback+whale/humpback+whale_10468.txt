@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : carolineCCB
+Photo URL    : https://www.flickr.com/photos/carolineccb/7407715118/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 11 22:26:01 GMT+0200 2012
+Upload Date  : Wed Jun 20 15:25:03 GMT+0200 2012
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whales i
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

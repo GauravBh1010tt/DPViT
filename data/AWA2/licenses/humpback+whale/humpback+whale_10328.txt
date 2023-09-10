@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ajburcar
+Photo URL    : https://www.flickr.com/photos/ajburcarannis/3876184045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 21 15:37:05 GMT+0200 2009
+Upload Date  : Tue Sep 1 05:02:44 GMT+0200 2009
+Geotag Info  : Latitude:60.122355, Longitude:-149.439468
+Views        : 187
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kenai Fijords Park" "Seward Alaska" 

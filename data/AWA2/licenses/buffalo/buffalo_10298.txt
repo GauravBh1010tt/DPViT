@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Herkie
+Photo URL    : https://www.flickr.com/photos/dherholz/296364516/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 12 15:03:31 GMT+0100 2005
+Upload Date  : Mon Nov 13 13:59:18 GMT+0100 2006
+Views        : 784
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"photo trip" "Lone Elk" Buffalo Bison 

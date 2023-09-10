@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markbyzewski
+Photo URL    : https://www.flickr.com/photos/markbyzewski/11507094263/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 21 06:21:12 GMT+0200 2013
+Upload Date  : Mon Dec 23 04:24:57 GMT+0100 2013
+Views        : 117
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_3195a
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback Whales from the Matanuska on the Alaska Marine Highway.
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska "Humpback Whale" Matanuska "Alaska Marine HIghway" 

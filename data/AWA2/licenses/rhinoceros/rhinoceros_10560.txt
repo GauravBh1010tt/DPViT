@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : abbamouse
+Photo URL    : https://www.flickr.com/photos/abbamouse/485530023/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 5 14:37:32 GMT+0200 2007
+Upload Date  : Sat May 5 23:37:32 GMT+0200 2007
+Views        : 364
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Somnolent white rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo 2007 "white rhinoceros" rhinoceros rhino Waco Cameron 

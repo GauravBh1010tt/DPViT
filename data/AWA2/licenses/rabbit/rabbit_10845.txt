@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : s1ng0
+Photo URL    : https://www.flickr.com/photos/s1ng0/5941108994/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 14 14:02:54 GMT+0200 2011
+Upload Date  : Fri Jul 15 21:55:29 GMT+0200 2011
+Geotag Info  : Latitude:53.330398, Longitude:-2.383500
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tatton Park
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : naotakem
+Photo URL    : https://www.flickr.com/photos/naotakem/4449292699/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 20 14:57:04 GMT+0100 2010
+Upload Date  : Sun Mar 21 07:14:45 GMT+0100 2010
+Views        : 776
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+First Bunny of the Season
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit stanford dish wildlife california 

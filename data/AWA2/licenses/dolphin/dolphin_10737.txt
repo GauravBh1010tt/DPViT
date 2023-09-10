@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SnapAdik
+Photo URL    : https://www.flickr.com/photos/hubertyu/14227426635/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 19 21:48:58 GMT+0200 2014
+Upload Date  : Tue May 20 07:42:41 GMT+0200 2014
+Geotag Info  : Latitude:49.300557, Longitude:-123.130838
+Views        : 934
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pacific White Sided Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wild Coast Gallery, Vancouver Aquarium
+
+
++--------+
+|  TAGS  |
++--------+
+dolphins pacific marine vancouver "vancouver aquarium" aquarium D800 

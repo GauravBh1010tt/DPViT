@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/2112660361/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 7 23:21:06 GMT+0100 2007
+Upload Date  : Sat Dec 15 19:57:54 GMT+0100 2007
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cathouse "feline conservation" rosamund california 

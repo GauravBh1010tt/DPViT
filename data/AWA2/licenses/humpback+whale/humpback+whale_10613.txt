@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : r0sss
+Photo URL    : https://www.flickr.com/photos/r0sss/8247839097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 29 19:03:36 GMT+0100 2012
+Upload Date  : Thu Dec 6 02:23:52 GMT+0100 2012
+Geotag Info  : Latitude:20.955027, Longitude:-156.676025
+Views        : 528
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Maui Humpback Whale - Breach
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wasn't really expecting to see too many whales on our snorkel trip so didn't have my nice zoom but got a few decent shots.
+
+
++--------+
+|  TAGS  |
++--------+
+breaching whale humpback 2012 Hawaii Maui 

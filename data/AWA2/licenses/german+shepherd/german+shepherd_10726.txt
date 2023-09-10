@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/8969442228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 6 12:06:18 GMT+0200 2013
+Upload Date  : Thu Jun 6 15:43:23 GMT+0200 2013
+Views        : 422
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Peek-a-boo!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+GSD "German Shepherd" "River Roding" river "Wanstead Park" Bessy 

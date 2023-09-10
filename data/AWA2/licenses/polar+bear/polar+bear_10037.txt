@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sombrant
+Photo URL    : https://www.flickr.com/photos/sombrant/3296082057/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 19 15:40:34 GMT+0100 2006
+Upload Date  : Sat Feb 21 06:11:51 GMT+0100 2009
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+65
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Saint Louis Zoo 

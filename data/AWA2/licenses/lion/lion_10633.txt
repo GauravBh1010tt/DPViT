@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nick.amoscato
+Photo URL    : https://www.flickr.com/photos/namoscato/9194456331/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 29 13:36:21 GMT+0200 2013
+Upload Date  : Wed Jul 3 02:30:24 GMT+0200 2013
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nyc bronx zoo 

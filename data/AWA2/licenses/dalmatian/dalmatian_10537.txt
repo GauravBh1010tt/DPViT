@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Candida.Performa
+Photo URL    : https://www.flickr.com/photos/40006794@N02/4155619659/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 28 15:48:18 GMT+0100 2007
+Upload Date  : Thu Dec 3 21:11:35 GMT+0100 2009
+Views        : 2,067
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+One Dalmatian and one Red Beret
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cute dog, missing the other hundred though...
+
+
++--------+
+|  TAGS  |
++--------+
+Turku Suomi Finland Åbo Dalmatian Beret Red White Black Tuomiokirkko Domkyrkan Stortorget Etc turun exciting life candid personality smoked smoke smoker cigarette lady cold chilly winter ice "look at me" 

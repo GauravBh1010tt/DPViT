@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/4691235067/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 11 17:25:26 GMT+0200 2010
+Upload Date  : Fri Jun 11 23:29:11 GMT+0200 2010
+Geotag Info  : Latitude:38.922691, Longitude:-76.974785
+Views        : 14,969
+Comments     : 39
+
+
++---------+
+|  TITLE  |
++---------+
+They seem to be settling in quite nicely.....
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Millie, Henrietta, and Olaf
+
+
++--------+
+|  TAGS  |
++--------+
+olaf millie henrietta bunny rabbit "house rabbit" minirex mix disapproving 

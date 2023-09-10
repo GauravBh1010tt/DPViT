@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chascow
+Photo URL    : https://www.flickr.com/photos/charliecowins/2659757688/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 11 16:08:04 GMT+0200 2008
+Upload Date  : Sat Jul 12 00:00:52 GMT+0200 2008
+Views        : 178
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+greenway rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+charliecowins charlotte nature mecklenburgcounty parks greenway 

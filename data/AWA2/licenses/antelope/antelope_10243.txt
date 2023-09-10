@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daveynin
+Photo URL    : https://www.flickr.com/photos/daveynin/9436744857/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 29 18:40:59 GMT+0200 2013
+Upload Date  : Sun Aug 4 22:36:52 GMT+0200 2013
+Geotag Info  : Latitude:37.755311, Longitude:-105.059680
+Views        : 390
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Close up: Antelope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This looks more like deer.  He had his fur off from legs, arms and bottom.
+
+@ Gardner, Colorado
+
+
++--------+
+|  TAGS  |
++--------+
+antelope deer animal mammal Gardner 

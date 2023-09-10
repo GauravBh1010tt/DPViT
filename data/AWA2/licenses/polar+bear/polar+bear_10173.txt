@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mauwf
+Photo URL    : https://www.flickr.com/photos/mauwf/10261475885/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 5 16:02:06 GMT+0200 2013
+Upload Date  : Mon Oct 14 05:33:20 GMT+0200 2013
+Views        : 194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0748-2.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Singapore "Singapore Zoo" Wildlife "polar bear" 

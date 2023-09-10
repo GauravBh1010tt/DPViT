@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rad Blondie
+Photo URL    : https://www.flickr.com/photos/rad_blondie/4782120796/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 4 05:18:04 GMT+0200 2010
+Upload Date  : Sun Jul 11 06:36:42 GMT+0200 2010
+Views        : 920
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Scratch that paw!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Polar bear Madison zoo 

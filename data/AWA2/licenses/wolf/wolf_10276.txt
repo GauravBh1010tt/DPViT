@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/7227805252/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 19 14:11:26 GMT+0200 2012
+Upload Date  : Sat May 19 18:30:22 GMT+0200 2012
+Geotag Info  : Latitude:51.419175, Longitude:-1.152920
+Views        : 1,443
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nuka - Northwestern Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wolf 

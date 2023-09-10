@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/15377184268/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 30 13:45:50 GMT+0200 2014
+Upload Date  : Sat Oct 18 15:17:02 GMT+0200 2014
+Geotag Info  : Latitude:36.120238, Longitude:-115.177296
+Views        : 505
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Underwater dolphins 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Las Vegas Mirage Secret Garden 

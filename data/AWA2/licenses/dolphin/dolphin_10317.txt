@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Imaudi4
+Photo URL    : https://www.flickr.com/photos/imaudi4/2566498799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 3 09:12:15 GMT+0200 2008
+Upload Date  : Tue Jun 10 09:32:52 GMT+0200 2008
+Geotag Info  : Latitude:29.670570, Longitude:-81.213426
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

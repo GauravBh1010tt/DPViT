@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gregpoo
+Photo URL    : https://www.flickr.com/photos/misterskeleton/8468772271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 15 06:46:57 GMT+0100 2013
+Upload Date  : Wed Feb 13 02:25:51 GMT+0100 2013
+Views        : 210
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale Fluke
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+antarctica humpback whale fluke 

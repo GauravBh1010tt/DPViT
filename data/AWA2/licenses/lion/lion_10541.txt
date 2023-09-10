@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Yagan Kiely
+Photo URL    : https://www.flickr.com/photos/yagankiely/4006895689/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 12 21:48:56 GMT+0200 2009
+Upload Date  : Tue Oct 13 06:48:56 GMT+0200 2009
+Geotag Info  : Latitude:-31.976710, Longitude:115.854467
+Views        : 11,068
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lion from the Perth Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Lion Zoo Perth 

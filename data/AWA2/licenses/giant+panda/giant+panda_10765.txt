@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chi King
+Photo URL    : https://www.flickr.com/photos/davelau/2189668038/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 25 10:31:13 GMT+0100 2007
+Upload Date  : Sun Jan 13 14:37:52 GMT+0100 2008
+Geotag Info  : Latitude:30.774878, Longitude:103.610687
+Views        : 22,867
+Comments     : 24
+
+
++---------+
+|  TITLE  |
++---------+
+Pandas!! (GIANT PANDA/WOLONG/SICHUAN/CHINA)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Giant Panda" Panda Wolong China Interestingness "A Shot a Day ... Or So" 

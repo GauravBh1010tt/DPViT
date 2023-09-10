@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thudzx zempar
+Photo URL    : https://www.flickr.com/photos/thuday_17/3236230878/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 6 18:17:46 GMT+0100 2008
+Upload Date  : Thu Jan 29 07:58:50 GMT+0100 2009
+Views        : 1,107
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin flickrAward 

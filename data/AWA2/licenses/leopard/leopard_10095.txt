@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : angela n.
+Photo URL    : https://www.flickr.com/photos/aon/8138626517/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 7 17:30:47 GMT+0200 2012
+Upload Date  : Tue Oct 30 16:27:47 GMT+0100 2012
+Views        : 205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Audubon Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+audubon zoo new orleans flickr leopard "audubon zoo" "new orleans" 

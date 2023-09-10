@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charles & Clint
+Photo URL    : https://www.flickr.com/photos/dad_and_clint/116297459/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 20 00:06:27 GMT+0100 2006
+Upload Date  : Wed Mar 22 12:15:45 GMT+0100 2006
+Views        : 984
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Striped Skunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Picking up the left overs under the bird feeder.
+
+
++--------+
+|  TAGS  |
++--------+
+animal mammal skunk "Del Rio" "Val Verde County" TX Texas 

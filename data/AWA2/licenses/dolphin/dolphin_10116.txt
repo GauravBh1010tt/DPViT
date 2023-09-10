@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steve lorillere
+Photo URL    : https://www.flickr.com/photos/stevelorillere/7987880287/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 18:04:28 GMT+0200 2012
+Upload Date  : Sat Sep 15 11:35:10 GMT+0200 2012
+Views        : 1,582
+Comments     : 123
+
+
++---------+
+|  TITLE  |
++---------+
+DOLPHIN
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+SpecAnimal 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tenth48
+Photo URL    : https://www.flickr.com/photos/tenth48/5879772656/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 18 13:29:24 GMT+0200 2011
+Upload Date  : Tue Jun 28 05:17:12 GMT+0200 2011
+Views        : 504
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+He stayed there for like 4 minutes!!!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Columbus Zoo, pouring rain, batteries ran out, you probably know how it goes!
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" "Columbus, Ohio" "Columbus Zoo" 

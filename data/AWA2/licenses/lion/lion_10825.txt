@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/11209688114/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 16 15:45:28 GMT+0100 2013
+Upload Date  : Wed Dec 4 19:37:27 GMT+0100 2013
+Geotag Info  : Latitude:-19.232712, Longitude:23.405069
+Views        : 4,922
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Löwen / Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Löwen im Moremi-Wildreservat (Okavangodelta, Botswana).
+
+Lions in the Moremi Game Reserve (Okavango Delta, Botswana).
+
+
++--------+
+|  TAGS  |
++--------+
+Botswana "Camp Moremi" Lion Lioness Lions Löwe Löwen Löwin "Moremi Game Reserve" Moremi-Wildreservat "Okavango Delta" "Panthera leo" Safari "Wild Feline Photography" Wildlife Nordwest Botsuana "Desert & Delta Safaris" "Elangeni African Adventures" 

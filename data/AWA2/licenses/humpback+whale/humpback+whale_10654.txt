@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bradsview
+Photo URL    : https://www.flickr.com/photos/bfra07/4830589828/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 26 22:19:36 GMT+0200 2010
+Upload Date  : Mon Jul 26 14:19:36 GMT+0200 2010
+Geotag Info  : Latitude:-38.405001, Longitude:142.520885
+Views        : 5,246
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Southern Right Whale - Evening
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+There were several Southern Right Whales at Logan's Beach - Warrnambool, Victoria, Australia. This one played throughout the day, some times less than 100 metres off shore. 
+The Southern Right Whales is one of the largest mammals on earth being only marginally smaller than the Blue and Humpback whales. An adult whale averages 15 - 18 metres in length and 50 - 90 tonnes in weight
+
+
++--------+
+|  TAGS  |
++--------+
+whales warrnambool "southern right whale" wildlife ocean "warrnambool whale" "logans beach" marine mammal "marine mammal" breaching surf surfer 

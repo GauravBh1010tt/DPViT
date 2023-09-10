@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kurayba
+Photo URL    : https://www.flickr.com/photos/kurt-b/4641312040/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 17 20:50:46 GMT+0200 2010
+Upload Date  : Wed May 26 07:47:59 GMT+0200 2010
+Geotag Info  : Latitude:53.595255, Longitude:-112.833023
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rolling Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Bison loop road
+
+
++--------+
+|  TAGS  |
++--------+
+plains bison elk island national park alberta canada loop road rolling sigma 105 macro pentax k-7 "Sigma 105mm F2.8 EX DG" 

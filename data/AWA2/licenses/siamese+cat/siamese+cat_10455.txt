@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Meliha Tila Sadık
+Photo URL    : https://www.flickr.com/photos/33211138@N08/3090455046/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 25 14:51:35 GMT+0100 2008
+Upload Date  : Sun Dec 7 20:41:35 GMT+0100 2008
+Views        : 178
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tarçın 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yakışıklı kedim: Tarçın
+Bitez, Bodrum'da çekildi
+
+
++--------+
+|  TAGS  |
++--------+
+cat kedi siyam siamese 

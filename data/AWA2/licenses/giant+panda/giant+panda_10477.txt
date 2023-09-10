@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : klawed
+Photo URL    : https://www.flickr.com/photos/29512535@N00/492176833/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 10 10:16:39 GMT+0200 2007
+Upload Date  : Thu May 10 08:05:28 GMT+0200 2007
+Views        : 273
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1000411.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+panda 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Geoff Livingston
+Photo URL    : https://www.flickr.com/photos/geoliv/4697809286/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 9 23:01:49 GMT+0200 2010
+Upload Date  : Sun Jun 13 23:58:08 GMT+0200 2010
+Views        : 155
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+An Old Cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Blues, my Siamese blue point is now 13 1/2 years old!
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

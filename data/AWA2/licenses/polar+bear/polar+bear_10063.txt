@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JK400D
+Photo URL    : https://www.flickr.com/photos/jk400d/3445567076/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 15 11:48:39 GMT+0200 2009
+Upload Date  : Wed Apr 15 20:54:22 GMT+0200 2009
+Views        : 423
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20090415_Tierpark Berlin_009
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eisbären im Tierpark Berlin.
+
+Viel zu warm und das schon im April!
+
+
++--------+
+|  TAGS  |
++--------+
+Tierpark Berlin Eisbär Eisbären 

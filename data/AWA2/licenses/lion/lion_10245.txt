@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobBixbyPhotography
+Photo URL    : https://www.flickr.com/photos/scubabix/8712894745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 5 13:41:21 GMT+0200 2013
+Upload Date  : Mon May 6 13:06:59 GMT+0200 2013
+Geotag Info  : Latitude:30.401153, Longitude:-81.645466
+Views        : 289
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jacksonville Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animals bird lion cheetah 

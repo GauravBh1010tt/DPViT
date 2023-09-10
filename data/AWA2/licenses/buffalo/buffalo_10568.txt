@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : funkjoker
+Photo URL    : https://www.flickr.com/photos/funkjoker/7806524706/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 27 16:34:06 GMT+0200 2012
+Upload Date  : Sat Aug 18 09:15:18 GMT+0200 2012
+Views        : 208
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0106
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Wyoming "Yellowstone National Park" backcountry bison camping "car drive" hiking nature outdoor "United States" 

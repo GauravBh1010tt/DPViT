@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : resascup
+Photo URL    : https://www.flickr.com/photos/resascup/1445782548/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 17 03:13:21 GMT+0200 2007
+Upload Date  : Thu Sep 27 04:34:13 GMT+0200 2007
+Views        : 459
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN3313
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Maryland Rabbit Bunny 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hannah.rosen
+Photo URL    : https://www.flickr.com/photos/banna123456/4498242138/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 6 13:02:37 GMT+0100 2010
+Upload Date  : Tue Apr 6 23:11:53 GMT+0200 2010
+Views        : 139
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0022
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"national zoo" panda 

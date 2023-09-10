@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thomas.mildner-rotermund
+Photo URL    : https://www.flickr.com/photos/thomasmildner/18028105612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 00:00:00 GMT+0200 1984
+Upload Date  : Sun May 24 09:18:04 GMT+0200 2015
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ein Nashorn (und kein Trockenhorn)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rhinoceros Rhinozeros nashorn trockenhorn agfa slide 100 asa colour agfacolour africa serengeti sleeping 

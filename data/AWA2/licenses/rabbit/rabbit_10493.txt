@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nblumhardt
+Photo URL    : https://www.flickr.com/photos/nblumhardt/3500477551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 2 18:00:36 GMT+0200 2009
+Upload Date  : Mon May 4 16:58:39 GMT+0200 2009
+Geotag Info  : Latitude:45.902910, Longitude:-123.959169
+Views        : 6,617
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Honey Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wild bunny at Cannon Beach, OR
+
+
++--------+
+|  TAGS  |
++--------+
+wild bunny rabbit cannon beach oregon usa favourite 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : greenleaf 80
+Photo URL    : https://www.flickr.com/photos/bluff_artist/7659519722/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 19 14:22:19 GMT+0200 2012
+Upload Date  : Sat Jul 28 03:38:34 GMT+0200 2012
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rhinoceros 3s
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

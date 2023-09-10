@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : contraption
+Photo URL    : https://www.flickr.com/photos/88531234@N00/7928461504/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 3 18:23:33 GMT+0200 2012
+Upload Date  : Tue Sep 4 10:23:03 GMT+0200 2012
+Views        : 382
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+it's a puppy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+jenny "german shepherd" puppy female 

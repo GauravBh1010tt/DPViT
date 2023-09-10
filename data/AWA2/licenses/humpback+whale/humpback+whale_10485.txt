@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dmcdevit
+Photo URL    : https://www.flickr.com/photos/dmcdevit/2798681466/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 22 07:18:27 GMT+0200 2008
+Upload Date  : Tue Aug 26 03:54:19 GMT+0200 2008
+Views        : 554
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We saw two humpback whales (a minke whale too, but I didn't get a picture). They were actually pretty visible, though hard to get a picture of.
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska Kenai Fjords "Kenai Fjords" whale "humpback whale" 

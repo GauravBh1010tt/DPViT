@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/12033065055/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 18 15:03:17 GMT+0100 2014
+Upload Date  : Sun Jan 19 17:47:23 GMT+0100 2014
+Geotag Info  : Latitude:42.462697, Longitude:-71.093636
+Views        : 1,662
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard Walking in the Snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo massachusetts snow leopard winter 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marit & Toomas Hinnosaar
+Photo URL    : https://www.flickr.com/photos/hinnosaar/3718380539/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 13 19:24:29 GMT+0200 2009
+Upload Date  : Tue Jul 14 04:03:47 GMT+0200 2009
+Geotag Info  : Latitude:42.051260, Longitude:-87.680168
+Views        : 3,032
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stig Nygaard
+Photo URL    : https://www.flickr.com/photos/stignygaard/2434519274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 10 16:25:39 GMT+0100 2007
+Upload Date  : Tue Apr 22 18:54:46 GMT+0200 2008
+Geotag Info  : Latitude:-3.401872, Longitude:35.828819
+Views        : 1,607
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Impala
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2007 "Aepyceros melampus" Africa antelope "Canon EF 70-300mm f/4-5.6 IS USM" "East Africa" "Eastern Africa" Impala "Lake Manyara" "Lake Manyara National Park" Manyara Safari Tanzania nature wildlife "Photo by Stig Nygaard" "Creative Commons" 400D "Canon EOS 400D" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/5442375063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 20 15:38:12 GMT+0200 2010
+Upload Date  : Sun Feb 13 22:04:04 GMT+0100 2011
+Geotag Info  : Latitude:32.736299, Longitude:-117.150971
+Views        : 1,617
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Giant Panda Bear (Ailuropoda melanoleuca)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The giant panda, or panda (Ailuropoda melanoleuca, literally meaning &quot;black and white cat-foot&quot;) is a bear native to central-western and south western China. It is easily recognized by its large, distinctive black patches around the eyes, over the ears, and across its round body. Though it belongs to the order Carnivora, the panda's diet is 99% bamboo.
+
+
++--------+
+|  TAGS  |
++--------+
+panda bear giant "Ailuropoda melanoleuca" animal mammal endangered 

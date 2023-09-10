@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fauxto_digit
+Photo URL    : https://www.flickr.com/photos/fauxto_dkp/3620693569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 12 19:27:12 GMT+0200 2009
+Upload Date  : Sat Jun 13 07:07:48 GMT+0200 2009
+Views        : 722
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Looking for Munchies
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Came around a corner on Devils Den and this little  bunny who let me take several pictures before reaching for a leaf and running off.
+
+
++--------+
+|  TAGS  |
++--------+
+Bunny Rabbit "Bunny Rabbit" "Jack Rabbit" "Cotton Tail" Furry Fauna Bigears Whiskars Creature Critter "Four Legged" 

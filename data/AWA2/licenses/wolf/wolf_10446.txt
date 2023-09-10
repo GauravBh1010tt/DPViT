@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lauren elyse photography
+Photo URL    : https://www.flickr.com/photos/littlelaurenelyse/2402601324/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 9 13:48:53 GMT+0200 2008
+Upload Date  : Thu Apr 10 05:11:11 GMT+0200 2008
+Geotag Info  : Latitude:47.670950, Longitude:-122.349768
+Views        : 134
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Woodland Park Zoo" animals wolf 

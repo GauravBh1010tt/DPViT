@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cbrown1023
+Photo URL    : https://www.flickr.com/photos/cbrown1023/2668066821/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 16 17:09:18 GMT+0200 2008
+Upload Date  : Mon Jul 14 21:23:02 GMT+0200 2008
+Views        : 129
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9470
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo calf yellowstone 

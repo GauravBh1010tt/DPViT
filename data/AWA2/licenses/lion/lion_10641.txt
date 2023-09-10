@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mafue
+Photo URL    : https://www.flickr.com/photos/mafue/12293981613/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 3 10:16:35 GMT+0100 2014
+Upload Date  : Mon Feb 3 21:53:58 GMT+0100 2014
+Geotag Info  : Latitude:49.874486, Longitude:-97.239767
+Views        : 250
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think this is about as close as I'd ever want to get to a lion.
+
+
++--------+
+|  TAGS  |
++--------+
+POM "pom 2014" Mafue 2014 

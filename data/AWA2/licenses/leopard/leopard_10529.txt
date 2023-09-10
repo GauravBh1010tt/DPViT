@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sibtigre2
+Photo URL    : https://www.flickr.com/photos/sibtigre2/4733762212/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 21 11:38:20 GMT+0200 2010
+Upload Date  : Fri Jun 25 20:32:44 GMT+0200 2010
+Views        : 130
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+regal kadu
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Male Leopard, Kadu, at the Houston Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+cat leopard "houston zoo" 

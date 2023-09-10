@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lizzie1326
+Photo URL    : https://www.flickr.com/photos/12482365@N03/6227685777/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 4 18:13:38 GMT+0200 2011
+Upload Date  : Mon Oct 10 00:33:40 GMT+0200 2011
+Views        : 341
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Max.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat max "lynx point siamese" 

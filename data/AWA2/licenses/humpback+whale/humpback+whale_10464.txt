@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : travelinknu
+Photo URL    : https://www.flickr.com/photos/dknuth/5075495925/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 26 17:18:39 GMT+0200 2010
+Upload Date  : Tue Oct 12 20:30:26 GMT+0200 2010
+Views        : 1,799
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whales Bubblenet feeding
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+whales 

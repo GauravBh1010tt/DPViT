@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hyougushi
+Photo URL    : https://www.flickr.com/photos/hyougushi/3457443687/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 12 14:53:48 GMT+0200 2009
+Upload Date  : Mon Apr 20 05:00:56 GMT+0200 2009
+Views        : 158
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern White Rhinoceros @ Kobe City Oji Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(2009/04/12 Kobe, Hyogo, JAPAN)
+
+
++--------+
+|  TAGS  |
++--------+
+桜 "Southern White Rhinoceros" ミナミシロサイ "White Rhinoceros" シロサイ Rhinoceros サイ mammal animal zoo 動物園 "Kobe City Oji Zoo" 神戸市立王子動物園 王子動物園 Kobe 神戸 Hyogo 兵庫 Japan 日本 

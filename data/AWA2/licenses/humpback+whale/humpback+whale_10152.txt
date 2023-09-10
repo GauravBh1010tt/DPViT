@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : minicooper93402
+Photo URL    : https://www.flickr.com/photos/minicooper93402/5922753503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 9 18:19:09 GMT+0200 2011
+Upload Date  : Sun Jul 10 21:26:13 GMT+0200 2011
+Views        : 349
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+humpback fluke, morro rock and smokestacks
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+each whale's fluke has distinctive markings
+
+
++--------+
+|  TAGS  |
++--------+
+humpback whale fluke markings 

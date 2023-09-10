@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Liam Quinn
+Photo URL    : https://www.flickr.com/photos/liamq/6296029124/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 25 15:45:37 GMT+0100 2011
+Upload Date  : Sun Oct 30 20:43:12 GMT+0100 2011
+Geotag Info  : Latitude:-63.972345, Longitude:-61.366882
+Views        : 3,539
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale amidst icebergs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In the Gerlache Strait, Antarctica.
+
+
++--------+
+|  TAGS  |
++--------+
+"Humpback Whale" whale "Megaptera novaeangliae" "Gerlache Strait" Antarctica "Antarctic Peninsula" "Graham Land" icebergs ice wild wildlife 

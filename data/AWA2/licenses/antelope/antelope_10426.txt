@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chriest
+Photo URL    : https://www.flickr.com/photos/christophlorse/18207817268/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 27 13:17:17 GMT+0200 2015
+Upload Date  : Tue Jun 2 22:52:21 GMT+0200 2015
+Geotag Info  : Latitude:52.250028, Longitude:8.071647
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gewöhnliche Impala
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Aepyceros melampus melampus
+
+
++--------+
+|  TAGS  |
++--------+
+"Zoo Osnabrück" "Gewöhnliche Impala" "Aepyceros melampus melampus" 

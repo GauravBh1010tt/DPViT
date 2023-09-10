@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mrubcic
+Photo URL    : https://www.flickr.com/photos/rubcic/2544654957/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 28 18:33:52 GMT+0200 2008
+Upload Date  : Mon Jun 2 17:33:12 GMT+0200 2008
+Views        : 13
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+CSC_0633
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

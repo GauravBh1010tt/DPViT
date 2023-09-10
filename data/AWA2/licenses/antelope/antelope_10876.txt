@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/6628864755/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 2 09:58:39 GMT+0100 2011
+Upload Date  : Tue Jan 3 17:47:23 GMT+0100 2012
+Geotag Info  : Latitude:-29.201771, Longitude:24.407672
+Views        : 298
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Springbocks (Antidorcas marsupialis)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mokala NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+Antidorcas marsupialis "taxonomy:binomial=Antidorcas marsupialis" 

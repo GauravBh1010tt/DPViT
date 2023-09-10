@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/5144158176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 30 08:54:32 GMT+0100 2006
+Upload Date  : Wed Nov 3 22:44:55 GMT+0100 2010
+Geotag Info  : Latitude:-3.192278, Longitude:35.567893
+Views        : 4,559
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion and cub (Ngorongoro)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion cub ngorongoro 

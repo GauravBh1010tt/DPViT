@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : distar97
+Photo URL    : https://www.flickr.com/photos/dennisharper/7155119735/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 13:36:31 GMT+0200 2012
+Upload Date  : Tue Jun 5 06:55:51 GMT+0200 2012
+Geotag Info  : Latitude:41.083653, Longitude:-74.063510
+Views        : 2,093
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Stellina - Angora Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Stellina at the 2012 Fiber Craft Studio Sheep &amp; Wool Festival at Chestnut Ridge New York
+
+By the way, that's not all fuzzy wool... she is actually big boned and quite heavy
+
+
++--------+
+|  TAGS  |
++--------+
+"bunnies Chestnut Ridge Fiber Craft Fibercraft June 2012 Millie Harper New York NY Stellina Studio Sunbridge College" Stellina angora rabbit "bunny bunnies Chestnut Ridge Fiber Craft Fibercraft June 2012 Millie Harper New York NY Stellina Studio Sunbridge College" Threefold 

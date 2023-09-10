@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ibm4381
+Photo URL    : https://www.flickr.com/photos/j_benson/5695906154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 6 06:08:22 GMT+0200 2011
+Upload Date  : Sat May 7 12:50:01 GMT+0200 2011
+Views        : 780
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny in the shade
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I guess he knows he can outrun me, so he let me get really close.
+
+
++--------+
+|  TAGS  |
++--------+
+arboretum madison rabbit closeup "Canon EF 70-200mm F2.8L IS II USM" "2.0x extender III" 

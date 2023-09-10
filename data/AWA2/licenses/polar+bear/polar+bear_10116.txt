@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : julz91
+Photo URL    : https://www.flickr.com/photos/julz91/4862026834/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 30 13:06:02 GMT+0200 2010
+Upload Date  : Thu Aug 5 03:48:31 GMT+0200 2010
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bronx Zoo SOOC
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : qstarin
+Photo URL    : https://www.flickr.com/photos/qstarin/2855477520/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 8 16:18:19 GMT+0200 2008
+Upload Date  : Sun Sep 14 07:47:32 GMT+0200 2008
+Views        : 7
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4897
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

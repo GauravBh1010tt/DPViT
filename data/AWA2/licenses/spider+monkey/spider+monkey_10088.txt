@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Miguel Rangel Jr
+Photo URL    : https://www.flickr.com/photos/83713276@N03/7664599604/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 13:45:24 GMT+0200 2012
+Upload Date  : Sun Jul 29 00:12:01 GMT+0200 2012
+Geotag Info  : Latitude:-23.649516, Longitude:-46.621084
+Views        : 183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Macaco-aranha-de-cara-branca (Ateles marginatus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoológico de São Paulo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

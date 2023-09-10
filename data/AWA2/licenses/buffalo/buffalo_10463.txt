@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DFSB DE
+Photo URL    : https://www.flickr.com/photos/deepfrozen/20890125151/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 23 17:32:33 GMT+0200 2015
+Upload Date  : Wed Aug 26 01:22:11 GMT+0200 2015
+Geotag Info  : Latitude:50.030546, Longitude:7.663893
+Views        : 139
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hochwildschutzpark Rheinböllen
+
+
++--------+
+|  TAGS  |
++--------+
+"Hochwildschutzpark Rheinböllen" 2015 Deutschland Germany Rheinböllen Animal Zoo Park "TAMRON SP 150-600mm F/5-6.3 Di VC USD" "Canon EOS 7D" 

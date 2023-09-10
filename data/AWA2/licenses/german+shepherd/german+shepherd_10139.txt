@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tree Leaf Clover
+Photo URL    : https://www.flickr.com/photos/tree_leaf_clover/5951770834/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 15 12:39:00 GMT+0200 2011
+Upload Date  : Mon Jul 18 21:21:57 GMT+0200 2011
+Views        : 1,826
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Caesar
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He's an off-duty k9 veteran dog, He's super cute, like everyone who's ready to play fetch. He is Caesar!
+
+
++--------+
+|  TAGS  |
++--------+
+Canon 60d Dogs "German Shepherd" Caesar moscow 

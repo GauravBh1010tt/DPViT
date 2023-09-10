@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gomagoti
+Photo URL    : https://www.flickr.com/photos/gomagoti/8608709003/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 1 21:23:56 GMT+0200 2013
+Upload Date  : Mon Apr 1 13:37:22 GMT+0200 2013
+Views        : 888
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+I am happy coz Daddy's here
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+German Shepherd Family reunion, Moana beach, 1/4/13
+
+
++--------+
+|  TAGS  |
++--------+
+dog puppy german shepherd zara alsatian family pack portrait 

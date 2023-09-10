@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SBrentson
+Photo URL    : https://www.flickr.com/photos/s-brentson/6927917522/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 10 10:16:29 GMT+0200 2012
+Upload Date  : Fri Apr 13 18:08:00 GMT+0200 2012
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1266
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

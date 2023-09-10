@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PU Skunk
+Photo URL    : https://www.flickr.com/photos/puskunk/2603096700/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 18 20:14:59 GMT+0200 2007
+Upload Date  : Mon Jun 23 04:59:17 GMT+0200 2008
+Views        : 183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCF0211
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+braeden "pet skunk" skunk 

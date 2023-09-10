@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : QuesterMark
+Photo URL    : https://www.flickr.com/photos/0ccam/2295387730/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 13 17:36:20 GMT+0200 2007
+Upload Date  : Wed Feb 27 03:44:27 GMT+0100 2008
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Superzoom is a good thing.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

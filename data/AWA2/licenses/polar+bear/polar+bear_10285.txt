@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Sträter
+Photo URL    : https://www.flickr.com/photos/stuutje/8416772731/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 26 15:50:53 GMT+0100 2013
+Upload Date  : Sat Jan 26 20:01:20 GMT+0100 2013
+Geotag Info  : Latitude:51.927337, Longitude:4.441051
+Views        : 1,580
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+IJsbeer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deze foto is gemaakt in Diergaarde Blijdorp (Rotterdam).
+
+This picture was taken at Rotterdam Zoo (Rotterdam).
+
+
++--------+
+|  TAGS  |
++--------+
+"Diergaarde Blijdorp" "Rotterdam Zoo" Dierentuin Zoo Rotterdam IJsbeer poolbeer "Polar bear" "Ursus maritimus" 

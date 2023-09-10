@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lisa Brewster
+Photo URL    : https://www.flickr.com/photos/sophistechate/2755692005/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 10 16:35:21 GMT+0200 2008
+Upload Date  : Tue Aug 12 11:04:16 GMT+0200 2008
+Views        : 334
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+My roommate's cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Just because he was there.
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese "fit to print" lb365 

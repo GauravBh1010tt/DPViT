@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A Gude
+Photo URL    : https://www.flickr.com/photos/agude/3099179272/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 5 11:43:59 GMT+0100 2008
+Upload Date  : Thu Dec 11 00:27:47 GMT+0100 2008
+Geotag Info  : Latitude:44.981545, Longitude:-93.153097
+Views        : 286
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Spider Monkey" "Geoffroy's Spider Monkey" "Como Zoo" "Como Park" "Canon EF-S 17-85mm f/4-5.6 IS USM Lens" 

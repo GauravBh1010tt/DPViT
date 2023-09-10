@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlishaV
+Photo URL    : https://www.flickr.com/photos/alishav/3521489026/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 13 09:14:09 GMT+0100 2008
+Upload Date  : Mon May 11 08:19:26 GMT+0200 2009
+Views        : 482
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+100_7735
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Holly and foster bunny
+
+<a href="http://www.squidoo.com/homemade_rabbit_toys" rel="nofollow">Make Your Own Rabbit Toys</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Bunny Rabbit 

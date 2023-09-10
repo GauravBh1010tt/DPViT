@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lip Kee
+Photo URL    : https://www.flickr.com/photos/lipkee/21126071866/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 2 23:09:46 GMT+0200 2013
+Upload Date  : Sat Sep 5 05:03:34 GMT+0200 2015
+Geotag Info  : Latitude:-1.644290, Longitude:35.340957
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+leopard PM0A3236
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

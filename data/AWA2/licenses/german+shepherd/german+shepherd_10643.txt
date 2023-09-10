@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jacilluch
+Photo URL    : https://www.flickr.com/photos/70626035@N00/8751637122/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 6 22:27:45 GMT+0100 2006
+Upload Date  : Sat May 18 21:45:09 GMT+0200 2013
+Views        : 5,626
+Comments     : 104
+
+
++---------+
+|  TITLE  |
++---------+
+mis perritas en el 2002
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Es una foto escaneada, pero a que estan tiernas las dos !!!!
+raspi era una perrita muy friolera :)))
+
+
++--------+
+|  TAGS  |
++--------+
+ena raspi perro dog perros dogs "German shepherd dog" GSD "German shepherd" "pastor aleman" breton "Breton Epagneul" perras asturias I 狗兒 "pastori tedeschi" gos can Perra pet blanca blanco "perro cazador" 

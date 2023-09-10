@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tr.robinson
+Photo URL    : https://www.flickr.com/photos/suburbanadventure/7481218266/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 12 16:00:06 GMT+0200 2012
+Upload Date  : Sun Jul 1 21:03:32 GMT+0200 2012
+Views        : 609
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I feel bad for arctic animals in zoos in temperate climates.  I know it's probably just water but to me his fur is matted due to sweat.
+
+
++--------+
+|  TAGS  |
++--------+
+cincinnati zoo 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HimmelrichPR
+Photo URL    : https://www.flickr.com/photos/37147296@N03/16751728626/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 10 11:57:33 GMT+0100 2015
+Upload Date  : Tue Mar 10 20:02:23 GMT+0100 2015
+Views        : 79
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whales 3D
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlexDixon
+Photo URL    : https://www.flickr.com/photos/alexdixon/2984287799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 29 01:39:25 GMT+0100 2008
+Upload Date  : Wed Oct 29 21:29:14 GMT+0100 2008
+Views        : 224
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_3853
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+winnipeg zoo alpaca owl snow tiger bear flag racoon closeup bird nature wild 

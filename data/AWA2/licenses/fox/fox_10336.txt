@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nic_r
+Photo URL    : https://www.flickr.com/photos/somethingness/8310608194/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 26 11:30:24 GMT+0100 2012
+Upload Date  : Wed Dec 26 13:19:23 GMT+0100 2012
+Views        : 2,316
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Foxing Day
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A fox in the back garden on Boxing Day.
+
+
++--------+
+|  TAGS  |
++--------+
+Fox "Urban fox" Vulpine garden 

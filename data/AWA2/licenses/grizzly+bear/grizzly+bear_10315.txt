@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lake Clark NPS
+Photo URL    : https://www.flickr.com/photos/lakeclark/11346333174/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 1 00:00:00 GMT+0100 2012
+Upload Date  : Fri Dec 13 02:45:53 GMT+0100 2013
+Geotag Info  : Latitude:59.988384, Longitude:-152.648591
+Views        : 1,933
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Digging Clams
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A coastal brown bear sow and her two cubs dig for clams on the Lake Clark coast.
+
+Please credit photo as NPS/K. Jalone.
+
+
++--------+
+|  TAGS  |
++--------+
+"Brown Bear" "Ursus arctos" "Lake Clark National Park and Preserve" "Lake Clark" Alaska clams 

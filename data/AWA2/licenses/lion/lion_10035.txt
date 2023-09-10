@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VicBurolla
+Photo URL    : https://www.flickr.com/photos/38275642@N07/3529632278/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 1 00:00:00 GMT+0200 2002
+Upload Date  : Wed May 13 23:54:54 GMT+0200 2009
+Geotag Info  : Latitude:-3.205990, Longitude:35.585403
+Views        : 1,063
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Adult African Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This lion seemed to be a little distressed with open mouth breathing.  Note the wear on the teeth, and the rasps on the tongue.
+
+Taken in Tanzania, Aug 2002
+
+
++--------+
+|  TAGS  |
++--------+
+"taxonomy:binomial=panthera leo" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JoyTek
+Photo URL    : https://www.flickr.com/photos/joytek/4872378143/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 1 19:05:19 GMT+0200 2010
+Upload Date  : Sun Aug 8 21:31:45 GMT+0200 2010
+Geotag Info  : Latitude:47.248001, Longitude:1.352037
+Views        : 5,944
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo Parc Beauval
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Parc Beauval
+
+
++--------+
+|  TAGS  |
++--------+
+beauval zoo panthere leopard 

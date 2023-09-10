@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jilldaisy
+Photo URL    : https://www.flickr.com/photos/jilldaisy/2999445199/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 3 11:10:19 GMT+0100 2008
+Upload Date  : Mon Nov 3 19:29:47 GMT+0100 2008
+Views        : 104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

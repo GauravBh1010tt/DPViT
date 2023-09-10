@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lemonfilmblog
+Photo URL    : https://www.flickr.com/photos/koonisutra/15454561907/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 27 18:21:21 GMT+0100 2014
+Upload Date  : Mon Oct 27 11:21:21 GMT+0100 2014
+Geotag Info  : Latitude:1.365428, Longitude:103.857652
+Views        : 451
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Have you seen the foot of the polar bear? Here it is. Read my blog in lemon-film.com. #polarbear #singaporezoo #animalshow #foot #sony #rx1 #migme #lemonfilmblog #lemonfilm
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram 

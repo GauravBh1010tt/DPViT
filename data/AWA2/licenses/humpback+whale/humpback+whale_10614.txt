@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : r0sss
+Photo URL    : https://www.flickr.com/photos/r0sss/8248906588/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 29 19:03:15 GMT+0100 2012
+Upload Date  : Thu Dec 6 02:23:45 GMT+0100 2012
+Geotag Info  : Latitude:20.955027, Longitude:-156.676025
+Views        : 327
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Maui Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Humpback Whale 2012 Hawaii Maui November "Humpback Whale" 

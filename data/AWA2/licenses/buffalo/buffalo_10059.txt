@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry1732
+Photo URL    : https://www.flickr.com/photos/larry1732/8885432569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 26 13:01:25 GMT+0200 2013
+Upload Date  : Thu May 30 05:15:29 GMT+0200 2013
+Views        : 933
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American Bison, aka Buffalo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cimarron, New Mexico
+
+
++--------+
+|  TAGS  |
++--------+
+"casa del gavilan" cimarron philmont lamsa nm "new mexico" buffalo bison "american bison" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lord Biro
+Photo URL    : https://www.flickr.com/photos/paulboxley/230486647/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 28 16:04:30 GMT+0200 2006
+Upload Date  : Fri Sep 1 02:07:03 GMT+0200 2006
+Geotag Info  : Latitude:55.946159, Longitude:-3.268035
+Views        : 610
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+unfound photo "edinburgh zoo" leopard myfavourites 

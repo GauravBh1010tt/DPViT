@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sheep purple
+Photo URL    : https://www.flickr.com/photos/sheeppurple/2725574686/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 2 08:51:14 GMT+0200 2008
+Upload Date  : Sat Aug 2 17:54:07 GMT+0200 2008
+Geotag Info  : Latitude:52.490267, Longitude:13.358001
+Views        : 1,819
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbits 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbits 

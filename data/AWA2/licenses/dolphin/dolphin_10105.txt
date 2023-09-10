@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : christa.rohrbach
+Photo URL    : https://www.flickr.com/photos/megaptera/2413186641/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 3 15:54:47 GMT+0200 2008
+Upload Date  : Mon Apr 14 18:25:36 GMT+0200 2008
+Geotag Info  : Latitude:28.071154, Longitude:-17.335103
+Views        : 1,687
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Common dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two bow riding common dolphins off Valle Gran Rey, La Gomera
+
+
++--------+
+|  TAGS  |
++--------+
+Common dolphins 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Miley
+Photo URL    : https://www.flickr.com/photos/mike_miley/5944087642/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 30 09:42:27 GMT+0200 2011
+Upload Date  : Sat Jul 16 21:27:44 GMT+0200 2011
+Geotag Info  : Latitude:44.675458, Longitude:-110.745706
+Views        : 809
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Big Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Touring Yellowstone's Canyons
+
+as published at <a href="http://rv-life.tumblr.com" rel="nofollow">rv-life.tumblr.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+@YellowstoneNPS bison canyon grass rv tour vacation yellowstone "West Yellowstone" mt usa published 

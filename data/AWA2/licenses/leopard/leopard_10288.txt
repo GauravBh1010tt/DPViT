@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul and Jill
+Photo URL    : https://www.flickr.com/photos/pauljill/2156069490/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 7 22:35:13 GMT+0100 2007
+Upload Date  : Tue Jan 1 22:48:42 GMT+0100 2008
+Geotag Info  : Latitude:25.960514, Longitude:76.442871
+Views        : 790
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+leopard Panthera pardus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Ranthambhor leopard Panthera pardus 

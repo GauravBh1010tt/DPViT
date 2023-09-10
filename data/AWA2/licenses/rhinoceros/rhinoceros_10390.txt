@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nzgabriel
+Photo URL    : https://www.flickr.com/photos/nzgabriel/7422981620/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 3 16:25:36 GMT+0200 2012
+Upload Date  : Sat Jun 23 03:12:52 GMT+0200 2012
+Views        : 1,277
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A rhinoceros (rhino) eating at Orana Wildlife Park, Christchurch, New Zealand.
+
+
++--------+
+|  TAGS  |
++--------+
+Rhinoceros rhino portrait eating hay orana wildlife oranawildlifepark christchurch newzealand 

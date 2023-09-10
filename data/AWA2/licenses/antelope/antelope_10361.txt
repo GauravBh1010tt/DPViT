@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bautz Adventure
+Photo URL    : https://www.flickr.com/photos/130811041@N04/24093403633/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 30 12:02:18 GMT+0100 2016
+Upload Date  : Sun Jan 31 04:14:47 GMT+0100 2016
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN9199
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

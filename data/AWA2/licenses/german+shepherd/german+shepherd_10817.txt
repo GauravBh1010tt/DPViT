@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ceris42
+Photo URL    : https://www.flickr.com/photos/ceris/5018734136/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 21 04:35:16 GMT+0200 2010
+Upload Date  : Thu Sep 23 22:39:56 GMT+0200 2010
+Views        : 869
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sebastians mom and dad
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sebastian liked to walk around with his mom on a lead and the lead in his mouth. So freaking cute.
+
+
++--------+
+|  TAGS  |
++--------+
+german shepherd puppy 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edenpictures
+Photo URL    : https://www.flickr.com/photos/edenpictures/7101839449/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 22 05:02:39 GMT+0200 2012
+Upload Date  : Sun Apr 22 14:02:39 GMT+0200 2012
+Views        : 1,525
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Reception Bunnies
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These guys were eating grass outside the reception hall--a lucky sign, I think.
+
+
++--------+
+|  TAGS  |
++--------+
+"Monica and Lou's wedding" rabbits bunnies reception 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/7158045996/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 4 01:32:37 GMT+0200 2012
+Upload Date  : Tue May 8 15:36:51 GMT+0200 2012
+Views        : 1,460
+Comments     : 46
+
+
++---------+
+|  TITLE  |
++---------+
+Miss Truffles
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+View in Lightbox :)
+Done with PicMonkey :         <a href="http://www.picmonkey.com/" rel="nofollow">www.picmonkey.com/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese "Miss Truffles" PicMonkey 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/15368931329/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 29 10:05:58 GMT+0200 2014
+Upload Date  : Fri Oct 17 13:39:00 GMT+0200 2014
+Geotag Info  : Latitude:37.246367, Longitude:-112.803208
+Views        : 201
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Utah 

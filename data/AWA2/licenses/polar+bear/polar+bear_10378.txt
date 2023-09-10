@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : www.theedinburghblog.co.uk
+Photo URL    : https://www.flickr.com/photos/theedinburghblog/188919525/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 28 20:12:56 GMT+0200 2006
+Upload Date  : Thu Jul 13 21:04:11 GMT+0200 2006
+Views        : 1,263
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mercedes the polar bear at Edinburgh Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+From the <a href="http://www.theedinburghblog.co.uk" rel="nofollow">www.theedinburghblog.co.uk</a>
+
+
++--------+
+|  TAGS  |
++--------+
+theedinburghblog.co.uk Edinburgh zoo animals "edinburgh zoo" zoological bear polar "polar bear" 

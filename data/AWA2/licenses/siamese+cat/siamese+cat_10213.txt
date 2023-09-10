@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : davdunc
+Photo URL    : https://www.flickr.com/photos/davdunc/2721724823/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 1 06:03:07 GMT+0200 2008
+Upload Date  : Fri Aug 1 15:03:07 GMT+0200 2008
+Views        : 184
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+2.00035.png
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Egon, The mightiest cat in the yard!
+
+
++--------+
+|  TAGS  |
++--------+
+siamese cat 

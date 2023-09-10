@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MIKI Yoshihito. (#mikiyoshihito)
+Photo URL    : https://www.flickr.com/photos/mujitra/5541809986/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 19 15:03:26 GMT+0100 2011
+Upload Date  : Sun Mar 20 03:22:19 GMT+0100 2011
+Views        : 1,084
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Thalarctos maritimus - ASAHIYAMA Zoo.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+ASAHIYAMA Zoo.
+<a href="http://www5.city.asahikawa.hokkaido.jp/asahiyamazoo/zoo/English/English2010fuyu/top.html" rel="nofollow">www5.city.asahikawa.hokkaido.jp/asahiyamazoo/zoo/English/...</a>
+旭山動物園（2011年3月）
+
+
++--------+
+|  TAGS  |
++--------+
+Thalarctos maritimus "Thalarctos maritimus" japan hokkaido asahikawa asahiyama zoo "asahiyama zoo" 旭山動物園 日本 北海道 旭川 旭山 動物園 

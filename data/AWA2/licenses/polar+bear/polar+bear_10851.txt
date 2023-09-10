@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Blob79
+Photo URL    : https://www.flickr.com/photos/blob79/5672202529/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 26 11:01:27 GMT+0200 2011
+Upload Date  : Sat Apr 30 17:19:00 GMT+0200 2011
+Geotag Info  : Latitude:48.096913, Longitude:11.553025
+Views        : 197
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo München
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo münchen 

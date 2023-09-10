@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike McHolm
+Photo URL    : https://www.flickr.com/photos/mikemcholm/6866384463/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 12 03:02:16 GMT+0100 2012
+Upload Date  : Mon Feb 13 01:54:10 GMT+0100 2012
+Geotag Info  : Latitude:-3.234612, Longitude:35.515022
+Views        : 144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gazelle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ngorongoro Crater Safari
+Tanzania, Africa
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Animals "Big Five" McHolm "Mike McHolm" "Ngorongoro Crater" Safari Tanzania Vancouver Ngorongoro 

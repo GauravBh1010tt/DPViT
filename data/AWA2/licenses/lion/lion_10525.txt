@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jacob Davies
+Photo URL    : https://www.flickr.com/photos/jacob-davies/3479237298/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 26 15:06:54 GMT+0200 2009
+Upload Date  : Mon Apr 27 07:32:51 GMT+0200 2009
+Views        : 165
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+oakland zoo oaklandzoo 

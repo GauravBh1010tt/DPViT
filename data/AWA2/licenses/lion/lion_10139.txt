@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Herogram
+Photo URL    : https://www.flickr.com/photos/sneerpout/4167750222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 29 15:20:01 GMT+0100 2009
+Upload Date  : Tue Dec 8 00:24:58 GMT+0100 2009
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4095A
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+kenya safari "masai mara" lion 

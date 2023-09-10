@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just Jefa
+Photo URL    : https://www.flickr.com/photos/jefaspics/300494493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 18 15:59:33 GMT+0100 2006
+Upload Date  : Sun Nov 19 02:33:58 GMT+0100 2006
+Views        : 234
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Indianapolis Zoo Trip
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A rhinoceros!
+
+
++--------+
+|  TAGS  |
++--------+
+"Indianapolis Zoo  Zoo  Indianapolis  animals" " rhino" " rhinoceros" 

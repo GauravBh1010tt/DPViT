@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AndyMcLemore
+Photo URL    : https://www.flickr.com/photos/andy_emcee/3838371906/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 1 10:21:22 GMT+0200 2009
+Upload Date  : Thu Aug 20 01:03:14 GMT+0200 2009
+Views        : 148
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Look at the babie!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+baby bison LBL "Land Between the Lakes" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Titcombe
+Photo URL    : https://www.flickr.com/photos/themuddler/9793716446/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 10 08:23:42 GMT+0200 2013
+Upload Date  : Wed Sep 18 04:07:21 GMT+0200 2013
+Views        : 650
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale feeding off coast
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+newfoundland "humpback whale" 

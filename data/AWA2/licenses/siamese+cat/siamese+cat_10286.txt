@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : anthrovik
+Photo URL    : https://www.flickr.com/photos/anthrovik/2977394689/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 25 21:06:47 GMT+0200 2008
+Upload Date  : Mon Oct 27 13:48:29 GMT+0100 2008
+Views        : 320
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+enzo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+4month old siamese kitten
+
+
++--------+
+|  TAGS  |
++--------+
+kitten siamese "seal point" cat 

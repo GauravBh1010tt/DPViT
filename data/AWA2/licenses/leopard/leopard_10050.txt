@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/5017707785/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 19 12:51:03 GMT+0200 2010
+Upload Date  : Thu Sep 23 19:48:56 GMT+0200 2010
+Geotag Info  : Latitude:52.379208, Longitude:-2.286293
+Views        : 3,553
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Amur Leopard 4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Amur leopard (Panthera pardus orientalis), also known as the Manchurian leopard. It is critically endangered, with maybe less than 30 individuals left in the wild.
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Big Cat Amur Leopard 

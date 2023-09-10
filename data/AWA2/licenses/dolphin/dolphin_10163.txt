@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GlenNovinger
+Photo URL    : https://www.flickr.com/photos/gnovinger/8747449831/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 7 04:40:41 GMT+0200 2013
+Upload Date  : Fri May 17 21:33:07 GMT+0200 2013
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0737Crp3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

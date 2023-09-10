@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : g4ll4is
+Photo URL    : https://www.flickr.com/photos/g4ll4is/7243450506/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 21 20:37:17 GMT+0200 2012
+Upload Date  : Mon May 21 20:48:53 GMT+0200 2012
+Views        : 601
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+siamese blue point cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+siamese cat "blue point" blue eye instacat grey siamois chat bleu gris 

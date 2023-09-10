@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric F Savage
+Photo URL    : https://www.flickr.com/photos/efsavage/2631162692/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 2 07:39:32 GMT+0200 2008
+Upload Date  : Wed Jul 2 15:12:57 GMT+0200 2008
+Views        : 995
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ambrose the Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : martinteschner
+Photo URL    : https://www.flickr.com/photos/martinteschner/4118030504/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 19 14:56:11 GMT+0100 2009
+Upload Date  : Thu Nov 19 19:15:31 GMT+0100 2009
+Geotag Info  : Latitude:52.509391, Longitude:13.337649
+Views        : 5,091
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Knut.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://creativecommons.org/licenses/by-nd/3.0/de/" rel="nofollow"></a>This work by <a href="http://www.teschner.it" rel="nofollow">Martin Teschner</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nd/3.0/de/" rel="nofollow">Creative Commons Attribution-No Derivative Works 3.0 Germany License</a>. Based on a work at <a href="http://www.teschner.it" rel="nofollow">www.teschner.it</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+"Martin Teschner" "Canon 7D" 7D "70-200 4.0 IS" Berlin Zoo Knut Eisbär "ice bear" "polar bear" böse brüllen roar angry "Berlin zoo" 

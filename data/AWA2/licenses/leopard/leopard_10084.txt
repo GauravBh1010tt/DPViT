@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/24750400634/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 5 13:17:39 GMT+0200 2015
+Upload Date  : Mon Feb 29 18:49:46 GMT+0100 2016
+Geotag Info  : Latitude:51.352286, Longitude:12.367194
+Views        : 151
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Amurleopard / Amur leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ein Amurleopard im ZOO Leipzig.
+
+Amur Leopard, ZOO Leipzig.
+
+
++--------+
+|  TAGS  |
++--------+
+"Amur leopard" Leopard "Panthera pardus" "Panthera pardus kotiya" Zoo "Zoo Leipzig" Leipzig Sachsen Deutschland 

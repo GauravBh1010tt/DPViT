@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/9895994103/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 8 14:35:43 GMT+0200 2013
+Upload Date  : Mon Sep 23 14:43:21 GMT+0200 2013
+Geotag Info  : Latitude:47.420073, Longitude:9.285378
+Views        : 4,439
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+A skunk!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think it's my first skunk picture on Flickr. Not really good but still cool!
+
+
++--------+
+|  TAGS  |
++--------+
+skunk black white mammal lying "walter zoo" zoo gossau "st gallen" switzerland nikon d4 

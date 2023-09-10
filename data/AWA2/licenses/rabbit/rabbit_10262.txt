@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loozrboy
+Photo URL    : https://www.flickr.com/photos/loozrboy/4816834605/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 14 21:08:07 GMT+0200 2010
+Upload Date  : Thu Jul 22 06:10:01 GMT+0200 2010
+Geotag Info  : Latitude:49.873172, Longitude:-97.197579
+Views        : 3,842
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I was walking through a residential neighbourhood in Winnipeg with my nephew when we spotted a rabbit on someone's lawn. So we duly stopped to take a picture of it, and continued on our way. For about 100 feet, until we saw another rabbit in another yard. And about 6 more after that. Turns out Winnipeg has rabbits like Toronto has pigeons. Cuter though.
+
+
++--------+
+|  TAGS  |
++--------+
+animal rabbit bunny mammal furry ears 

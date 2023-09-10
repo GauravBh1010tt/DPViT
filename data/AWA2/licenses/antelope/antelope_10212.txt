@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/7694141974/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 14:34:47 GMT+0200 2012
+Upload Date  : Thu Aug 2 02:25:20 GMT+0200 2012
+Geotag Info  : Latitude:33.095855, Longitude:-116.999588
+Views        : 799
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Blackbuck Antelope male (Antilope cervicapra)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The blackbuck (Antilope cervicapra) is an antelope species native to the Indian subcontinent that has been classified as endangered. Males who are not dominant, as well as the females and young, are a light tan. All blackbucks have the white eye ring, belly and legs. The male blackbucks darken in winter, but only the most dominant and aggressive males remain black in the summer. The less aggressive bucks darken up somewhat in the winter, and then fade back to tan in summer. 
+
+Photographed at the San Diego Zoo Safari Park in Escondido, CA
+
+
++--------+
+|  TAGS  |
++--------+
+blackbuck antelope ungulate animal mammal "Antilope cervicapra" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jackoscage
+Photo URL    : https://www.flickr.com/photos/jackoscage/14473986850/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 13 16:33:07 GMT+0200 2014
+Upload Date  : Tue Jul 15 13:59:29 GMT+0200 2014
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Whale watching in Kalbarri
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

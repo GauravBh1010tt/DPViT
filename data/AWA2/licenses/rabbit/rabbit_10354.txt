@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : balpeck
+Photo URL    : https://www.flickr.com/photos/balpeck/4740846427/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 26 18:00:41 GMT+0200 2010
+Upload Date  : Mon Jun 28 07:02:42 GMT+0200 2010
+Views        : 189
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Drowsy bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+D90 kansas nature Cal2011 

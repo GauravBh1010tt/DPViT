@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : your friend le
+Photo URL    : https://www.flickr.com/photos/peem/1683963465/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 21 22:21:26 GMT+0200 2007
+Upload Date  : Mon Oct 22 07:21:26 GMT+0200 2007
+Views        : 233
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+yoko!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+yoko flamepoint siamese cats 

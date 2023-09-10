@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : randychiu
+Photo URL    : https://www.flickr.com/photos/randychiu/4092258626/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 6 09:52:57 GMT+0100 2009
+Upload Date  : Tue Nov 10 08:01:57 GMT+0100 2009
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Diego Zoo_15
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+panda "san diego zoo" 

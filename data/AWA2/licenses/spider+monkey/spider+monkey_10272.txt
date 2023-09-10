@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : threefingeredlord
+Photo URL    : https://www.flickr.com/photos/threefingers/2590794168/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 8 16:32:01 GMT+0200 2008
+Upload Date  : Wed Jun 18 19:56:29 GMT+0200 2008
+Views        : 1,274
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Swinging Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://en.wikipedia.org/wiki/Geoffroy's_Spider_Monkey" rel="nofollow"><i>Ateles geoffroyi </i></a>
+
+
++--------+
+|  TAGS  |
++--------+
+Costa Rica 2008 biology school trip geography spider monkey Ateles geoffroyi 

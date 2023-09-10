@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ume-y
+Photo URL    : https://www.flickr.com/photos/ume-y/17152126650/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 27 11:13:06 GMT+0200 2015
+Upload Date  : Sat May 2 08:29:17 GMT+0200 2015
+Geotag Info  : Latitude:26.692488, Longitude:127.875797
+Views        : 257
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ミナミバンドウイルカ
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin イルカ 美ら海水族館 

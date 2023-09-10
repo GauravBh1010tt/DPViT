@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Airwolfhound
+Photo URL    : https://www.flickr.com/photos/24874528@N04/16308679973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 22 10:59:23 GMT+0100 2015
+Upload Date  : Wed Mar 25 18:56:32 GMT+0100 2015
+Views        : 17,397
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Lion - Linton Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lion "Linton Zoo" 

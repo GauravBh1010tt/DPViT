@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peet van Schalkwyk
+Photo URL    : https://www.flickr.com/photos/peetvs/5506659867/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 20 15:15:30 GMT+0100 2010
+Upload Date  : Mon Mar 7 21:15:26 GMT+0100 2011
+Views        : 6,961
+Comments     : 20
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard  (Panthera pardus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Leopard in the Serengeti
+
+
++--------+
+|  TAGS  |
++--------+
+Leopard Serengeti wildlife "taxonomy:binomial=Panthera pardus" "Panthera pardus" 

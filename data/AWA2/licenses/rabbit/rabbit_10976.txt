@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dougtone
+Photo URL    : https://www.flickr.com/photos/dougtone/9601940447/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 25 11:07:03 GMT+0200 2013
+Upload Date  : Tue Aug 27 04:22:24 GMT+0200 2013
+Views        : 1,017
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Great New York State Fair - Syracuse, New York - August 25, 2013
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Great New York State Fair - Syracuse, New York - August 25, 2013
+
+
++--------+
+|  TAGS  |
++--------+
+"The Great New York State Fair" Syracuse "New York" "state fair" Upstate exhibit livestock cow pig horse pony rabbit bunny goat sheep "butter sculpture" chicken agriculture farm machinery wagon sleigh cart 

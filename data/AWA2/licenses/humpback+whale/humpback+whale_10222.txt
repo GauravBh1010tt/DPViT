@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Darryl Whitmore
+Photo URL    : https://www.flickr.com/photos/darrylwhitmore/181745378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 26 12:34:47 GMT+0200 2006
+Upload Date  : Tue Jul 4 20:24:40 GMT+0200 2006
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale diving
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"vacation 2006" boston 

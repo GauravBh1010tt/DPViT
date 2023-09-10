@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lip Kee
+Photo URL    : https://www.flickr.com/photos/lipkee/2440505621/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 16 09:14:31 GMT+0200 2008
+Upload Date  : Fri Apr 25 18:17:28 GMT+0200 2008
+Geotag Info  : Latitude:26.673231, Longitude:93.404903
+Views        : 600
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rhino 690V6188.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Great One-horned Rhinoceros or
+Asian One-horned Rhinoceros 
+(Rhinoceros unicornis)
+Kazaringa, Assam, India
+April 14, 2008
+
+
++--------+
+|  TAGS  |
++--------+
+"Great One-horned Rhinoceros" "Asian One-horned Rhinoceros" "Rhinoceros unicornis" 

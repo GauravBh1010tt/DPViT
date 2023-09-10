@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/6011822891/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 24 10:03:43 GMT+0100 2010
+Upload Date  : Fri Aug 5 20:08:16 GMT+0200 2011
+Views        : 498
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion (Panthera leo)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+S25 West of Crodile Bridge, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+Panthera leo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : takeabikeride
+Photo URL    : https://www.flickr.com/photos/26085081@N00/8923396176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 30 01:07:25 GMT+0200 2013
+Upload Date  : Sun Jun 2 14:07:57 GMT+0200 2013
+Geotag Info  : Latitude:38.625990, Longitude:20.951784
+Views        : 238
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dophins near Kalamos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin kalamos greece 

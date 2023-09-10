@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A Glass of Chianti
+Photo URL    : https://www.flickr.com/photos/aglassofchianti/1280170382/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 28 15:02:47 GMT+0200 2005
+Upload Date  : Fri Aug 31 00:40:40 GMT+0200 2007
+Geotag Info  : Latitude:32.726091, Longitude:-97.357857
+Views        : 207
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lioness 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A little blurry, but we'll get the hang of the zoom soon.
+
+
++--------+
+|  TAGS  |
++--------+
+"Fort Worth Zoo" "Fort Worth" zoo lion 

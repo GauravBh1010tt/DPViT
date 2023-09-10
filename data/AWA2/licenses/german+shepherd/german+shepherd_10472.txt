@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DaveCrosby
+Photo URL    : https://www.flickr.com/photos/wikidave/2864963491/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 17 12:40:39 GMT+0200 2008
+Upload Date  : Wed Sep 17 17:44:02 GMT+0200 2008
+Views        : 864
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+I Hez Knife, Ken Katch 0wn Bananaz!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"kitchen knife" buddy alsation "german shepherd" 

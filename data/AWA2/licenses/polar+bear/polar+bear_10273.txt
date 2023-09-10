@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eiichik
+Photo URL    : https://www.flickr.com/photos/eiichik/3360072113/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 7 11:34:18 GMT+0100 2008
+Upload Date  : Mon Mar 16 20:38:42 GMT+0100 2009
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hokkaido 08
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/6033341806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 11 14:21:20 GMT+0200 2011
+Upload Date  : Thu Aug 11 21:49:15 GMT+0200 2011
+Views        : 518
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Angie und Schwester Alma
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+August 2011
+Canon EOS 40D
+EF-S 17-85mm f/4-5.6 IS USM
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hunde hündin dog dogs welpe welpen welpenspiel puppy puppies dalmatiner female dalmatian Dalmatinac 

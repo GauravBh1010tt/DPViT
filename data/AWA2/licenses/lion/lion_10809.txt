@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheGirlsNY
+Photo URL    : https://www.flickr.com/photos/thegirlsny/3758966842/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 25 14:35:43 GMT+0200 2009
+Upload Date  : Sun Jul 26 20:06:22 GMT+0200 2009
+Views        : 886
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Little cutie!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Bronx Zoo" Lion Cub 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : orca_bc
+Photo URL    : https://www.flickr.com/photos/101951515@N07/15077346558/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 2 15:59:24 GMT+0200 2014
+Upload Date  : Wed Sep 17 04:48:57 GMT+0200 2014
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+140802_247
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Blue Ocean Whale Watch" California "Humpback Whale" "Humpback Whales" "Marine Life" "Marine Sanctuary" "Megaptera novaeangliae" Monterey "Monterey Bay" "Pacific Ocean" "United States of America" Whale baleen "baleen whale" cetacean cetaceans whales 

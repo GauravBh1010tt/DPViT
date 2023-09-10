@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher.Michel
+Photo URL    : https://www.flickr.com/photos/cmichel67/12529002903/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 6 06:48:09 GMT+0100 2014
+Upload Date  : Sat Feb 15 00:09:38 GMT+0100 2014
+Views        : 3,556
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Outside Magazine on Whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.outsideonline.com/outdoor-gear/gear-shed/Capture-Underwater-Photos-Like-a-Pro.html" rel="nofollow">www.outsideonline.com/outdoor-gear/gear-shed/Capture-Unde...</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"In the Heart of the Sea" "Moby Dick" humpbacks ocean 

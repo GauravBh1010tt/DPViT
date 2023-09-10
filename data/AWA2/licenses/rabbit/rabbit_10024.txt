@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stevevdp3
+Photo URL    : https://www.flickr.com/photos/27317714@N08/5851994671/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 9 17:03:41 GMT+0200 2011
+Upload Date  : Mon Jun 20 12:14:45 GMT+0200 2011
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+033
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

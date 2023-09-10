@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : emrank
+Photo URL    : https://www.flickr.com/photos/emrank/3318754790/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 28 13:57:29 GMT+0100 2009
+Upload Date  : Sun Mar 1 09:08:42 GMT+0100 2009
+Views        : 315
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bears at Higashiyama Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Fujifim Finepix S8000fd" "Higashiyama Zoo" "Higashiyama Park" Nagoya 名古屋 zoo animal binatang 

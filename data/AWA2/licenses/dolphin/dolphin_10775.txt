@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gregory "Slobirdr" Smith
+Photo URL    : https://www.flickr.com/photos/slobirdr/14825276609/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 21 10:25:52 GMT+0200 2014
+Upload Date  : Sat Aug 23 22:29:18 GMT+0200 2014
+Geotag Info  : Latitude:34.091335, Longitude:-119.479064
+Views        : 16,216
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Short-beaked Common Dolphin (Delphinus delphis)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Riding the bow wave of our boat, this group of dolphins only stayed around for five minutes, but they were very athletic in their jumps,,,
+
+
++--------+
+|  TAGS  |
++--------+
+"Short-beaked Common Dolphin (Delphinus delphis)" California "Pacific Ocean" "marine mammal" dolphin nature "Gregory Slobirdr Smith" 

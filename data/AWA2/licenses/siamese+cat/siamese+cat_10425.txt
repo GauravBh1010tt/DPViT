@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VMOS
+Photo URL    : https://www.flickr.com/photos/vmos/297928694/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 13 17:14:48 GMT+0100 2006
+Upload Date  : Wed Nov 15 09:01:46 GMT+0100 2006
+Geotag Info  : Latitude:16.818015, Longitude:100.270328
+Views        : 279
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siamese cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A rather unusual thing in Siam
+
+
++--------+
+|  TAGS  |
++--------+
+Thailand Phitsanulok monkey 2006 

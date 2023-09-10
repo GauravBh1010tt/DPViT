@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : shinealight
+Photo URL    : https://www.flickr.com/photos/shinealight/13647528433/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 4 19:35:46 GMT+0200 2014
+Upload Date  : Sat Apr 5 19:16:27 GMT+0200 2014
+Geotag Info  : Latitude:43.736844, Longitude:-79.720284
+Views        : 1,350
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+1,168
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Processed with VSCOcam with 4 preset
+
+
++--------+
+|  TAGS  |
++--------+
+flickriosapp:filter=NoFilter uploaded:by=flickr_mobile jesse "german shepherd" dog dogs vsco vsocam 

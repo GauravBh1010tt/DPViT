@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steve Slater (used to be Wildlife Encounters)
+Photo URL    : https://www.flickr.com/photos/wildlife_encounters/17049998476/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 9 08:52:40 GMT+0100 2003
+Upload Date  : Wed Apr 8 11:42:30 GMT+0200 2015
+Views        : 406
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+leopard lying down arty
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+leopard lying down arty
+
+
++--------+
+|  TAGS  |
++--------+
+abstract artistic "Fine art" HDR KwaZulu-Natal Leopard "South Africa" "Wildlife Encounters" Eastbourne UK 

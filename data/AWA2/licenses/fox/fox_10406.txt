@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : desertdutchman
+Photo URL    : https://www.flickr.com/photos/kretyen/19312558723/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 21 12:44:27 GMT+0200 2015
+Upload Date  : Thu Jul 23 07:00:22 GMT+0200 2015
+Views        : 2,061
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Island Foxes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On a recent trip the the Channel Islands off the coast of California we had the pleasure of watching this mother fox and pup playing.
+
+
++--------+
+|  TAGS  |
++--------+
+fox channel islands california pup 

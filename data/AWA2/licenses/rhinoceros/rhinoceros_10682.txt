@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wwarby
+Photo URL    : https://www.flickr.com/photos/wwarby/16805680246/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 14 13:32:29 GMT+0100 2015
+Upload Date  : Mon Mar 16 09:14:54 GMT+0100 2015
+Geotag Info  : Latitude:51.861758, Longitude:0.828216
+Views        : 3,438
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Baby White Rhino with mother at Colchester Zoo
+
+PERMISSION TO USE: you are welcome to use this photo free of charge for any purpose including commercial. I am not concerned with how attribution is provided - a link to my flickr page or my name is fine. If the used in a context where attribution is impractical, that's fine too. I want my photography to be shared widely. I like hearing about where my photos have been used so please send me links, screenshots or photos where possible.
+
+
++--------+
+|  TAGS  |
++--------+
+40-150mm E-M1 MC-14 OM-D "OM-D E-M1" Olympus "Olympus E-M1" Zuiko "Zuiko Digital" animal black-and-white captivity "day out" digital-camera event mammal mirrorless outdoors rhino rhinoceros teleconverter tinted tinted-black-and-white trip "white rhino" wildlife zoo 

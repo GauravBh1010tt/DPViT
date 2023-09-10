@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : New Brunswick Tourism | Tourisme Nouveau-Brunswick
+Photo URL    : https://www.flickr.com/photos/tourismnewbrunswick/6038153733/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 13 11:51:15 GMT+0200 2011
+Upload Date  : Sat Aug 13 17:33:15 GMT+0200 2011
+Views        : 1,112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buffalo Safari Ranch in Bouctouche / Safari de bisons à Bouctouche
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+safari ranch bisons ferme Buffalo Bouctouche 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amandarichard421
+Photo URL    : https://www.flickr.com/photos/mndapnda421/3287813185/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 9 14:11:34 GMT+0100 2009
+Upload Date  : Tue Feb 17 20:45:36 GMT+0100 2009
+Views        : 397
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1442
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Clouded Leopard
+Nashville Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

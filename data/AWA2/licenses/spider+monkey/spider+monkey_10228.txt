@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregTheBusker
+Photo URL    : https://www.flickr.com/photos/gregthebusker/18749868406/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 1 10:00:10 GMT+0200 2015
+Upload Date  : Sun Jun 14 02:32:26 GMT+0200 2015
+Geotag Info  : Latitude:17.222527, Longitude:-89.623450
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

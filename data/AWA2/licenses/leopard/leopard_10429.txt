@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : s9-4pr
+Photo URL    : https://www.flickr.com/photos/119983612@N04/13143685205/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 13 10:38:30 GMT+0100 2003
+Upload Date  : Fri Mar 14 10:45:38 GMT+0100 2014
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard, Sabi Sand
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

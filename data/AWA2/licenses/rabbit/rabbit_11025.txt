@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jpockele
+Photo URL    : https://www.flickr.com/photos/jpockele/380935001/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 5 21:35:28 GMT+0100 2007
+Upload Date  : Mon Feb 5 21:35:28 GMT+0100 2007
+Geotag Info  : Latitude:51.279589, Longitude:4.442111
+Views        : 1,828
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Vosje out for a walk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+vosje rabbit bunny adorable Swiss Fox 

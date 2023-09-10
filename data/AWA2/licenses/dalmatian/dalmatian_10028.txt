@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/6033263706/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 11 14:18:50 GMT+0200 2011
+Upload Date  : Thu Aug 11 21:19:24 GMT+0200 2011
+Views        : 621
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Angie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+August 2011
+Canon EOS 40D
+EF-S 17-85mm f/4-5.6 IS USM
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hunde hündin dog dogs welpe welpen welpenspiel puppy puppies dalmatiner female dalmatian Dalmatinac 

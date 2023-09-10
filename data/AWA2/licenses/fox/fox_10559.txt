@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rikkis_refuge
+Photo URL    : https://www.flickr.com/photos/rikkis_refuge/5336600403/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 22 00:00:00 GMT+0100 2002
+Upload Date  : Sat Jan 8 22:54:41 GMT+0100 2011
+Views        : 227
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+red_fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

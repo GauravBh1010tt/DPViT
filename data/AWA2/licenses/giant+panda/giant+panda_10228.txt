@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew and Annemarie
+Photo URL    : https://www.flickr.com/photos/andrew_annemarie/14277861481/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 27 08:58:48 GMT+0200 2014
+Upload Date  : Tue May 27 02:58:48 GMT+0200 2014
+Geotag Info  : Latitude:30.737805, Longitude:104.143191
+Views        : 1,424
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giant Panda eating
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Follow our trip at <a href="http://www.trekkingasia.co.uk" rel="nofollow">Trekking Asia</a>
+
+
++--------+
+|  TAGS  |
++--------+
+file:md5sum=d80c16c3df6a33a722b5bd2ff2098402 file:sha1sig=703ed7dc6f988b4c3ac307f42d85706c42b9dd21 panda Chengdu China Asia backpacking trekking sightseeing landscapes 

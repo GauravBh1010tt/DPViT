@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Furryscaly
+Photo URL    : https://www.flickr.com/photos/furryscalyman/645858934/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 26 03:03:50 GMT+0200 2007
+Upload Date  : Thu Jun 28 08:00:30 GMT+0200 2007
+Geotag Info  : Latitude:39.108081, Longitude:-76.762279
+Views        : 3,266
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Tripodless
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Proof I need a more portable tripod.  I imagine I could have gotten some pretty good shots of this guy had I had one with me.  Since I didn't, this close-up is rather blurry.
+
+Since I have your attention I'd also like to point out that rabbits are not rodents, they're lagomorphs.
+
+
++--------+
+|  TAGS  |
++--------+
+"eastern cottontail" "Sylvilagus floridanus" Sylvilagus floridanus eastern cottontail "cottontail rabbit" rabbit "eastern cottontail rabbit" lagomorph Lagomorpha Leporidae "New World rabbit" MD Maryland "Maryland wildlife" wildlife "not a rodent" blurry "I need a more portable tripod" cute "urban wildlife" bunny animal "taxonomy:binomial=Sylvilagus floridanus" taxonomy:kingdom=Animalia Animalia taxonomy:class=Mammalia Mammalia mammal furry hairy 

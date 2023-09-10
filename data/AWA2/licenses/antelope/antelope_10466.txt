@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sultancillo
+Photo URL    : https://www.flickr.com/photos/sultancillo/1501659238/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 6 12:32:01 GMT+0200 2007
+Upload Date  : Sun Oct 7 03:09:41 GMT+0200 2007
+Geotag Info  : Latitude:25.123993, Longitude:-99.917392
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0933.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bioparque zoologico negatorium antelope antílope 

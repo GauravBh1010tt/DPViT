@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Amy Schiffers
+Photo URL    : https://www.flickr.com/photos/amyschiffers/4529485414/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 2 04:50:03 GMT+0100 2009
+Upload Date  : Sun Apr 18 00:14:00 GMT+0200 2010
+Views        : 42
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+GLS_Lion_AMY3243
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : allenthepostman
+Photo URL    : https://www.flickr.com/photos/allenthepostman/5830011022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 13 10:54:57 GMT+0200 2011
+Upload Date  : Mon Jun 13 21:23:07 GMT+0200 2011
+Views        : 768
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mr Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+who wasn`t at all scared of me,Reigate,Jun 2011
+
+
++--------+
+|  TAGS  |
++--------+
+fox wildlife animals "post round" reigate 

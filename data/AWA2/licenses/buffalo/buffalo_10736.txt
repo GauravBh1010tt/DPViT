@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/7697103114/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 26 14:37:24 GMT+0200 2012
+Upload Date  : Thu Aug 2 12:30:07 GMT+0200 2012
+Geotag Info  : Latitude:46.934821, Longitude:7.449455
+Views        : 5,307
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Musk ox and calf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The same musk ox as before, this time with he calf besides her.
+
+
++--------+
+|  TAGS  |
++--------+
+bison brown standing mother female cow calf baby cute dählhölzli zoo bern switzerland nikon d700 musk ox 

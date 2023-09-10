@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Fincher Family
+Photo URL    : https://www.flickr.com/photos/jemfinch/3083272023/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 4 16:03:16 GMT+0200 2008
+Upload Date  : Fri Dec 5 05:34:50 GMT+0100 2008
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pa041576
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus digital camera
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

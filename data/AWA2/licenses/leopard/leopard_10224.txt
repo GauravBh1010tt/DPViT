@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/18011434360/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 20 08:04:11 GMT+0200 2008
+Upload Date  : Thu May 28 17:20:41 GMT+0200 2015
+Geotag Info  : Latitude:2.314910, Longitude:31.450767
+Views        : 657
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard (Panthera pardus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Murchison Falls NP, UGANDA
+
+
++--------+
+|  TAGS  |
++--------+
+Leopard "Murchison Falls" "Panthera pardus" "taxonomy:binomial=Panthera pardus" UGANDA 

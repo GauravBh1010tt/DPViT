@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : icke48
+Photo URL    : https://www.flickr.com/photos/icke48/15420157075/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 2 11:10:45 GMT+0200 2014
+Upload Date  : Thu Oct 2 17:05:06 GMT+0200 2014
+Views        : 216
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+ZOOM - Erlebniswelt-    
+Gelsenkirchen
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : miheco
+Photo URL    : https://www.flickr.com/photos/miheco/2810632861/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 29 20:33:50 GMT+0200 2008
+Upload Date  : Sat Aug 30 17:42:00 GMT+0200 2008
+Views        : 982
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Backyard cottontail
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This guy or girl  has breakfast every morning in the backyard.  Lives under the avocado trees. So  is more or less safe from the coyotes, although one of our neighbors did loose her cat, Sparky, to a coyote last week.
+I took this through tinted glass.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit cottontail 

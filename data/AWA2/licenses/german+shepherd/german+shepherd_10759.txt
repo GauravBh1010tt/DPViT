@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SG2012
+Photo URL    : https://www.flickr.com/photos/sg2012/7871827198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 11 12:04:11 GMT+0200 2012
+Upload Date  : Mon Aug 27 14:04:59 GMT+0200 2012
+Geotag Info  : Latitude:53.684457, Longitude:-2.490720
+Views        : 1,159
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rachael and Sheba at Darwen Tower
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Darwen Tower 11/08/2012
+
+
++--------+
+|  TAGS  |
++--------+
+Sheba Dog "German Shepherd Cross" Rachael "Darwen Tower" 

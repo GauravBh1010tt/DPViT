@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ChrisK4u
+Photo URL    : https://www.flickr.com/photos/chrisk4u/4238453482/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 2 21:55:42 GMT+0100 2010
+Upload Date  : Sat Jan 2 21:55:42 GMT+0100 2010
+Views        : 2,826
+Comments     : 101
+
+
++---------+
+|  TITLE  |
++---------+
+- look -
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Explored: Jan 2, 2010 #179
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EOS 5D Mark II;" "Sigma 150mm 2.8 EX DG APO IF MAKRO;" emma; dog; hund; "German shepherd;" schäferhund; Österreich; austria; Kärnten; carinthia; Ebenthal; 

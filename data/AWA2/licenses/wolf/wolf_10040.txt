@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/25719722014/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 5 14:41:08 GMT+0100 2016
+Upload Date  : Sat Apr 9 14:00:24 GMT+0200 2016
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two wolves saying hello
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Even if the picture is quite blurry, I like it!
+
+
++--------+
+|  TAGS  |
++--------+
+two together portrait fluffy wolf mongolian canine canid dog winter snow cold zürich zoo switzerland nikon d4 

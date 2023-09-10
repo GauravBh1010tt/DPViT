@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : shri_ram_r
+Photo URL    : https://www.flickr.com/photos/xenocrates/7440099212/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 17 13:13:15 GMT+0200 2012
+Upload Date  : Mon Jun 25 16:40:31 GMT+0200 2012
+Geotag Info  : Latitude:40.849267, Longitude:-73.876383
+Views        : 293
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+BronxZoo-41
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+American Bison
+
+
++--------+
+|  TAGS  |
++--------+
+"Bronx Zoo" Giraffe Zebra "Ebony Langur" "Red Panda" "Gelada Baboon" Bears Tigers Leopards Parrots Sifaka Gorilla Mandril 

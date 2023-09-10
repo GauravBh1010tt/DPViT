@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : benmiller23
+Photo URL    : https://www.flickr.com/photos/benmiller23/215930588/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 11 10:17:09 GMT+0200 2006
+Upload Date  : Tue Aug 15 14:41:48 GMT+0200 2006
+Geotag Info  : Latitude:44.915373, Longitude:-110.282049
+Views        : 298
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"defenders of wildlife" yellowstone "national park" 2006 august "Yellowstone National Park" bison 

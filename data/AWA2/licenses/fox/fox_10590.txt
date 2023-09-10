@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photommo
+Photo URL    : https://www.flickr.com/photos/photommo/14162283319/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 4 09:16:54 GMT+0200 2014
+Upload Date  : Thu Jun 5 03:37:26 GMT+0200 2014
+Geotag Info  : Latitude:39.885767, Longitude:-75.264415
+Views        : 958
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Something's in the Air......
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+....at John Heinz National Wildlife Refuge
+
+
++--------+
+|  TAGS  |
++--------+
+John Heinz National Wildlife Refuge animal fox sniff smell wild tinicum nature pennsylvania 2014 Canidae Vulpes cute 

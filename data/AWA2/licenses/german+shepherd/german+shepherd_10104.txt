@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/16005390012/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 12 18:56:23 GMT+0100 2014
+Upload Date  : Fri Dec 12 19:37:59 GMT+0100 2014
+Views        : 296
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bessy Posing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bessy GSD "German Shepherd" Dog 

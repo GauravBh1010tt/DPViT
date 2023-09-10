@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GRVO TV
+Photo URL    : https://www.flickr.com/photos/64755053@N06/24665678901/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 1 14:01:50 GMT+0100 2016
+Upload Date  : Mon Feb 1 22:15:06 GMT+0100 2016
+Views        : 208
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf - GX8
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

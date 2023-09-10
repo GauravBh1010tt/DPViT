@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrGuilt
+Photo URL    : https://www.flickr.com/photos/bontempscharly/4767889653/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 6 12:53:14 GMT+0200 2010
+Upload Date  : Tue Jul 6 18:53:14 GMT+0200 2010
+Views        : 1,892
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the San Diego Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

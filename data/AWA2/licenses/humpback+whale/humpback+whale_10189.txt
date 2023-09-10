@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : timparkinson
+Photo URL    : https://www.flickr.com/photos/timparkinson/317509062/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 6 04:23:57 GMT+0100 2006
+Upload Date  : Sat Dec 9 03:44:04 GMT+0100 2006
+Geotag Info  : Latitude:36.568100, Longitude:-122.609000
+Views        : 375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale @ Monterey Bay, California
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Used: <a href="http://usetrackr.tims-tools.net/photo/81" rel="nofollow">usetrackr.tims-tools.net/photo/81</a>
+
+
++--------+
+|  TAGS  |
++--------+
+gybo usa california "monterey bay" whale sea ocean monterey 

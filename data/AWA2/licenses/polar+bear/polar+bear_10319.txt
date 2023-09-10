@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wbrentprice
+Photo URL    : https://www.flickr.com/photos/wbrentprice/22610767758/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 6 14:54:46 GMT+0200 2011
+Upload Date  : Sun Nov 15 08:40:38 GMT+0100 2015
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3840.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

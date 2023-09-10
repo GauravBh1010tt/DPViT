@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sibtigre2
+Photo URL    : https://www.flickr.com/photos/sibtigre2/7224172640/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 18 18:55:55 GMT+0200 2012
+Upload Date  : Sat May 19 01:55:55 GMT+0200 2012
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animals nebraska omaha 

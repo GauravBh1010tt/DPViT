@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gnaphron
+Photo URL    : https://www.flickr.com/photos/gnaphron/6799584964/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 25 22:05:41 GMT+0100 2012
+Upload Date  : Fri Mar 2 07:04:30 GMT+0100 2012
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Raw iPhotoRating0 

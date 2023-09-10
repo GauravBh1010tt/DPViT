@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ross_Goodman
+Photo URL    : https://www.flickr.com/photos/ross_goodman/3210495293/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 19 23:47:51 GMT+0100 2009
+Upload Date  : Tue Jan 20 00:53:28 GMT+0100 2009
+Geotag Info  : Latitude:55.748069, Longitude:-3.980612
+Views        : 607
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_9107
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Demi our German Shepherd Dog (GSD)
+
+
++--------+
+|  TAGS  |
++--------+
+Demi German Shepherd Dog GSD DPS2-03 

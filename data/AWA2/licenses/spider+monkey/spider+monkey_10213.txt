@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vytautas Šėrys
+Photo URL    : https://www.flickr.com/photos/vserys/6867647104/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 11 20:43:48 GMT+0100 2012
+Upload Date  : Sun Mar 25 14:10:30 GMT+0200 2012
+Geotag Info  : Latitude:9.812423, Longitude:-84.898910
+Views        : 178
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Spider Monkey Refugio Silvestre Curu "Costa Rica" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wildhog1977
+Photo URL    : https://www.flickr.com/photos/lamonicanature/6154008045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 17 03:38:21 GMT+0100 2011
+Upload Date  : Sat Sep 17 03:22:27 GMT+0200 2011
+Geotag Info  : Latitude:26.714380, Longitude:-80.052688
+Views        : 693
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.photoblog.com/lamonicaphotos/" rel="nofollow">www.photoblog.com/lamonicaphotos/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+FlickrBigCats agile animal big black cat cheetah coat coloration creature dangerous endangered face fast feline fur furry head hunter jaguar large leopard mammal nature powerful predator quick spot spots spotted torso whiskers white wild wildlife yellow 

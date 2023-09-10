@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WxMom
+Photo URL    : https://www.flickr.com/photos/wxmom/8661250549/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 18 21:41:03 GMT+0200 2013
+Upload Date  : Fri Apr 19 04:45:46 GMT+0200 2013
+Views        : 323
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wildlife!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+After we finished driving through The Needles, we were on the first half of the wildlife loop, on our way to Wind Cave.
+
+Further down the road, we had to drive through the herd. I believe we were still in Custer Park at this time, and this is their herd, but it might have been Wind Cave's herd, I'm not sure.
+
+
++--------+
+|  TAGS  |
++--------+
+August 2012 wildlife "South Dakota" buffalo bison 

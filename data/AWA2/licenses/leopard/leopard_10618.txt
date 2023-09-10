@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kazuhiro Keino
+Photo URL    : https://www.flickr.com/photos/djkeino/7635004102/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 24 11:27:36 GMT+0200 2012
+Upload Date  : Tue Jul 24 07:02:58 GMT+0200 2012
+Geotag Info  : Latitude:35.647962, Longitude:139.395223
+Views        : 571
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2012/07/24@Tama Zoological Park　Canon EOS KISS X5 &amp; Sigma 50-200mm f/4-5.6 DC OS HSM
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EOS KISS X5" "Sigma 50-200mm f/4-5.6 DC OS HSM" TOKYO 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jonsson.nick
+Photo URL    : https://www.flickr.com/photos/nickjonsson/16999021508/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 28 14:54:35 GMT+0100 2015
+Upload Date  : Sat Apr 18 13:45:35 GMT+0200 2015
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White rhinoceros Ceratotherium simum bull Hector Khama 2015
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

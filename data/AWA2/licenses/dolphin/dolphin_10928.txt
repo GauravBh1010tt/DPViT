@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : .curt.
+Photo URL    : https://www.flickr.com/photos/curtsm/4353226842/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 12 11:43:19 GMT+0100 2010
+Upload Date  : Sat Feb 13 08:08:20 GMT+0100 2010
+Views        : 471
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hawaiian spinner dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lanai spinner dolphin hawaii 

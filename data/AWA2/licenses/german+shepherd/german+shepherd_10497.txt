@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roman.petruniak
+Photo URL    : https://www.flickr.com/photos/petruniak/6966975148/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 20 22:39:09 GMT+0200 2012
+Upload Date  : Wed Apr 25 18:17:35 GMT+0200 2012
+Views        : 206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0894
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kyiv Ukraine Walk Rainbow Podil puppy "german shepherd" 

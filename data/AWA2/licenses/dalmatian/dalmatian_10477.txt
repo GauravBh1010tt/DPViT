@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asw909
+Photo URL    : https://www.flickr.com/photos/asw909/8543511514/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 8 11:36:07 GMT+0100 2013
+Upload Date  : Sun Mar 10 00:09:09 GMT+0100 2013
+Geotag Info  : Latitude:52.451903, Longitude:-1.721849
+Views        : 176
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Crufts 2013: Day Two (Toy and Utility): 08-March 2013
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dalmatian Crufts "Crufts 2013" NEC "National Exhibition Centre" Birmingham 

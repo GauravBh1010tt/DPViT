@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : azule
+Photo URL    : https://www.flickr.com/photos/azule/8086620976/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 13 18:49:59 GMT+0200 2012
+Upload Date  : Sun Oct 14 17:59:30 GMT+0200 2012
+Views        : 1,542
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+yellowstone bison wild animal 

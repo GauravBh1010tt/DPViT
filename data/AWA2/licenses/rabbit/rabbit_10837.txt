@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : www.metaphoricalplatypus.com
+Photo URL    : https://www.flickr.com/photos/29638108@N06/5219746315/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 15 10:12:49 GMT+0200 2008
+Upload Date  : Tue Nov 30 07:25:30 GMT+0100 2010
+Views        : 1,738
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny animals "rabbit gallery" 

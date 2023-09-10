@@ -1,0 +1,44 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA's National Ocean Service
+Photo URL    : https://www.flickr.com/photos/usoceangov/5428073363/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 8 12:07:05 GMT+0100 2011
+Upload Date  : Tue Feb 8 18:07:05 GMT+0100 2011
+Views        : 9,431
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Whale Breach
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A humpback whale breaches off the coast of Oahu in Hawaii. Each year, the Hawaiian Islands Humpback Whale National Marine Sanctuary hosts the 'Sanctuary Ocean Count.' Not only is this a fun volunteer activity for residents and visitors, but it also helps to provide important population and distribution information on humpback whales around the Hawaiian Islands.
+
+<a href="http://hawaiihumpbackwhale.noaa.gov/" rel="nofollow">Hawaiian Islands Humpback Whale National Marine Sanctuary</a>
+
+<a href="http://sanctuaries.noaa.gov/" rel="nofollow">Office of National Marine Sanctuaries</a>
+
+<a href="http://oceanservice.noaa.gov" rel="nofollow">NOAA's National Ocean Service</a>
+
+(Original source: <a href="http://oceanservice.noaa.gov/images.htm" rel="nofollow">NOS Image Gallery</a>)
+
+HIHWNMS/NOAA Fisheries Permit #782-1438
+
+
++--------+
+|  TAGS  |
++--------+
+ocean fish noaa nationaloceanservice marinesanctuary marinelife marine sea hawaii whale humpback 

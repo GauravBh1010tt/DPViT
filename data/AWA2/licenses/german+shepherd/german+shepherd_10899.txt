@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lilli2de
+Photo URL    : https://www.flickr.com/photos/seven_of9/5152851508/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 17 16:32:55 GMT+0200 2010
+Upload Date  : Sun Nov 7 01:19:30 GMT+0100 2010
+Views        : 976
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Theo with his ball
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Meiner Mutters Hund Theo
+
+
++--------+
+|  TAGS  |
++--------+
+2010 October "meiner Mutters Garten" "my moms garden" Hund dog "Belgischer Schäferhund" "Belgian Shepherd Dog" Theo 

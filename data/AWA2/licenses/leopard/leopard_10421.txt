@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/23982684573/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 14 17:34:58 GMT+0100 2013
+Upload Date  : Mon Jan 25 20:01:06 GMT+0100 2016
+Geotag Info  : Latitude:-19.200945, Longitude:23.389850
+Views        : 376
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ein Leopard im Moremi-Wildreservat (Okavangodelta, Botswana).
+
+A Leopard in the Moremi Game Reserve (Okavango Delta, Botswana).
+
+
++--------+
+|  TAGS  |
++--------+
+Botswana "Camp Moremi" Leopard "Moremi Game Reserve" Moremi-Wildreservat "Okavango Delta" "Panthera pardus" "Panthera pardus pardus" Safari "Wild Feline Photography" Wildlife "North West" Botsuana "Desert & Delta Safaris" "Elangeni African Adventures" 

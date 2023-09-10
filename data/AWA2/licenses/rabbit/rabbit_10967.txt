@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/4961828892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 23 11:23:17 GMT+0200 2010
+Upload Date  : Sun Sep 5 23:58:20 GMT+0200 2010
+Geotag Info  : Latitude:40.046770, Longitude:-105.183148
+Views        : 980
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Terror in the Rockies: Disapproval at 5000 feet
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think that it is a bit harder to show disdain at altitude. He tried though.
+
+Young Desert Cottontail, Walden Ponds, Boulder, Colorado
+
+
++--------+
+|  TAGS  |
++--------+
+Young "Desert Cottontail" "Walden Ponds" colorado "boulder county" 2010 wildlife fauna bunny rabbit wild cottontail "Sylvilagus audubonii" "audubon's cottontail" 

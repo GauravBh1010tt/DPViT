@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fu_chy
+Photo URL    : https://www.flickr.com/photos/fozzy_c/5926237463/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 2 12:30:54 GMT+0100 2011
+Upload Date  : Mon Jul 11 17:48:44 GMT+0200 2011
+Views        : 800
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Swift Fox (Vulpes velox)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A young Swift Fox (Vulpes velox) from Burgers' Zoo, Arnhem
+
+
++--------+
+|  TAGS  |
++--------+
+fox "Burgers' Zoo" Arnhem 

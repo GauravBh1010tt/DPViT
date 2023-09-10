@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daryl_mitchell
+Photo URL    : https://www.flickr.com/photos/daryl_mitchell/2777552605/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 19 08:48:12 GMT+0200 2008
+Upload Date  : Tue Aug 19 16:48:12 GMT+0200 2008
+Geotag Info  : Latitude:52.161902, Longitude:-106.583476
+Views        : 445
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison used to number in the millions across North America before the European settlers hunted them to the brink of extinction. In some areas, bison are now being reintroduced into the wild.
+
+
++--------+
+|  TAGS  |
++--------+
+summer 2008 Saskatoon Saskatchewan Canada zoo bison 

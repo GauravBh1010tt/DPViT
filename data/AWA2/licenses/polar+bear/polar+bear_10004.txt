@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asokolik
+Photo URL    : https://www.flickr.com/photos/asokolik/8039916106/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 7 14:12:52 GMT+0100 2012
+Upload Date  : Sun Sep 30 19:08:23 GMT+0200 2012
+Geotag Info  : Latitude:42.938218, Longitude:-78.852374
+Views        : 1,208
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7625
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Buffalo Zoo" "Buffalo Zoological Gardens" "Polar Bear" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Julia Manzerova
+Photo URL    : https://www.flickr.com/photos/julia_manzerova/3846406970/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 8 16:12:49 GMT+0200 2007
+Upload Date  : Sat Aug 22 21:28:14 GMT+0200 2009
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone bison 

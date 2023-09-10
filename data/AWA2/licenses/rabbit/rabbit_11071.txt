@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : U. S. Fish and Wildlife Service - Northeast Region
+Photo URL    : https://www.flickr.com/photos/usfwsnortheast/7164544474/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 10 13:52:10 GMT+0200 2011
+Upload Date  : Wed May 9 15:22:40 GMT+0200 2012
+Geotag Info  : Latitude:42.473038, Longitude:-71.339249
+Views        : 1,907
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young Cottontail species (Sylvilagus floridarius) along dike 10 June 2011
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eastern cottontail at Great Meadows National Wildlife Refuge.
+
+Credit: Steve Arena/USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+"New England cottontail" rabbit mammal "Great Meadows National Wildlife Refuge" bunny 

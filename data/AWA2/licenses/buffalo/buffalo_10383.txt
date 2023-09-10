@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jon.roberts
+Photo URL    : https://www.flickr.com/photos/jon_roberts/5345502336/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 30 18:11:03 GMT+0100 2003
+Upload Date  : Tue Jan 11 06:44:15 GMT+0100 2011
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

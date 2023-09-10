@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wisconsin Department of Natural Resources
+Photo URL    : https://www.flickr.com/photos/widnr/6511386457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 16 15:18:45 GMT+0200 2010
+Upload Date  : Wed Dec 14 18:01:31 GMT+0100 2011
+Views        : 1,266
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Striped skunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A striped skunk warns potential predators by raising its tail and arching its back.  If the foe persists, it turns and sprays oily, pungent fluid up to 10 feet.
+
+
++--------+
+|  TAGS  |
++--------+
+Mustelidae "Mephitis mephitis" summer 

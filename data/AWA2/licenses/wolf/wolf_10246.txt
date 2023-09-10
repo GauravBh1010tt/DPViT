@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SJQuinney
+Photo URL    : https://www.flickr.com/photos/quinneylibrary/15082743804/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 3 10:52:23 GMT+0100 2014
+Upload Date  : Mon Nov 3 19:48:30 GMT+0100 2014
+Views        : 209
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+M113
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gray Wolf - Jay Smith
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J Wynia
+Photo URL    : https://www.flickr.com/photos/jwynia/3863510798/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 24 16:45:09 GMT+0200 2009
+Upload Date  : Fri Aug 28 00:56:06 GMT+0200 2009
+Views        : 127
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giant Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo sandiegozoo "San Diego" 

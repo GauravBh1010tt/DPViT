@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnjschroeder
+Photo URL    : https://www.flickr.com/photos/johnjschroeder/8289110393/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 15 20:55:00 GMT+0200 2011
+Upload Date  : Thu Dec 20 03:47:05 GMT+0100 2012
+Geotag Info  : Latitude:44.644475, Longitude:-110.476713
+Views        : 346
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Staring Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bison "Yellowstone National Park" 

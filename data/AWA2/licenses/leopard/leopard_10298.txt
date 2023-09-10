@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tattiehowker
+Photo URL    : https://www.flickr.com/photos/tattiehowker/9187559276/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 30 12:42:10 GMT+0200 2013
+Upload Date  : Mon Jul 1 22:23:11 GMT+0200 2013
+Views        : 83
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard Snoozing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

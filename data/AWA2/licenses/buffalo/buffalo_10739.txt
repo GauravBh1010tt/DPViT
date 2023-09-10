@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gaby53mt
+Photo URL    : https://www.flickr.com/photos/blacktailbooks/2736772713/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 3 13:56:19 GMT+0200 2008
+Upload Date  : Wed Aug 6 04:59:43 GMT+0200 2008
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+National Bison Range 136
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Note the tongue. Nose  Moisturizing and Cleaning.
+
+
++--------+
+|  TAGS  |
++--------+
+Montana Flathead Moise "Bison Range" Wildlife BMBooks Buffalo August BlacktailBooks JHandcock 

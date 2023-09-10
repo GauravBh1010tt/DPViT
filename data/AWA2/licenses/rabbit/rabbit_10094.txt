@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ashleyhexum66
+Photo URL    : https://www.flickr.com/photos/ashleyhexum66/20367285203/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 29 03:20:14 GMT+0200 2015
+Upload Date  : Sun Aug 30 01:00:20 GMT+0200 2015
+Views        : 409
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bahai temple wilmette evanston illinois nature worship faith suburbs 

@@ -1,0 +1,45 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ron Cogswell
+Photo URL    : https://www.flickr.com/photos/22711505@N05/6083332153/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 20 13:17:50 GMT+0200 2011
+Upload Date  : Fri Aug 26 23:05:07 GMT+0200 2011
+Geotag Info  : Latitude:39.420812, Longitude:-79.330397
+Views        : 11,286
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherd -- 2011
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The German Shepherd Dog (also known as an Alsatian; German: Deutscher Schäferhund) is a breed of large-sized dog that originated in Germany.
+
+The German Shepherd is a relatively new breed of dog, with its origin dating to 1899.  As part of the Herding Group, the German Shepherd is a working dog developed originally for herding and guarding sheep. 
+
+Because of its strength, intelligence and abilities in obedience training, it is often employed in police and military roles around the world.
+
+German Shepherds currently account for about 5% of all dogs registered with the American Kennel Club. Due to its loyal and protective nature, the German Shepherd is one of the most registered of breeds.
+
+Image by Rob Cogswell on August 20, 2011, using a Nikon D80 and minor Photoshop effects.
+
+DSC_0154
+
+
++--------+
+|  TAGS  |
++--------+
+"Ron Cogswell" "German Shepherd" Alsatian 

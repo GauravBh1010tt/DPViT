@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rennett Stowe
+Photo URL    : https://www.flickr.com/photos/tomsaint/2593900179/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 19 21:36:57 GMT+0200 2008
+Upload Date  : Fri Jun 20 06:36:57 GMT+0200 2008
+Views        : 8,559
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Happy Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog dogs mut hound muts hounds canine husky "alaskan husky" "german shepherd" shepherd "family dog" "smiling dog" smile smiling pet pets "family pet" "our pet" "happy dog" pooch teeth tongue "black nose" whiskers whisker "German shepherd dog" "shepherd mix" "black and white dog" "friendly dog" animal animals "domesticated animal" "man's best friend" "sunny day" "dog close-up" close-up "white face" "white faced dog" "watch dog" "brown eyes" eyes face "cute face" "cute faces" "long whiskers" happy "dog photograph" "dog photo" "canine companion" companion "pink tongue" sitting sit 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hometown Beauty
+Photo URL    : https://www.flickr.com/photos/shiningstars11/7791409584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 16 13:53:38 GMT+0200 2012
+Upload Date  : Thu Aug 16 00:38:26 GMT+0200 2012
+Views        : 92
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat eyes blue siamese fur 

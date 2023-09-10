@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WukieGrl
+Photo URL    : https://www.flickr.com/photos/krystyn_wukiegrl/8053605824/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 21 02:55:41 GMT+0200 2012
+Upload Date  : Thu Oct 4 15:49:55 GMT+0200 2012
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+83201-PH-3-011
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Philly Zoo" 

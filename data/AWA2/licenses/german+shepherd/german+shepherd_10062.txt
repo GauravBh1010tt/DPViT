@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ewen and donabel
+Photo URL    : https://www.flickr.com/photos/donabelandewen/601082256/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 17:08:34 GMT+0200 2007
+Upload Date  : Sat Jun 23 17:15:38 GMT+0200 2007
+Views        : 1,377
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Anna, an 8-year old Alsatian
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+anna dog "german shepherd" 

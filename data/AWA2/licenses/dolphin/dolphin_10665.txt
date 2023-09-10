@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Flying Jenny
+Photo URL    : https://www.flickr.com/photos/forthebirds/5345853743/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 11 08:11:28 GMT+0100 2011
+Upload Date  : Tue Jan 11 16:18:37 GMT+0100 2011
+Geotag Info  : Latitude:28.436336, Longitude:-80.659432
+Views        : 467
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Joyful
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+water bananariver dolphin 

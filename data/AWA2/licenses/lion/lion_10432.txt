@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tony_the_bald_eagle
+Photo URL    : https://www.flickr.com/photos/42371658@N00/2188754176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 6 10:06:44 GMT+0100 2008
+Upload Date  : Sun Jan 13 05:16:01 GMT+0100 2008
+Views        : 649
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion roar
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

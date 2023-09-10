@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/8756018671/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 16 16:54:32 GMT+0100 2012
+Upload Date  : Mon May 20 08:24:07 GMT+0200 2013
+Geotag Info  : Latitude:-25.228081, Longitude:31.417336
+Views        : 2,093
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Breitmaulnashörner / White Rhinoceroses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kruger Park" Mpumalanga Südafrika Safari "South Africa" Wildlife "Kruger National Park" "White Rhinoceroses" Breitmaulnashörner "Square-lipped Rhinoceros" "Ceratotherium simum" Rhinocerotidae Rhino Rhinoceros Rhinos Rhinoceroses "White Rhinoceros" "Square-lipped Rhinoceroses" 

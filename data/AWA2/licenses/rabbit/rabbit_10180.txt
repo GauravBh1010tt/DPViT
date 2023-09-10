@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fauxto_digit
+Photo URL    : https://www.flickr.com/photos/fauxto_dkp/3478419158/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 25 19:53:21 GMT+0200 2009
+Upload Date  : Mon Apr 27 02:43:44 GMT+0200 2009
+Views        : 285
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny Face
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The shots of the bunny caused a three car line up. I was all alone when I saw him then after a few shots I looked up and had 3 cars behind me. On DeTrobriand Ave, Gettysburg.
+
+
++--------+
+|  TAGS  |
++--------+
+Bunny Rabbit "Bunny Rabbit" Gettysburg PA "Gettysburg PA" Fauna Battlefield GNMP Wild 

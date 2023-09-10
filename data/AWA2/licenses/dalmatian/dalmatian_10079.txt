@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/6961176171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 6 15:22:42 GMT+0100 2012
+Upload Date  : Wed Mar 7 09:27:35 GMT+0100 2012
+Views        : 854
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hundemüde
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+März 2012
+Canon EOS 40D
+EF-S 55-250mm f/4-5.6 IS II
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hunde hündin dog dalmatiner female dalmatian Dalmatinac hund junghund young dogs sleeping schlafend müde schlafen 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tomi Tapio
+Photo URL    : https://www.flickr.com/photos/tomitapio/4958767384/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 21 15:51:57 GMT+0200 2010
+Upload Date  : Sun Sep 5 02:51:53 GMT+0200 2010
+Geotag Info  : Latitude:60.203673, Longitude:24.896414
+Views        : 1,358
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Ears down, chin up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+With pocket camera, on my way to the grocery-shop.
+
+2010-06-21. Id 20100621_6022.
+
+
++--------+
+|  TAGS  |
++--------+
+Helsinki Pikku-Huopalahti sx100 "Canon PowerShot SX100 IS" bunny rabbit villikani ears eye 

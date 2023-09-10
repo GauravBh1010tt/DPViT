@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : imke.stahlmann
+Photo URL    : https://www.flickr.com/photos/11264282@N02/6066296112/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 19 13:42:09 GMT+0200 2011
+Upload Date  : Sun Aug 21 19:36:12 GMT+0200 2011
+Geotag Info  : Latitude:-2.685173, Longitude:35.060119
+Views        : 190
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tansania Tanzania Serengeti "Serengeti National Park" Safari Antilope 

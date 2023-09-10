@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Daniele Pedrini
+Photo URL    : https://www.flickr.com/photos/pedrini/6569133239/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 25 11:07:09 GMT+0200 2011
+Upload Date  : Sun Dec 25 15:36:09 GMT+0100 2011
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0489
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

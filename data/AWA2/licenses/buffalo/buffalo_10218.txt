@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Smith2010
+Photo URL    : https://www.flickr.com/photos/lsmith2010/23754352390/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 29 09:46:25 GMT+0100 2015
+Upload Date  : Tue Dec 29 20:19:36 GMT+0100 2015
+Geotag Info  : Latitude:34.732231, Longitude:-98.706064
+Views        : 342
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bison in the Ice #1 12-29-15
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wichita Mountains Wildlife Refuge
+SW Oklahoma
+
+
++--------+
+|  TAGS  |
++--------+
+"Wichita Mountains" Oklahoma snow ice "Larry Smith" "Wichita Mountains Wildlife Refuge" bison buffalo 

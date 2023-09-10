@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/3577631456/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 29 09:17:20 GMT+0200 2009
+Upload Date  : Sat May 30 04:03:22 GMT+0200 2009
+Views        : 87
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+resting leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Paul's Pic" 2009 "Columbus Zoo" Leopard 

@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ken Lund
+Photo URL    : https://www.flickr.com/photos/kenlund/7187201580/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 11 01:36:32 GMT+0200 2012
+Upload Date  : Sun May 13 11:31:14 GMT+0200 2012
+Geotag Info  : Latitude:40.749760, Longitude:-111.814405
+Views        : 459
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey, Hogle Zoo, Salt Lake City, Utah
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The brown spider monkey or variegated spider monkey (Ateles hybridus) is a critically endangered species of spider monkey, a type of New World monkey, from northern Colombia and northwestern Venezuela. Its taxonomic history has been confusing, and in the past it has been treated as a subspecies of either the Geoffroy's spider monkey or the white-fronted spider monkey.[3] Like all spider monkeys, it has very long, spindly limbs and a lengthy prehensile tail which can almost be called a fifth limb. The tail has a highly flexible, hairless tip with skin grooves which improves grip on tree branches and is adapted to its strictly arboreal lifestyle. The brown spider monkey has a whitish belly and patch on the forehead, and – highly unusual among spider monkeys – the eyes are sometimes blue.
+
+<a href="http://en.wikipedia.org/wiki/Brown_spider_monkey" rel="nofollow">en.wikipedia.org/wiki/Brown_spider_monkey</a>
+
+<a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="nofollow">en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_...</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

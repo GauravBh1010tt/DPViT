@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DncnH
+Photo URL    : https://www.flickr.com/photos/duncanh1/6180435327/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 4 18:04:55 GMT+0200 2011
+Upload Date  : Sun Sep 25 13:04:51 GMT+0200 2011
+Geotag Info  : Latitude:53.103925, Longitude:-1.331990
+Views        : 489
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Rocky in the garden #2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yet more of the Siamese.
+
+
++--------+
+|  TAGS  |
++--------+
+Rocky siamese cat garden "South Normanton" "lilac point" pet bokeh 

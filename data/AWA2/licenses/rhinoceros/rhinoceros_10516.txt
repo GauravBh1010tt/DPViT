@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nakashi
+Photo URL    : https://www.flickr.com/photos/nakashi/19062467379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 27 16:04:44 GMT+0200 2015
+Upload Date  : Mon Jun 29 01:46:54 GMT+0200 2015
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tama zoo tamazoo tokyo japan 

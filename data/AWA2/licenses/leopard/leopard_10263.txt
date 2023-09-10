@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hobgadlng
+Photo URL    : https://www.flickr.com/photos/hobgadlng/7668132236/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 29 15:32:27 GMT+0200 2012
+Upload Date  : Sun Jul 29 14:38:08 GMT+0200 2012
+Geotag Info  : Latitude:-20.413982, Longitude:16.672439
+Views        : 405
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard eating
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Namibia Okonjima leopard animal "Africat Foundation" teeth 

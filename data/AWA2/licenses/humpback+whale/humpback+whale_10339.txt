@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ethan Ableman
+Photo URL    : https://www.flickr.com/photos/ethansphotosarecool/5971302525/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 7 18:41:47 GMT+0200 2010
+Upload Date  : Sun Jul 24 23:25:36 GMT+0200 2011
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

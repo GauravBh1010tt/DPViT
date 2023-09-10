@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markhealey
+Photo URL    : https://www.flickr.com/photos/markjhealey/8921687684/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 29 13:40:49 GMT+0200 2013
+Upload Date  : Sun Jun 2 10:14:26 GMT+0200 2013
+Geotag Info  : Latitude:48.158333, Longitude:17.074833
+Views        : 217
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard in Bratislava Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bratislava 

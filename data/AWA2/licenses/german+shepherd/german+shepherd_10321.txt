@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ian McDonnell
+Photo URL    : https://www.flickr.com/photos/ian_mcdonnell/16192933238/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 27 11:38:00 GMT+0100 2015
+Upload Date  : Tue Jan 27 15:09:41 GMT+0100 2015
+Views        : 131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Garron 377
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Garron gsd "German Shepherd Dog" "German Shepherd" 

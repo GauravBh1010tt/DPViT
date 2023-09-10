@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SdosRemedios
+Photo URL    : https://www.flickr.com/photos/sdosremedios/22519089028/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 20 07:08:32 GMT+0200 2015
+Upload Date  : Wed Nov 11 08:28:17 GMT+0100 2015
+Geotag Info  : Latitude:-17.861889, Longitude:25.136091
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sable Antelope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chobe National Park, Botswana
+
+
++--------+
+|  TAGS  |
++--------+
+"(c) Steven dosRemedios" "Africa 2015" "Chobe National Park" "Sable Antelope" "© Steven dosRemedios" 

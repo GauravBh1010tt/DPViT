@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lip Kee
+Photo URL    : https://www.flickr.com/photos/lipkee/23102526602/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 13 04:32:04 GMT+0200 2015
+Upload Date  : Wed Nov 18 15:14:13 GMT+0100 2015
+Geotag Info  : Latitude:-12.990556, Longitude:31.892500
+Views        : 194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+leopard CF2P0303
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

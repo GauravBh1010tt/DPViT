@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/5232131878/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 2 17:53:37 GMT+0200 2010
+Upload Date  : Sat Dec 4 18:52:18 GMT+0100 2010
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 24,333
+Comments     : 29
+
+
++---------+
+|  TITLE  |
++---------+
+Fluffy wolf lying comfortably
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The wolves of the zoo of Zürich are really looking nice, this one particularly much, maybe because (s)he is so fluffy. I also like the easy posture which makes a great animal photo! Thanks for posing so well, wolf! :D
+
+
++--------+
+|  TAGS  |
++--------+
+wolf canid canine dog mongolian lying posing looking straight zoo zürich switzerland nikon d300 zurich 

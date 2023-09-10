@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jphilleo
+Photo URL    : https://www.flickr.com/photos/dreadnought/2274925956/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 30 03:58:28 GMT+0200 2007
+Upload Date  : Mon Feb 18 18:07:53 GMT+0100 2008
+Views        : 96
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1221
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo "bison yellowstone" 

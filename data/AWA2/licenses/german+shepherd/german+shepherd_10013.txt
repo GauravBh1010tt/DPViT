@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 2Tales
+Photo URL    : https://www.flickr.com/photos/stigster/3882150509/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 26 13:16:34 GMT+0200 2005
+Upload Date  : Thu Sep 3 01:29:04 GMT+0200 2009
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+26_05_05 025
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wood nature Gopi "German shepherd" dog 

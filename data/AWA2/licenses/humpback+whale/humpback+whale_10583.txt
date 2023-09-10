@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paulcjones
+Photo URL    : https://www.flickr.com/photos/paulandbeth/2647831271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 7 14:28:43 GMT+0200 2008
+Upload Date  : Tue Jul 8 05:08:55 GMT+0200 2008
+Geotag Info  : Latitude:42.175617, Longitude:-69.186401
+Views        : 371
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3460
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My parents and I went whale watching and got some amazing closeup time with a mother and cub humpback whale!
+
+
++--------+
+|  TAGS  |
++--------+
+"whale watching" "July 2008" 

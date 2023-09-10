@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : y entonces
+Photo URL    : https://www.flickr.com/photos/estudiante/7367526884/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 9 18:01:02 GMT+0200 2012
+Upload Date  : Wed Jun 13 05:25:57 GMT+0200 2012
+Geotag Info  : Latitude:63.722055, Longitude:-149.216079
+Views        : 832
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This picture was taken through the window of the bus as it was driving.
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska "Denali National Park" wolf 

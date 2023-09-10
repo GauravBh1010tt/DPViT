@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kennethkonica
+Photo URL    : https://www.flickr.com/photos/littlebiglens/13788139793/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 3 23:58:27 GMT+0200 2012
+Upload Date  : Sat Apr 12 02:15:49 GMT+0200 2014
+Views        : 11,490
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+Almost Easter and the rabbit is ready.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Why did they choose a rabbit for the character of Bugs Bunny? What's up Doc?
+
+
++--------+
+|  TAGS  |
++--------+
+"rabbit, animal, eyes, animal eyes, green, grass, nature, ears, america, midwest, canon, indiana, indianapolis, usa, hoosiers, gray, spring, easter" 

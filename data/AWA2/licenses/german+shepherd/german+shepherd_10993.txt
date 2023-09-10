@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quiddle.
+Photo URL    : https://www.flickr.com/photos/quiddle/1429790775/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 14:30:04 GMT+0200 2007
+Upload Date  : Mon Sep 24 03:12:10 GMT+0200 2007
+Geotag Info  : Latitude:45.461500, Longitude:-84.589126
+Views        : 298
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Wet Arthur
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Arthur is pictured here waiting for me to say &quot;OK.&quot;  All he wants is to get back in the water.
+
+
++--------+
+|  TAGS  |
++--------+
+(null) michigan arthur dog "german shepherd" 

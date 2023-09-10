@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asw909
+Photo URL    : https://www.flickr.com/photos/asw909/7170466467/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 9 15:13:07 GMT+0200 2012
+Upload Date  : Sun Jun 10 00:16:13 GMT+0200 2012
+Geotag Info  : Latitude:51.848530, Longitude:-0.541484
+Views        : 292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Indian rhinoceros: Whipsnade Zoo: 09-June 2012
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Whipsnade Zoo "Indian rhinoceros" 

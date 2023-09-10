@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joenevill
+Photo URL    : https://www.flickr.com/photos/joenevill/4632938395/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 16 14:41:49 GMT+0200 2010
+Upload Date  : Mon May 24 00:05:13 GMT+0200 2010
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison - Yellowstone
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

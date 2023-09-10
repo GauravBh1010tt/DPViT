@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jacky Cowper
+Photo URL    : https://www.flickr.com/photos/30194078@N05/5438260397/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 12 14:48:30 GMT+0100 2011
+Upload Date  : Sat Feb 12 15:49:48 GMT+0100 2011
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P2121768
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

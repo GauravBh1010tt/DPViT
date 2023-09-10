@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mulligan Stu
+Photo URL    : https://www.flickr.com/photos/mulliganstu/8267334588/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 12 08:13:31 GMT+0200 2012
+Upload Date  : Wed Dec 12 16:34:37 GMT+0100 2012
+Views        : 1,964
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chengdu Panda Base - Giant Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Snack time!
+
+
++--------+
+|  TAGS  |
++--------+
+Chengdu "Sichuan Giant Panda Sanctuaries" "Chengdu Panda Base" "Giant Panda" China "UNESCO World Natural Heritage Site" UNESCO 

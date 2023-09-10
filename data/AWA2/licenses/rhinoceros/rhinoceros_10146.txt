@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asloane
+Photo URL    : https://www.flickr.com/photos/asloane/3455653595/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 11 14:43:55 GMT+0200 2009
+Upload Date  : Sun Apr 19 19:19:17 GMT+0200 2009
+Geotag Info  : Latitude:43.031223, Longitude:-88.039219
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Black Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at the Milwaukee County Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

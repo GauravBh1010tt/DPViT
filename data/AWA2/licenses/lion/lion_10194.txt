@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : socialBedia
+Photo URL    : https://www.flickr.com/photos/socialbedia/6200545609/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 25 13:32:20 GMT+0200 2011
+Upload Date  : Sat Oct 1 19:23:17 GMT+0200 2011
+Geotag Info  : Latitude:53.231779, Longitude:-2.891249
+Views        : 1,450
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hear Me Roar, Chester Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion roar "chester zoo" zoo animal 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rastapunk8
+Photo URL    : https://www.flickr.com/photos/24093464@N03/8991158402/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 2 15:42:58 GMT+0200 2013
+Upload Date  : Sun Jun 9 00:29:00 GMT+0200 2013
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

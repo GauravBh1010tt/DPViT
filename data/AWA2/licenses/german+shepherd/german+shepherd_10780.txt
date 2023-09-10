@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : khelvan
+Photo URL    : https://www.flickr.com/photos/khelvan/5251421392/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 11 14:25:44 GMT+0100 2010
+Upload Date  : Sat Dec 11 14:00:09 GMT+0100 2010
+Views        : 3,284
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sad German Shepherd.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Patiently waiting with his owner outside of the Ferry Building in San Francisco.
+
+
++--------+
+|  TAGS  |
++--------+
+"ferry building" "san francisco" "german shepherd" dog 

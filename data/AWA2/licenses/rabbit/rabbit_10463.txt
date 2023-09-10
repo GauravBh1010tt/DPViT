@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/4485685106/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 2 20:40:23 GMT+0200 2010
+Upload Date  : Sat Apr 3 03:03:46 GMT+0200 2010
+Geotag Info  : Latitude:31.823068, Longitude:-111.021555
+Views        : 528
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+golf course jack rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Raw jack rabbit "green valley" arizona bunny 

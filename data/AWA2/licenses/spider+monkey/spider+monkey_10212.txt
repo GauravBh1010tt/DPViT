@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chuck624
+Photo URL    : https://www.flickr.com/photos/chuck624/6831587563/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 24 15:21:47 GMT+0100 2012
+Upload Date  : Mon Feb 6 21:16:21 GMT+0100 2012
+Geotag Info  : Latitude:9.791956, Longitude:-84.918823
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

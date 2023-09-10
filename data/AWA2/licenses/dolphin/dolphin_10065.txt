@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wink_in_pink
+Photo URL    : https://www.flickr.com/photos/jwinks/492415585/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 7 00:06:10 GMT+0200 2007
+Upload Date  : Thu May 10 14:14:33 GMT+0200 2007
+Geotag Info  : Latitude:26.614313, Longitude:-78.535766
+Views        : 59
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bahamas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bahamas Dolphins 

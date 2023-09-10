@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AngelCole1
+Photo URL    : https://www.flickr.com/photos/angelcolewip/5791031178/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 28 12:48:39 GMT+0200 2011
+Upload Date  : Thu Jun 2 19:51:16 GMT+0200 2011
+Views        : 333
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+OKC Zoo 16
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rhino exhibit at the OKC Zoo.
+
+Photos taken with Nikon L110. Edited in Photoshop CS5.
+
+
++--------+
+|  TAGS  |
++--------+
+rhino rhinoceros "zoo Oklahoma OKC Zoo animal" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MossBeachPhotos
+Photo URL    : https://www.flickr.com/photos/130143064@N03/16268474839/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 19 15:49:44 GMT+0100 2015
+Upload Date  : Fri Feb 6 06:39:38 GMT+0100 2015
+Views        : 304
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Your Majesty
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Went to the zoo not too long ago, and this is one of my favorites I took there.
+
+
++--------+
+|  TAGS  |
++--------+
+SFZoo Lion 

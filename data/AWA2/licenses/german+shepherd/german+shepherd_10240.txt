@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : theogeo
+Photo URL    : https://www.flickr.com/photos/theogeo/2489034332/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 11 18:21:23 GMT+0200 2008
+Upload Date  : Tue May 13 08:17:59 GMT+0200 2008
+Views        : 348
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+duke
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog "german shepherd" tyler 

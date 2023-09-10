@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jaundicedferret
+Photo URL    : https://www.flickr.com/photos/jaundicedferret/14941911716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 31 13:04:10 GMT+0200 2014
+Upload Date  : Tue Aug 19 03:51:02 GMT+0200 2014
+Geotag Info  : Latitude:33.414586, Longitude:-117.671776
+Views        : 1,238
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin whalewatching 

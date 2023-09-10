@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : State Farm
+Photo URL    : https://www.flickr.com/photos/statefarm/8504695439/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 23 10:21:52 GMT+0100 2013
+Upload Date  : Mon Feb 25 03:12:06 GMT+0100 2013
+Geotag Info  : Latitude:41.853739, Longitude:-87.619593
+Views        : 1,769
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Search and Rescue German Shepherd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog canine K9 "dog show" "IKC of Chicago" "International Kennel Club" "State Farm" insurance 

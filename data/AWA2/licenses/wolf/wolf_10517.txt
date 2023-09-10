@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : deischi
+Photo URL    : https://www.flickr.com/photos/deischi/7388292246/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 17 17:24:41 GMT+0200 2012
+Upload Date  : Sun Jun 17 20:53:14 GMT+0200 2012
+Geotag Info  : Latitude:47.806708, Longitude:13.947436
+Views        : 661
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+im Wildpark Grünau
+
+
++--------+
+|  TAGS  |
++--------+
+Wolf Wildpark Grünau Tiere 

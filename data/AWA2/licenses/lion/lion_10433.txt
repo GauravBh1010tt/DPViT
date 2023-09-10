@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/5565772613/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 26 15:05:58 GMT+0100 2011
+Upload Date  : Mon Mar 28 02:12:14 GMT+0200 2011
+Geotag Info  : Latitude:42.305369, Longitude:-71.089098
+Views        : 7,503
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Roaring - Wide
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo boston lion roaring rock wide standing profile 

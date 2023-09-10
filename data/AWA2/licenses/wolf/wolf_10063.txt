@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : peupleloup
+Photo URL    : https://www.flickr.com/photos/peupleloup/3745350299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 20 13:31:25 GMT+0200 2009
+Upload Date  : Wed Jul 22 14:32:43 GMT+0200 2009
+Views        : 2,187
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Allure de loup
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ca s'apprend pas : sa façon de bouger est déjà celle d'un adulte, ou presque.
+
+
++--------+
+|  TAGS  |
++--------+
+loup louveteau wolf puppy 

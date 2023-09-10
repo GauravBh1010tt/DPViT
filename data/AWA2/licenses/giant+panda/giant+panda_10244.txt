@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Divik
+Photo URL    : https://www.flickr.com/photos/divik/2984470714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 27 09:28:35 GMT+0100 2008
+Upload Date  : Wed Oct 29 16:11:13 GMT+0100 2008
+Geotag Info  : Latitude:38.929702, Longitude:-77.051968
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giant panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

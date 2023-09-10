@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ChrisK4u
+Photo URL    : https://www.flickr.com/photos/chrisk4u/3870960814/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 30 16:29:41 GMT+0200 2009
+Upload Date  : Sun Aug 30 16:29:41 GMT+0200 2009
+Views        : 3,744
+Comments     : 70
+
+
++---------+
+|  TITLE  |
++---------+
+- I like this Sunday -
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://photorater.org/" rel="nofollow">Rate my photo</a>: <b><a href="http://photorater.org/?1" rel="nofollow">1</a> <a href="http://photorater.org/?2" rel="nofollow">2</a> <a href="http://photorater.org/?3" rel="nofollow">3</a> <a href="http://photorater.org/?4" rel="nofollow">4</a> <a href="http://photorater.org/?5" rel="nofollow">5</a> <a href="http://photorater.org/?6" rel="nofollow">6</a> <a href="http://photorater.org/?7" rel="nofollow">7</a> <a href="http://photorater.org/?8" rel="nofollow">8</a> <a href="http://photorater.org/?9" rel="nofollow">9</a> <a href="http://photorater.org/?10" rel="nofollow">10</a> </b>
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EOS 5D Mark II;" Canon; EOS; 5D; Mark2; "Mark II;" "Sigma 150mm 2.8 EX DG APO IF MAKRO;" Sigma150mm; EX; HSM; 150mm; 2.8; DG; IF; "close up;" "lazy dog;" sleeping; EMMA; "close to;" scary; relaxed; Österreich; austria; Kärnten; carinthia; ebenthal; dog; dogs; "having fun;" germansheppard schäferhund 

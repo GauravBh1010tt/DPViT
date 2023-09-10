@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/9449517437/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 29 07:17:36 GMT+0200 2013
+Upload Date  : Tue Aug 6 15:54:45 GMT+0200 2013
+Views        : 7,949
+Comments     : 41
+
+
++---------+
+|  TITLE  |
++---------+
+Mmmmmm , paw licking good :)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Happy Tongue Tuesday !
+
+
++--------+
+|  TAGS  |
++--------+
+cat paw tongue licking "Miss Truffles" Siamese "Happy Tongue Tuesday" 

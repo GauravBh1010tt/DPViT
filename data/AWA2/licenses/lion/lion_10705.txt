@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spamdangler
+Photo URL    : https://www.flickr.com/photos/justcallmehillsy/5050246107/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 27 07:30:37 GMT+0200 2010
+Upload Date  : Mon Oct 4 13:22:55 GMT+0200 2010
+Geotag Info  : Latitude:-34.194197, Longitude:21.637058
+Views        : 744
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lioness
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Garden Route Game Park" lion 

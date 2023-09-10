@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Micheal Evans
+Photo URL    : https://www.flickr.com/photos/mdeuk/10903819263/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 15 14:24:32 GMT+0100 2013
+Upload Date  : Sun Nov 17 14:09:24 GMT+0100 2013
+Views        : 8,071
+Comments     : 19
+
+
++---------+
+|  TITLE  |
++---------+
+Tigger is Very Photogenic
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tigger was rolling around on the floor after sitting in the sun for a few hours, I think he was too hot.. Either way, it made for some great photos.
+
+
++--------+
+|  TAGS  |
++--------+
+tigger cat feline pussy beautiful eyes poser siamese moggy fur nikon d7000 "Tamron 70 - 200 F2.8" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrea Schaffer
+Photo URL    : https://www.flickr.com/photos/aschaf/11625276693/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 29 10:43:45 GMT+0100 2013
+Upload Date  : Sun Dec 29 16:12:45 GMT+0100 2013
+Geotag Info  : Latitude:17.018563, Longitude:99.710502
+Views        : 6,306
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cuddles
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Came across these guys on the streets of Sukhothai, Thailand
+
+
++--------+
+|  TAGS  |
++--------+
+cat kitten sleeping cuddling siamese pair cute adorable napping hugging "old sukhothai" december 2013 thailand ประเทศไทย ราชอาณาจักรไทย สุโขทัย iphone 泰国 

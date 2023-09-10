@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jefe Le Gran
+Photo URL    : https://www.flickr.com/photos/jefelegran/4715571025/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 16 15:48:56 GMT+0200 2010
+Upload Date  : Sun Jun 20 05:07:24 GMT+0200 2010
+Geotag Info  : Latitude:9.151248, Longitude:-79.846916
+Views        : 364
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey eating lunch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Barro Colorado
+
+
++--------+
+|  TAGS  |
++--------+
+elissa 

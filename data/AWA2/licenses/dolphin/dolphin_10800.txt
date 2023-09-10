@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Javier Medina M.
+Photo URL    : https://www.flickr.com/photos/medinafjavier/10667736296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 3 13:36:48 GMT+0100 2013
+Upload Date  : Mon Nov 4 11:49:10 GMT+0100 2013
+Geotag Info  : Latitude:37.479217, Longitude:-0.992889
+Views        : 12,159
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Surfing Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Striped Dolphin near of Cartagena (Spain)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin defin "striped dolphin" "delfín listado" sea mar "mediterranean sea" "mar mediterraneo" cetáceos cetaceans "Minolta AF 70-210 F3.5-4.5" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Johann-Nikolaus Andreae
+Photo URL    : https://www.flickr.com/photos/jnandreae/3391286119/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 3 10:27:00 GMT+0200 2008
+Upload Date  : Sat Mar 28 11:32:59 GMT+0100 2009
+Geotag Info  : Latitude:53.949625, Longitude:10.034341
+Views        : 2,802
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tier Wolf "Wildpark Eekholt" "Canis Iupus" "Gray Wolf" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : styeb
+Photo URL    : https://www.flickr.com/photos/styeb/2477705154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 7 17:31:17 GMT+0200 2008
+Upload Date  : Fri May 9 05:44:49 GMT+0200 2008
+Geotag Info  : Latitude:43.153078, Longitude:5.939666
+Views        : 1,844
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Léopard des neiges
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"zoo faron" zoo faron snow leopard 

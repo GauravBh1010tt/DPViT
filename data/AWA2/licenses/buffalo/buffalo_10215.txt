@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tinyfroglet
+Photo URL    : https://www.flickr.com/photos/tinyfroglet/3180684478/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 26 16:43:42 GMT+0100 2008
+Upload Date  : Thu Jan 8 21:40:09 GMT+0100 2009
+Views        : 1,138
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Bison in Profile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Love this classic pose!
+
+Catalina Island, CA
+
+
++--------+
+|  TAGS  |
++--------+
+bison profile 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Drake Flickr
+Photo URL    : https://www.flickr.com/photos/johndrake45/6319393934/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 5 16:54:13 GMT+0100 2011
+Upload Date  : Sun Nov 6 19:34:41 GMT+0100 2011
+Views        : 3,375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"white wolf" "northwest wolf" 

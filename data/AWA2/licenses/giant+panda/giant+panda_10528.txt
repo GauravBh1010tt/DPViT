@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eschipul
+Photo URL    : https://www.flickr.com/photos/eschipul/109101634/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 6 14:56:39 GMT+0100 2006
+Upload Date  : Tue Mar 7 08:04:50 GMT+0100 2006
+Views        : 778
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Panda Bear - San Diego Zoo 2006
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+etech06 sandiego zoo pandabear panda animals cute california 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HBarrison
+Photo URL    : https://www.flickr.com/photos/hbarrison/7189772849/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 17 16:58:30 GMT+0200 2012
+Upload Date  : Fri Jun 15 17:36:06 GMT+0200 2012
+Geotag Info  : Latitude:-24.873355, Longitude:31.643371
+Views        : 550
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sabi_2012 05 17_0615
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Evening Game Drive  -  an impala (Aepyceros melampus), a medium-sized African antelope.
+
+
++--------+
+|  TAGS  |
++--------+
+Africa HBarrison "Harvey Barrison" Tauck "Sabi Sabi" "Kruger National Park" "South Africa" impala "Taxonomy:binomial=Aepyceros melampus" Taxonomy:binomial=Aepyceros melampus 

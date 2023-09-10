@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Frankzed
+Photo URL    : https://www.flickr.com/photos/frankzed/7245717660/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 21 11:44:13 GMT+0200 2012
+Upload Date  : Tue May 22 02:41:04 GMT+0200 2012
+Views        : 1,648
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+looking a bit like a dingo in this picture
+
+
++--------+
+|  TAGS  |
++--------+
+"Western Treatment Plant" "canon 400mm f5.6 L" "Canon Eos 7d" Fox 

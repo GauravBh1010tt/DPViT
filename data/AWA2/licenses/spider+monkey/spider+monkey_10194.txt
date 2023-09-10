@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tolomea
+Photo URL    : https://www.flickr.com/photos/tolomea/4305198396/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 24 13:41:19 GMT+0100 2010
+Upload Date  : Tue Jan 26 00:37:36 GMT+0100 2010
+Views        : 184
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I didn't know that they could use their tails to carrying things.
+
+
++--------+
+|  TAGS  |
++--------+
+taronga spider monkey zoo 

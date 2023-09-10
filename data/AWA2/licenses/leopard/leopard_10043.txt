@@ -1,0 +1,48 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lip Kee
+Photo URL    : https://www.flickr.com/photos/lipkee/8053897761/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 5 12:22:22 GMT+0200 2012
+Upload Date  : Thu Oct 4 17:37:01 GMT+0200 2012
+Geotag Info  : Latitude:-2.423135, Longitude:34.795074
+Views        : 1,241
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+African Leopard (Panthera pardus pardus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+She is probably marking her territory or leaving signals that she is coming into oestrous.
+Rather different from males  marking
+
+African Leopard 
+Panthera pardus pardus 
+
+Central Serengeti
+5th. September 2012
+
+
+
+
+
+CF2P3186
+
+
++--------+
+|  TAGS  |
++--------+
+"African Leopard" "Panthera pardus pardus" "Panthera pardus" 

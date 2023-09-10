@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 22Lauren
+Photo URL    : https://www.flickr.com/photos/29074894@N05/4733130811/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 11 11:46:29 GMT+0200 2010
+Upload Date  : Fri Jun 25 20:37:03 GMT+0200 2010
+Views        : 227
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Regal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+regal lion cute big zoo animals 

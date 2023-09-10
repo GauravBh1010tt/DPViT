@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gunn Shots (Mark Gunn)
+Photo URL    : https://www.flickr.com/photos/mark-gunn/14662493657/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 6 20:47:14 GMT+0200 2014
+Upload Date  : Thu Aug 7 05:48:11 GMT+0200 2014
+Views        : 2,803
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Solitary Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Found this guy on his own today in Yellowstone. More pics to come.
+
+
++--------+
+|  TAGS  |
++--------+
+"American Bison" Bison Yellowstone "Yellowstone National Park" 

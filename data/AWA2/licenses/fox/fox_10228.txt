@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ducklover Bonnie
+Photo URL    : https://www.flickr.com/photos/bonniesducks/4490910929/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 4 18:08:12 GMT+0200 2010
+Upload Date  : Mon Apr 5 01:58:00 GMT+0200 2010
+Geotag Info  : Latitude:43.644468, Longitude:-79.468939
+Views        : 11,320
+Comments     : 72
+
+
++---------+
+|  TITLE  |
++---------+
+Fox with dinner in central Toronto
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox carnivore "carrying his dinner" "Sunday night" "shot from the window of my car'" "Toronto is wild!'" streetside sidewalk "and busy road" AnAwesomeShot mywinners 

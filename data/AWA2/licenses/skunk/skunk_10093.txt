@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Lamb Family
+Photo URL    : https://www.flickr.com/photos/lambfamilyphotos/5066159938/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 5 15:01:38 GMT+0200 2009
+Upload Date  : Sun Oct 10 00:24:59 GMT+0200 2010
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Skunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

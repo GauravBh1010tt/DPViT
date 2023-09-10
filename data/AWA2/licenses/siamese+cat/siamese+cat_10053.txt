@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/8015354053/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 19 14:07:46 GMT+0200 2012
+Upload Date  : Sun Sep 23 15:09:46 GMT+0200 2012
+Views        : 3,778
+Comments     : 46
+
+
++---------+
+|  TITLE  |
++---------+
+When you're down ~ ~ ~  Look Up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<b>Explore # 352 for Sept. 23 , 2012</b>
+Wishing you a Blessed and Peaceful Sunday  !
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese "Miss Truffles" look up 

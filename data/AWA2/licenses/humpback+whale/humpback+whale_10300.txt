@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlexanderVisuals
+Photo URL    : https://www.flickr.com/photos/justalexanders/2730203470/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 15 17:53:21 GMT+0100 2007
+Upload Date  : Mon Aug 4 01:42:12 GMT+0200 2008
+Geotag Info  : Latitude:20.871162, Longitude:-156.678600
+Views        : 198
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hawaii
+
+Maui, Spring 2007
+
+
++--------+
+|  TAGS  |
++--------+
+Humpback Whales Maui Hawaii 

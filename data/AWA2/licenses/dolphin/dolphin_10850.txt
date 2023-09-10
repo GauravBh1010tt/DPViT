@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Seapicture
+Photo URL    : https://www.flickr.com/photos/vanbockelbenny/6542676363/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 16 13:41:18 GMT+0100 2011
+Upload Date  : Tue Dec 20 10:17:11 GMT+0100 2011
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_DSC3793
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dolphin dolfijn animal 

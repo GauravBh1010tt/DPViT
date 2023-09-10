@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yamataka
+Photo URL    : https://www.flickr.com/photos/yama-taka/5990236291/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 30 14:48:32 GMT+0200 2011
+Upload Date  : Sat Jul 30 16:39:36 GMT+0200 2011
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN0824
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ひろしまジン大学 安佐動物公園 zoo "asa zoo" "Black rhinoceros" クロサイ 

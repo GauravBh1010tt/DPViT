@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kathleen Tyler Conklin
+Photo URL    : https://www.flickr.com/photos/ktylerconk/2066899905/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 19:50:12 GMT+0200 2007
+Upload Date  : Tue Nov 27 03:25:21 GMT+0100 2007
+Views        : 2,878
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherd and kitty
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"German shepherd" cat chien chat "Canal du midi" ktylerconk july 2007 dog france 

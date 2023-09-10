@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VicBurolla
+Photo URL    : https://www.flickr.com/photos/38275642@N07/3528820799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 1 00:00:00 GMT+0200 2002
+Upload Date  : Wed May 13 23:55:03 GMT+0200 2009
+Geotag Info  : Latitude:-3.176853, Longitude:35.576477
+Views        : 320
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Juvenile African Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This juvenile is walking across a dried watering hole in Ngorongoro Crater Park, Tanzania - Aug 2002
+
+
++--------+
+|  TAGS  |
++--------+
+"taxonomy:binomial=panthera leo" 

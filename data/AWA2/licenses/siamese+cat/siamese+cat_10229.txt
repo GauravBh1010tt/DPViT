@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : trickypink
+Photo URL    : https://www.flickr.com/photos/trickypink/2759734719/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 4 15:35:25 GMT+0200 2008
+Upload Date  : Wed Aug 13 19:40:19 GMT+0200 2008
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bagheera
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+oriental siamese "black cat" 

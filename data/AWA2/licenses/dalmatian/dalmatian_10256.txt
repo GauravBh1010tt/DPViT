@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : digital_target
+Photo URL    : https://www.flickr.com/photos/digital_target/2839907417/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 6 14:45:08 GMT+0200 2008
+Upload Date  : Mon Sep 8 20:48:41 GMT+0200 2008
+Geotag Info  : Latitude:-22.778476, Longitude:-41.912240
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dalmata 

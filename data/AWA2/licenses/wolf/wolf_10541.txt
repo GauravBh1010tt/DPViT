@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lawrence Harman
+Photo URL    : https://www.flickr.com/photos/7622989@N04/14043651013/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 11 14:32:15 GMT+0200 2014
+Upload Date  : Sat Apr 26 22:14:12 GMT+0200 2014
+Geotag Info  : Latitude:51.775003, Longitude:-1.653453
+Views        : 306
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2014 Oxfordshire animal "canon 600d" "cotswold wildlife park" dog england fur grass uk wolf zoo 

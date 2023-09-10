@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dragonfly!
+Photo URL    : https://www.flickr.com/photos/dragonfly50/2897915819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 19 06:30:21 GMT+0200 2008
+Upload Date  : Mon Sep 29 14:20:05 GMT+0200 2008
+Views        : 32
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+T.50
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

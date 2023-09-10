@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marsupium photography
+Photo URL    : https://www.flickr.com/photos/hagdorned/16021700390/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 5 14:49:09 GMT+0100 2015
+Upload Date  : Mon Jan 5 23:39:50 GMT+0100 2015
+Geotag Info  : Latitude:55.943722, Longitude:-3.271475
+Views        : 355
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+relaxed Tian Tian
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Edinburgh RZSS Scotland Zoo panda 

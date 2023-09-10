@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kasio69
+Photo URL    : https://www.flickr.com/photos/kasio69/9571718776/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 11 18:37:08 GMT+0200 2013
+Upload Date  : Thu Aug 22 19:04:39 GMT+0200 2013
+Views        : 952
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_BRK0662a Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Mendenhall Glacier "Mendenhall Glacier" Juneau Alaska Humpback whale "Humpback Whale" Seal sea lion "The Last Frontier" kasio69 

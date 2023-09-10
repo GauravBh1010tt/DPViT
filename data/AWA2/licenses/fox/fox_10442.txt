@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/7931687750/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 10:37:37 GMT+0200 2012
+Upload Date  : Tue Sep 4 21:00:27 GMT+0200 2012
+Geotag Info  : Latitude:47.107873, Longitude:8.262104
+Views        : 4,689
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Nice attentive fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Again, a shot of the pretty but old vixen of the Toni's zoo... She was looking quite attentive!
+
+
++--------+
+|  TAGS  |
++--------+
+attentive pretty vegetation red fox canine canid female vixen cute "tonis zoo" zoo rothenburg lucerne luzern switzerland nikon d700 

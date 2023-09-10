@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/11069232925/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 19 09:02:07 GMT+0100 2013
+Upload Date  : Tue Nov 26 17:04:43 GMT+0100 2013
+Geotag Info  : Latitude:-18.620709, Longitude:24.069802
+Views        : 2,724
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Löwen / Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Löwen im Savuti Game Reserve (Chobe-Nationalpark, Botswana).
+
+Lions in the Savuti Game Reserve (Chobe National Park, Botswana).
+
+
++--------+
+|  TAGS  |
++--------+
+Botswana "Chobe National Park" Lion Lioness Lions Löwe Löwen Löwin "Panthera leo" "Savute Game Reserve" "Savute Safari Lodge" Savuti "Wild Feline Photography" Wildlife Nordwest Botsuana Savute "Savuti Marsh" "Savuti Game Reserve" "Savuti Channel" "Desert & Delta Safaris" "Elangeni African Adventures" 

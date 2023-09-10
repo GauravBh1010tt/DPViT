@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StevoKebabo
+Photo URL    : https://www.flickr.com/photos/16927804@N07/7132259891/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 1 08:28:56 GMT+0200 2012
+Upload Date  : Tue May 1 17:52:20 GMT+0200 2012
+Geotag Info  : Latitude:51.383727, Longitude:0.068836
+Views        : 20,287
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Oops, I woke up the Fox asleep by my backdoor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This fox found a spot in the sun next to my back door.  He was there for a good hour.  Every now and then he would sit up and look at me a few metres away, and then promptly go straight back to sleep without a care in the world.
+
+
++--------+
+|  TAGS  |
++--------+
+Fox 

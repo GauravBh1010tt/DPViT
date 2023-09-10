@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Daren N
+Photo URL    : https://www.flickr.com/photos/darenn/4255461338/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 5 07:14:47 GMT+0100 2009
+Upload Date  : Fri Jan 8 01:10:10 GMT+0100 2010
+Views        : 267
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Biff (Dragonheart Real Charmer)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Biff in the snow Feb 2009
+
+
++--------+
+|  TAGS  |
++--------+
+Biff Dog GSD Alsation Snow "German Shepherd" 

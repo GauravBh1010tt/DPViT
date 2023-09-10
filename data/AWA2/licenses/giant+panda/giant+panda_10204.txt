@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steph.clifford
+Photo URL    : https://www.flickr.com/photos/30486689@N08/2995104165/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 1 15:14:18 GMT+0100 2008
+Upload Date  : Sun Nov 2 17:32:19 GMT+0100 2008
+Views        : 496
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giant Panda - Smithsonian National Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+national zoo smithsonian zoological park giant panda washington dc 

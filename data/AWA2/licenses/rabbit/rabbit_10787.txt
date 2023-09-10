@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marabuchi
+Photo URL    : https://www.flickr.com/photos/79493961@N00/8890234862/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 29 16:03:33 GMT+0200 2013
+Upload Date  : Thu May 30 14:47:10 GMT+0200 2013
+Views        : 247
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit Portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

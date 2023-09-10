@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gurdonark
+Photo URL    : https://www.flickr.com/photos/46183897@N00/8031364360/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 28 03:13:08 GMT+0200 2012
+Upload Date  : Fri Sep 28 02:36:45 GMT+0200 2012
+Views        : 1,350
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+side yard rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+september 27 2012, landsford drive, allen, texas 6:45 p.m.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny still autumn allen texas cottontail wildlife 

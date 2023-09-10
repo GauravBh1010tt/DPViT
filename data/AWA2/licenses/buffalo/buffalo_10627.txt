@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mandleicious
+Photo URL    : https://www.flickr.com/photos/mandelicious/3978822352/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 4 02:12:27 GMT+0200 2009
+Upload Date  : Sun Oct 4 03:03:55 GMT+0200 2009
+Views        : 757
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+gaur in tea plantation
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+gaur in the tea plantation
+
+
++--------+
+|  TAGS  |
++--------+
+gaur bison tea india 

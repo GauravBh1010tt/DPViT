@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ShanMcG213
+Photo URL    : https://www.flickr.com/photos/shan213/9034273334/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 4 15:17:38 GMT+0200 2013
+Upload Date  : Thu Jun 13 16:20:24 GMT+0200 2013
+Views        : 306
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cattle? Buffalo? Bison? BEEFALO!!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+400+ Beefalo roam the meadows near the North Rim Grand Canyon entrace
+
+
++--------+
+|  TAGS  |
++--------+
+Arizona "Road Trip" 

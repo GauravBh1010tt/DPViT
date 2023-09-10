@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Traveloscopy
+Photo URL    : https://www.flickr.com/photos/rodeime/14324361123/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 28 12:20:03 GMT+0200 2014
+Upload Date  : Fri May 30 11:37:28 GMT+0200 2014
+Views        : 339
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+China Panda bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+source/credit: Scenic Tours
+
+This image has been supplied to <a href="http://www.traveloscopy.com" rel="nofollow">www.traveloscopy.com</a> on the understanding it is
+copyright released and/or royalty free.
+
+
++--------+
+|  TAGS  |
++--------+
+PR travel China Chengdu 

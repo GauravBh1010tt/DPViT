@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : minicooper93402
+Photo URL    : https://www.flickr.com/photos/minicooper93402/5917224954/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 7 11:46:34 GMT+0200 2011
+Upload Date  : Sat Jul 9 02:35:01 GMT+0200 2011
+Views        : 3,111
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+humpback  whale - nicks, scars and scratches
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+this is the surface of a humpback  whale ... covered in marks from who-knows-what that it rubbed against.  i think i see my initial (D) down at the bottom :-)
+
+
++--------+
+|  TAGS  |
++--------+
+"humpback whale" nicks scars scratches 

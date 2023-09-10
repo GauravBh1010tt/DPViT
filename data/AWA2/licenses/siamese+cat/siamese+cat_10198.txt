@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photosoflessthanamazingjourneys
+Photo URL    : https://www.flickr.com/photos/photosoflessthanamazingjourneys/2447026417/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 17 16:46:31 GMT+0200 2008
+Upload Date  : Mon Apr 28 03:40:33 GMT+0200 2008
+Geotag Info  : Latitude:41.805485, Longitude:-97.773706
+Views        : 339
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_2318x
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat Siamese 

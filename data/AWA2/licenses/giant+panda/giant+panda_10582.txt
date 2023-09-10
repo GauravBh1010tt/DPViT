@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ragesoss
+Photo URL    : https://www.flickr.com/photos/ragesoss/7250847654/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 3 15:44:07 GMT+0200 2012
+Upload Date  : Tue May 22 21:17:29 GMT+0200 2012
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+panda lunch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

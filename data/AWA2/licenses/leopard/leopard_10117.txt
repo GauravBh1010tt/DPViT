@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Graham S Dean Photography
+Photo URL    : https://www.flickr.com/photos/britanglishman/6904190251/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 17 13:02:49 GMT+0100 2012
+Upload Date  : Sun Feb 19 19:36:32 GMT+0100 2012
+Geotag Info  : Latitude:51.863018, Longitude:0.835650
+Views        : 474
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Colchester Zoo -5.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2012 Amur Colchester Leopard Wildlife Zoo animals 

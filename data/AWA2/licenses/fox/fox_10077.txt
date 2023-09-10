@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/17741309190/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 16:21:13 GMT+0200 2015
+Upload Date  : Thu May 21 13:01:53 GMT+0200 2015
+Geotag Info  : Latitude:42.462697, Longitude:-71.093636
+Views        : 1,447
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Arctic Fox Resting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Starting to lose its winter fur, but still white and fluffy
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo massachusetts arctic fox spring white fluffy 

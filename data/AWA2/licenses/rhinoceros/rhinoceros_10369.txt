@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/6665025903/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 8 13:18:58 GMT+0100 2012
+Upload Date  : Mon Jan 9 06:54:12 GMT+0100 2012
+Geotag Info  : Latitude:33.098140, Longitude:-116.999373
+Views        : 307
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino Son 3352
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Baby&quot; rhino: 1400 lbs. Calcifer has some growing to do.
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" "zoo safari park" "wild animal park" zoo rhino rhinoceros black 

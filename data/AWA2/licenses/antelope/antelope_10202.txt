@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/7848214560/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 17 09:54:27 GMT+0200 2012
+Upload Date  : Fri Aug 24 04:08:26 GMT+0200 2012
+Geotag Info  : Latitude:44.877906, Longitude:-110.216274
+Views        : 395
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison and pronghorn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone Wyoming USA National Park taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Cetartiodactyla Cetartiodactyla taxonomy:family=Antilocapridae Antilocapridae taxonomy:genus=Antilocapra Antilocapra taxonomy:species=americana "taxonomy:binomial=Antilocapra americana" Pronghorn "Antilocapra americana" Berrendo "Mexican Pronghorn" Antilocapre "Antilope Am" taxonomy:common=Pronghorn taxonomy:common=Berrendo "taxonomy:common=Mexican Pronghorn" taxonomy:common=Antilocapre "taxonomy:common=Antilope Am" 

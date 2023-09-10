@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/20038261512/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 5 21:18:17 GMT+0200 2015
+Upload Date  : Mon Jul 27 08:00:15 GMT+0200 2015
+Geotag Info  : Latitude:47.357272, Longitude:8.626037
+Views        : 4,366
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eating young wild fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is one of the foxes who come to my GFs garden a young male, and yes, she gives him cat food!
+
+
++--------+
+|  TAGS  |
++--------+
+walking profile eating "cat food" bush grass male young fox wild wildlife canid canine evening dark binz switzerland nikon d4 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Laenulfean
+Photo URL    : https://www.flickr.com/photos/laenulfean/436191540/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 25 14:31:51 GMT+0200 2007
+Upload Date  : Tue Mar 27 10:13:12 GMT+0200 2007
+Views        : 12,829
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+this wolf was looking at his pack, they were going to eat soon. very nice animal. 
+getting these animals into good focus was very difficult, they were constantly moving around... but i like the pose!
+
+
++--------+
+|  TAGS  |
++--------+
+wolf animal standing pose 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : simongreenuk
+Photo URL    : https://www.flickr.com/photos/simongreen_uk/2473523650/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 5 17:37:38 GMT+0200 2008
+Upload Date  : Wed May 7 12:58:56 GMT+0200 2008
+Geotag Info  : Latitude:51.347110, Longitude:-1.142760
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+142
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bunny "Ramsdell Close" Tadley rabbit 

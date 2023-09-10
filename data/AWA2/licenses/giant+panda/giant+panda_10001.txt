@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : palebluejen
+Photo URL    : https://www.flickr.com/photos/b9punk/8765907888/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 26 01:49:36 GMT+0100 2010
+Upload Date  : Tue May 21 11:41:47 GMT+0200 2013
+Geotag Info  : Latitude:39.939200, Longitude:116.333100
+Views        : 597
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_C266042 - Version 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Beijing Zoo animals - panda bear
+
+
++--------+
+|  TAGS  |
++--------+
+animal animals bear panda zoo 

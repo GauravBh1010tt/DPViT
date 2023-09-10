@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MachMan LLP
+Photo URL    : https://www.flickr.com/photos/machmanllp/5742778484/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 20 19:09:15 GMT+0200 2011
+Upload Date  : Sat May 21 13:22:00 GMT+0200 2011
+Geotag Info  : Latitude:51.480313, Longitude:0.005010
+Views        : 698
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Dinner time
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Fox Foxes "Fox cub" cub feeding suckling Top20foxes 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Leogirly4life
+Photo URL    : https://www.flickr.com/photos/sugarpuss4ever/1197549155/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 2 08:12:44 GMT+0200 2006
+Upload Date  : Thu Jun 15 17:12:43 GMT+0200 2006
+Views        : 275
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A rabbit behind my dads house
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

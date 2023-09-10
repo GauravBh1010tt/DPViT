@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gellscom
+Photo URL    : https://www.flickr.com/photos/gellscom/21375813345/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 13 00:04:26 GMT+0200 2015
+Upload Date  : Sun Sep 13 09:19:12 GMT+0200 2015
+Views        : 145
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox Cub
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Fox "Gerry Machen" Mamal Wildlife gellscom 

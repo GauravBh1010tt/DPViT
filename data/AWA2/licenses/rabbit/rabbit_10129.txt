@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregTheBusker
+Photo URL    : https://www.flickr.com/photos/gregthebusker/5797426111/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 17 07:59:01 GMT+0200 2011
+Upload Date  : Sat Jun 4 23:37:16 GMT+0200 2011
+Geotag Info  : Latitude:37.434777, Longitude:-122.094776
+Views        : 1,146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Black-tailed Jackrabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+California 2011 May Black-tailed Jackrabbit black tailed jack rabbit 

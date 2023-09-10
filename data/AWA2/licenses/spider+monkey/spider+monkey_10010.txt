@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ks_focalpoint
+Photo URL    : https://www.flickr.com/photos/kentonsmith/4992141768/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 28 15:49:07 GMT+0200 2010
+Upload Date  : Wed Sep 15 05:09:38 GMT+0200 2010
+Geotag Info  : Latitude:51.044847, Longitude:-114.034395
+Views        : 147
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Afternoon Snack
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spider Monkey
+
+
++--------+
+|  TAGS  |
++--------+
+animals "calgary zoo" monkeys "spider monkey" calgary zoos primates 

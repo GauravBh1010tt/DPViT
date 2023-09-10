@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : michelbernierphotography
+Photo URL    : https://www.flickr.com/photos/121914523@N05/13539643873/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 16 22:55:15 GMT+0100 2012
+Upload Date  : Mon Mar 31 17:52:53 GMT+0200 2014
+Views        : 2,179
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Alert
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Our family dog, Missy. Taken on Lake Minisinakwa, in Gogama, ON.
+
+
++--------+
+|  TAGS  |
++--------+
+german shepherd macro aperture wet snow winter ontario canada alert pup dog 

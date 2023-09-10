@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : -JvL-
+Photo URL    : https://www.flickr.com/photos/-jvl-/15303430088/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 21 16:20:25 GMT+0200 2014
+Upload Date  : Thu Oct 9 22:27:27 GMT+0200 2014
+Geotag Info  : Latitude:51.520813, Longitude:5.111733
+Views        : 188
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceroces
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A group of rhinos on the grass of Safari park Beekse Bergen
+
+
++--------+
+|  TAGS  |
++--------+
+"Beekse Bergen" Neushoorn Rhino Rhinoceros "Safari Park" Hilvarenbeek Noord-Brabant Nederland 

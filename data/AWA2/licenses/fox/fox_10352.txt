@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Sheerman-Chase
+Photo URL    : https://www.flickr.com/photos/tim_uk/8029834591/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 27 15:38:13 GMT+0200 2012
+Upload Date  : Thu Sep 27 16:52:46 GMT+0200 2012
+Geotag Info  : Latitude:51.248216, Longitude:-0.602831
+Views        : 441
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Garden Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+urban wildlife "taxonomy:binomial=Vulpes vulpes" 

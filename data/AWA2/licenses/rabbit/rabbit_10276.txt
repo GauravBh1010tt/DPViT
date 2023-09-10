@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chefranden
+Photo URL    : https://www.flickr.com/photos/chefranden/210404933/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 8 15:10:03 GMT+0200 2006
+Upload Date  : Tue Aug 8 23:46:15 GMT+0200 2006
+Views        : 4,724
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Caught in the Open
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This baby bunny froze out in plain site in my garden so I could take a picture.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit mammal rodent bunny baby cute garden 

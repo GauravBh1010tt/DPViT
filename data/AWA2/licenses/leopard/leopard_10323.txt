@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : antti.keskitalo
+Photo URL    : https://www.flickr.com/photos/keskitalo/2183146305/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 13 08:17:52 GMT+0100 2007
+Upload Date  : Thu Jan 10 21:16:41 GMT+0100 2008
+Views        : 685
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Namibia
+
+
++--------+
+|  TAGS  |
++--------+
+leopard cat caturday CC animals 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lyndi&Jason
+Photo URL    : https://www.flickr.com/photos/citnaj/1704128013/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 23 03:25:50 GMT+0200 2007
+Upload Date  : Tue Oct 23 09:25:50 GMT+0200 2007
+Views        : 2,572
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+panda.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Panda at the San Diego Zoo
+
+<a href="http://www.wegotocoolplaces.com" rel="nofollow">www.wegotocoolplaces.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+2007 san diego zoo panda bamboo 

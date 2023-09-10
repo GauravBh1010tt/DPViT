@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James Willamor
+Photo URL    : https://www.flickr.com/photos/bz3rk/9404067160/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 27 03:06:52 GMT+0200 2013
+Upload Date  : Tue Jul 30 21:27:13 GMT+0200 2013
+Geotag Info  : Latitude:35.817500, Longitude:-78.539667
+Views        : 569
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Neuse River Greenway
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Neuse River greenway trail nature outdoors Raleigh Wake county city park water NC "North Carolina" capital area 

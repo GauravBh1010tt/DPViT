@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8240761658/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 16:13:11 GMT+0200 2012
+Upload Date  : Mon Dec 3 06:39:51 GMT+0100 2012
+Geotag Info  : Latitude:47.547277, Longitude:7.578163
+Views        : 2,212
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Pink paw
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This young female rhinoceros, who is about two years old, has a nice distinguishing mark: a big portion of her left front paw lacks pigments and is therefore pink!
+
+
++--------+
+|  TAGS  |
++--------+
+thinoceros rhino big young female rock paw pink trait pigment basel zoo zolli switzerland nikon d4 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Helga Weber
+Photo URL    : https://www.flickr.com/photos/helga/2464000206/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 4 17:03:44 GMT+0200 2008
+Upload Date  : Sun May 4 11:03:44 GMT+0200 2008
+Geotag Info  : Latitude:14.607754, Longitude:121.021099
+Views        : 3,258
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+05.04.08 - two kitties
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Excuse the water stains on the wall behind me.
+
+Excuse my face, too. It's 5pm on a Sunday and I haven't showered nor eaten the whole day.
+
+
++--------+
+|  TAGS  |
++--------+
+cats siamese kittycat kitten helga self-portrait selfie 

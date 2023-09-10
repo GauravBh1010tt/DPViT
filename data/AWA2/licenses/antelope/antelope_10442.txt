@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joris Leermakers
+Photo URL    : https://www.flickr.com/photos/leermakers/2521352966/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 18 14:19:02 GMT+0200 2008
+Upload Date  : Sun May 25 16:07:13 GMT+0200 2008
+Geotag Info  : Latitude:-2.646763, Longitude:35.084838
+Views        : 79
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hartebeest
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Safari Tanzania Serengeti 

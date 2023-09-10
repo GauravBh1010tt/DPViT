@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/24147092461/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 23 15:07:57 GMT+0100 2015
+Upload Date  : Thu Jan 7 15:26:18 GMT+0100 2016
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Antelope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" "Hoedspruit Endangered Species Centre" antelope 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Murphy1703
+Photo URL    : https://www.flickr.com/photos/davemurphy/2584934812/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 15 13:45:20 GMT+0200 2008
+Upload Date  : Mon Jun 16 20:23:23 GMT+0200 2008
+Views        : 127
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://creativecommons.org/licenses/by-nd/2.0/uk/" rel="nofollow"></a>This
+ work by Dave Murphy is licensed under a <a href="http://creativecommons.org/licenses/by-nd/2.0/uk/" rel="nofollow">Creative
+ Commons Attribution-No Derivative Works 2.0 UK: England &amp; Wales
+ License</a>.Based on a work at <a href="http://www.flickr.com/photos/davemurphy/">www.flickr.com/photos/davemurphy/</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+Wildlife Linton Zoo Animals Snow Leopard 

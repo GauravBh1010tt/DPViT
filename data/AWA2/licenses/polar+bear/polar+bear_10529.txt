@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Yvonne in Willowick Ohio
+Photo URL    : https://www.flickr.com/photos/yvonne_n_1968/543731106/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 10 12:04:59 GMT+0200 2007
+Upload Date  : Sun Jan 4 12:12:00 GMT+0100 2009
+Views        : 923
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cincinnati Zoo 01/04/09 

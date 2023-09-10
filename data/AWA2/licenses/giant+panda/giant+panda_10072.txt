@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Su--May
+Photo URL    : https://www.flickr.com/photos/su-may/6131763311/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 5 01:08:01 GMT+0200 2011
+Upload Date  : Sat Sep 10 07:56:49 GMT+0200 2011
+Views        : 464
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cheng Du Panda Base
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+18 months old
+
+
++--------+
+|  TAGS  |
++--------+
+"China Cheng Du Panda Base" 2011 

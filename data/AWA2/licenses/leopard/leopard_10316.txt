@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James Temple
+Photo URL    : https://www.flickr.com/photos/jamestemple/312325782/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 2 22:54:38 GMT+0100 2006
+Upload Date  : Sat Dec 2 23:54:38 GMT+0100 2006
+Geotag Info  : Latitude:-24.661994, Longitude:31.486816
+Views        : 252
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sabi Sands" "South Africa" Wildlife Leopard 

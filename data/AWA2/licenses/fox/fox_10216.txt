@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hatchibombotar
+Photo URL    : https://www.flickr.com/photos/hatchibombotar/4475592647/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 19 10:11:03 GMT+0100 2010
+Upload Date  : Tue Mar 30 14:59:35 GMT+0200 2010
+Views        : 8,089
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Fox on our fence
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This fox came to visit us in our backyard during a spring snowstorm. He's sitting on top of a fence, putting him at just the right height for me to take his portrait.
+
+
++--------+
+|  TAGS  |
++--------+
+fox coloradosprings snow 

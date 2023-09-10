@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ibm4381
+Photo URL    : https://www.flickr.com/photos/j_benson/3631569865/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 15 06:34:48 GMT+0200 2009
+Upload Date  : Tue Jun 16 13:32:17 GMT+0200 2009
+Views        : 1,786
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Close encounters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+of the rabitty kind.  A lot of predators have motion detection hardware in their visual systems.  Not that they can't see things that are standing still, or your cat wouldn't be able to jump up on the couch.  But things which move against a static background stand out much more strongly.  That may explain the bunny strategy of freezing in place.  As long as I stayed put, so did the rabbit.  When I tired of the game and moved forward, the critter disappeared.
+
+
++--------+
+|  TAGS  |
++--------+
+owen park madison rabbit "Canon EF 400mm F4 DO IS USM" "800mm hand held" 

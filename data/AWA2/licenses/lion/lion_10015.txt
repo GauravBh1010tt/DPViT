@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OnTask
+Photo URL    : https://www.flickr.com/photos/ontask/8325982949/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 25 13:00:22 GMT+0200 2004
+Upload Date  : Sun Dec 30 20:12:14 GMT+0100 2012
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+50
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion magazine clipping scrapbook 

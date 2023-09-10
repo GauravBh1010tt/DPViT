@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hiasinho
+Photo URL    : https://www.flickr.com/photos/derwebhirsch/4020079507/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 23 08:53:49 GMT+0200 2009
+Upload Date  : Sun Oct 18 01:32:36 GMT+0200 2009
+Geotag Info  : Latitude:-19.266748, Longitude:23.603439
+Views        : 10,883
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Some leopard I spotted on my last trip to botswana.
+
+
++--------+
+|  TAGS  |
++--------+
+leopard moremi botswana africa bushways safari game animal 

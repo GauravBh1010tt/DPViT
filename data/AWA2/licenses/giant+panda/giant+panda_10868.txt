@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : greggoconnell
+Photo URL    : https://www.flickr.com/photos/greggoconnell/146912493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 15 01:43:12 GMT+0200 2006
+Upload Date  : Mon May 15 16:31:25 GMT+0200 2006
+Views        : 2,639
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Waving Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hello (Wave)
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" california "san diego zoo" 2006 animals wave "Waving panda" panda 

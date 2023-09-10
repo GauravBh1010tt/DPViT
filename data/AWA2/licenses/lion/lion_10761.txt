@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : crschmidt
+Photo URL    : https://www.flickr.com/photos/crschmidt/2936392604/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 7 08:32:14 GMT+0200 2008
+Upload Date  : Mon Oct 13 01:22:30 GMT+0200 2008
+Views        : 3,224
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A couple lions I came across sitting in the middle of the road heading north to Satara.
+
+
++--------+
+|  TAGS  |
++--------+
+2008 10 7 kruger lion 

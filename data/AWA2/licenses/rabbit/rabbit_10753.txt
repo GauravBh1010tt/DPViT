@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sukwendo
+Photo URL    : https://www.flickr.com/photos/sukwendo/4918437843/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 22 18:43:43 GMT+0200 2010
+Upload Date  : Mon Aug 23 06:26:39 GMT+0200 2010
+Views        : 1,959
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My favourite of the rabbit pictures.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit 

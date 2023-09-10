@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Somma
+Photo URL    : https://www.flickr.com/photos/ideonexus/4313734778/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 00:02:47 GMT+0100 1980
+Upload Date  : Fri Jan 29 12:51:37 GMT+0100 2010
+Views        : 246
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison bison
+
+
++--------+
+|  TAGS  |
++--------+
+American Bison 

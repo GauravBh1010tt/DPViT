@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/3812165695/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 1 00:00:00 GMT+0100 1975
+Upload Date  : Tue Aug 11 23:49:06 GMT+0200 2009
+Geotag Info  : Latitude:43.817343, Longitude:-79.190740
+Views        : 162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard Washing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Toronto Zoo" Ontario Slide 

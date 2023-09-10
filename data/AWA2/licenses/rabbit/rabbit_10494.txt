@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/2646340747/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 5 13:23:23 GMT+0200 2008
+Upload Date  : Mon Jul 7 20:52:32 GMT+0200 2008
+Geotag Info  : Latitude:38.744736, Longitude:-78.294121
+Views        : 3,180
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+...Hoppin' down the Appalachian Trail...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I am pretty sure that this is an Appalachian Cottontail   - If someone could confirm or refute this identification, please do so.
+I'll post more pictures soon
+
+
++--------+
+|  TAGS  |
++--------+
+"appalachian Trail" bunny rabbit cute friendly wildlife "Shenandoah National Park" Camping hiking Virginia "North District" "Rappahanock County" outdoors "Sylvilagus obscurus" "Appalachian cottontail" PhotoContest-TNC09 

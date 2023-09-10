@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/14997961605/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 13 11:12:50 GMT+0200 2014
+Upload Date  : Fri Aug 22 13:00:25 GMT+0200 2014
+Geotag Info  : Latitude:9.780452, Longitude:-84.602880
+Views        : 176
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"costa rica" carara monkey 

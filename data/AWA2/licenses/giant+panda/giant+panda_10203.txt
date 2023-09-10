@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ganksy
+Photo URL    : https://www.flickr.com/photos/blairgannon/14590694385/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 7 13:04:11 GMT+0200 2013
+Upload Date  : Sun Jul 6 23:55:43 GMT+0200 2014
+Views        : 1,730
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Giant Panda - Er Shun
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Toronto Zoo" Zoo Panda "Giant Panda" "Er Shun" Bear 

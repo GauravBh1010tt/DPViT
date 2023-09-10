@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tpavel
+Photo URL    : https://www.flickr.com/photos/tpavel/946566681/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 17:04:43 GMT+0200 2007
+Upload Date  : Mon Jul 30 06:29:00 GMT+0200 2007
+Geotag Info  : Latitude:37.733525, Longitude:-122.504167
+Views        : 592
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+006
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+White fur is so tough to keep clean...
+
+
++--------+
+|  TAGS  |
++--------+
+zoo bear 

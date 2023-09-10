@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 23, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jerryoldenettel
+Photo URL    : https://www.flickr.com/photos/jroldenettel/7218667164/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 16 07:52:01 GMT+0200 2012
+Upload Date  : Fri May 18 02:30:03 GMT+0200 2012
+Geotag Info  : Latitude:33.809672, Longitude:-106.866073
+Views        : 136
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+CAB05502a
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Striped Skunk at Bosque del Apache NWR, Socorro Co., NM, 120516. 
+Mephitis mephitis.  Mammalia: Carnivora: Mephitidae.
+
+
++--------+
+|  TAGS  |
++--------+
+2012 Carnivora carnivore mammal Mammalia Mephitidae Mephitis "Mephitis mephitis" NM Skunk "Socorro Co." "Striped Skunk" 

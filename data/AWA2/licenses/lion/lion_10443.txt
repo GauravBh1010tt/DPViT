@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oliver.dodd
+Photo URL    : https://www.flickr.com/photos/oliverdodd/5108552779/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 26 08:20:59 GMT+0200 2010
+Upload Date  : Sun Oct 24 02:40:46 GMT+0200 2010
+Views        : 1,141
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lion stares
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+africa tanzania safari serengeti lion male 

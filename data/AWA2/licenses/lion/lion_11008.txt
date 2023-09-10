@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : !Koss
+Photo URL    : https://www.flickr.com/photos/immokoss/8697813485/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 18 17:12:12 GMT+0200 2013
+Upload Date  : Wed May 1 14:52:25 GMT+0200 2013
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo Leipzig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Angola-Löwe
+
+
++--------+
+|  TAGS  |
++--------+
+Lion 

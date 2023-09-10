@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Benimoto
+Photo URL    : https://www.flickr.com/photos/benimoto/860340142/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 19 21:03:30 GMT+0200 2007
+Upload Date  : Fri Jul 20 20:27:38 GMT+0200 2007
+Geotag Info  : Latitude:41.509212, Longitude:-83.084009
+Views        : 3,247
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Mascara bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I still can't find an official name for this color pattern, but I see one of these emo bunnies at basically every fair.
+
+
++--------+
+|  TAGS  |
++--------+
+ottawa county fair "county fair" midwest ohio people animals fun summer agriculture festival evening emo mascara bunny rabbit "dwarf hotot" 

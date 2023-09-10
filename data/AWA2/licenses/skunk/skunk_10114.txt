@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HarmonyonPlanetEarth
+Photo URL    : https://www.flickr.com/photos/barrigoni/22241714622/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 12 10:56:24 GMT+0200 2015
+Upload Date  : Sat Oct 17 21:59:51 GMT+0200 2015
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Striped Skunk | Desert Museum | Tucson | AZ | 2015-10-12at10-56-241
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+birds 

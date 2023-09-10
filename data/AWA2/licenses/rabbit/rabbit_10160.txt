@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Schezar
+Photo URL    : https://www.flickr.com/photos/rym/7994444935/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 23 11:29:45 GMT+0200 2012
+Upload Date  : Mon Sep 17 04:24:19 GMT+0200 2012
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunnies
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Theo bunnies mugi 

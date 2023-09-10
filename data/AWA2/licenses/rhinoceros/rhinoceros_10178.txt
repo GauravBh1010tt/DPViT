@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jacobms
+Photo URL    : https://www.flickr.com/photos/jacobms/2819384689/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 31 16:30:56 GMT+0200 2008
+Upload Date  : Tue Sep 2 04:12:27 GMT+0200 2008
+Geotag Info  : Latitude:55.671994, Longitude:12.523319
+Views        : 175
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0143
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros 

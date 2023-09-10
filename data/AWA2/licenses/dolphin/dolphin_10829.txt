@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cermivelli
+Photo URL    : https://www.flickr.com/photos/cermivelli/6340187118/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 7 13:08:45 GMT+0100 2011
+Upload Date  : Sun Nov 13 12:07:25 GMT+0100 2011
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Valencia 2011 206
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Valencia 2011" 

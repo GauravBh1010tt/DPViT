@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dougtone
+Photo URL    : https://www.flickr.com/photos/dougtone/6102305469/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 31 12:44:12 GMT+0200 2011
+Upload Date  : Thu Sep 1 12:34:38 GMT+0200 2011
+Geotag Info  : Latitude:43.075721, Longitude:-76.221256
+Views        : 901
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Great New York State Fair - Syracuse, New York - August 31, 2011
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Great New York State Fair - Syracuse, New York - August 31, 2011
+
+
++--------+
+|  TAGS  |
++--------+
+"The Great New York State Fair" Syracuse "New York" Upstate "Central New York" summer exhibit carnival midway farm "farmers market" "state fair" tractor equipment antique animal horse cattle goat sheep duck chicken rabbit bunny trail "butter sculpture" rail "sand sculpture" memorial monument cheese flower horticulture art 9-11 quilt "model circus" organ 083111 

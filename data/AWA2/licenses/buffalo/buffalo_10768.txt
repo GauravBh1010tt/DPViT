@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sociotard
+Photo URL    : https://www.flickr.com/photos/9918311@N02/3078243976/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 27 18:02:54 GMT+0200 2008
+Upload Date  : Tue Dec 2 21:04:45 GMT+0100 2008
+Views        : 851
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pooping Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It took me a while to realise why this buffalo (er, american bison) was standing so still.
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone american bison buffalo poop pooping 

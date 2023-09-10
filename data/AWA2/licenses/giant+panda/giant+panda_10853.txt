@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chi King
+Photo URL    : https://www.flickr.com/photos/davelau/3140664871/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 25 10:27:18 GMT+0100 2007
+Upload Date  : Sat Dec 27 16:37:09 GMT+0100 2008
+Views        : 2,415
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Giant Panda" Panda Wolong China Interestingness 

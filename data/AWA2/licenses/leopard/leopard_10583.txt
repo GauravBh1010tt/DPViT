@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roger Blackwell
+Photo URL    : https://www.flickr.com/photos/rogerblackwell/11440357523/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 18 20:14:30 GMT+0100 2013
+Upload Date  : Wed Dec 18 21:53:40 GMT+0100 2013
+Geotag Info  : Latitude:52.447718, Longitude:1.033787
+Views        : 5,896
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard poster size
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I took the original photo back in 1992 at Banham Zoo, Norfolk, England with a Canon AE1 and a Vivitar 100-200mm FD lens.
+
+I copied the negative on a lightbox with a Canon EOS 550D with an EF f2.5 50mm macro lens.
+
+Free Xmas present to all that like Snow Leopards :)
+
+
++--------+
+|  TAGS  |
++--------+
+"snow leopard" animal "animal photo" "Banham Zoo" "Canon AE1" "negative copy" "colour negative film" 

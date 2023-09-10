@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cjones99
+Photo URL    : https://www.flickr.com/photos/cjones99/14987405875/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 20 19:47:13 GMT+0200 2014
+Upload Date  : Thu Aug 21 09:24:32 GMT+0200 2014
+Geotag Info  : Latitude:49.274062, Longitude:-123.197808
+Views        : 575
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8533
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rabbit at Jericho Beach
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbit Jericho "Jericho Beach" 

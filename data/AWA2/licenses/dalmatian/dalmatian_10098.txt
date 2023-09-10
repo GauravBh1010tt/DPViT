@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : globochem3x1minus1
+Photo URL    : https://www.flickr.com/photos/globochem/200281784/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 28 00:44:31 GMT+0200 2006
+Upload Date  : Fri Jul 28 15:42:41 GMT+0200 2006
+Views        : 484
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+wetnick
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;hi omg we went and played in the rain and got soaking wet and then thought it was really fun to wriggle around and dry off on sarah's bed lol being a dog is awesome&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+wetdog adorable dalmatian 

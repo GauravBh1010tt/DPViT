@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steveslater195
+Photo URL    : https://www.flickr.com/photos/leopardsteve/16889994039/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 30 09:17:04 GMT+0200 2011
+Upload Date  : Wed Apr 8 12:07:58 GMT+0200 2015
+Views        : 75
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rhino on the road soft background
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+rhino on the road soft background
+
+
++--------+
+|  TAGS  |
++--------+
+Rhinoceros "South Africa" mammals "mammals of africa" nature rhino "white rhinoceros" wildlife 

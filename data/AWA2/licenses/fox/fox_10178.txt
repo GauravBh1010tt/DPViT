@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kipsio
+Photo URL    : https://www.flickr.com/photos/sambut/5877192547/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 27 12:45:58 GMT+0200 2011
+Upload Date  : Mon Jun 27 18:45:58 GMT+0200 2011
+Views        : 128
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+fox 7
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

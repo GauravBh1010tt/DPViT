@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : くーさん
+Photo URL    : https://www.flickr.com/photos/ezakicoo/7402315180/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 19 14:27:50 GMT+0200 2012
+Upload Date  : Tue Jun 19 18:45:40 GMT+0200 2012
+Geotag Info  : Latitude:43.768333, Longitude:142.479155
+Views        : 130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC04705.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.eyefi.co.jp" rel="nofollow">Eye-Fi</a>からアップロードされました
+
+
++--------+
+|  TAGS  |
++--------+
+Eye-Fi 

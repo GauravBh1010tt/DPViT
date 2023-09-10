@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris_Parfitt
+Photo URL    : https://www.flickr.com/photos/chr1sp/5752178374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 23 20:35:33 GMT+0200 2011
+Upload Date  : Mon May 23 21:35:33 GMT+0200 2011
+Views        : 6,901
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit & Guinea Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+birdworld farnham surrey "jenny wren farm" rabbit guinea pig 

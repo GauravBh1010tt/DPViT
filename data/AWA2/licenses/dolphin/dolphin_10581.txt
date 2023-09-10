@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : monsterliza
+Photo URL    : https://www.flickr.com/photos/monsterliza/8843150379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 15 15:58:36 GMT+0200 2012
+Upload Date  : Sun May 26 19:06:44 GMT+0200 2013
+Views        : 3
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0560s
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

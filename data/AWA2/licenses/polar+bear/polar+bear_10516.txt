@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mhald
+Photo URL    : https://www.flickr.com/photos/hald/170240102/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 12 15:48:40 GMT+0200 2006
+Upload Date  : Mon Jun 19 07:38:04 GMT+0200 2006
+Views        : 492
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polar bears playing in the rain at the Portland Zoo.  He looks hungry.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

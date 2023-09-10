@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pdxjeff
+Photo URL    : https://www.flickr.com/photos/pdxjeff/280104494/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 26 12:20:39 GMT+0200 2006
+Upload Date  : Thu Oct 26 22:46:26 GMT+0200 2006
+Views        : 179
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1231
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I hope my new master takes more pictures of me, I'm worth it!
+
+
++--------+
+|  TAGS  |
++--------+
+eerie cat orange siamese 

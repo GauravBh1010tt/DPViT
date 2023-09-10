@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aaron_anderer
+Photo URL    : https://www.flickr.com/photos/aaron_anderer/4954570582/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 2 14:02:54 GMT+0200 2010
+Upload Date  : Fri Sep 3 17:51:00 GMT+0200 2010
+Geotag Info  : Latitude:43.142455, Longitude:-123.427534
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+CAM_0117
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wildlife Safari - Winston, Oregon
+<a href="http://www.wildlifesafari.net/" rel="nofollow">www.wildlifesafari.net/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+winston animal park oregon 2010 

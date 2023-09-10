@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andersfongen
+Photo URL    : https://www.flickr.com/photos/andersfongen/8595722941/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 11 13:51:18 GMT+0100 2013
+Upload Date  : Thu Mar 28 01:26:09 GMT+0100 2013
+Views        : 642
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ulver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wolves
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

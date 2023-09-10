@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aherrero
+Photo URL    : https://www.flickr.com/photos/aherrero/3709888553/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 9 12:51:19 GMT+0200 2009
+Upload Date  : Sat Jul 11 20:28:55 GMT+0200 2009
+Views        : 372
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rey León
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+aherrero león lion zoo valencia 

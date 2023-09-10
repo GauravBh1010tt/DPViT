@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/18399170128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 15:40:43 GMT+0200 2015
+Upload Date  : Mon Jun 8 06:00:06 GMT+0200 2015
+Geotag Info  : Latitude:48.771125, Longitude:6.897139
+Views        : 7,957
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown wolf on a rock...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+An now a brown wolf on a rock!...
+
+
++--------+
+|  TAGS  |
++--------+
+posing standing profile rock branch brown european wolf canine canid dog "parc animalier" park "sainte croix" zoo france nikon d4 

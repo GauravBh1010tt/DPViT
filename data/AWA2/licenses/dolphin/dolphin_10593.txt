@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : danielbergman
+Photo URL    : https://www.flickr.com/photos/danielbergman/9430830674/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 8 17:21:41 GMT+0200 2013
+Upload Date  : Sat Aug 3 19:19:48 GMT+0200 2013
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1721
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

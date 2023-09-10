@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MonkeySimon
+Photo URL    : https://www.flickr.com/photos/simon_cousins/4869263989/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 7 13:15:47 GMT+0200 2010
+Upload Date  : Sat Aug 7 22:31:51 GMT+0200 2010
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey runs across a rope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

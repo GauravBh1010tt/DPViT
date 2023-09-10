@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ciamabue
+Photo URL    : https://www.flickr.com/photos/ciamabue/9535913573/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 26 15:01:24 GMT+0200 2013
+Upload Date  : Sun Aug 18 15:44:06 GMT+0200 2013
+Geotag Info  : Latitude:-24.150187, Longitude:30.643000
+Views        : 348
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Impala male
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Antelope Garonga Holidays Impala "Makalali Conservancy" Safari "South Africa" 

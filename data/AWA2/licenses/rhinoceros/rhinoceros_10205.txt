@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MSVG
+Photo URL    : https://www.flickr.com/photos/msvg/4532556102/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 18 09:38:16 GMT+0200 2010
+Upload Date  : Sun Apr 18 22:53:11 GMT+0200 2010
+Geotag Info  : Latitude:43.820509, Longitude:-79.180934
+Views        : 1,925
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Great Indian Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This Great Indian Rhinoceros (Rhinoceros Unicornis) is found in Bhutan, India and Nepal. 
+
+Endangered Species
+
+
++--------+
+|  TAGS  |
++--------+
+Great Indian Rhinoceros Toronto Zoo Ontario Canada metro metropolitan Indomalaya Mammalia Perissodactyla Rhinocerotidae unicornis indo malaya rhino Endangered Species animals animal Region Class Order Family Genus Scientific Name 

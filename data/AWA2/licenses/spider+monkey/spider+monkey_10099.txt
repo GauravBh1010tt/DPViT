@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : elvissa
+Photo URL    : https://www.flickr.com/photos/elvissa/196676545/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 23 15:32:14 GMT+0200 2006
+Upload Date  : Mon Jul 24 03:55:56 GMT+0200 2006
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Black-Handed Spider Monkey
+
+
++--------+
+|  TAGS  |
++--------+
+"central florida zoological park" zoo sanford primate 

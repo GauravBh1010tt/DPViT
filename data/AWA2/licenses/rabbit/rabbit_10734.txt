@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GLF Photos
+Photo URL    : https://www.flickr.com/photos/glfphotos/11653139733/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 7 21:58:10 GMT+0200 2014
+Upload Date  : Mon Dec 30 21:05:56 GMT+0100 2013
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Photos P6022345  -- 1-320 s à f - 6,3 -- 25 mm -- ISO 200.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+OLYMPUS DIGITAL CAMERA
+
+
++--------+
+|  TAGS  |
++--------+
+faune animaux animal insecte 

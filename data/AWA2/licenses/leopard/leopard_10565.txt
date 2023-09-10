@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/6182588512/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 24 10:32:36 GMT+0200 2011
+Upload Date  : Sun Sep 25 21:52:19 GMT+0200 2011
+Geotag Info  : Latitude:40.468367, Longitude:-89.004750
+Views        : 2,945
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard (Panthera uncia)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The snow leopard (Panthera uncia) is a moderately large cat native to the mountain ranges of South Asia and Central Asia. Their secretive nature means that their exact numbers are unknown, but it has been estimated that between 3,500 and 7,000 snow leopards exist in the wild and between 600 and 700 in zoos worldwide. Snow leopards have long thick fur, and their base color varies from smoky gray to yellowish tan, with whitish underparts. They have dark gray to black open rosettes on their body with small spots of the same color on their heads and larger spots on their legs and tail. Unusually among cats, their eyes are pale green or gray in color.
+
+Photographed at the Miller Park Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"Miller Park Zoo" feline animal mammal nature endangered "Snow Leopard" "Panthera uncia" 

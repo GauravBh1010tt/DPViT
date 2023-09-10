@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hgrimes
+Photo URL    : https://www.flickr.com/photos/iamtheh/14997603620/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 26 23:27:40 GMT+0200 2014
+Upload Date  : Tue Sep 9 02:58:23 GMT+0200 2014
+Views        : 343
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale at Seacliff State Beach
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Aptos, CA
+
+
++--------+
+|  TAGS  |
++--------+
+whales humpbacks "humpback whales" "marine mammals" seacliff "seacliff state beach" "seacliff sb" california "monterey bay" aptos "santa cruz" awesome ocean 

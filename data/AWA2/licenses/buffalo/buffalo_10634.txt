@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Genista
+Photo URL    : https://www.flickr.com/photos/genista/8620673387/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 16 17:23:16 GMT+0100 2013
+Upload Date  : Fri Apr 5 11:32:10 GMT+0200 2013
+Geotag Info  : Latitude:52.160269, Longitude:7.669013
+Views        : 154
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+großes bison ist groß
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals deutschland germany "nöttler berg" nordrhein-westfalen saerbeck tiere wildfreigehege 

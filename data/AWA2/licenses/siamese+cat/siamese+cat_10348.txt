@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alliecouture
+Photo URL    : https://www.flickr.com/photos/alliecouture/4691913519/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 3 23:56:59 GMT+0200 2010
+Upload Date  : Sat Jun 12 06:10:19 GMT+0200 2010
+Views        : 130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lily & Molly
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese "nikon d5000" 

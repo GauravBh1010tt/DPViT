@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Au Kirk
+Photo URL    : https://www.flickr.com/photos/aukirk/14188651120/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 8 11:47:02 GMT+0200 2014
+Upload Date  : Sun Jun 8 18:53:08 GMT+0200 2014
+Views        : 9,667
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+23/52 Weeks of Teddy - Purple Tongue
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I have wanted to get a picture with Teddy’s purple tongue for a few weeks.  
+
+Teddy is a mix of Chow and German Shepherd… while his personality is all Shepherd, the tongue is all Chow Chow.
+
+
++--------+
+|  TAGS  |
++--------+
+Chow "Purple Tongue" "52 Weeks for Dogs" "52 Weeks for Dogs Week 23" 

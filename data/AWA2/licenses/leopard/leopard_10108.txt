@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : -JvL-
+Photo URL    : https://www.flickr.com/photos/-jvl-/15381326128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 21 17:23:17 GMT+0200 2014
+Upload Date  : Sun Oct 19 00:35:06 GMT+0200 2014
+Geotag Info  : Latitude:51.520813, Longitude:5.111733
+Views        : 561
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chillin' leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A leopard relaxing in Safari park Beekse Bergen
+
+
++--------+
+|  TAGS  |
++--------+
+"Beekse Bergen" Leopard Luipaard "Safari Park" Hilvarenbeek Noord-Brabant Nederland 

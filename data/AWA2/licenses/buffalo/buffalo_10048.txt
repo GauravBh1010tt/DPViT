@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Donald Lee Pardue
+Photo URL    : https://www.flickr.com/photos/oldrebel/6779209615/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 28 15:56:32 GMT+0100 2012
+Upload Date  : Sun Jan 29 02:35:41 GMT+0100 2012
+Geotag Info  : Latitude:35.632469, Longitude:-79.760023
+Views        : 1,564
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of several at the North Carolina Zoo in Asheboro.
+
+
++--------+
+|  TAGS  |
++--------+
+"American Bison" "North Carolina Zoo" "Nikon D40" 

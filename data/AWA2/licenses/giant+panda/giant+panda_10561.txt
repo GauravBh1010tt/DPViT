@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WillSowards
+Photo URL    : https://www.flickr.com/photos/30367663@N02/2843928071/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 13 14:21:02 GMT+0200 2008
+Upload Date  : Wed Sep 10 03:20:27 GMT+0200 2008
+Views        : 1,771
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda Eating Bamboo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+panda bamboo eating 

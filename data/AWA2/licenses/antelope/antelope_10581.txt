@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : europeo
+Photo URL    : https://www.flickr.com/photos/europ/4687763374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 20 12:59:09 GMT+0200 2009
+Upload Date  : Thu Jun 10 10:50:25 GMT+0200 2010
+Geotag Info  : Latitude:-28.304531, Longitude:31.839408
+Views        : 469
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Impala
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Safari - Hluhluwe Umfolozi Park - Zululand, Sud Africa
+
+
++--------+
+|  TAGS  |
++--------+
+sud africa southafrica Hluhluwe Umfolozi Park GAME RESERVE safari Zululand Impala Aepyceros melampus antilope 

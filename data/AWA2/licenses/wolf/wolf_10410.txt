@@ -1,0 +1,42 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DenaliNPS
+Photo URL    : https://www.flickr.com/photos/denalinps/5300989495/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 29 21:12:57 GMT+0200 2010
+Upload Date  : Tue Dec 28 23:33:23 GMT+0100 2010
+Views        : 2,412
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf Profile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(NPS Photo/Ken Conger)
+
+Check out the official Denali Facebook, Twitter and YouTube pages:
+
+Like us on Facebook: <a href="http://www.facebook.com/DenaliNPS" rel="nofollow">www.facebook.com/DenaliNPS</a>
+
+Follow us on Twitter: <a href="http://www.twitter.com/DenaliNPS" rel="nofollow">www.twitter.com/DenaliNPS</a>
+
+Denali YouTube Channel: <a href="http://www.youtube.com/denalinps" rel="nofollow">www.youtube.com/denalinps</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

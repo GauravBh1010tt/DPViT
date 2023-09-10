@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Abi Skipp
+Photo URL    : https://www.flickr.com/photos/9557815@N05/3893859453/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 4 13:01:59 GMT+0200 2009
+Upload Date  : Mon Sep 7 00:25:18 GMT+0200 2009
+Views        : 356
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby spider monkey catching a ride off mum's back
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Basel Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Switzerland Basel zoo "spider monkey" 

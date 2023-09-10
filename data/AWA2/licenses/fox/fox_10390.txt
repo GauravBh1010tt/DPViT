@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : beggs
+Photo URL    : https://www.flickr.com/photos/beggs/24936092099/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 19 15:58:26 GMT+0100 2015
+Upload Date  : Sat Feb 27 14:20:20 GMT+0100 2016
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5497
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Arctic fox at Polarland.
+
+Harbin, China, December 2015
+
+
++--------+
+|  TAGS  |
++--------+
+2015 Travel Harbin 哈尔滨 哈爾濱 Heilongjiang "Hēilóngjiāng Shěng" 黑龙江省 China "People's Republic of China" 中华人民共和国 "Zhōnghuá Rénmín Gònghéguó" "Harbin Polarland" "Arctic Fox" Fox Animal Nature 

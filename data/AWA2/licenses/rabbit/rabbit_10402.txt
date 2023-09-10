@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : synspectrum
+Photo URL    : https://www.flickr.com/photos/epector/26054399896/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 27 15:57:36 GMT+0200 2016
+Upload Date  : Mon Mar 28 02:38:18 GMT+0200 2016
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Easter Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Naperville, DuPage CO
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : V31S70
+Photo URL    : https://www.flickr.com/photos/veisto/2453053036/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 29 16:32:47 GMT+0200 2008
+Upload Date  : Tue Apr 29 23:11:52 GMT+0200 2008
+Views        : 405
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3685
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Helsinki rabbit citykani "Hakasalmen puisto" 

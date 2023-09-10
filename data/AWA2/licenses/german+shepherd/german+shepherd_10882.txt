@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stevetulk
+Photo URL    : https://www.flickr.com/photos/epicsurfgt/2098127193/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 17 14:52:27 GMT+0200 2007
+Upload Date  : Sun Dec 9 21:46:37 GMT+0100 2007
+Geotag Info  : Latitude:33.593316, Longitude:-117.590961
+Views        : 2,046
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Teddy Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"teddy bear" dog german shepherd 

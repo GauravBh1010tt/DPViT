@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zanthrax-dot-nl
+Photo URL    : https://www.flickr.com/photos/zanthraxnl/3669591608/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 28 13:47:41 GMT+0200 2009
+Upload Date  : Sun Jun 28 23:02:32 GMT+0200 2009
+Views        : 278
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4575
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lion sunbathing 

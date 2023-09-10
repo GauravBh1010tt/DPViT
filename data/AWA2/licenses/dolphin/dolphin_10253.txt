@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : shankarr
+Photo URL    : https://www.flickr.com/photos/shankarrk/3227552487/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 3 12:56:07 GMT+0100 2009
+Upload Date  : Mon Jan 26 10:21:58 GMT+0100 2009
+Views        : 200
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin Portraits
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin bottlenose seaworld 

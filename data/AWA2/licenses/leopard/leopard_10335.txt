@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jack berry
+Photo URL    : https://www.flickr.com/photos/jackberry/3604716780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 7 15:15:59 GMT+0200 2008
+Upload Date  : Sun Jun 7 21:12:17 GMT+0200 2009
+Geotag Info  : Latitude:52.372022, Longitude:-2.375063
+Views        : 425
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+on safari
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife cervi del leopardo della tigre leone di safari giardino zoologico dell'animale selvatico 野生动物动物园徒步旅行队狮子老虎豹子鹿英国 

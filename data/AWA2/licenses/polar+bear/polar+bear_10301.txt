@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robotastronaut
+Photo URL    : https://www.flickr.com/photos/robotastronaut/3018390642/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 13 14:57:14 GMT+0200 2008
+Upload Date  : Mon Nov 10 05:22:22 GMT+0100 2008
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1483
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

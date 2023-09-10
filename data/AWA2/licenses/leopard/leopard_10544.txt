@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/8325503008/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 29 12:22:01 GMT+0100 2012
+Upload Date  : Sun Dec 30 11:15:09 GMT+0100 2012
+Geotag Info  : Latitude:51.340927, Longitude:6.602246
+Views        : 2,210
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Schneeleopard / Snow Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ein Schneeleopard im Zoo Krefeld.
+
+A Snow Leopard in the &quot;Zoo Krefeld&quot;.
+
+
++--------+
+|  TAGS  |
++--------+
+Irbis Schneeleopard "Snow Leopard" "Panthera uncia" Zoo "Zoo Krefeld" "Uncia uncia" "Wild Feline Photography" 

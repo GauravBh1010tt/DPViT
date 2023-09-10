@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bunnygoth
+Photo URL    : https://www.flickr.com/photos/bunnygoth/14686429454/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 6 06:44:34 GMT+0200 2014
+Upload Date  : Sat Jul 19 08:16:14 GMT+0200 2014
+Views        : 580
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+024
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wild bunny in our yard
+
+
++--------+
+|  TAGS  |
++--------+
+wild rabbit bunny conejo lapin cottontail eastern 

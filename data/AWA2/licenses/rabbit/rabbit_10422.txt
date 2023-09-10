@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marco Hebing
+Photo URL    : https://www.flickr.com/photos/marcohebing/2931626448/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 11 15:02:10 GMT+0200 2008
+Upload Date  : Sat Oct 11 15:02:10 GMT+0200 2008
+Views        : 659
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+European Hare washing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+European Hare washing closeup.
+The hare walked right up to me, stopped, and started washing as if I wasn't even there. After a few minutes, he continued on his way and never noticed me or my 3 dogs!
+#
+Wassende Europese Haas.
+Deze haas kwam recht op me af, stopte en begon zichzelf te wassen. Na enkele minuten ging hij verder zonder mij en mijn 3 honden ooit gezien te hebben.
+
+
++--------+
+|  TAGS  |
++--------+
+"Europese Haas wassend" FI0010_243 

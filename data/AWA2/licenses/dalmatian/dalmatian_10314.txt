@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/14112741118/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 23 18:25:44 GMT+0200 2014
+Upload Date  : Thu May 29 19:10:00 GMT+0200 2014
+Views        : 651
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kaspern
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mai 2014
+Canon EOS 60D
+EF 85mm f/1.8 USM
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund dog hunde dogs hündin female dalmatiner dalmatian 

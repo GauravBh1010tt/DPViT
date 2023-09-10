@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mattnis
+Photo URL    : https://www.flickr.com/photos/mattnis/178162409/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 24 13:54:46 GMT+0200 2006
+Upload Date  : Fri Jun 30 07:02:03 GMT+0200 2006
+Views        : 7
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros_IMG_8679.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

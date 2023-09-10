@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neon Tommy
+Photo URL    : https://www.flickr.com/photos/neontommy/8737139036/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 27 15:26:18 GMT+0200 2013
+Upload Date  : Tue May 14 01:45:27 GMT+0200 2013
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Westside German Shepherd Rescue in Los Angeles- One more chance for abandoned dogs!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+9)Barney was skin and bones when he got into the shelter, and although it takes a while for him to warm up to people, he is a very sweet guy, always looking for comfort.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

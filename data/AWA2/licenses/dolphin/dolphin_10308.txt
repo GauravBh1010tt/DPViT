@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blachswan
+Photo URL    : https://www.flickr.com/photos/blachswan/15859977978/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 14 14:11:38 GMT+0100 2014
+Upload Date  : Thu Dec 18 07:12:02 GMT+0100 2014
+Geotag Info  : Latitude:-38.426159, Longitude:142.249774
+Views        : 4,764
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Port Fairy Pelagic trip. Southern Ocean.
+
+
++--------+
+|  TAGS  |
++--------+
+Victoria Australia Dolphin "pelagic boat trip" pelagics 

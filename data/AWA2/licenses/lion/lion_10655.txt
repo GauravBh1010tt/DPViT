@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russimages
+Photo URL    : https://www.flickr.com/photos/russ-w/15433888440/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 6 07:48:51 GMT+0200 2013
+Upload Date  : Sat Oct 25 02:41:48 GMT+0200 2014
+Views        : 617
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

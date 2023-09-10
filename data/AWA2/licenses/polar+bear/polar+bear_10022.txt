@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jazzyroses
+Photo URL    : https://www.flickr.com/photos/jazzyroses/16205898820/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 11 13:35:38 GMT+0200 2010
+Upload Date  : Thu Jan 29 06:50:15 GMT+0100 2015
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_0159
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

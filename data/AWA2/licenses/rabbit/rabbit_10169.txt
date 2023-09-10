@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheGirlsNY
+Photo URL    : https://www.flickr.com/photos/thegirlsny/4936368172/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 26 17:53:18 GMT+0200 2010
+Upload Date  : Sun Aug 29 02:14:08 GMT+0200 2010
+Views        : 412
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny at the State Fair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"State Fair" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : smalljude
+Photo URL    : https://www.flickr.com/photos/judemasti/5527904185/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 9 09:37:12 GMT+0100 2011
+Upload Date  : Tue Mar 15 05:17:58 GMT+0100 2011
+Views        : 974
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sydney australia lion taronga park zoo animals wildlife 

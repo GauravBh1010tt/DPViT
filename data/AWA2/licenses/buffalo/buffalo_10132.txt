@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Smith2010
+Photo URL    : https://www.flickr.com/photos/lsmith2010/15255541569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 4 07:53:59 GMT+0200 2014
+Upload Date  : Sun Oct 5 03:11:22 GMT+0200 2014
+Geotag Info  : Latitude:34.748072, Longitude:-98.753442
+Views        : 5,714
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 10-4-14
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wichita Mountains Wildlife Refuge
+SW Oklahoma
+
+
++--------+
+|  TAGS  |
++--------+
+"Wichita Mountains" "Larry Smith" Oklahoma Bison Buffalo "Wichita Mountains Wildlife Refuge" 

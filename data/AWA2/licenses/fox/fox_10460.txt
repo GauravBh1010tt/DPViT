@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : longhorndave
+Photo URL    : https://www.flickr.com/photos/davidw/2317112571/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 1 12:26:29 GMT+0100 2008
+Upload Date  : Sat Mar 8 03:26:36 GMT+0100 2008
+Geotag Info  : Latitude:-42.162639, Longitude:-63.705425
+Views        : 1,083
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Patagonian Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This fox passed right by a parking lot near the penguin viewing area.
+
+
++--------+
+|  TAGS  |
++--------+
+Argentina "Peninsula Valdés" "A Texan In Argentina" http://atexaninargentina.blogspot.com/ Penguins Fox 

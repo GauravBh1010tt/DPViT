@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Zach Welty
+Photo URL    : https://www.flickr.com/photos/zwww/3322300812/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 1 00:12:16 GMT+0100 2009
+Upload Date  : Mon Mar 2 09:17:20 GMT+0100 2009
+Views        : 587
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Drooling Siamese
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ever see a cat drool?
+
+<i> Edit: The cat drools whenever it is pet; it's not sick or harmed in any way</i>.
+
+
++--------+
+|  TAGS  |
++--------+
+Drooling Siamese cat drool animal 

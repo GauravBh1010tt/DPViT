@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : karooopa
+Photo URL    : https://www.flickr.com/photos/kar0d/5781205506/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 23 12:04:47 GMT+0200 2011
+Upload Date  : Tue May 31 14:24:07 GMT+0200 2011
+Views        : 2,508
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German shepherd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Saksanpaimenkoira Rölli :&gt;
+
+
++--------+
+|  TAGS  |
++--------+
+dog koira hund snow atpyhatunturi scnhee lumi rölli German shepherd Germanshepherd 

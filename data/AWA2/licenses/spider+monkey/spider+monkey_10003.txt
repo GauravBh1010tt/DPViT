@@ -1,0 +1,42 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rafael Acorsi
+Photo URL    : https://www.flickr.com/photos/acorsi/3756255538/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 24 19:18:02 GMT+0200 2009
+Upload Date  : Sat Jul 25 23:44:07 GMT+0200 2009
+Views        : 503
+Comments     : 43
+
+
++---------+
+|  TITLE  |
++---------+
+# Mαcαco-αrαnhα-Cαrα-Vermelhα.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nome em inglês: <u>Red-Faced-Spider Monkey</u>
+Nome científico: Ateles paniscus paniscus
+Distribuição geográfica: Norte do Brasil, Guiana, Suriname e Guiana Francesa.
+Habitat: Florestas Úmidas
+Hábitos Alimentares: Onívoro
+___________
+
+<b>Zoológico</b> de <u>São Paulo</u>,
+Tirada em 17/O7/O9
+
+
++--------+
+|  TAGS  |
++--------+
+Zoológico "Zoológico de São Paulo" Zoo SP Animais Animals zoologico "Rafael Acorsi" Sony DSC-W110 "Sony DSC-W110" 

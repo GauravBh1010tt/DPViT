@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pasha Kirillov
+Photo URL    : https://www.flickr.com/photos/pasha_k/8039310611/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 5 03:31:59 GMT+0200 2008
+Upload Date  : Sun Sep 30 16:08:29 GMT+0200 2012
+Geotag Info  : Latitude:8.479545, Longitude:-83.587546
+Views        : 348
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey playing a spider
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"costa rica" corcovado "costa rica wildlife" "Spider monkey" "паукообразная обезьяна" Коста-Рика "Природа Коста-Рики" "Geo:country=Costa rica" 

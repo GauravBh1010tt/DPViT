@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : YellowstoneNPS
+Photo URL    : https://www.flickr.com/photos/yellowstonenps/7545258246/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 2 08:07:54 GMT+0200 2005
+Upload Date  : Tue Jul 10 22:20:13 GMT+0200 2012
+Views        : 4,452
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison herd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison herd - Little America Flat;
+Jim Peaco;
+May 2005;
+Catalog #18214d;
+Original #IT8M2608
+
+
++--------+
+|  TAGS  |
++--------+
+"yellowstone national park" yellowstone "national park" Wyoming 

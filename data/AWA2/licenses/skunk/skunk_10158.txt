@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : skeeze
+Photo URL    : https://pixabay.com/en/skunk-wildlife-portrait-walking-1239764/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : April 18, 2011
+Uploaded     : 4 months ago
+
++--------+
+|  TAGS  |
++--------+
+Skunk, Wildlife, Portrait, Walking, Striped, Black

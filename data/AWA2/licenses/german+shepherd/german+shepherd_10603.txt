@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kim G. Appels
+Photo URL    : https://www.flickr.com/photos/kimapps/3601226861/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 6 01:30:29 GMT+0200 2009
+Upload Date  : Sun Jun 7 00:50:31 GMT+0200 2009
+Views        : 1,155
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Let Sleeping Dogs Lie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"canon rebel xsi" "canon eos 450d" "german shepard" "german shepherd dog" "german shepherd" dog sleepy "let sleeping dogs lie" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdnx
+Photo URL    : https://www.flickr.com/photos/danramarch/9163009503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 1 13:16:55 GMT+0200 2013
+Upload Date  : Sat Jun 29 09:27:46 GMT+0200 2013
+Geotag Info  : Latitude:21.270674, Longitude:-157.818077
+Views        : 2,717
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Fennec Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+honolulu hawaii "honolulu zoo" zoo "fennec fox" 

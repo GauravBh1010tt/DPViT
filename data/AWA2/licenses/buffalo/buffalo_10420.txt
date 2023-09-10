@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/7848258910/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 17 10:19:41 GMT+0200 2012
+Upload Date  : Fri Aug 24 04:18:27 GMT+0200 2012
+Geotag Info  : Latitude:44.892501, Longitude:-110.227260
+Views        : 331
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone Wyoming USA National Park 

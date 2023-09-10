@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DataAngel
+Photo URL    : https://www.flickr.com/photos/dataangel/112656628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 8 12:51:54 GMT+0200 2005
+Upload Date  : Wed Mar 15 02:10:36 GMT+0100 2006
+Geotag Info  : Latitude:38.928233, Longitude:-77.050638
+Views        : 257
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"washington dc" zoo "national zoo" panda 

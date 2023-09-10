@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foto_ch
+Photo URL    : https://www.flickr.com/photos/foto_ch/2135776799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 16:28:26 GMT+0200 2007
+Upload Date  : Tue Dec 25 22:50:46 GMT+0100 2007
+Geotag Info  : Latitude:51.543532, Longitude:7.109785
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zoom (88)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Tiere Zoo Gesenkirchen 

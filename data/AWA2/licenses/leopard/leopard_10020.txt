@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/17592827454/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 15:53:06 GMT+0200 2015
+Upload Date  : Fri May 29 03:53:48 GMT+0200 2015
+Geotag Info  : Latitude:42.462697, Longitude:-71.093636
+Views        : 398
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopards Playing Tag
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo big cat snow leopard 

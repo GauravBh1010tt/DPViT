@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/4122445197/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 06:39:11 GMT+0200 2009
+Upload Date  : Sat Nov 21 23:11:05 GMT+0100 2009
+Views        : 265
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+_DSC8411
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Kruger "Kruger National Park" "South Africa" cat leopard 

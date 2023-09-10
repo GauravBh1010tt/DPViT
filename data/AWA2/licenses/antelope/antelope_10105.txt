@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Giles Douglas
+Photo URL    : https://www.flickr.com/photos/orangelimey/824819435/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 15 10:43:32 GMT+0200 2007
+Upload Date  : Mon Jul 16 07:20:24 GMT+0200 2007
+Geotag Info  : Latitude:38.558678, Longitude:-122.698692
+Views        : 477
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Antelope with horns
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+What not to ask a bus full of three year olds:
+
+&quot;How do you know its a male antelope? What does it have a female one doesn't?&quot;
+
+Fortunately they weren't listening. I think the right answer was horns though.
+
+
++--------+
+|  TAGS  |
++--------+
+Animals "Safari West" Sonoma CA USA id:pic=_DSC2284 Antelope 

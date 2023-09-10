@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gcalsa
+Photo URL    : https://www.flickr.com/photos/gcalsa/8904269226/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 31 19:55:42 GMT+0200 2013
+Upload Date  : Fri May 31 19:55:58 GMT+0200 2013
+Geotag Info  : Latitude:45.207424, Longitude:28.931121
+Views        : 5,300
+Comments     : 1,022
+
+
++---------+
+|  TITLE  |
++---------+
+Little red fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.GiuseppeCalsamiglia.com" rel="nofollow">www.GiuseppeCalsamiglia.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+NaturesElegantShots FaunayFloraDelMundo "Photos and Calendar" PanoramaFotográfico "Only The Best of Flickr" my_gear_and_me my_gear_and_me_premium 

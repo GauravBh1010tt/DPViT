@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SamTheShepherd88
+Photo URL    : https://www.flickr.com/photos/samtheshepherd88/4108170400/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 30 12:04:24 GMT+0200 2008
+Upload Date  : Mon Nov 16 04:09:37 GMT+0100 2009
+Views        : 817
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P5300077
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Black Sable German Shepherd 

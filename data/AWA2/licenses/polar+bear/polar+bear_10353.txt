@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bargodk
+Photo URL    : https://www.flickr.com/photos/bargodk/8162126247/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 6 21:42:02 GMT+0100 2012
+Upload Date  : Tue Nov 6 21:50:47 GMT+0100 2012
+Views        : 2,071
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Impolite polar bears
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" swimming artic scandinavia eating bear bathing water cold 

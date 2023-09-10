@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Arctic Wolf Pictures
+Photo URL    : https://www.flickr.com/photos/arcticwoof/6959408500/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 28 13:23:12 GMT+0100 2008
+Upload Date  : Mon Apr 23 11:04:55 GMT+0200 2012
+Views        : 1,406
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+If white isn't your colour
+
+
++--------+
+|  TAGS  |
++--------+
+animals fox vulpine red 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vonlohmann
+Photo URL    : https://www.flickr.com/photos/vonlohmann/11635100255/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 14 13:51:08 GMT+0100 2013
+Upload Date  : Mon Dec 30 01:07:17 GMT+0100 2013
+Geotag Info  : Latitude:36.777578, Longitude:-121.895112
+Views        : 142
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Monterey Bay, California
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

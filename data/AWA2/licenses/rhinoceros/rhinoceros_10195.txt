@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : d.mitler
+Photo URL    : https://www.flickr.com/photos/lifeisadventure/21557549269/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 26 22:13:08 GMT+0200 2015
+Upload Date  : Sun Sep 27 04:38:35 GMT+0200 2015
+Views        : 339
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Easy grazing for parent and child
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+An adult white rhino with a large and threatening horn keeps a watchful eye on a young rhino as they both graze casually in a field of dry grass
+
+
++--------+
+|  TAGS  |
++--------+
+white rhino rhinoceros graze grazing eat eating dry grass south africa kruger park horn horns face f faces parent child young baby adult mother father field 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : beccafawley
+Photo URL    : https://www.flickr.com/photos/36158213@N07/5199944976/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 22 15:47:45 GMT+0100 2010
+Upload Date  : Tue Nov 23 00:19:42 GMT+0100 2010
+Views        : 488
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Siamese
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My Gramma's cat.
+She always just called her &quot;kitty&quot; or &quot;catsy cat&quot;
+Catsy Cat is an awesome outdoor cat. And has the prettiest catsy eyes i've seen.
+
+
++--------+
+|  TAGS  |
++--------+
+blue "blue eyes" cat "cat eyes" eyes feline kitten kitty siamese whiskers 

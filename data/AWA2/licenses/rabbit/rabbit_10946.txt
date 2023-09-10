@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : davejdoe
+Photo URL    : https://www.flickr.com/photos/92414546@N04/24576551443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 22 17:12:14 GMT+0100 2016
+Upload Date  : Tue Feb 23 01:43:24 GMT+0100 2016
+Views        : 981
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Snowshoe Hare
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Ontario stittsville "Nikon 200-500" nikon d810 nature colour white snowshoe hare wildlife wild 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christian Lambert Photography
+Photo URL    : https://www.flickr.com/photos/christiantlambert/4673790250/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 28 03:02:56 GMT+0200 2010
+Upload Date  : Sun Jun 6 05:51:03 GMT+0200 2010
+Geotag Info  : Latitude:40.336911, Longitude:-74.814974
+Views        : 598
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Indy 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+siamese cat blue point 50mm sunroom 

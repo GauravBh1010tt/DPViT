@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wigglesms
+Photo URL    : https://www.flickr.com/photos/wigg1es/5377322692/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 22 00:51:06 GMT+0100 2011
+Upload Date  : Sat Jan 22 06:51:06 GMT+0100 2011
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhino rhinos rhinoceros zoo 

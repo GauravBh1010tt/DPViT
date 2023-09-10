@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paolo Trabattoni
+Photo URL    : https://www.flickr.com/photos/mctraba/12741392795/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 8 14:35:17 GMT+0100 2014
+Upload Date  : Mon Feb 24 09:29:57 GMT+0100 2014
+Geotag Info  : Latitude:40.408954, Longitude:-3.761250
+Views        : 880
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oso panda!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+panda zoo 

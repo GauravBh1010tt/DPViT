@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Susan E Adams
+Photo URL    : https://www.flickr.com/photos/susanad813/1934644882/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 16 08:57:22 GMT+0200 2005
+Upload Date  : Fri Nov 9 15:31:28 GMT+0100 2007
+Geotag Info  : Latitude:31.672448, Longitude:-97.538166
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+CRW_6065_2.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"hatada ranch" impala http://www.hatadaranch.com 

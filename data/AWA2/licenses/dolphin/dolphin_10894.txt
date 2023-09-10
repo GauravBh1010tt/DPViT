@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steren.giannini
+Photo URL    : https://www.flickr.com/photos/steren/5074814672/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 6 10:31:03 GMT+0200 2010
+Upload Date  : Tue Oct 12 10:43:50 GMT+0200 2010
+Geotag Info  : Latitude:25.245938, Longitude:34.796276
+Views        : 723
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+egypt red sea diving 

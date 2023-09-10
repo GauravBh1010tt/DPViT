@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : samurai_dave
+Photo URL    : https://www.flickr.com/photos/88657298@N00/7680825672/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 28 06:00:21 GMT+0200 2012
+Upload Date  : Tue Jul 31 03:06:15 GMT+0200 2012
+Views        : 379
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3880
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chengdu china pandas "panda bear" 

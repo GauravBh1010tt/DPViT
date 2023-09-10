@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mitchell Fitzsimmons
+Photo URL    : https://www.flickr.com/photos/78959201@N07/10829582063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 4 22:02:35 GMT+0200 2013
+Upload Date  : Wed Nov 13 02:28:25 GMT+0100 2013
+Geotag Info  : Latitude:-3.316018, Longitude:35.288085
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Impala
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa 

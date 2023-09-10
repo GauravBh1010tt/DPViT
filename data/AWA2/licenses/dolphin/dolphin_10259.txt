@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cocoabiscuit
+Photo URL    : https://www.flickr.com/photos/jfgallery/5055848304/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 5 11:35:49 GMT+0200 2010
+Upload Date  : Wed Oct 6 01:46:16 GMT+0200 2010
+Geotag Info  : Latitude:26.113753, Longitude:-111.244232
+Views        : 1,170
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin Waltz
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dolphins swimming with our boat approaching Coronado Island in the Sea of Cortez, off Loreto, Baja California South, Mexico
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin cocoabiscuit Baja Mexico Loreto Coronado "Coronado Island" "Olympus Tough" aquatic 

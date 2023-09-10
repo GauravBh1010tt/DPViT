@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : didbygraham
+Photo URL    : https://www.flickr.com/photos/didbygraham/3492911669/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 20 22:55:05 GMT+0200 2009
+Upload Date  : Sat May 2 10:45:34 GMT+0200 2009
+Views        : 197
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+1091
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+collected photo. copyright unknown
+
+
++--------+
+|  TAGS  |
++--------+
+polarbear 

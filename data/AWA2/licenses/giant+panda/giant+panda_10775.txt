@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Lema
+Photo URL    : https://www.flickr.com/photos/cflema/4675595179/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 6 13:19:40 GMT+0200 2010
+Upload Date  : Sun Jun 6 22:19:40 GMT+0200 2010
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Resting Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Uploaded from my Photo Share
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

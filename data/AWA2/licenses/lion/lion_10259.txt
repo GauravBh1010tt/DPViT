@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : poplinre
+Photo URL    : https://www.flickr.com/photos/poplinre/572625978/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 7 11:07:33 GMT+0200 2007
+Upload Date  : Wed Jun 20 05:03:09 GMT+0200 2007
+Geotag Info  : Latitude:42.305165, Longitude:-71.087175
+Views        : 2,288
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+King Lion #8
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo Panthera Boston Animalia "Panthera leo" Felidae 2007 handheld Chordata animals Earth "Canon EF 75-300mm f/4-5.6 III" Massachusetts "Franklin Park Zoo" Mammalia Carnivora USA "United States of America" lion "African Lion" 

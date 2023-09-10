@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bill Wilcox
+Photo URL    : https://www.flickr.com/photos/billwilcox/4366265997/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 15 05:56:39 GMT+0100 2010
+Upload Date  : Thu Feb 18 03:54:58 GMT+0100 2010
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1030179
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+San Diego 2010 

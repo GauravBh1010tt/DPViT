@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chrys Rochat
+Photo URL    : https://www.flickr.com/photos/60919731@N08/6468332225/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 6 14:32:27 GMT+0100 2011
+Upload Date  : Tue Dec 6 23:32:27 GMT+0100 2011
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+fernando-de-noronha-6
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

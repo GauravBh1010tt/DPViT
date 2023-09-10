@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/9850424634/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 20 10:13:55 GMT+0200 2013
+Upload Date  : Sat Sep 21 10:31:55 GMT+0200 2013
+Geotag Info  : Latitude:52.011302, Longitude:5.899313
+Views        : 1,351
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Sri-Lanka-Leopard / Sri Lankan Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ein Sri-Lanka-Leopard im Burger's Zoo (Arnheim, Niederlande).
+
+A Sri Lankan Leopard in the &quot;Burger's Zoo&quot; (Arnhem, The Netherlands).
+
+
++--------+
+|  TAGS  |
++--------+
+"Burgers' Zoo" Leopard "Panthera pardus" "Panthera pardus kotiya" "Sri Lankan Leopard" Sri-Lanka-Leopard "Wild Feline Photography" Zoo Arnheim Gelderland Niederlande 

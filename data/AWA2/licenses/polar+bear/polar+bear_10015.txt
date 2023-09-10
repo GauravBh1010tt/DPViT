@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asokolik
+Photo URL    : https://www.flickr.com/photos/asokolik/15721194200/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 29 13:20:28 GMT+0100 2014
+Upload Date  : Sat Nov 29 23:30:21 GMT+0100 2014
+Views        : 474
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9564
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Buffalo Zoo" "Polar Bear" 

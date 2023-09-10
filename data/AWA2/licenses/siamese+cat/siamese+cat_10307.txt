@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kapchurus
+Photo URL    : https://www.flickr.com/photos/woodi68/4061669869/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 31 14:13:31 GMT+0100 2009
+Upload Date  : Sun Nov 1 00:08:13 GMT+0100 2009
+Views        : 463
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+Happy MEOWolloween!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+More photos of Renatta, her sister Rosalie, and Auntie Phyllis can be seen on their Blog &quot;Kitty Meadow&quot; <a href="http://www.kittymeadow.com" rel="nofollow">www.kittymeadow.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Renatta siamese Cat Kitten fangs 

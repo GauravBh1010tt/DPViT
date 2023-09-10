@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/5726850264/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 24 13:14:21 GMT+0100 2011
+Upload Date  : Mon May 16 17:10:28 GMT+0200 2011
+Geotag Info  : Latitude:50.117523, Longitude:14.405221
+Views        : 3,680
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Black spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the spider monkeys of the Prague zoo, sitting on a log.
+
+
++--------+
+|  TAGS  |
++--------+
+monkey ape primate black tail sitting posing wood bark log grass zoo prague czech republic nikon d700 spider 

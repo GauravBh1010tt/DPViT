@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : elPadawan
+Photo URL    : https://www.flickr.com/photos/elpadawan/8662845736/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 14 09:52:54 GMT+0200 2010
+Upload Date  : Fri Apr 19 10:27:54 GMT+0200 2013
+Views        : 205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rhino, Zoo Ústí nad Labem
+
+
++--------+
+|  TAGS  |
++--------+
+"Ústí nad Labem" "Czech Republic" Rhinoceros mammals "nature unsorted Ústí nad Labem" 

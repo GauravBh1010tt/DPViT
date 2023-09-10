@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gurdonark
+Photo URL    : https://www.flickr.com/photos/46183897@N00/7574456852/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 15 08:20:35 GMT+0200 2012
+Upload Date  : Sun Jul 15 15:34:25 GMT+0200 2012
+Views        : 2,036
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cottontail bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Landsford Drive, Allen, Texas, July 15, 2012, 8:20 a.m.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny cottontail allen texas 

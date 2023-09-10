@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jame and Jess
+Photo URL    : https://www.flickr.com/photos/jamehealy/529181702/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 4 07:05:53 GMT+0200 2007
+Upload Date  : Mon Jun 4 07:12:44 GMT+0200 2007
+Views        : 697
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Henry McHenry 002
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"henry mchenry" henry mchenry german shepherd "german shepherd" puppy 

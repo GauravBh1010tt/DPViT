@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Soren Wolf
+Photo URL    : https://www.flickr.com/photos/sorenwolf/24134380491/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 6 15:39:14 GMT+0100 2016
+Upload Date  : Wed Jan 6 22:00:00 GMT+0100 2016
+Views        : 118
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Playing in snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+German shepherd have fun with friend
+
+
++--------+
+|  TAGS  |
++--------+
+german shepherd dog snow winter dogs outdoor 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : karooopa
+Photo URL    : https://www.flickr.com/photos/kar0d/4638194211/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 21 15:57:11 GMT+0200 2010
+Upload Date  : Tue May 25 13:36:13 GMT+0200 2010
+Views        : 466
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+German shepherd -RÖLLI
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot; Tavoittelemassa mahdotonta
+
+
++--------+
+|  TAGS  |
++--------+
+dog green grass balck brown sweet koira vihreä ruoho nurmi must ruskea sky taivas 

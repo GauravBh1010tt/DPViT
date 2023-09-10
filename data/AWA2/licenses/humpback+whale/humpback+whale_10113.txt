@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dronepicr
+Photo URL    : https://www.flickr.com/photos/132646954@N02/23792293570/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 5 14:53:37 GMT+0200 2009
+Upload Date  : Thu Dec 31 18:26:59 GMT+0100 2015
+Geotag Info  : Latitude:-25.273825, Longitude:153.169327
+Views        : 426
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buckelwale humpback whale Frazer Island
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Freiheit Australien wold heritage Live Landschaft relax Sonne Allgemein vacation Buckelwale Natur humpback whale Strand Sun Unesco Beach "Frazer Island" holiday travel Urlaub freedom nature trip Reise landscape Australia geotagged Down Under "Down Under" "humpback whale" "wold heritage" "Fraser Island" Queensland AU 

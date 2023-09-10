@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Navdeep Raj
+Photo URL    : https://www.flickr.com/photos/navdeepraj/530180308/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 12 20:46:11 GMT+0200 2006
+Upload Date  : Mon Jun 4 21:06:35 GMT+0200 2007
+Geotag Info  : Latitude:13.736717, Longitude:100.498809
+Views        : 1,037
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion wildlife 

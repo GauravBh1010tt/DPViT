@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PabloBD
+Photo URL    : https://www.flickr.com/photos/pablobd/5103674930/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 21 09:37:01 GMT+0200 2010
+Upload Date  : Fri Oct 22 01:53:11 GMT+0200 2010
+Geotag Info  : Latitude:-34.609475, Longitude:-58.407633
+Views        : 351
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+vecinos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cats gatos siameses siamese ventana window pablobd bestofcats 

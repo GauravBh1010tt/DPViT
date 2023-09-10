@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MDRIV3R
+Photo URL    : https://www.flickr.com/photos/mdriv3r/4655614038/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 30 13:43:28 GMT+0200 2010
+Upload Date  : Mon May 31 09:52:41 GMT+0200 2010
+Views        : 97
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_5906
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+polar bear
+
+
++--------+
+|  TAGS  |
++--------+
+animals "san Diego zoo" San Diego Zoo 

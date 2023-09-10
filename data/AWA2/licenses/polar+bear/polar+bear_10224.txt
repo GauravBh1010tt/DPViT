@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : az1172
+Photo URL    : https://www.flickr.com/photos/az1172/2266259645/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 13:06:06 GMT+0200 2007
+Upload Date  : Fri Feb 15 14:24:54 GMT+0100 2008
+Views        : 1,421
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär Zoo Rostock
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eisbär Zoo Rostock
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Rostock Eisbär flickrdiamond DiamondClassPhotographer az1172 

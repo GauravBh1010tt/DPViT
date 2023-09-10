@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Soren Wolf
+Photo URL    : https://www.flickr.com/photos/sorenwolf/15597595010/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 2 14:42:42 GMT+0200 2014
+Upload Date  : Thu Nov 13 21:40:41 GMT+0100 2014
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Leopard from Brno in Czech Republic
+
+
++--------+
+|  TAGS  |
++--------+
+leopard big cat zoo animal mammal 

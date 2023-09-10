@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tehbieber
+Photo URL    : https://www.flickr.com/photos/tehbieber/8781207988/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 21 19:11:56 GMT+0200 2013
+Upload Date  : Wed May 22 08:33:47 GMT+0200 2013
+Geotag Info  : Latitude:37.484564, Longitude:-122.148163
+Views        : 1,993
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox Portrait III
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the gray fox kits at work: they're starting to get bigger!
+
+
++--------+
+|  TAGS  |
++--------+
+fox foxes kit kits 

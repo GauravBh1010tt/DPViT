@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thatedeguy
+Photo URL    : https://www.flickr.com/photos/thatedeguy/3942946053/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 29 15:24:50 GMT+0200 2009
+Upload Date  : Tue Sep 22 06:03:52 GMT+0200 2009
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0286
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo 

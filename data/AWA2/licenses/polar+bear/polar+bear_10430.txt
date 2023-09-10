@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sarahptor
+Photo URL    : https://www.flickr.com/photos/sarahptor/4286787077/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 18 23:04:20 GMT+0100 2010
+Upload Date  : Tue Jan 19 08:04:20 GMT+0100 2010
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+peeking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+photography zoo animals bear "polar bear" 

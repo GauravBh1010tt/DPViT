@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bryce Bradford
+Photo URL    : https://www.flickr.com/photos/brb_photography/4908954500/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 13 13:24:23 GMT+0200 2010
+Upload Date  : Fri Aug 20 01:11:08 GMT+0200 2010
+Views        : 825
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Rawr!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sea world san diego california rocky point preserve rpp bottlenose dolphin olympus e-3 zuiko 50-200mm f/2.8-3.5 swd 

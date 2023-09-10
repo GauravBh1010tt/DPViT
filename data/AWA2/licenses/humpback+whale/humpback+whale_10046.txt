@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markbyzewski
+Photo URL    : https://www.flickr.com/photos/markbyzewski/9658483784/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 14 21:34:39 GMT+0200 2013
+Upload Date  : Mon Sep 2 21:52:31 GMT+0200 2013
+Geotag Info  : Latitude:57.442363, Longitude:-133.707767
+Views        : 222
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+334HDRa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback Whales in Alaska.
+
+
++--------+
+|  TAGS  |
++--------+
+HDR "Humpback Whale" Alaska Ugly 

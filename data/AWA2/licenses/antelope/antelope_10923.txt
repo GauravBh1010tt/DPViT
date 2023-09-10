@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hjallig
+Photo URL    : https://www.flickr.com/photos/hjallig/2357930491/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 23 12:54:10 GMT+0100 2008
+Upload Date  : Mon Mar 24 18:39:17 GMT+0100 2008
+Views        : 398
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tender lion food
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2008 Rúanda Úganda uganda africa 

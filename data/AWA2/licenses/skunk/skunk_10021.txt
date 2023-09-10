@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rosa Pomar
+Photo URL    : https://www.flickr.com/photos/rosapomar/3497888712/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 3 10:53:41 GMT+0200 2009
+Upload Date  : Sun May 3 19:12:47 GMT+0200 2009
+Views        : 1,447
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+doninha fedorenta
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://aervilhacorderosa.com/blog/2009/05/zoo.html" rel="nofollow">blogged</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"jardim zoológico" zoo lisboa "doninha fedorenta" skunk 

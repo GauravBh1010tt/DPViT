@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tedkerwin
+Photo URL    : https://www.flickr.com/photos/tedkerwin/2467295049/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 5 10:48:08 GMT+0200 2008
+Upload Date  : Mon May 5 16:48:08 GMT+0200 2008
+Geotag Info  : Latitude:40.639065, Longitude:-74.384994
+Views        : 412
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Keely comes down stairs in Fanwood
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gsd "german shepherd" dog 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gin_Chilla
+Photo URL    : https://www.flickr.com/photos/78921929@N06/7064065189/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 29 08:46:33 GMT+0100 2008
+Upload Date  : Tue Apr 10 13:05:30 GMT+0200 2012
+Views        : 1,995
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Loewe, Lion, Kenia, Africa, Afrika
+
+
++--------+
+|  TAGS  |
++--------+
+Loewe Lion Kenia Africa Afrika 

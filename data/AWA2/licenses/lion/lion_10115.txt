@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rene Mensen
+Photo URL    : https://www.flickr.com/photos/renemensen/11016157115/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 10 10:41:21 GMT+0100 2013
+Upload Date  : Sat Nov 23 22:19:35 GMT+0100 2013
+Geotag Info  : Latitude:52.786685, Longitude:6.896281
+Views        : 4,243
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Chill !
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion leeuw nikon d5100 chill 

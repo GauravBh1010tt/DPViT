@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : smerikal
+Photo URL    : https://www.flickr.com/photos/smerikal/7662086042/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 10:39:16 GMT+0200 2012
+Upload Date  : Sat Jul 28 16:44:12 GMT+0200 2012
+Geotag Info  : Latitude:60.174967, Longitude:24.983510
+Views        : 698
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopardi
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+leopard eat syö eating Korkeasaari eläintarha zoo 

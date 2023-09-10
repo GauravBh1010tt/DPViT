@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/14539515839/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 8 20:07:45 GMT+0200 2007
+Upload Date  : Wed Jul 23 18:22:36 GMT+0200 2014
+Views        : 798
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A red fox peers through the grass.  Typically seen in early morning and late evening, the red fox sleeps during midday.
+
+Photo Credit:  Gary Eslinger/USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+FWS USFWS "U.S. Fish and Wildlife Service" Wildlife Conservation "Nature. J. Clark Salyer NWR" "J. Clark Salyer" "J. Clark" Mammals "Red Fox" Fox 

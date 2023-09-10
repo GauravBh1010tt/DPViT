@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/6114834935/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 4 11:40:20 GMT+0200 2011
+Upload Date  : Mon Sep 5 08:04:09 GMT+0200 2011
+Geotag Info  : Latitude:32.737057, Longitude:-117.149105
+Views        : 351
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Drool Detail 8439
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ever been caught drooling while asleep, hoping that no one noticed? I've woken up with wet spots on my shirt before.
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" zoo panda 

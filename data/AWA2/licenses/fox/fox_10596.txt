@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Space Ritual
+Photo URL    : https://www.flickr.com/photos/spaceritual/476217135/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 28 02:46:51 GMT+0200 2007
+Upload Date  : Sun Apr 29 04:08:42 GMT+0200 2007
+Views        : 702
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Swift Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Note the changing of colour with the seasons
+Saskatchewan Canada
+300 mm
+
+
++--------+
+|  TAGS  |
++--------+
+"swift fox" fox saskatchewan canada "i love nature" fur 

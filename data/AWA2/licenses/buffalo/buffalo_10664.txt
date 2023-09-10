@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : geff47
+Photo URL    : https://www.flickr.com/photos/geff47/6363370891/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 11 09:21:50 GMT+0200 2011
+Upload Date  : Sat Nov 19 16:14:46 GMT+0100 2011
+Views        : 130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3071
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Plains Bison in Grand Teton National Park
+
+
++--------+
+|  TAGS  |
++--------+
+Grand Teton N.P. 

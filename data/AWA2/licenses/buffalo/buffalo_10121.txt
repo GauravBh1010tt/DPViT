@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A.Poulos (Iya)
+Photo URL    : https://www.flickr.com/photos/24918962@N07/2354099042/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 7 18:02:53 GMT+0200 2007
+Upload Date  : Sun Mar 23 07:22:29 GMT+0100 2008
+Views        : 131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Morning grazing.
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo 

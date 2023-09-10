@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/12243832344/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 17 13:03:47 GMT+0200 2013
+Upload Date  : Sat Feb 1 01:49:57 GMT+0100 2014
+Views        : 160
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chester Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rhinoceros
+
+
++--------+
+|  TAGS  |
++--------+
+"Chester Zoo" Rhinoceros 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dai Luo
+Photo URL    : https://www.flickr.com/photos/dailuo/5438987806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 22 11:28:35 GMT+0200 2010
+Upload Date  : Sat Feb 12 16:46:56 GMT+0100 2011
+Geotag Info  : Latitude:30.710109, Longitude:104.071254
+Views        : 503
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Tai lei (too tired)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cheng Du panda reserve
+
+
++--------+
+|  TAGS  |
++--------+
+red panda chengdu bear canon 

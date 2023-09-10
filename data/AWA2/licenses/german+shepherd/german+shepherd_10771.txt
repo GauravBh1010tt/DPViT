@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KitAy
+Photo URL    : https://www.flickr.com/photos/kitpfish/2236754658/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 31 09:47:09 GMT+0100 2008
+Upload Date  : Sat Feb 2 13:58:03 GMT+0100 2008
+Views        : 1,166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ruby and Her Buddy-Can
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ruby snuggled in for a nap with an empty can of caramel popcorn. She pulled this out of the trash and played with it for a couple of days, pulling it into her bed and sleeping with it, too!
+
+
++--------+
+|  TAGS  |
++--------+
+Ruby "German shepherd dog" 

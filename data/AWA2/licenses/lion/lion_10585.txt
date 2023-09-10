@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shabai Liu
+Photo URL    : https://www.flickr.com/photos/48137825@N05/6320340694/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 6 16:29:17 GMT+0100 2011
+Upload Date  : Mon Nov 7 00:21:22 GMT+0100 2011
+Views        : 1,796
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the National Zoo - DC
+
+
++--------+
+|  TAGS  |
++--------+
+lion national zoo dc winternw11 

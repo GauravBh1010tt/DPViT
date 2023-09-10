@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/23793676710/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 17 14:46:55 GMT+0100 2015
+Upload Date  : Thu Dec 31 20:28:31 GMT+0100 2015
+Views        : 151
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Garden Route" "South Africa" "Jukani Wildlife Sanctuary" lion 

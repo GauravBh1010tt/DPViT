@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vmiramontes
+Photo URL    : https://www.flickr.com/photos/vmiramontes/3628188598/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 11:34:27 GMT+0200 2009
+Upload Date  : Mon Jun 15 07:49:14 GMT+0200 2009
+Views        : 289
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros at LA Zoo 061409
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros "LA Zoo" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lander2006
+Photo URL    : https://www.flickr.com/photos/wander2006/357995607/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 14 19:43:41 GMT+0100 2007
+Upload Date  : Mon Jan 15 08:43:41 GMT+0100 2007
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+les nounours
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

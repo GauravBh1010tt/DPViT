@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derell Licht
+Photo URL    : https://www.flickr.com/photos/derelllicht/6909330786/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 7 19:25:15 GMT+0200 2012
+Upload Date  : Sun Apr 8 04:25:15 GMT+0200 2012
+Views        : 123
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+incoming rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I was hunkered down on the tracks, watching this young critter gradually approaching.  He seemed to be oblivious to the presence of my discrete, subtle, six-foot-tall form kneeling on the railroad track, up until he got about 20 feet away, then suddenly went &quot;waitaminit... somthing's wrong here&quot; !!!  Ummm... ya think??
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

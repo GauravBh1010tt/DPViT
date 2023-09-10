@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Autharite
+Photo URL    : https://www.flickr.com/photos/118566686@N08/18711424519/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 7 12:51:12 GMT+0200 2015
+Upload Date  : Wed Jun 17 21:11:58 GMT+0200 2015
+Geotag Info  : Latitude:50.582025, Longitude:3.888711
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC07035
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Léopard (Panthera pardus)
+
+
++--------+
+|  TAGS  |
++--------+
+léopard 

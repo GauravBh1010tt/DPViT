@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karen Jacobs Cook
+Photo URL    : https://www.flickr.com/photos/49034868@N03/9484334078/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 11 00:03:11 GMT+0200 2013
+Upload Date  : Sun Aug 11 06:03:11 GMT+0200 2013
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yum Zi, Panda Cub, San Diego Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yum Zi has two things in common with his Dad, Gao Gao; a black spot at the end of his tail and &quot;webbing&quot;  between their toes on their hind feet.
+
+
++--------+
+|  TAGS  |
++--------+
+"Yum Zi Panda Bear Cub" "San Diego Zoo" 

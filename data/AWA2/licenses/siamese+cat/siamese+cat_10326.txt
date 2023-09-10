@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steevithak
+Photo URL    : https://www.flickr.com/photos/steevithak/5504840376/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 12 21:52:38 GMT+0200 2010
+Upload Date  : Mon Mar 7 03:13:07 GMT+0100 2011
+Views        : 627
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_7901
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sophie asleep on her cat cylinder above the computer desk.
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese 

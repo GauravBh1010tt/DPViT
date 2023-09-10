@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : volker-kannacher
+Photo URL    : https://www.flickr.com/photos/volker-kannacher/13041332544/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 8 14:17:54 GMT+0100 2014
+Upload Date  : Sun Mar 9 20:36:24 GMT+0100 2014
+Views        : 579
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dutch Shepherd Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog dutch shepherd hollandse herder hollland holland niederlande schäferhund hund hollländisch 

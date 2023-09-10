@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Robert T Bell
+Photo URL    : https://www.flickr.com/photos/roberttbell/5945374360/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 2 08:28:20 GMT+0200 2010
+Upload Date  : Sun Jul 17 06:25:39 GMT+0200 2011
+Views        : 753
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SAM_0282
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Robert T Bell" "Real Estate Sales Representative" "Sleeps in a tent" Tent "Backyard tent" Oshawa "Real Estate" "Guide Realty Limited Brokerage" 

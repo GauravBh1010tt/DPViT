@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MacJewell
+Photo URL    : https://www.flickr.com/photos/macjewell/3170998383/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 4 12:34:37 GMT+0100 2009
+Upload Date  : Mon Jan 5 21:40:09 GMT+0100 2009
+Views        : 1,641
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+That's Amur, eh?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+siblings love cuddle fur stripes "marley farm" cute WHF "Wildlife Heritage Foundation" "Big Cats" nature cats breeding kittens cubs amur leopard baby babies 

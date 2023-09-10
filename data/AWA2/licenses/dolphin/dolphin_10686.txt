@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : deltaMike
+Photo URL    : https://www.flickr.com/photos/deltamike/6237813545/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 9 11:26:28 GMT+0200 2011
+Upload Date  : Wed Oct 12 19:27:06 GMT+0200 2011
+Geotag Info  : Latitude:32.765074, Longitude:-117.226685
+Views        : 40
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Looking Good!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seaworld "san diego" vacation california 

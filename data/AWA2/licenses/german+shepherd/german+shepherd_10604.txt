@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martina Rathgens
+Photo URL    : https://www.flickr.com/photos/riviera2008/3022848290/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 13 12:23:16 GMT+0100 2006
+Upload Date  : Tue Nov 11 19:05:23 GMT+0100 2008
+Views        : 9,643
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Let´s have some fun !
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+german shepherd &quot;SAm &quot; loves snow , the more the better !
+
+
++--------+
+|  TAGS  |
++--------+
+"german shepherd dog" snow fun animal playing fur "winter day" funny 

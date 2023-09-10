@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andy Atzert
+Photo URL    : https://www.flickr.com/photos/andyatzert/6786423315/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 28 16:34:29 GMT+0100 2012
+Upload Date  : Mon Jan 30 03:06:59 GMT+0100 2012
+Geotag Info  : Latitude:39.975166, Longitude:-75.131000
+Views        : 256
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Catitude
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shugo, one of my two cats.
+
+
++--------+
+|  TAGS  |
++--------+
+Cat portrait Tonkinese Siamese pet 

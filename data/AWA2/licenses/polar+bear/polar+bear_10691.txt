@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sarae
+Photo URL    : https://www.flickr.com/photos/sarae/127832360/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 1 16:13:18 GMT+0200 2006
+Upload Date  : Thu Apr 13 10:04:14 GMT+0200 2006
+Geotag Info  : Latitude:43.059905, Longitude:-89.410772
+Views        : 250
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+polar3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+20d canon zoo "polar bear" bear "henry vilas" 

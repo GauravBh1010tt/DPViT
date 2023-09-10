@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : varmarohit
+Photo URL    : https://www.flickr.com/photos/varmarohit/9420681305/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 2 19:50:03 GMT+0200 2013
+Upload Date  : Fri Aug 2 16:20:24 GMT+0200 2013
+Geotag Info  : Latitude:-2.008339, Longitude:34.716438
+Views        : 734
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Leopardess
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Displaying Attitude
+
+
++--------+
+|  TAGS  |
++--------+
+leopard leopardess africa serengeti tanzania "nature photography" "wildlife photography" rohit "rohit varma" nature jungle 

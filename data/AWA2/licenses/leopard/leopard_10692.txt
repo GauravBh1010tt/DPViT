@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rosshuggett
+Photo URL    : https://www.flickr.com/photos/rosshuggett/8104403277/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 24 18:45:20 GMT+0200 2012
+Upload Date  : Sat Oct 20 06:00:43 GMT+0200 2012
+Geotag Info  : Latitude:-23.972099, Longitude:31.497999
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+africa kruger leopard national night park south 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew & Palmera
+Photo URL    : https://www.flickr.com/photos/drewswerds/64502516/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 18 07:55:33 GMT+0100 2005
+Upload Date  : Fri Nov 18 16:55:33 GMT+0100 2005
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dolphins3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphins aventura sailing 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Polar Cruises
+Photo URL    : https://www.flickr.com/photos/polarphotos/4684043836/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 8 19:00:03 GMT+0200 2010
+Upload Date  : Wed Jun 9 03:21:01 GMT+0200 2010
+Views        : 142
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

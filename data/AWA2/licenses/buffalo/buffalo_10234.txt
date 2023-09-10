@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a.dombrowski
+Photo URL    : https://www.flickr.com/photos/adombrowski/5908260963/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 8 09:04:21 GMT+0200 2011
+Upload Date  : Wed Jul 6 15:30:45 GMT+0200 2011
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison on a ridge
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison ridge 

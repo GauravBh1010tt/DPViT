@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NathanF
+Photo URL    : https://www.flickr.com/photos/nathanf/9594516590/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 24 16:43:59 GMT+0200 2013
+Upload Date  : Sun Aug 25 22:11:04 GMT+0200 2013
+Geotag Info  : Latitude:37.769145, Longitude:-122.498706
+Views        : 508
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison "Golden Gate Park" animal buffalo 

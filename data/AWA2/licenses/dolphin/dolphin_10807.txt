@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Road Fun
+Photo URL    : https://www.flickr.com/photos/guest_family/4754794724/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 13 13:13:36 GMT+0200 2010
+Upload Date  : Fri Jul 2 13:39:08 GMT+0200 2010
+Views        : 1,562
+Comments     : 28
+
+
++---------+
+|  TITLE  |
++---------+
+TGIF
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Even the dolphins love TGIF!
+
+Can't wait for this week to end. Happy July 4th to all of us of that persuasion!
+
+
++--------+
+|  TAGS  |
++--------+
+vacation "San Antonio" Seaworld "AF-S DX Zoom-Nikkor 18-55mm f/3.5-5.6G ED II" Texas dolphin smile TGIF blue grey water 

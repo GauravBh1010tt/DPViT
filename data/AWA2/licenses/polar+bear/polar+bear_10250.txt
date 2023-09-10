@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stefan Muth
+Photo URL    : https://www.flickr.com/photos/st_muth/14280127968/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 19 10:54:50 GMT+0200 2014
+Upload Date  : Fri Jun 20 18:13:02 GMT+0200 2014
+Views        : 278
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin Tierpark Eisbär Icebear 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/16746828313/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 14 17:06:13 GMT+0100 2015
+Upload Date  : Mon May 4 15:00:16 GMT+0200 2015
+Geotag Info  : Latitude:46.690347, Longitude:6.340430
+Views        : 3,142
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Close portrait of Kupa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A close portrait of Kupa. I like it.
+
+
++--------+
+|  TAGS  |
++--------+
+portrait face close "open mouth" beautiful serious bear "brown bear" "european bear" brown snow winter cold juraparc vallorbe switzerland nikon d4 

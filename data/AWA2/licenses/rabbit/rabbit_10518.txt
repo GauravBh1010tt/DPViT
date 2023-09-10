@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CobaltandIndigo
+Photo URL    : https://www.flickr.com/photos/cobaltandindigo/2683338894/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 15 19:01:52 GMT+0200 2008
+Upload Date  : Sat Jul 19 21:36:36 GMT+0200 2008
+Views        : 38
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0436
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

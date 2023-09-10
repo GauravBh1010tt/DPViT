@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tsbl2000
+Photo URL    : https://www.flickr.com/photos/68942208@N02/17943223063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 7 15:41:26 GMT+0200 2015
+Upload Date  : Sun Jun 7 16:47:19 GMT+0200 2015
+Views        : 1,717
+Comments     : 33
+
+
++---------+
+|  TITLE  |
++---------+
+In my Garden
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I was asked recently if the foxes still come into my garden and if so why hadn't I posted any images. Well, John, yes they still do and here is the vixen today. Isn't she beautiful? (Maisie, our cat, was inside at this time, so the vixen was safe).
+
+
++--------+
+|  TAGS  |
++--------+
+fox "red fox" 

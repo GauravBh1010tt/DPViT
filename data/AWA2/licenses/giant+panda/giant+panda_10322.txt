@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : x.Rain.z
+Photo URL    : https://www.flickr.com/photos/yunasong/4407751167/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 30 09:41:30 GMT+0200 2009
+Upload Date  : Fri Mar 5 10:30:59 GMT+0100 2010
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1131
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russellstreet
+Photo URL    : https://www.flickr.com/photos/russellstreet/4065842636/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 9 10:26:33 GMT+0100 2008
+Upload Date  : Sun Nov 1 21:55:05 GMT+0100 2009
+Geotag Info  : Latitude:-36.862181, Longitude:174.718922
+Views        : 139
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern White Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Auckland "Auckland Zoo" "New Zealand" Rhinoceros "Southern White Rhinoceros" NZL 

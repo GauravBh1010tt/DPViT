@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlexSantosa
+Photo URL    : https://www.flickr.com/photos/alexsantosa/7319746434/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 15 08:16:20 GMT+0200 2012
+Upload Date  : Sat Jun 2 13:12:26 GMT+0200 2012
+Views        : 1,679
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mr. Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bulu kelinci angora bisa dipintal untuk dijadikan topi, sarung tangan dan sebagainya
+
+
++--------+
+|  TAGS  |
++--------+
+angora "new zealand" rabbit roseland 

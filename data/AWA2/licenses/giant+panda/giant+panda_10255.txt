@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a m lewis
+Photo URL    : https://www.flickr.com/photos/a-m-lewis/4962096056/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 4 13:45:04 GMT+0200 2010
+Upload Date  : Mon Sep 6 01:37:00 GMT+0200 2010
+Geotag Info  : Latitude:38.929018, Longitude:-77.050595
+Views        : 183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giant Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "national zoo" "washington dc" animals 

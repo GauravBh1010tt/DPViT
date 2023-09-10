@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RyShy Photography
+Photo URL    : https://www.flickr.com/photos/ryshyphotography/8910241439/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 1 13:24:34 GMT+0200 2010
+Upload Date  : Sat Jun 1 11:34:31 GMT+0200 2013
+Views        : 428
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+RyShy-10101213
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals nature polar bear white canon sx40 "hs nature" 

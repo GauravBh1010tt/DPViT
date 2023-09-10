@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Show Us Your Togwotee
+Photo URL    : https://www.flickr.com/photos/showusyourtogwotee/4402343378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 30 18:33:03 GMT+0200 2003
+Upload Date  : Tue Mar 2 21:59:58 GMT+0100 2010
+Views        : 157
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

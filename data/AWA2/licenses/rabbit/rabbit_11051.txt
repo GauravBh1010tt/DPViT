@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/5714676786/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 12 19:30:35 GMT+0200 2011
+Upload Date  : Fri May 13 01:57:17 GMT+0200 2011
+Geotag Info  : Latitude:44.295622, Longitude:-77.553375
+Views        : 1,299
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Wild Rabbit_4539
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I don't know if this is the same rabbit in my back yard as last year. He is feeding under the gazebo bird feeder.
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbit Stirling Ontario 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rorals
+Photo URL    : https://www.flickr.com/photos/rorals/10904187395/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 12 16:51:18 GMT+0100 2013
+Upload Date  : Sun Nov 17 14:50:53 GMT+0100 2013
+Geotag Info  : Latitude:52.392049, Longitude:0.645790
+Views        : 304
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0265
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbit Nature Wildlife 

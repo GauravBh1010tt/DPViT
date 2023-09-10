@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nordique
+Photo URL    : https://www.flickr.com/photos/nordique/15140227081/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 4 19:09:04 GMT+0200 2014
+Upload Date  : Fri Sep 5 04:10:42 GMT+0200 2014
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo by Rick, in Ann Arbor, on his lawn.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

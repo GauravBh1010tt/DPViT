@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/4241892880/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 3 14:27:24 GMT+0100 2010
+Upload Date  : Sun Jan 3 20:27:24 GMT+0100 2010
+Views        : 595
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ateles geoffroyi Black-handed Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"New Zealand" 2009 Ateles geoffroyi Black-handed Spider Monkey primate 

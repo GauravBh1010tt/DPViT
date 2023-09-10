@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thechosenrebel
+Photo URL    : https://www.flickr.com/photos/varktherebel/4135509466/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 25 11:18:05 GMT+0100 2009
+Upload Date  : Thu Nov 26 07:21:41 GMT+0100 2009
+Views        : 339
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Fox Sleeping Campus 

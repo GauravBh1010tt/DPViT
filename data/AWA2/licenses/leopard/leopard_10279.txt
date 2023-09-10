@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Indrik myneur
+Photo URL    : https://www.flickr.com/photos/myneur/24143890170/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 7 15:57:18 GMT+0100 2016
+Upload Date  : Sun Jan 17 17:22:08 GMT+0100 2016
+Geotag Info  : Latitude:27.672777, Longitude:85.310833
+Views        : 186
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard is not amused
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In the only zoo in Nepal
+
+
++--------+
+|  TAGS  |
++--------+
+animals "Kathmandu Zoo" Zoo face leopard "looking away from camera" editorial 

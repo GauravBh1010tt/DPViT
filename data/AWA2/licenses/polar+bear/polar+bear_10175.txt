@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jens F.
+Photo URL    : https://www.flickr.com/photos/83820282@N05/14953585327/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 27 15:45:03 GMT+0200 2014
+Upload Date  : Wed Aug 27 15:45:03 GMT+0200 2014
+Geotag Info  : Latitude:54.078678, Longitude:12.082643
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1424
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2014 Ausflug Rostock Tiere Tierpark Urlaub Zoo 

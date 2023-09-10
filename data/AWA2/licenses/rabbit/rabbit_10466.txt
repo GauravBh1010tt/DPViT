@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Arend Vermazeren
+Photo URL    : https://www.flickr.com/photos/vermazeren/7883233646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 27 19:32:12 GMT+0200 2012
+Upload Date  : Tue Aug 28 23:53:36 GMT+0200 2012
+Geotag Info  : Latitude:51.645081, Longitude:4.848747
+Views        : 1,339
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+haas - brown hare
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+haas "Lepus europaeus" "brown hare" "Europese haas" "eastern jackrabbit" "eastern prairie hare" 

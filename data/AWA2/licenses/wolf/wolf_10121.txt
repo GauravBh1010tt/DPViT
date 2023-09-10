@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oregon Department of Fish & Wildlife
+Photo URL    : https://www.flickr.com/photos/odfw/17086810627/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 17 09:10:16 GMT+0200 2009
+Upload Date  : Tue Apr 28 00:52:31 GMT+0200 2015
+Views        : 2,738
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN1029_collared_wolf_odfw
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+-Photo by the Oregon Department of Fish and Wildlife-
+
+Wolf B-300 on July 17, 2009 in Wallowa County. ODFW snapped this picture after capturing and placing a new radio collar on the wolf; its collar stopped working back in fall 2008.  B-300 was first confirmed in the state back in January 2008. <a href="http://www.dfw.state.or.us/news/2008/january/012408.asp" rel="nofollow">More information</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+B300 "radio collar" adult female mammal canine wolf ODFW Oregon "gray wolf" 

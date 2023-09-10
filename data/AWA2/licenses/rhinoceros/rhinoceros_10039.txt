@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/3579966493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 15 10:20:36 GMT+0200 2009
+Upload Date  : Sun May 31 06:42:16 GMT+0200 2009
+Views        : 341
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SUMATRAN RHINOCEROS
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dicerorhinus sumatrensis
+
+
++--------+
+|  TAGS  |
++--------+
+cincinatizoo 

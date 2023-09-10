@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rowley Taylor
+Photo URL    : https://www.flickr.com/photos/rowleytaylor/15243634043/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 26 15:24:23 GMT+0200 2013
+Upload Date  : Mon Nov 24 00:15:51 GMT+0100 2014
+Geotag Info  : Latitude:-14.848992, Longitude:35.294212
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2916 CROP EDIT SHARP
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Implala - 26/07/2013
+
+
++--------+
+|  TAGS  |
++--------+
+Malawi Africa MvuuLodge LiwondeNationalPark Liwonde Impala Horns 

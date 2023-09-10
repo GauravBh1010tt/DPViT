@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marriedwithluggage
+Photo URL    : https://www.flickr.com/photos/marriedwithluggage/5511436551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 3 07:18:23 GMT+0100 2011
+Upload Date  : Wed Mar 9 13:14:20 GMT+0100 2011
+Geotag Info  : Latitude:-80.362503, Longitude:20.563000
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale sighting - 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

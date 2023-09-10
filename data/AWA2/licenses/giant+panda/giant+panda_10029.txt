@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : uniunitwins
+Photo URL    : https://www.flickr.com/photos/62570131@N04/10264773336/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 28 16:11:48 GMT+0200 2013
+Upload Date  : Mon Oct 14 09:50:08 GMT+0200 2013
+Views        : 105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20130928_shinshin_giant panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

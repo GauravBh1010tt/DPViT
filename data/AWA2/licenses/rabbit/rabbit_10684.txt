@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : luagh45
+Photo URL    : https://www.flickr.com/photos/luagh45/6423076979/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 28 20:58:28 GMT+0100 2011
+Upload Date  : Tue Nov 29 05:58:28 GMT+0100 2011
+Views        : 1,516
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+New Zealand White
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+luagh45 bunny rabbit 

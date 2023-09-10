@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : torisan3500
+Photo URL    : https://www.flickr.com/photos/torisan3500/3624104539/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 19:38:24 GMT+0200 2009
+Upload Date  : Sun Jun 14 12:38:24 GMT+0200 2009
+Geotag Info  : Latitude:35.649079, Longitude:139.404479
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rhinoceros armed
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tokyo japan zoo animal 動物園 多摩動物公園 犀 

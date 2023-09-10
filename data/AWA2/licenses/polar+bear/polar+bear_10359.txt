@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lars K. Jensen
+Photo URL    : https://www.flickr.com/photos/larskjensen/8727424333/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 10 11:42:42 GMT+0200 2013
+Upload Date  : Sat May 11 13:08:34 GMT+0200 2013
+Views        : 873
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Isbjørn i Zoologisk Have / Polar Bear in Copenhagen Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

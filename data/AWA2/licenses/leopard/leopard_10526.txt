@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : How I See Life
+Photo URL    : https://www.flickr.com/photos/mrsbluff/3999492094/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 26 12:19:18 GMT+0200 2009
+Upload Date  : Sun Oct 11 00:54:03 GMT+0200 2009
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Randomness 011
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+leopard Sacramento zoo 

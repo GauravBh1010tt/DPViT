@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : candyschwartz
+Photo URL    : https://www.flickr.com/photos/candy-s/8247380014/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 3 20:41:35 GMT+0100 2012
+Upload Date  : Wed Dec 5 14:20:23 GMT+0100 2012
+Geotag Info  : Latitude:42.303404, Longitude:-71.085995
+Views        : 1,596
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Old lion on heated rock
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lions 

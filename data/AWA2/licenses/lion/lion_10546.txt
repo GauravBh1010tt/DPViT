@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : contemplicity
+Photo URL    : https://www.flickr.com/photos/angel_malachite/4090902415/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 9 03:02:11 GMT+0100 2009
+Upload Date  : Tue Nov 10 03:21:25 GMT+0100 2009
+Geotag Info  : Latitude:32.209589, Longitude:-110.920951
+Views        : 1,381
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.contemplicity.com" rel="nofollow">www.contemplicity.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+11-09-09 "Tucson Zoo" "Reid Park Zoo" Tucson Arizona Zoo lion sunbathing "big cat" Arizonazoopics "United States" USA "Panthera leo" wlny:photo=i5gg wlny:species=s36 wlny:trip=tgc wlny:place=pe3 wlny:geotagged=1 pic pics picture pictures photo photos photograph photographs photography "digital camera" "Zoos Of North America" "geo tagged" 

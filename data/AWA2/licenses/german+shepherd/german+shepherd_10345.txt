@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amkelley1
+Photo URL    : https://www.flickr.com/photos/131262400@N02/16809444902/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 13 16:30:14 GMT+0100 2015
+Upload Date  : Sat Mar 14 12:28:10 GMT+0100 2015
+Views        : 286
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherd Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tasha, 8 Months
+
+
++--------+
+|  TAGS  |
++--------+
+puppy german shepherd cute dog canon 5d mkii 

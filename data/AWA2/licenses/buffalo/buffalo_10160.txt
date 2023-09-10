@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Amy Guth
+Photo URL    : https://www.flickr.com/photos/amyguth/4045720790/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 24 17:21:24 GMT+0200 2009
+Upload Date  : Mon Oct 26 05:34:29 GMT+0100 2009
+Geotag Info  : Latitude:44.739694, Longitude:-110.571212
+Views        : 259
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison at Yellowstone
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+montana animals "national park montana" yellowstone "national parks" 

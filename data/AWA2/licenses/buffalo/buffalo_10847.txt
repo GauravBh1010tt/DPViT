@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : samirluther
+Photo URL    : https://www.flickr.com/photos/samirluther/3176454764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 30 20:11:35 GMT+0100 2008
+Upload Date  : Wed Jan 7 08:12:50 GMT+0100 2009
+Views        : 274
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wood Bison roaming Alaskan field...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"wood bison" alaska snow field bison 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ayumew
+Photo URL    : https://www.flickr.com/photos/ayumew/6089239608/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 28 11:53:34 GMT+0200 2011
+Upload Date  : Sun Aug 28 16:47:01 GMT+0200 2011
+Views        : 132
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+snow leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

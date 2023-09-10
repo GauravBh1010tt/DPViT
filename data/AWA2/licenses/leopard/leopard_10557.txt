@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jonsson
+Photo URL    : https://www.flickr.com/photos/karljonsson/6070774460/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 22 14:08:56 GMT+0200 2011
+Upload Date  : Mon Aug 22 21:48:40 GMT+0200 2011
+Geotag Info  : Latitude:58.443499, Longitude:11.436102
+Views        : 304
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snöleopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nordens ark djur animals snöleopard leopard "snow leopard" "nordens ark" 

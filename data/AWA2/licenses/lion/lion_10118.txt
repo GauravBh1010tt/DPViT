@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : N. Feans
+Photo URL    : https://www.flickr.com/photos/endogamia/3930343909/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 6 14:53:21 GMT+0200 2009
+Upload Date  : Fri Sep 18 09:27:17 GMT+0200 2009
+Geotag Info  : Latitude:-2.008339, Longitude:34.716438
+Views        : 2,292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Copula
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+leon lion leao serengeti tanzania FlickrBigCats 

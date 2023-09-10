@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EarlRShumaker
+Photo URL    : https://www.flickr.com/photos/64141731@N03/11127064784/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 29 16:42:38 GMT+0100 2013
+Upload Date  : Sat Nov 30 05:39:15 GMT+0100 2013
+Views        : 771
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+128
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Argus, Black German Shepherd
+Blackhawk Springs Forest Preserve  Winnebago County, Il  Nov. 29, 2013
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Day by Day at Beautiful Bearskin Lodge
+Photo URL    : https://www.flickr.com/photos/bearskinlodge/5962602645/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 18 07:56:28 GMT+0200 2011
+Upload Date  : Fri Jul 22 05:31:19 GMT+0200 2011
+Views        : 352
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+7.18.11
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fox photo by Kaitlyn Mumm.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

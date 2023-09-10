@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lum!nous
+Photo URL    : https://www.flickr.com/photos/62997807@N06/8543659939/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 13 11:13:05 GMT+0200 2012
+Upload Date  : Sun Mar 10 11:33:10 GMT+0100 2013
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion zoo 

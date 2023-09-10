@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/454595511/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 6 14:58:22 GMT+0200 2007
+Upload Date  : Wed Apr 11 00:33:57 GMT+0200 2007
+Geotag Info  : Latitude:51.863275, Longitude:0.835690
+Views        : 8,705
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Colchester Zoo Wolves 6 April 2007 001
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wolf
+
+
++--------+
+|  TAGS  |
++--------+
+tigers wolves colchester zoo 

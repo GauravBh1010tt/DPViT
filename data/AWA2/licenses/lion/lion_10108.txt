@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daijithegeek
+Photo URL    : https://www.flickr.com/photos/davidjoaquim/8035458934/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 11 10:33:39 GMT+0100 2011
+Upload Date  : Sat Sep 29 14:10:26 GMT+0200 2012
+Geotag Info  : Latitude:-1.504953, Longitude:35.194702
+Views        : 362
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bug me not
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+kenya lion mara 

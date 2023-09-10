@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zeze57
+Photo URL    : https://www.flickr.com/photos/zeze57/2970609619/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 21 00:00:00 GMT+0200 2008
+Upload Date  : Sat Oct 25 11:59:02 GMT+0200 2008
+Geotag Info  : Latitude:51.523510, Longitude:5.120916
+Views        : 58
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+P9210174
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals zoo E510 Olympus zeze57 

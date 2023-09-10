@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : olyvia.meyer
+Photo URL    : https://www.flickr.com/photos/littlechicken/5557921976/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 22 17:00:37 GMT+0100 2011
+Upload Date  : Fri Mar 25 05:48:24 GMT+0100 2011
+Geotag Info  : Latitude:-27.960178, Longitude:153.424957
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1010546
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+australia seaworld dolphin 

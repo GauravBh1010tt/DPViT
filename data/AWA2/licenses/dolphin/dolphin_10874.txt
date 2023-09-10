@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zenuity
+Photo URL    : https://www.flickr.com/photos/zenuity/5961949869/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 21 15:22:07 GMT+0200 2011
+Upload Date  : Fri Jul 22 00:22:07 GMT+0200 2011
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dolphin!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Courtesy of Megan Rogers
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StuBez
+Photo URL    : https://www.flickr.com/photos/99353930@N00/2738825994/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 3 11:51:41 GMT+0100 2007
+Upload Date  : Wed Aug 6 16:38:50 GMT+0200 2008
+Geotag Info  : Latitude:53.355008, Longitude:-6.304178
+Views        : 42
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Dublin Zoo" 

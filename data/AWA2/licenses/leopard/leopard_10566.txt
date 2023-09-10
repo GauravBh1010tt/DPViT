@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spencer77
+Photo URL    : https://www.flickr.com/photos/spencer77/5821282772/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 27 13:56:55 GMT+0200 2011
+Upload Date  : Sat Jun 11 16:13:51 GMT+0200 2011
+Geotag Info  : Latitude:45.491427, Longitude:10.808486
+Views        : 1,385
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard (Panthera Uncia), Parco Natura Viva
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This picture is available to use for free, under the creative commons licence. All I ask is that I'm given a photo credit &amp; a courtesy email to let me know how it's being used.
+
+
++--------+
+|  TAGS  |
++--------+
+cat leopard zoo mammal animal "snow leopard" feline whiskers spots Sony A350 alpha 

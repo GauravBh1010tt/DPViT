@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kotobarukan
+Photo URL    : https://www.flickr.com/photos/89156217@N06/8119680269/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 17 15:41:23 GMT+0200 2012
+Upload Date  : Wed Oct 24 19:54:50 GMT+0200 2012
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0583
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

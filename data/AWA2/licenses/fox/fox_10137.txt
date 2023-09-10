@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : goierritarra1
+Photo URL    : https://www.flickr.com/photos/goierritarra1/4693874099/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 12 12:38:41 GMT+0200 2010
+Upload Date  : Sat Jun 12 23:58:28 GMT+0200 2010
+Views        : 721
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_5757b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A hungry fox in the Bardenas Reales, Nafarroa-Navarra.
+
+
++--------+
+|  TAGS  |
++--------+
+Fox Bardenas Bardeak Nafarroa Navarra "Nikon D300" 70-300mmVR tc20ii "euskal herria" 

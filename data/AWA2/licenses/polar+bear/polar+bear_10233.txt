@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jäger & Sammler
+Photo URL    : https://www.flickr.com/photos/66235205@N06/7521562192/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 7 12:17:47 GMT+0200 2012
+Upload Date  : Sat Jul 7 19:20:16 GMT+0200 2012
+Views        : 188
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

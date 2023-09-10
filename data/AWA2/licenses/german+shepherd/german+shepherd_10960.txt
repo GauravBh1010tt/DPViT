@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/8699029580/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 1 13:02:07 GMT+0200 2013
+Upload Date  : Wed May 1 15:30:50 GMT+0200 2013
+Geotag Info  : Latitude:51.567833, Longitude:0.050666
+Views        : 257
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Photo Stream" Bessy GSD dog "German Shepherd" river "River Roding" "Wanstead Park" 

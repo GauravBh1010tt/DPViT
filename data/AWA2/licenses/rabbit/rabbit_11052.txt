@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/8750642116/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 18 08:24:57 GMT+0200 2013
+Upload Date  : Sat May 18 14:32:58 GMT+0200 2013
+Geotag Info  : Latitude:44.295534, Longitude:-77.553402
+Views        : 10,069
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Wild Rabbit_8408
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I'm debating whether or not to call it &quot;Tobi North&quot; in honour of two friends' rabbit
+
+
++--------+
+|  TAGS  |
++--------+
+"Wild Rabbit" "Tobi North" Stirling Ontario 

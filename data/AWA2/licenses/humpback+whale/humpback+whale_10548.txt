@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : puliarf
+Photo URL    : https://www.flickr.com/photos/puliarfanita/9590266189/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 19 12:18:23 GMT+0200 2013
+Upload Date  : Sun Aug 25 19:06:11 GMT+0200 2013
+Geotag Info  : Latitude:34.399544, Longitude:-119.715614
+Views        : 11,514
+Comments     : 35
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback_3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken during a whale watching trip on the Condor Express [ <a href="http://condorexpress.com/" rel="nofollow">condorexpress.com/</a> ] in the Santa Barbara east channel
+
+
++--------+
+|  TAGS  |
++--------+
+"whale watching" whale "humpback whale" "santa barbara" Condor Express explore 

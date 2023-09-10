@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : r h
+Photo URL    : https://www.flickr.com/photos/r-h/136872851/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 7 15:12:47 GMT+0200 2006
+Upload Date  : Sat Apr 29 15:52:29 GMT+0200 2006
+Geotag Info  : Latitude:49.373878, Longitude:-123.100776
+Views        : 1,784
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wolf vancouver "grouse mountain" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : big-ashb
+Photo URL    : https://www.flickr.com/photos/big-ashb/10315871483/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 15 15:39:59 GMT+0200 2013
+Upload Date  : Wed Oct 16 21:30:26 GMT+0200 2013
+Geotag Info  : Latitude:50.991313, Longitude:-1.283255
+Views        : 624
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard - Marwell Wildlife
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Marwell Wildlife Winchester Zoo animals Canon 600D 

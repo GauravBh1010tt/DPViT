@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/6975080721/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 11 14:04:28 GMT+0100 2012
+Upload Date  : Mon Mar 12 05:46:11 GMT+0100 2012
+Geotag Info  : Latitude:42.462773, Longitude:-71.093666
+Views        : 751
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard - No Snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo massachuetts snow leopard 

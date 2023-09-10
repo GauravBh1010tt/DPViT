@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David Berkowitz
+Photo URL    : https://www.flickr.com/photos/davidberkowitz/5698379648/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 21 07:46:48 GMT+0100 2011
+Upload Date  : Sun May 8 05:46:56 GMT+0200 2011
+Views        : 181
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kori bustard bird - Ngorongoro Crater Safari - Ngorongoro Conservation Area - Tanzania, Africa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ngorongoro Crater Safari - Tanzania, Africa
+
+(cc) David Berkowitz - <a href="http://www.twitter.com/dberkowitz" rel="nofollow">www.twitter.com/dberkowitz</a> - <a href="http://www.marketersstudio.com" rel="nofollow">www.marketersstudio.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+africa tanzania safari ngorongoro 

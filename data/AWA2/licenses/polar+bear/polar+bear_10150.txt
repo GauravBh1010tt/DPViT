@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Arctic Wolf Pictures
+Photo URL    : https://www.flickr.com/photos/arcticwoof/6959407702/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 19 13:50:13 GMT+0100 2010
+Upload Date  : Mon Apr 23 11:04:31 GMT+0200 2012
+Views        : 1,089
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Dancing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It takes two to tango
+
+
++--------+
+|  TAGS  |
++--------+
+animals polar bear polarbear snow 

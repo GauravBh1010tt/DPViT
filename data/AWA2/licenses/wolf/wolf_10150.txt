@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : david_shane
+Photo URL    : https://www.flickr.com/photos/david_shane/8540211212/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 8 11:45:09 GMT+0100 2013
+Upload Date  : Fri Mar 8 19:26:38 GMT+0100 2013
+Geotag Info  : Latitude:42.718074, Longitude:-84.528464
+Views        : 836
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gray wolf at Potter Park Zoo.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

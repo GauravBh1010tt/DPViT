@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Helena Jacoba
+Photo URL    : https://www.flickr.com/photos/69302634@N02/9362293586/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 21 14:36:04 GMT+0200 2013
+Upload Date  : Thu Jul 25 01:16:52 GMT+0200 2013
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ezra Pound, a beautiful, friendly part-Himalayan with Siamese markings
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bonded with brother TS Eliot. The pair can be adopted through <a href="http://www.abbeycats.org" rel="nofollow">www.abbeycats.org</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Himalayan kittie cat Siamese markings cute 

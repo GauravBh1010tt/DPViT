@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mpeirce
+Photo URL    : https://www.flickr.com/photos/michaelpeirce/8479418433/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 16 17:57:49 GMT+0100 2013
+Upload Date  : Sun Feb 17 00:08:38 GMT+0100 2013
+Geotag Info  : Latitude:40.187586, Longitude:-82.986388
+Views        : 362
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Backyard Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Saw this (one of a pair) fox sniffing around our patio.
+
+
++--------+
+|  TAGS  |
++--------+
+"Photo Stream" fox 

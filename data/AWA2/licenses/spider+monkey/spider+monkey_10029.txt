@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/5184275837/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 16 16:01:10 GMT+0200 2010
+Upload Date  : Wed Nov 17 16:53:10 GMT+0100 2010
+Geotag Info  : Latitude:57.037414, Longitude:9.898660
+Views        : 4,220
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Black spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+During my trip in Denmark, I also went to one of the zoo of the country, the Aalborg zoo, which is a nice one actually! :)
+Here is a black spider monkey taken there.
+
+
++--------+
+|  TAGS  |
++--------+
+spider monkey ape primate black hanging mammal zoo aalborg denmark nikon d300 

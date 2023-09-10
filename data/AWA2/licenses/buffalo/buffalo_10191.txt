@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/14900019530/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 7 17:18:36 GMT+0100 2010
+Upload Date  : Sat Aug 30 23:26:03 GMT+0200 2014
+Views        : 1,486
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison Framed by Downtown
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A photo of the refuge's bison herd and the Denver skyline won third place in 2011. 
+
+Photo Credit: Linda Broeren
+
+
++--------+
+|  TAGS  |
++--------+
+USFWS FWS "U.S. FISH AND WILDLIFE SERVICE" "U.S. FISH & WILDLIFE SERVICE" "National Wildlife Refuge System" NWRS Refuge "Rocky Mountain Arsenal National Wildlife Refuge" CONSERVATION NATURE WILDLIFE photography "photo contest" 

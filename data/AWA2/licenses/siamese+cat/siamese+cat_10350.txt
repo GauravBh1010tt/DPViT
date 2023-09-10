@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nick Harris1
+Photo URL    : https://www.flickr.com/photos/nickharris1/5987163563/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 29 08:40:59 GMT+0200 2011
+Upload Date  : Fri Jul 29 15:42:23 GMT+0200 2011
+Views        : 903
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Lost
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We've been 'sheltering' this lost Siamese mix for a week now. I feel for him as he's declawed and seems to be craving human contact. Hopefully we'll get him a home soon
+
+
++--------+
+|  TAGS  |
++--------+
+Stray lost Siamese cat blue eyes "Blue eyes" 

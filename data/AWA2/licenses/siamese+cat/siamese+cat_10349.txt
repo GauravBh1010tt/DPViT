@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Beatriz Jiménez
+Photo URL    : https://www.flickr.com/photos/beatrizjimenez/6111205939/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 1 11:14:28 GMT+0200 2011
+Upload Date  : Sun Sep 4 10:09:28 GMT+0200 2011
+Views        : 1,098
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lolita por la mañana
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese siamés gato 

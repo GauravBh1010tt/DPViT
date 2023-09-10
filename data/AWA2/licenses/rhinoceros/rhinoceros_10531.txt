@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photoverulam
+Photo URL    : https://www.flickr.com/photos/photoverulam/138380337/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 30 14:41:00 GMT+0200 2006
+Upload Date  : Mon May 1 18:28:21 GMT+0200 2006
+Geotag Info  : Latitude:51.848769, Longitude:-0.539231
+Views        : 158
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Southern White Rhinos
+
+
++--------+
+|  TAGS  |
++--------+
+whipsnade zoo rhinoceros 

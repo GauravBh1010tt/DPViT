@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ibbadib
+Photo URL    : https://www.flickr.com/photos/ibbadib/24175737239/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 22 15:05:04 GMT+0100 2016
+Upload Date  : Fri Jan 22 20:04:34 GMT+0100 2016
+Views        : 186
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherd wanting to play
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He just wants to play :-D
+
+Please use this photo under the Creative commons license :-D
+
+
++--------+
+|  TAGS  |
++--------+
+Snow winter frost cold dog "German Shepherd" fun 

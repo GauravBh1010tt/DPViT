@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeminichronicles
+Photo URL    : https://www.flickr.com/photos/jeminichronicles/4127597728/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 22 20:14:56 GMT+0100 2009
+Upload Date  : Sun Nov 22 21:14:56 GMT+0100 2009
+Views        : 162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8425
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chengdu china "panda base" 

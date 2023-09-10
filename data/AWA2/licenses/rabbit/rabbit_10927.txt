@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/3555303712/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 22 15:06:30 GMT+0200 2009
+Upload Date  : Fri May 22 23:48:02 GMT+0200 2009
+Geotag Info  : Latitude:38.922691, Longitude:-76.974785
+Views        : 669
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Schlump!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Derby Moping
+
+
++--------+
+|  TAGS  |
++--------+
+derby bunny rabbit "house rabbit" rex minirex soft brown awesome cute sad "poor bunny" 

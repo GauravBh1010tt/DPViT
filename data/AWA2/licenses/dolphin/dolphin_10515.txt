@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jiihaa
+Photo URL    : https://www.flickr.com/photos/jiihaa/9362143837/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 24 11:33:51 GMT+0200 2013
+Upload Date  : Thu Jul 25 11:03:04 GMT+0200 2013
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+LX5 

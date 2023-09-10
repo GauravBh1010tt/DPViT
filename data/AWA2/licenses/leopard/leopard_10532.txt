@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrGuilt
+Photo URL    : https://www.flickr.com/photos/bontempscharly/9888832063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 22 15:38:51 GMT+0200 2013
+Upload Date  : Mon Sep 23 04:56:12 GMT+0200 2013
+Views        : 1,219
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Renji and Nubo Snuggle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cincinnati cats "Cincinnati Zoo" Nubo "Snow Leopards" "AF-S DX Zoom-Nikkor 55-200mm f/4-5.6G ED" 

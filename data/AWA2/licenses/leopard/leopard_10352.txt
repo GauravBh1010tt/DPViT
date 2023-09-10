@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vegan Feast Catering
+Photo URL    : https://www.flickr.com/photos/veganfeast/4651963004/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 29 01:36:06 GMT+0200 2010
+Upload Date  : Sun May 30 06:43:18 GMT+0200 2010
+Views        : 86
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+See previous description
+
+
++--------+
+|  TAGS  |
++--------+
+SanDiegoZoo 

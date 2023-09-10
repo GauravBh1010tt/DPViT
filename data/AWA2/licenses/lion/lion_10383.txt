@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gregw66
+Photo URL    : https://www.flickr.com/photos/gregw66/3684693751/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 13 17:57:17 GMT+0200 2006
+Upload Date  : Fri Jul 3 22:32:41 GMT+0200 2009
+Geotag Info  : Latitude:-20.385831, Longitude:16.914688
+Views        : 1,629
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion eating
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Aloegrove Lion 

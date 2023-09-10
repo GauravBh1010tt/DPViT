@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bird Brian
+Photo URL    : https://www.flickr.com/photos/birdbrian/5785123103/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 2 11:36:46 GMT+0200 2011
+Upload Date  : Wed Jun 1 09:46:31 GMT+0200 2011
+Geotag Info  : Latitude:10.864885, Longitude:-85.417408
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_DSC5648
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spider Monkeys
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

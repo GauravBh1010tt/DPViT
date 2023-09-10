@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D-Stanley
+Photo URL    : https://www.flickr.com/photos/davidstanleytravel/11421031704/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 17 08:10:31 GMT+0100 2013
+Upload Date  : Tue Dec 17 17:11:27 GMT+0100 2013
+Geotag Info  : Latitude:7.517363, Longitude:38.653163
+Views        : 2,976
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Gazelle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Herds of gazelle are seen in Abiata-Shala Lakes National Park between Ziway and Shashemene, Ethiopia
+
+
++--------+
+|  TAGS  |
++--------+
+gazelle Ethiopia Abiata-Shala Lakes National Park 

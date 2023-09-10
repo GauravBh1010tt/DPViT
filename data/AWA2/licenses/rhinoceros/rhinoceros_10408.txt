@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thetimjenkins
+Photo URL    : https://www.flickr.com/photos/thetimjenkins/5474356780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 00:00:00 GMT+0200 2007
+Upload Date  : Thu Feb 24 18:39:19 GMT+0100 2011
+Geotag Info  : Latitude:32.724982, Longitude:-97.355732
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros 5
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros eating "Fort Worth Zoo" 

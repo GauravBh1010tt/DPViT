@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : princesskoko
+Photo URL    : https://www.flickr.com/photos/princesskoko/14388248615/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 23 19:22:10 GMT+0200 2006
+Upload Date  : Tue Jun 10 06:34:21 GMT+0200 2014
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4792
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+SeaWorld "SeaWorld San Diego" "San Diego" "Killer Whale" Orca 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : one_dead_president
+Photo URL    : https://www.flickr.com/photos/35773893@N00/2506673309/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 19 11:55:37 GMT+0200 2008
+Upload Date  : Tue May 20 03:44:57 GMT+0200 2008
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC02254
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"bronx zoo" 

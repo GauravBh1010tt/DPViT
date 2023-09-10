@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : felixtsao
+Photo URL    : https://www.flickr.com/photos/felixtsao/4636903792/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 24 15:25:36 GMT+0200 2010
+Upload Date  : Mon May 24 22:44:26 GMT+0200 2010
+Views        : 237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nikon d100 85 mm rabbit hare depth field dof 

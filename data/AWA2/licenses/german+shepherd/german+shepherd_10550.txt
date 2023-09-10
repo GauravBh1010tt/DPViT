@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : M. Bertulat
+Photo URL    : https://www.flickr.com/photos/berti66/76847862/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 1 00:00:00 GMT+0200 1998
+Upload Date  : Sat Dec 24 13:57:07 GMT+0100 2005
+Views        : 409
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kessy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Das ist unser lieber Hund Kessy.
+
+
++--------+
+|  TAGS  |
++--------+
+Hund Kessy Schäferhund dog "german shepherd" "german shepherd dog" animals canon eos "eos 400" 

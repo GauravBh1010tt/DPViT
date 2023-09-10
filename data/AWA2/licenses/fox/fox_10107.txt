@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Parker2012
+Photo URL    : https://www.flickr.com/photos/chrisparker2012/15908382044/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 14 10:57:25 GMT+0100 2013
+Upload Date  : Sat Feb 14 22:38:17 GMT+0100 2015
+Views        : 638
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brrr it's cold
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife natural collection beauty Fox "Red Fox" mammal snow 

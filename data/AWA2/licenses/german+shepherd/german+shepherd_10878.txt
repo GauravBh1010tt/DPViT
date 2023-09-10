@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tedkerwin
+Photo URL    : https://www.flickr.com/photos/tedkerwin/5461674246/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 28 11:03:42 GMT+0100 2010
+Upload Date  : Sun Feb 20 15:41:05 GMT+0100 2011
+Geotag Info  : Latitude:40.194189, Longitude:-74.026206
+Views        : 191
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tana grabs her ball
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tana GSD German Shepherd snow 

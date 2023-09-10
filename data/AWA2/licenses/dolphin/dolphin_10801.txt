@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OURAWESOMEPLANET: PHILS #1 FOOD AND TRAVEL BLOG
+Photo URL    : https://www.flickr.com/photos/diaz/8602899306/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 23 10:49:09 GMT+0100 2013
+Upload Date  : Sat Mar 30 10:16:26 GMT+0100 2013
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Swim Encounter with Dolphin-125.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

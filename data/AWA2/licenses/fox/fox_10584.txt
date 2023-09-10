@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Graham Ó Síodhacháin
+Photo URL    : https://www.flickr.com/photos/funkdooby/15713629729/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 16 16:25:55 GMT+0200 2013
+Upload Date  : Fri Nov 28 19:33:21 GMT+0100 2014
+Views        : 1,023
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Smiling fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox wildlife nature "margate cemetery" 

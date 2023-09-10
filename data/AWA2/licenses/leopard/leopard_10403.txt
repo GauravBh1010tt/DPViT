@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam Howzit
+Photo URL    : https://www.flickr.com/photos/aloha75/14666546225/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 15 17:03:22 GMT+0200 2014
+Upload Date  : Wed Jul 16 06:09:20 GMT+0200 2014
+Views        : 813
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Leopard at the Lincoln Park Zoo in Chicago, Illinois.
+
+
++--------+
+|  TAGS  |
++--------+
+Chicago Illinois "Lincoln Park Zoo" Animal Animals cat leopard 

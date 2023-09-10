@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ruth and Dave
+Photo URL    : https://www.flickr.com/photos/ruthanddave/53089050/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 16 16:13:18 GMT+0200 2005
+Upload Date  : Sun Oct 16 21:35:58 GMT+0200 2005
+Geotag Info  : Latitude:51.853488, Longitude:-0.546398
+Views        : 489
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Greater one-horned rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"greater one-horned rhino" rhinos rhinoceros whipsnade zoos 

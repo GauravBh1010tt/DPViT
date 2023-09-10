@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gaobo
+Photo URL    : https://www.flickr.com/photos/gaobo/4312796391/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 29 14:22:56 GMT+0100 2010
+Upload Date  : Fri Jan 29 09:42:10 GMT+0100 2010
+Views        : 144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White and green
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+shanghai minhang life pet rabbit 

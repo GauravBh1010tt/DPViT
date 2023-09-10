@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : einalem
+Photo URL    : https://www.flickr.com/photos/einalem/890603469/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 8 09:49:55 GMT+0200 2007
+Upload Date  : Sun Jul 8 16:49:55 GMT+0200 2007
+Views        : 1,075
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+china RTW panda chengdu 

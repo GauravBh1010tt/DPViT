@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roberto Cacho
+Photo URL    : https://www.flickr.com/photos/mploco/3455553503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 16 13:56:47 GMT+0200 2009
+Upload Date  : Sun Apr 19 18:45:58 GMT+0200 2009
+Geotag Info  : Latitude:27.537500, Longitude:-15.677490
+Views        : 2,130
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Delfines
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nos visitan los delfines
+
+
++--------+
+|  TAGS  |
++--------+
+"Gran Canarias" delfines 

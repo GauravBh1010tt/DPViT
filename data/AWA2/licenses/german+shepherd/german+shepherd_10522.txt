@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : doka79
+Photo URL    : https://www.flickr.com/photos/doka79/4685420942/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 9 16:37:08 GMT+0200 2010
+Upload Date  : Wed Jun 9 16:37:08 GMT+0200 2010
+Views        : 483
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Jack
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+getting some break
+
+
++--------+
+|  TAGS  |
++--------+
+canon power shot a530 doka herten westerholt deutscher schäferhund german shepherd feld hund dog tier animal 

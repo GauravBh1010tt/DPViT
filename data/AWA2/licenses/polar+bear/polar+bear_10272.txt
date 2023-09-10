@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : shonna1968
+Photo URL    : https://www.flickr.com/photos/shonna1968/2572438171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 12 07:52:15 GMT+0200 2008
+Upload Date  : Thu Jun 12 16:52:15 GMT+0200 2008
+Views        : 398
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hey, You talking to me???
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think this polar bear was posing. He is just beautiful.
+
+
++--------+
+|  TAGS  |
++--------+
+"Polar bear" rocks 

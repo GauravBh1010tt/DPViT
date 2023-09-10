@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CassiaA
+Photo URL    : https://www.flickr.com/photos/euacreditava/2438060288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 16 17:22:31 GMT+0100 2008
+Upload Date  : Thu Apr 24 04:32:14 GMT+0200 2008
+Views        : 416
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC05129
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Nicolas Bunny Coelho Fauna Bichos Pets 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kdurcan
+Photo URL    : https://www.flickr.com/photos/kierandurcan/3759287468/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 8 15:32:03 GMT+0200 2009
+Upload Date  : Sun Jul 26 21:41:08 GMT+0200 2009
+Geotag Info  : Latitude:52.391734, Longitude:0.643386
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0499
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

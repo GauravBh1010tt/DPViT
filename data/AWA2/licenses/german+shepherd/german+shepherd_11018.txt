@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The U.S. Army
+Photo URL    : https://www.flickr.com/photos/soldiersmediacenter/3038718184/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 12 12:10:07 GMT+0100 2008
+Upload Date  : Mon Nov 17 18:07:32 GMT+0100 2008
+Views        : 5,603
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+www.Army.mil
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Air Force Staff Sgt. Travis Hazelton (right), a military working dog handler from Sachse, Texas, observes as his dog, Sinda, “attacks” Staff Sgt. Robert Moore, a specialized search dog handler and kennel master from Charleston, W.Va., during aggression training, Nov. 12, 2008. Hazelton is assigned to the 37th Security Forces Squadron at Lackland Air Force Base, Texas; Moore is assigned to the 217th Military Police Detachment at Fort Lee, Va.; and Sinda is a German Shepherd trained as a patrol explosives MWD.
+
+<a href="http://www.Army.mil/" rel="nofollow">www.Army.mil/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+iraq dog wmd training soldier Army Air Force 

@@ -1,0 +1,43 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JAPG 1100D
+Photo URL    : https://www.flickr.com/photos/92819409@N04/19665949556/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 3 11:37:33 GMT+0200 2015
+Upload Date  : Tue Jul 14 18:12:32 GMT+0200 2015
+Geotag Info  : Latitude:28.409284, Longitude:-16.565515
+Views        : 252
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Delfín (Loro Parque de Tenerife)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dofí al Loro Parque
+Dolphin at Loro Parque
+Dauphins au Loro Parque
+Delphin bei Loro Parque
+Delfino a Loro Parque
+Golfinho no Loro Parque
+Delfeno ĉe Papago Parko
+
+Loro Parque - Puerto de la Cruz - Tenerife
+
+
++--------+
+|  TAGS  |
++--------+
+acrobático 

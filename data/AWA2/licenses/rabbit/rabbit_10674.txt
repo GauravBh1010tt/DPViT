@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ibm4381
+Photo URL    : https://www.flickr.com/photos/j_benson/7186167665/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 13 07:20:39 GMT+0200 2012
+Upload Date  : Thu Jun 14 12:45:24 GMT+0200 2012
+Views        : 1,475
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Munch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+owen park madison small young rabbit "eating grass" "Canon EF 400mm F2.8L IS II USM" "2.0x extender III" 

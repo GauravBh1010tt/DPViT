@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarilynJane
+Photo URL    : https://www.flickr.com/photos/marilynjane/5933935974/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 13 07:16:14 GMT+0200 2011
+Upload Date  : Wed Jul 13 16:45:42 GMT+0200 2011
+Views        : 817
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Kim
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Waiting for Lucy. I couldn't resist taking a photo in the early morning light.
+
+
++--------+
+|  TAGS  |
++--------+
+Kim Dog "German Shepherd" GSD Pet Animal 

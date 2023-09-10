@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/12636164674/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 16 12:02:48 GMT+0100 2014
+Upload Date  : Wed Feb 19 15:58:35 GMT+0100 2014
+Geotag Info  : Latitude:51.268802, Longitude:1.151997
+Views        : 5,575
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Barbary Lion - waiting..
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Howletts Zoo, A John Aspinal Wild Animal Foundation Park.
+
+
++--------+
+|  TAGS  |
++--------+
+2014 Animal Barbary "Barbary Lion" Captive Howletts Kent Lion UK park zoo Littlebourne England "United Kingdom" 

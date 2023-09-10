@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/1093137214/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 23 14:20:50 GMT+0200 2006
+Upload Date  : Sun Aug 12 15:29:29 GMT+0200 2007
+Geotag Info  : Latitude:32.736885, Longitude:-117.148933
+Views        : 183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2006-07 SD Zoo078.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+!S-T-R-E-T-C-H-l-N-G!
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" "san diego" zoo 

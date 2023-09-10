@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mikelemmon
+Photo URL    : https://www.flickr.com/photos/lmmnfrsh/484155277/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 1 12:56:37 GMT+0200 2007
+Upload Date  : Fri May 4 20:57:03 GMT+0200 2007
+Geotag Info  : Latitude:42.586708, Longitude:-119.573135
+Views        : 664
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+There were actually antelope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+When stopping by the Hart Mountain refuge headquarters, one of the officials told me that it was almost showtime out on the Frenchglen road. I was thinking, sure...like I will see any actual antelope here. But I was wrong.
+
+
++--------+
+|  TAGS  |
++--------+
+antelope hart mountain refuge oregonoutback roadtrip oregon 

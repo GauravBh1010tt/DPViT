@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Twmpyn
+Photo URL    : https://www.flickr.com/photos/twmpyn/6625628087/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 19 13:28:31 GMT+0100 2011
+Upload Date  : Tue Jan 3 05:38:07 GMT+0100 2012
+Views        : 3,375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Funi the panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+funi panda "adelaide zoo" 

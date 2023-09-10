@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Accretion Disc
+Photo URL    : https://www.flickr.com/photos/befuddledsenses/15232302216/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 7 17:53:11 GMT+0200 2014
+Upload Date  : Tue Sep 16 08:50:21 GMT+0200 2014
+Views        : 3,721
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear Yawning
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at the Alaska Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"alaska zoo" polar bear yawn yawning 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/16271734587/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 12 08:10:52 GMT+0100 2015
+Upload Date  : Fri Feb 6 17:19:53 GMT+0100 2015
+Geotag Info  : Latitude:-25.418082, Longitude:31.553850
+Views        : 420
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard (Panthera pardus) female in a tree
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+S114 Road North of Malelane, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+Kruger Leopard Malelane "Panthera pardus" "South Africa" "taxonomy:binomial=Panthera pardus" 

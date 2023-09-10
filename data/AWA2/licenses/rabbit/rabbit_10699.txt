@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foshie
+Photo URL    : https://www.flickr.com/photos/foshie/211279926/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 29 21:10:02 GMT+0200 2006
+Upload Date  : Thu Aug 10 00:21:58 GMT+0200 2006
+Views        : 706
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Oooh too many ears !
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+makes him look a bit like a rabbit reindeer hybrid !
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbits Chunky Fluffy Guineas Bunnies cute 

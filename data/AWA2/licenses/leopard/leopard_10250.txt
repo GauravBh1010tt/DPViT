@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mikecogh
+Photo URL    : https://www.flickr.com/photos/mikecogh/15547092132/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 23 13:10:34 GMT+0200 2014
+Upload Date  : Thu Oct 16 03:07:41 GMT+0200 2014
+Geotag Info  : Latitude:1.402394, Longitude:103.793763
+Views        : 389
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard Cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Singapore zoo "Leopard Cat" asleep cute whiskers 

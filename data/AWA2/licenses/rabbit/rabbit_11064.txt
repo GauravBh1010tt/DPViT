@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : platycryptus
+Photo URL    : https://www.flickr.com/photos/dehill/8718070037/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 7 13:14:52 GMT+0200 2013
+Upload Date  : Wed May 8 01:09:34 GMT+0200 2013
+Views        : 318
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+xIMG_3829 Neeley Farm southern Greenville County SC 7 MAY 2013 Eastern Cottontail Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

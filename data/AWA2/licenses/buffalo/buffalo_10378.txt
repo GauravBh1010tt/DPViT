@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobosh_t
+Photo URL    : https://www.flickr.com/photos/frted/4852292897/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 30 21:28:22 GMT+0200 2010
+Upload Date  : Mon Aug 2 11:42:13 GMT+0200 2010
+Views        : 370
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison are to me a symbol of America, but also are a story with a moral.  This symbol of America was nearly driven to extinction by the excesses of Americans who so impressed by their vast numbers felt they were a resource that could be frivolously wasted.  Americans who ever live for today and as if there is no tomorrow, hate to be wakened from their selfish dream.
+
+
++--------+
+|  TAGS  |
++--------+
+The Wilds Bison 

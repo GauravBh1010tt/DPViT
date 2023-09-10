@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam Howzit
+Photo URL    : https://www.flickr.com/photos/aloha75/8015533729/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 13:14:45 GMT+0200 2012
+Upload Date  : Sun Sep 23 16:40:01 GMT+0200 2012
+Geotag Info  : Latitude:34.081031, Longitude:-117.766731
+Views        : 1,609
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dalmatian Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Dalmatian on the Budweiser Clydesdales wagon at the L.A. County Fair in Pomona, California.
+
+
++--------+
+|  TAGS  |
++--------+
+california pomona "la county fair 2012" l.a. parade Budweiser dalmatian dog 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dwmizell
+Photo URL    : https://www.flickr.com/photos/dwmizell/6205718198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 2 14:46:19 GMT+0200 2011
+Upload Date  : Mon Oct 3 01:38:43 GMT+0200 2011
+Geotag Info  : Latitude:40.537783, Longitude:-86.826968
+Views        : 601
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+On the Hunt
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo bison wolf park hunt 

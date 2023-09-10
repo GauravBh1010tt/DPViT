@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrusdevelopment
+Photo URL    : https://www.flickr.com/photos/wandrus/6012747987/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 5 17:58:48 GMT+0200 2011
+Upload Date  : Sat Aug 6 03:02:47 GMT+0200 2011
+Geotag Info  : Latitude:40.410400, Longitude:-104.793047
+Views        : 4,746
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit in Backyard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is our state-of-the-art, gasless, free-roaming lawnmower. Only $9.99, but if you don't act now, it's FREE.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit lawnmower backyard wild 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobosh_t
+Photo URL    : https://www.flickr.com/photos/frted/7095292885/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 19 14:58:49 GMT+0200 2012
+Upload Date  : Fri Apr 20 06:10:10 GMT+0200 2012
+Geotag Info  : Latitude:38.929736, Longitude:-77.051067
+Views        : 128
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Washington DC zoo "National Zoo" "Smithsonian National Zoological Park" 

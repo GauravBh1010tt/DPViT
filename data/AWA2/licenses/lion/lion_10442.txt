@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jess & Kate
+Photo URL    : https://www.flickr.com/photos/jessicapope/3154036901/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 19 14:08:29 GMT+0100 2008
+Upload Date  : Wed Dec 31 23:21:28 GMT+0100 2008
+Views        : 436
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Sneeze
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Masai Mara" 

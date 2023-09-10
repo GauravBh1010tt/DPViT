@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yuppido17
+Photo URL    : https://www.flickr.com/photos/simone17/4161237875/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 25 15:40:32 GMT+0200 2009
+Upload Date  : Sun Dec 6 03:46:35 GMT+0100 2009
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9823
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

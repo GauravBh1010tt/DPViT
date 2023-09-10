@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bradsview
+Photo URL    : https://www.flickr.com/photos/bfra07/5083563280/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 12 10:54:11 GMT+0200 2010
+Upload Date  : Fri Oct 15 12:03:42 GMT+0200 2010
+Geotag Info  : Latitude:-34.913592, Longitude:138.606408
+Views        : 743
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Wang Wang the Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Adelaide Zoo" Adelaide Panda "Wang Wang" zoo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/3048991934/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 19 14:12:51 GMT+0100 2008
+Upload Date  : Fri Nov 21 22:29:06 GMT+0100 2008
+Geotag Info  : Latitude:38.922691, Longitude:-76.974785
+Views        : 558
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Oh Hai!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+derby bunny "house rabbit" rex 

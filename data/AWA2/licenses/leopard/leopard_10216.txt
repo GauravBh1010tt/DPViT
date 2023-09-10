@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/12907067215/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 31 07:20:39 GMT+0100 2014
+Upload Date  : Mon Mar 3 17:02:03 GMT+0100 2014
+Geotag Info  : Latitude:-25.276443, Longitude:31.827306
+Views        : 624
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard (Panthera pardus) crossing the road
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+H5 Road South of Lower Sabie, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+"Panthera pardus" "taxonomy:binomial=Panthera pardus" 

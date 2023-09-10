@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cliff1066™
+Photo URL    : https://www.flickr.com/photos/nostri-imago/3017609283/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 8 13:57:52 GMT+0100 2008
+Upload Date  : Mon Nov 10 05:41:36 GMT+0100 2008
+Views        : 320
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion (Panthera leo)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"DC Zoo" "National Zoo" Smithsonian "Washington DC" Wildlife Zoo animal species Washington DC District Columbia "District of Columbia" Africa African "African Savannah" Savannah 

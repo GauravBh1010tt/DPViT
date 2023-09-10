@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheSeafarer
+Photo URL    : https://www.flickr.com/photos/sheilascarborough/3462076711/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 16 11:04:24 GMT+0200 2009
+Upload Date  : Tue Apr 21 16:15:32 GMT+0200 2009
+Views        : 1,592
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Indian Creek Bison Ranch chow time
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Owned by Jerry Schmidt, located in Haven, Kansas. Buffalo (bison) and specialty meats.
+
+
++--------+
+|  TAGS  |
++--------+
+Hutchinson Kansas "blogger fam tour" Haven Indian Creek Bison Ranch buffalo 

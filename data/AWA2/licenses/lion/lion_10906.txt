@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/2751705738/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 10 14:14:06 GMT+0200 2008
+Upload Date  : Mon Aug 11 01:51:30 GMT+0200 2008
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 2,387
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Roaring
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwick zoo massachusetts august 2008 lion roar 

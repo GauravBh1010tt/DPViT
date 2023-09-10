@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : "G" jewels g is for grandma
+Photo URL    : https://www.flickr.com/photos/g_jewels/4463582357/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 30 06:10:41 GMT+0200 2007
+Upload Date  : Fri Mar 26 07:11:56 GMT+0100 2010
+Views        : 1,080
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+005_5
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"OK Zoo" family animals kids rino's "wolves big cats" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : littlehuw
+Photo URL    : https://www.flickr.com/photos/littlehuw/5959289882/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 19 01:16:05 GMT+0200 2011
+Upload Date  : Wed Jul 20 23:46:48 GMT+0200 2011
+Views        : 857
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Cub Scout
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Running out of ideas for photos, but have now switched to wide angle in the hope to capture the cubs play fighting, or at least multiple subjects which I always keep missing cos I am too close in!
+
+
++--------+
+|  TAGS  |
++--------+
+"Vulpes Vulpes" Fox Garden Home Nature Wildlife City Urban 5DMarkII Springwatch Cub 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bryan...
+Photo URL    : https://www.flickr.com/photos/bryansjs/16583379787/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 12 12:10:31 GMT+0100 2015
+Upload Date  : Thu Mar 12 05:11:24 GMT+0100 2015
+Geotag Info  : Latitude:43.768636, Longitude:142.479691
+Views        : 3,917
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bears, Asahiyama Zoo, Asahikawa, Hokkaido, Japan, 北極熊, 旭山動物園, 旭川, 北海道, 日本, ほっきょくぐま館, あさひかわし, ほっかいどう, にっぽん, にほん
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Polar Bears" "Asahiyama Zoo" Asahikawa Hokkaido Japan 北極熊 旭山動物園 旭川 北海道 日本 ほっきょくぐま館 あさひかわし ほっかいどう にっぽん にほん Canon EOS50 FUJICOLOR PRINT ISO100 "Color Negative Film" "Canon EOS50" Fujifilm Fuji 

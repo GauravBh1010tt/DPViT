@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cotaro70s
+Photo URL    : https://www.flickr.com/photos/cotaro70s/15821797929/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 30 14:10:13 GMT+0100 2014
+Upload Date  : Sat Dec 13 01:20:27 GMT+0100 2014
+Geotag Info  : Latitude:34.649488, Longitude:135.510905
+Views        : 297
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tennoji Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+大阪市 大阪府 日本 天王寺動物園 animal zoo Osaka polar bear しろくま 

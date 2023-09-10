@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stee
+Photo URL    : https://www.flickr.com/photos/stee/5234340071/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 5 14:25:11 GMT+0100 2010
+Upload Date  : Sun Dec 5 17:15:06 GMT+0100 2010
+Views        : 1,062
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC09832
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo zurich zoo.ch wolf 

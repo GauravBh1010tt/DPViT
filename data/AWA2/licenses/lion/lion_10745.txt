@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Bowler
+Photo URL    : https://www.flickr.com/photos/mbowler/111138918/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 22 10:56:54 GMT+0100 2003
+Upload Date  : Sun Mar 12 04:04:00 GMT+0100 2006
+Geotag Info  : Latitude:43.818697, Longitude:-79.185161
+Views        : 2,889
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion torontozoo 

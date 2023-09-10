@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markyharky
+Photo URL    : https://www.flickr.com/photos/markyharky/8373308950/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 12 10:54:06 GMT+0100 2013
+Upload Date  : Sat Jan 12 14:23:54 GMT+0100 2013
+Views        : 2,889
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Urban Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Just happened to look out my bedroom window, this wee guy was sitting there
+
+
++--------+
+|  TAGS  |
++--------+
+fox 

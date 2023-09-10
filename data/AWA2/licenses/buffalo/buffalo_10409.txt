@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quinet
+Photo URL    : https://www.flickr.com/photos/quinet/6879423051/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 5 10:52:35 GMT+0200 2008
+Upload Date  : Wed Feb 15 06:37:29 GMT+0100 2012
+Views        : 215
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Winnipeg 2008
+
+
++--------+
+|  TAGS  |
++--------+
+2008 Buffalo "Manitoba Museum" "Red River Bufffalo" Winnipeg museum taxidermy Berlin Germany 

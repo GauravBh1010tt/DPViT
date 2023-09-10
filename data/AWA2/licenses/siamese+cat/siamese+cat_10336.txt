@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D.C.Atty
+Photo URL    : https://www.flickr.com/photos/figgenhoffer/4591050312/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 8 08:44:56 GMT+0200 2010
+Upload Date  : Sun May 9 06:13:56 GMT+0200 2010
+Views        : 1,554
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+jinx is pissed
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese hiss 

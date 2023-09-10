@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rennett Stowe
+Photo URL    : https://www.flickr.com/photos/tomsaint/4232406602/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 28 12:36:25 GMT+0100 2009
+Upload Date  : Thu Dec 31 23:44:30 GMT+0100 2009
+Views        : 1,411
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Female African Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion animal africa african "african animal" "animals of africa" "female african lion" lioness female "lion's coat" "the coat of a lion" "photograph lion" photograph "photograph of an african lion" "photograph of a lioness" "photorgraph of an african lioness" "Panthera leo" "photograph Panthera leo" "image of an african lion" "image african lioness" "image lion" "image african lion" "pic lion" "lion pic" "lion photo" "african lion pic" "african lion photo" "lion image" "lion picture" "african lion image" "african lion photograph" "lion photograph" "female lion photo" "female lion pic" "female lion photograph" "female lion picture" "images of lions" "female african lion picture" "female african lion photograph" image' "female african lion image" "female african lion photo" "female african lion pic" 

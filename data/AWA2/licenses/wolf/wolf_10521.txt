@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nerru
+Photo URL    : https://www.flickr.com/photos/nerru86/7708374120/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 14 20:39:19 GMT+0200 2010
+Upload Date  : Sat Aug 4 06:53:47 GMT+0200 2012
+Geotag Info  : Latitude:59.951561, Longitude:30.307695
+Views        : 264
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wolf. Looks like a dog, except he's still wild.
+
+
++--------+
+|  TAGS  |
++--------+
+Russia St.Petersburg Wolf Zoo 

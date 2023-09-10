@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : elyob
+Photo URL    : https://www.flickr.com/photos/elyob/3439570817/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 12 15:17:38 GMT+0200 2009
+Upload Date  : Tue Apr 14 03:49:46 GMT+0200 2009
+Geotag Info  : Latitude:51.193237, Longitude:-2.269177
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Longleat Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

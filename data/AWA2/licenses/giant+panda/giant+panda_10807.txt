@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jason Pratt
+Photo URL    : https://www.flickr.com/photos/jasonpratt/2883321793/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 25 13:27:56 GMT+0100 2008
+Upload Date  : Wed Sep 24 04:37:30 GMT+0200 2008
+Geotag Info  : Latitude:32.735247, Longitude:-117.149346
+Views        : 996
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Shy Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego Zoo" "San Diego" zoo animals panda shy 

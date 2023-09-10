@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tetsuo13
+Photo URL    : https://www.flickr.com/photos/90329256@N00/8460515548/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 5 14:12:43 GMT+0100 2013
+Upload Date  : Sun Feb 10 03:58:13 GMT+0100 2013
+Views        : 342
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMGP4221
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+panda 

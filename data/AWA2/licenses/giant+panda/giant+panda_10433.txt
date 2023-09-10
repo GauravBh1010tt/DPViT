@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : henribergius
+Photo URL    : https://www.flickr.com/photos/bergie/5665483113/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 26 01:41:13 GMT+0200 2011
+Upload Date  : Thu Apr 28 21:40:35 GMT+0200 2011
+Views        : 251
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lunch time
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+beijing panda zoo 

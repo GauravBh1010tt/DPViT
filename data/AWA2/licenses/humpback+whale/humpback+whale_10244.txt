@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : natalielucier
+Photo URL    : https://www.flickr.com/photos/natalielucier/3623930080/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 13 17:42:35 GMT+0200 2009
+Upload Date  : Sun Jun 14 03:44:29 GMT+0200 2009
+Views        : 1,155
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale in Newfoundland, Canada
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback whale in Newfoundland, Canada
+
+
++--------+
+|  TAGS  |
++--------+
+"Humpback whales" newfoundland canada 

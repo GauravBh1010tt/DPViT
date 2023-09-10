@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martina Rathgens
+Photo URL    : https://www.flickr.com/photos/riviera2008/3022814000/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 13 12:15:50 GMT+0100 2006
+Upload Date  : Tue Nov 11 18:51:27 GMT+0100 2008
+Views        : 4,451
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sam + Jack
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+best friends enjoying a walk in the snow
+
+
++--------+
+|  TAGS  |
++--------+
+dogs animals "shepherd dog" snow friends friendship muzzle "german shepherd" fur paws 

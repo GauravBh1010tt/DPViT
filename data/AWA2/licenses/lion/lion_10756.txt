@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nickirp
+Photo URL    : https://www.flickr.com/photos/growlroar/2489781657/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 7 15:16:15 GMT+0200 2008
+Upload Date  : Tue May 13 22:15:05 GMT+0200 2008
+Geotag Info  : Latitude:38.254859, Longitude:-85.766403
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo louisville louisvillezoo kentucky american usa ky animal mammal america kentuckystate 

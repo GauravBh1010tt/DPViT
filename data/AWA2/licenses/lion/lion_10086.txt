@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/5512759634/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 8 13:46:13 GMT+0100 2011
+Upload Date  : Wed Mar 9 19:02:04 GMT+0100 2011
+Geotag Info  : Latitude:52.514157, Longitude:-2.078797
+Views        : 318
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Asiatic Lion 2d
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dudley Zoo Big Cat 

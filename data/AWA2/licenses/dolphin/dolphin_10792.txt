@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stefanhaubold
+Photo URL    : https://www.flickr.com/photos/stefanhaubold/3823779867/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 09:50:30 GMT+0200 2009
+Upload Date  : Sun Aug 16 00:06:29 GMT+0200 2009
+Geotag Info  : Latitude:37.659203, Longitude:-25.352418
+Views        : 1,100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spotted Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Azoren "São Miguel" "Terra Azul" "Spotted Dolphin" Azores 

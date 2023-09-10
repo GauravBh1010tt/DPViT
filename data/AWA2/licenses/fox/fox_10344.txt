@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wiseguy71
+Photo URL    : https://www.flickr.com/photos/wiseguy71/1472684399/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 30 18:02:01 GMT+0200 2007
+Upload Date  : Tue Oct 2 23:33:43 GMT+0200 2007
+Views        : 140
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fuchs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tierpark Berlin 

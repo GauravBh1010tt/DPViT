@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : smerikal
+Photo URL    : https://www.flickr.com/photos/smerikal/7900678390/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 30 18:09:50 GMT+0200 2012
+Upload Date  : Fri Aug 31 18:03:29 GMT+0200 2012
+Geotag Info  : Latitude:59.421829, Longitude:24.657545
+Views        : 4,000
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Snow leopard puppy (Uncia uncia)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Snow leopard puppy Uncia lumileopardi leikkisä leikkii playful playing active aktiivinen Tallinn Zoo eläintarha katse look eyes cute 

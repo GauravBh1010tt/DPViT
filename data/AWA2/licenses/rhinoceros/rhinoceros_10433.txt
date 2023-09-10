@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Sträter
+Photo URL    : https://www.flickr.com/photos/stuutje/14784034747/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 20 14:24:13 GMT+0200 2014
+Upload Date  : Tue Aug 19 20:08:19 GMT+0200 2014
+Geotag Info  : Latitude:51.927337, Longitude:4.441051
+Views        : 1,217
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Zwarte neushoorn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deze foto is gemaakt tijdens een bezoek aan Diergaarde Blijdorp (Rotterdam, Nederland).
+
+This picture was taken during a visit to Rotterdam Zoo (Rotterdam, Netherlands).
+
+
++--------+
+|  TAGS  |
++--------+
+"Diergaarde Blijdorp" "Rotterdam Zoo" Dierentuin Zoo Rotterdam "Zwarte neushoorn" puntlipneushoorn "Diceros bicornis" "Black rhinoceros" "hook-lipped rhinoceros" 

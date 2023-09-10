@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ict.wa4
+Photo URL    : https://www.flickr.com/photos/57449308@N08/5600193666/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 8 17:18:00 GMT+0200 2011
+Upload Date  : Fri Apr 8 10:35:45 GMT+0200 2011
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+アップ！！！！！！！
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+WAKKANAI 

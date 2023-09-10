@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrGuilt
+Photo URL    : https://www.flickr.com/photos/bontempscharly/15096676245/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 30 11:15:44 GMT+0200 2014
+Upload Date  : Sun Aug 31 20:38:09 GMT+0200 2014
+Views        : 784
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snoozing Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lions Cats "Washington  DC" "Zoos & Aquariums" "Smithsonian National Zoological Park" "AF-S DX Zoom-Nikkor 55-200mm f/4-5.6G ED" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/24841394935/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 5 18:29:20 GMT+0100 2016
+Upload Date  : Sat Feb 6 00:34:43 GMT+0100 2016
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Actic Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Arctic Fox, Detroit Zoo 
+Arctic Ring of Life (Jan. 2016)
+
+
++--------+
+|  TAGS  |
++--------+
+"Detroit Zoo" "Arctic Ring of Life" AZA Zoo "arctic Fox" detroit 

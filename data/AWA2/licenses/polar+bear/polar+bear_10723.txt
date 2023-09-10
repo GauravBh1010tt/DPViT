@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : abrowncoat
+Photo URL    : https://www.flickr.com/photos/abrowncoat/3166944671/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 3 14:51:34 GMT+0100 2009
+Upload Date  : Sun Jan 4 20:02:48 GMT+0100 2009
+Geotag Info  : Latitude:32.736215, Longitude:-117.152194
+Views        : 1,014
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Diego Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+From our trip to the San Diego Zoo on 1/3/09
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego Zoo" "Polar Bear" 

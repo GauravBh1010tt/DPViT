@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rhoftonphoto
+Photo URL    : https://www.flickr.com/photos/rachels_photo_world/3877134571/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 1 10:43:45 GMT+0200 2009
+Upload Date  : Tue Sep 1 13:18:36 GMT+0200 2009
+Views        : 7,258
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat "big cat" melbourne zoo animals spring sun outdoors nature "melbourne zoo" creatures outting lion male face 

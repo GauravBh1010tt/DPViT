@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : crschmidt
+Photo URL    : https://www.flickr.com/photos/crschmidt/2938173576/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 8 13:12:37 GMT+0200 2008
+Upload Date  : Mon Oct 13 14:46:58 GMT+0200 2008
+Views        : 275
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On our sunset drive, we came upon 3 lions sleeping in the middle of the road. They like to lay there because the warm tar is comfortable to sleep on. All lighting was provided by a set of spotlights attached to our sunset drive vehicles.
+
+
++--------+
+|  TAGS  |
++--------+
+2008 10 kruger lion 8 

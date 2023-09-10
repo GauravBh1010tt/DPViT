@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dogrando
+Photo URL    : https://www.flickr.com/photos/dogrando/4921768862/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 10 14:24:34 GMT+0200 2010
+Upload Date  : Tue Aug 24 00:50:17 GMT+0200 2010
+Views        : 2,128
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Clouded leopard in the grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The clouded leopard is classed as vulnerable. It is also pretty shy. This one took some coaxing out.
+
+
++--------+
+|  TAGS  |
++--------+
+cats "big cats" "chris weston" "wildlife heritage foundation" wildlife predator leopard "clouded leopard" 

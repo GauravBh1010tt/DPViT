@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher.Michel
+Photo URL    : https://www.flickr.com/photos/cmichel67/16066408932/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 20 16:34:22 GMT+0100 2014
+Upload Date  : Sun Dec 21 01:34:22 GMT+0100 2014
+Views        : 1,312
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leviathan. #whale #humpback
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram Ludwig "In the Heart of the Sea" "Moby Dick" humpbacks ocean 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : atlassb
+Photo URL    : https://www.flickr.com/photos/atlastravelweb/3263611957/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 5 02:37:03 GMT+0200 2007
+Upload Date  : Sun Feb 8 21:25:09 GMT+0100 2009
+Geotag Info  : Latitude:29.588664, Longitude:106.542663
+Views        : 571
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda Bear at the ChongQing Zoo ; Chongqing, China
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Panda Bear at the ChongQing Zoo ; Chongqing, China
+
+
++--------+
+|  TAGS  |
++--------+
+"Panda pictures in ChongQing China" 

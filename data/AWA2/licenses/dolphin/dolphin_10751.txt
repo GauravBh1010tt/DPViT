@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Thomas Hawk
+Photo URL    : https://www.flickr.com/photos/thomashawk/216682076/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 15 14:12:11 GMT+0200 2006
+Upload Date  : Wed Aug 16 09:08:20 GMT+0200 2006
+Geotag Info  : Latitude:32.766003, Longitude:-117.227017
+Views        : 8,532
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Ready for Lunch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin "Sea World" "San Diego" 10 fav10 California mouth open water eye teeth superfave fav25 fav20 fav30 

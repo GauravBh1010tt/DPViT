@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Allison Harger
+Photo URL    : https://www.flickr.com/photos/allisonharger/1403123034/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 15 11:54:27 GMT+0200 2007
+Upload Date  : Tue Sep 18 18:23:27 GMT+0200 2007
+Views        : 62
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+a Dalmatian in Bodo.
+
+
++--------+
+|  TAGS  |
++--------+
+Dalmatian "Northern Norway" Norway Arctic 

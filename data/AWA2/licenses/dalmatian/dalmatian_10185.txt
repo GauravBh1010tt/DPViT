@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/8926096513/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 2 17:16:45 GMT+0200 2013
+Upload Date  : Sun Jun 2 19:31:47 GMT+0200 2013
+Views        : 672
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Begossener Dalmi-Pudel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Juni 2013
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hündin dog dalmatiner female dalmatian Dalmatinac regen rain 

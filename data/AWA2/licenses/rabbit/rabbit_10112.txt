@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gurney5
+Photo URL    : https://www.flickr.com/photos/brentnewhall/5706195717/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 8 17:46:24 GMT+0200 2011
+Upload Date  : Tue May 10 12:46:23 GMT+0200 2011
+Views        : 273
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Be Cunning and Full of Tricks
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A cautious rabbit on my front lawn
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit lawn pavement 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : snoopsmaus
+Photo URL    : https://www.flickr.com/photos/snoopsmaus/8856042634/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 27 18:12:18 GMT+0200 2013
+Upload Date  : Mon May 27 18:12:18 GMT+0200 2013
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Some more Bison Babies #explorecanada #exploremb  #bloggertrain
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram Mayfair foursquare:venue=4de82e3988774aa92c99639a 

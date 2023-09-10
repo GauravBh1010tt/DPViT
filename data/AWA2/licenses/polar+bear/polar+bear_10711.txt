@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ysakaki
+Photo URL    : https://www.flickr.com/photos/ysakaki/6598500595/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 13 11:01:06 GMT+0100 2011
+Upload Date  : Fri Dec 30 06:10:10 GMT+0100 2011
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+RIMG3520
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Exif_JPEG_PICTURE
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

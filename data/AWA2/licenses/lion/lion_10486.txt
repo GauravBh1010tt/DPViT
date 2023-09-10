@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thebuffafamily
+Photo URL    : https://www.flickr.com/photos/thebuffafamily/903508826/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 15:01:45 GMT+0200 2007
+Upload Date  : Thu Jul 26 10:31:59 GMT+0200 2007
+Views        : 50,497
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Beautiful animals those lions
+
+
++--------+
+|  TAGS  |
++--------+
+"Taronga Zoo" lion 

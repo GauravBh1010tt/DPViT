@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : curtis palmer
+Photo URL    : https://www.flickr.com/photos/techbirmingham/3595785348/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 29 12:55:55 GMT+0200 2009
+Upload Date  : Thu Jun 4 18:39:49 GMT+0200 2009
+Views        : 290
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey eating some bread
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cancun Selvatica Mexico 2009 

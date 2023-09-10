@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wonderful_World** (in and out)
+Photo URL    : https://www.flickr.com/photos/akvatek/2705793121/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 26 00:05:33 GMT+0200 2008
+Upload Date  : Sun Jul 27 14:25:01 GMT+0200 2008
+Views        : 914
+Comments     : 58
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin Explored
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+worldbest wonderworld F.A.B. 

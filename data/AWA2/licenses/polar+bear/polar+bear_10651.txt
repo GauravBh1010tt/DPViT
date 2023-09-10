@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kitty Terwolbeck
+Photo URL    : https://www.flickr.com/photos/kittysfotos/22647861194/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 15 15:08:10 GMT+0100 2015
+Upload Date  : Tue Nov 24 14:44:43 GMT+0100 2015
+Geotag Info  : Latitude:51.958415, Longitude:5.588779
+Views        : 685
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ouwehands Zoo / Ouwehands Dierenpark - Rhenen
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" ijsbeer bear beer animal dier zoo ouwehands dierentuin 

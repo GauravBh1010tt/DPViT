@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Phillie Casablanca
+Photo URL    : https://www.flickr.com/photos/philliecasablanca/2052670714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 23 08:21:42 GMT+0200 2004
+Upload Date  : Wed Nov 21 13:59:27 GMT+0100 2007
+Geotag Info  : Latitude:-14.376155, Longitude:-67.546005
+Views        : 951
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spider Monkeys outside our hut, by the Rio Beni, Bolivia.
+
+
++--------+
+|  TAGS  |
++--------+
+Bolivia "Round the World Trip" Travelling Traveling Backpacking "South America" Adventure Spider Monkey Pampas "Rio Beni" Cheeky Hungry "Phil Whitehouse" 

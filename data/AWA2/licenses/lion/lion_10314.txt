@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stacieharmon1
+Photo URL    : https://www.flickr.com/photos/stacieharmon1/5471538457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 1 00:00:00 GMT+0100 2011
+Upload Date  : Wed Feb 23 21:48:56 GMT+0100 2011
+Views        : 63
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Audubon Nature Institute
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

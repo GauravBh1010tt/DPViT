@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russteaches
+Photo URL    : https://www.flickr.com/photos/89119745@N00/4812224879/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 17 14:30:12 GMT+0200 2010
+Upload Date  : Tue Jul 20 18:51:25 GMT+0200 2010
+Views        : 460
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear, Toledo Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dylan Russ Russteaches Russell Rusty 

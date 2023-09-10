@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spamdangler
+Photo URL    : https://www.flickr.com/photos/justcallmehillsy/3755897524/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 25 14:39:11 GMT+0200 2009
+Upload Date  : Sat Jul 25 21:21:17 GMT+0200 2009
+Geotag Info  : Latitude:53.816666, Longitude:-3.012528
+Views        : 296
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey in Blackpool Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"spider monkey" "Blackpool Zoo" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stéfan
+Photo URL    : https://www.flickr.com/photos/st3f4n/1855257706/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 3 16:42:44 GMT+0100 2007
+Upload Date  : Sun Nov 4 12:45:16 GMT+0100 2007
+Geotag Info  : Latitude:47.231036, Longitude:-1.207766
+Views        : 1,799
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+N&B
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "la boissière du doré" loup noir blanc wolf animal wild 

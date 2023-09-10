@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Murky1
+Photo URL    : https://www.flickr.com/photos/mvjaf/2206985400/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 23 11:02:03 GMT+0100 2007
+Upload Date  : Sun Jan 20 19:14:19 GMT+0100 2008
+Geotag Info  : Latitude:51.287929, Longitude:-1.540853
+Views        : 846
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+WILTSHIRE BISON
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bison Wiltshire 

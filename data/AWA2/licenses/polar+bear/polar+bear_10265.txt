@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : *~Dawn~*
+Photo URL    : https://www.flickr.com/photos/naturesdawn/4286649485/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 26 16:19:25 GMT+0100 2008
+Upload Date  : Tue Jan 19 07:00:48 GMT+0100 2010
+Views        : 16,891
+Comments     : 49
+
+
++---------+
+|  TITLE  |
++---------+
+Happiness at the Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Is it just me, or does she look a little bit like she's smiling?  I hope she is, because if it goes the way scientists are predicting, the only polar bears left in the world will all be living in zoos within seventy years.  They will be completely extinct in the wild.  So I guess it gives me some comfort that in knowing that maybe they could find a little happiness in captivity, if humans don't learn to put the welfare of all the Earth's creatures above their own desires before it's too late.
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" bear arctic "San Francisco Zoo" zoo pumpkin "snow bear" "arctic bear" "adult polar bear" "San Francisco" 

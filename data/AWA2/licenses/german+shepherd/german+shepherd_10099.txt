@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/10089824064/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 26 12:47:51 GMT+0200 2013
+Upload Date  : Fri Oct 4 22:32:43 GMT+0200 2013
+Geotag Info  : Latitude:51.569247, Longitude:0.044855
+Views        : 2,210
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bessy & Maxx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Photo Stream" Bessy GSD "German Shepherd" dog Maxx 

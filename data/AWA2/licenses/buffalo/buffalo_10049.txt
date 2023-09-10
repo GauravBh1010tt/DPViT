@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tony Fischer Photography
+Photo URL    : https://www.flickr.com/photos/tonythemisfit/6969939759/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 4 12:40:04 GMT+0200 2010
+Upload Date  : Sat Mar 10 18:57:07 GMT+0100 2012
+Views        : 3,300
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+American Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in Pennsylvania, from a great distance. Cloudy, dreary day. Not as clear as I would like, that's ok.
+
+
++--------+
+|  TAGS  |
++--------+
+American bison Pennsylvania green horns grass nature 

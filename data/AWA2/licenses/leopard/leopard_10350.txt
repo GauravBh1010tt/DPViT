@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/4505798515/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 9 14:28:50 GMT+0200 2010
+Upload Date  : Fri Apr 9 23:35:20 GMT+0200 2010
+Geotag Info  : Latitude:52.379208, Longitude:-2.286293
+Views        : 727
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Big Cat" Cat Leopard 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shouganai
+Photo URL    : https://www.flickr.com/photos/shouganai/12710483424/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 27 11:20:28 GMT+0100 2014
+Upload Date  : Sun Feb 23 04:40:38 GMT+0100 2014
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin nursery
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seaworld florida orlando 

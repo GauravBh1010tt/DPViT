@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/7469171770/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 14 17:40:47 GMT+0200 2009
+Upload Date  : Sat Jun 30 00:13:41 GMT+0200 2012
+Views        : 2,854
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hungry Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ran into this fox on a trail along Bear Creek.
+
+Location: Lair o' the Bear Park, Jefferson County, CO
+
+Credit: Justin Shoemaker
+
+Photo Contest Entry #71
+
+
++--------+
+|  TAGS  |
++--------+
+usfws fws "u.s. fish and wildlife service" "photo contest" "government photos" fox wildlife 

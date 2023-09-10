@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wassim Chegham
+Photo URL    : https://www.flickr.com/photos/manekinekko/8727529686/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 9 10:35:54 GMT+0200 2013
+Upload Date  : Sat May 11 01:13:57 GMT+0200 2013
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_DSC0143.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

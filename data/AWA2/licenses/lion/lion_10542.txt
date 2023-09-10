@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photos_by_Angela
+Photo URL    : https://www.flickr.com/photos/angelabethell/4036146985/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 23 14:17:32 GMT+0200 2009
+Upload Date  : Fri Oct 23 09:49:22 GMT+0200 2009
+Views        : 350
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken through a fence-the white strip on the right. Paradise Valley Wildlife Park Rotorua, NZ
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sling@flickr
+Photo URL    : https://www.flickr.com/photos/sling_flickr/338231052/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 29 16:10:19 GMT+0100 2006
+Upload Date  : Sat Dec 30 08:47:26 GMT+0100 2006
+Geotag Info  : Latitude:37.733016, Longitude:-122.502300
+Views        : 1,306
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Francisco Zoo" Zoo SF bear "polar bear" animal 

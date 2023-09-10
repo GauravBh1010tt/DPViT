@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DFGFotogal
+Photo URL    : https://www.flickr.com/photos/dfg/7605241460/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 23 09:45:53 GMT+0200 2011
+Upload Date  : Thu Jul 19 21:39:38 GMT+0200 2012
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Slide40
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Keith Roper
+Photo URL    : https://www.flickr.com/photos/keithroper/5185264409/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 22 16:56:09 GMT+0200 2010
+Upload Date  : Wed Nov 17 23:59:14 GMT+0100 2010
+Views        : 2,773
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fennec Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Desert Fox at Friguia Wildlife Park, Tunisia, September 2010
+
+
++--------+
+|  TAGS  |
++--------+
+"Fennec Fox" "Desert Fox" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/6129887522/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 12 12:04:09 GMT+0200 2011
+Upload Date  : Fri Sep 9 12:30:03 GMT+0200 2011
+Geotag Info  : Latitude:50.115645, Longitude:8.702223
+Views        : 2,818
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey in the tree
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the spider monkeys of the Frankfurt zoo. I like this shot and it looks quite natural, wildlife-like!
+
+
++--------+
+|  TAGS  |
++--------+
+spider monkey ape primate hanging brown female tree branches vegetation frankfurt zoo germany nikon d700 

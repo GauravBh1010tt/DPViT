@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dpape
+Photo URL    : https://www.flickr.com/photos/dpape/4638734003/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 16 13:19:27 GMT+0200 2010
+Upload Date  : Tue May 25 17:44:42 GMT+0200 2010
+Views        : 84
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_39942
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2010 "buffalo zoo" 

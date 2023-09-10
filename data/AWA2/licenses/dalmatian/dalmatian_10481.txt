@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gonmi
+Photo URL    : https://www.flickr.com/photos/gonmi/7657630508/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 23 10:58:41 GMT+0200 2011
+Upload Date  : Fri Jul 27 20:22:01 GMT+0200 2012
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dalmata
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mascota
+
+
++--------+
+|  TAGS  |
++--------+
+"23 de Septiembre" fauna pelota pet mascota perro dog Oviedo Asturias España animals 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amareta kelly
+Photo URL    : https://www.flickr.com/photos/42409752@N07/6266114215/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 21 07:26:15 GMT+0200 2011
+Upload Date  : Fri Oct 21 16:26:15 GMT+0200 2011
+Views        : 2,894
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The American bison (commonly known as the buffalo) has a massive body, humped shoulders, and pointed horns that curve up and in. In winter, its coat is dark brown and shaggy. In the spring, this coat is shed and replaced by one that is short and light-brown. Hair on the head, neck, shoulders, and forelegs remains long and shaggy throughout ...
+
+<a href="http://be-eco-friendly.blogspot.com/2011/04/american-bison.html" rel="nofollow">be-eco-friendly.blogspot.com/2011/04/american-bison.html</a>
+
+
++--------+
+|  TAGS  |
++--------+
+animal "endangered species" america 

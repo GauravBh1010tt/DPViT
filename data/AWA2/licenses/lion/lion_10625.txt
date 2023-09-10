@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Menka Opassinis
+Photo URL    : https://www.flickr.com/photos/menka-opassinis/8385495292/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 15 19:50:08 GMT+0100 2013
+Upload Date  : Wed Jan 16 01:50:23 GMT+0100 2013
+Views        : 207
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

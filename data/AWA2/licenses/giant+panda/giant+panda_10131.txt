@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wolneykien
+Photo URL    : https://www.flickr.com/photos/95571712@N07/8720087792/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 18 06:47:50 GMT+0200 2013
+Upload Date  : Wed May 8 09:44:33 GMT+0200 2013
+Views        : 1,358
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chengdu/Pandas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chengdu/Pandas
+
+
++--------+
+|  TAGS  |
++--------+
+Chengdu 

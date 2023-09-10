@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : syntart
+Photo URL    : https://www.flickr.com/photos/43932881@N00/4457159744/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 23 03:18:08 GMT+0100 2010
+Upload Date  : Tue Mar 23 12:42:32 GMT+0100 2010
+Views        : 1,615
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Cubs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo lion cub "Taipei Zoo" 

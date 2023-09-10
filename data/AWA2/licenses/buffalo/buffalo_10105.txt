@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A.Poulos (Iya)
+Photo URL    : https://www.flickr.com/photos/24918962@N07/2354096412/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 5 22:37:52 GMT+0200 2007
+Upload Date  : Sun Mar 23 07:20:38 GMT+0100 2008
+Views        : 281
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bison grazing near Old Faithful in Yellowstone National Park, Wyoming.
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo 

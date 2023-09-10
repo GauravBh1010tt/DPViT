@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ken-hajom
+Photo URL    : https://www.flickr.com/photos/mll2/9425588160/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 7 12:26:31 GMT+0200 2010
+Upload Date  : Fri Aug 2 23:04:37 GMT+0200 2013
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiere Wilhelma (94)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

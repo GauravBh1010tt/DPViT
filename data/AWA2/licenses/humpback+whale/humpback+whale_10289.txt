@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 4nitsirk
+Photo URL    : https://www.flickr.com/photos/4nitsirk/6040451266/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 7 14:48:21 GMT+0200 2011
+Upload Date  : Sun Aug 14 04:41:08 GMT+0200 2011
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale watching (3)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+whale humpback 

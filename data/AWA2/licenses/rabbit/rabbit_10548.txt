@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Petra Kohlstädt
+Photo URL    : https://www.flickr.com/photos/91576944@N00/1297670418/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 25 16:22:22 GMT+0200 2007
+Upload Date  : Sat Sep 1 23:31:29 GMT+0200 2007
+Views        : 460
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4148a
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Hase Rabbit Kaninchen Tiere Tier Animal Animals Tierpark Hagenbecks August2007 Ham burg 

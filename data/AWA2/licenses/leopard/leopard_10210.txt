@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thomas_sly
+Photo URL    : https://www.flickr.com/photos/tomsly/87973150/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 10 02:00:22 GMT+0100 2006
+Upload Date  : Tue Jan 17 23:59:48 GMT+0100 2006
+Views        : 2,509
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard - Kruger National Park, South Africa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" HBSSouthAfrica2006LJ Africa hbstrek geotagged geo:lat=-24.974855 geo:lon=31.489263 mpumalanga "Lion Sands" Safari "Sabi Sand Game Reserve" "Kruger National Park" "Sabie River" hbstreksa2006lj hbsmba2006 wildlife animal sighting leopard "Cape Town" 

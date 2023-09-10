@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Brian U
+Photo URL    : https://www.flickr.com/photos/snype451/5753796636/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 10 13:45:51 GMT+0200 2010
+Upload Date  : Tue May 24 06:35:58 GMT+0200 2011
+Geotag Info  : Latitude:46.452941, Longitude:-61.972053
+Views        : 1,646
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mama fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"East Point" PEI "Prince Edward Island" foxes 

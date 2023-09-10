@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/16256422499/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 18 15:52:18 GMT+0200 2014
+Upload Date  : Wed Feb 4 15:00:11 GMT+0100 2015
+Geotag Info  : Latitude:48.097171, Longitude:11.553497
+Views        : 4,897
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Mother and young Nyala
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two of these striped antelopes, a mother and a son or daughter.
+
+
++--------+
+|  TAGS  |
++--------+
+nyala antelope.sunny standing posing grass female mother baby young tierpark hellabrunn munich münchen zoo germany nikon d4 

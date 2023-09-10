@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Timitrius
+Photo URL    : https://www.flickr.com/photos/nox_noctis_silentium/15047276697/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 6 14:53:16 GMT+0200 2014
+Upload Date  : Sun Sep 14 12:21:45 GMT+0200 2014
+Geotag Info  : Latitude:51.773947, Longitude:-1.658077
+Views        : 121
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Cotswold Animal Park" Zoo animal rhino rhinoceros 

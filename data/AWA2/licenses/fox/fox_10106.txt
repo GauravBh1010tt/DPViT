@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/3803808971/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 5 13:33:52 GMT+0200 2009
+Upload Date  : Sun Aug 9 18:26:02 GMT+0200 2009
+Geotag Info  : Latitude:51.173236, Longitude:-0.049202
+Views        : 11,353
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+British Wildlife Centre
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Red Fox
+
+
++--------+
+|  TAGS  |
++--------+
+"British Wildlife Centre" park "Red Fox" Surry "Nikon D90" animals August 2009 "70.0-300.0 mm f/4.5-5.6" Surrey wildlife 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|             Photo Metadata           |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWSmidwest
+Photo URL    : http://www.flickr.com/photos/49208525@N08/27860482585
+License      : Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0)
+Date         : 23.06.2016

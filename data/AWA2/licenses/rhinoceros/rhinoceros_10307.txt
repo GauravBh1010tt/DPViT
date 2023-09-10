@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/19910373540/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 6 15:00:06 GMT+0200 2015
+Upload Date  : Wed Jul 29 01:00:04 GMT+0200 2015
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 2,733
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Olmoti is growing!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I was quite surprised to see that Olmoti the quite young female black rhino grew so fast! She was trying here to eat some leaves from a branch.
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros young baby female standing eating branches leaves profile zürich zoo switzerland nikon d4 

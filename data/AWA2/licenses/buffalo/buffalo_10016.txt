@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_ross
+Photo URL    : https://www.flickr.com/photos/andrew_ross/3046499380/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 25 14:47:32 GMT+0200 2008
+Upload Date  : Thu Nov 20 19:43:49 GMT+0100 2008
+Geotag Info  : Latitude:44.934486, Longitude:-92.389612
+Views        : 205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20080525-US-CTK_CanoeBay-013
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+US WI bison farm 

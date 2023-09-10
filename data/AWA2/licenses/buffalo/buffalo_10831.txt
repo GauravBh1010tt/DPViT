@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : coralmoore
+Photo URL    : https://www.flickr.com/photos/coralmoore/5596974472/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 28 17:59:32 GMT+0200 2007
+Upload Date  : Thu Apr 7 04:00:09 GMT+0200 2011
+Geotag Info  : Latitude:44.620121, Longitude:-110.490890
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Why Did the Bison Cross the Road
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone 

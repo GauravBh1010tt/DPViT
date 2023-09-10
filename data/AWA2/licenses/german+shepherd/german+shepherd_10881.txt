@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JackMunn
+Photo URL    : https://www.flickr.com/photos/jackcharlesmunn/8363164234/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 7 20:46:50 GMT+0100 2013
+Upload Date  : Wed Jan 9 00:53:14 GMT+0100 2013
+Geotag Info  : Latitude:28.417711, Longitude:-81.484758
+Views        : 275
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tara
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+german shepherd dog 

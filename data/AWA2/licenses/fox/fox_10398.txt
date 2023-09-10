@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mattbuck4950
+Photo URL    : https://www.flickr.com/photos/mattbuck007/6829027267/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 4 11:32:38 GMT+0100 2012
+Upload Date  : Mon Feb 6 12:15:48 GMT+0100 2012
+Geotag Info  : Latitude:52.954804, Longitude:-1.190965
+Views        : 301
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMGP0993
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A fox on the frozen lake by Melton Hall.
+
+
++--------+
+|  TAGS  |
++--------+
+Nottingham "University of Nottingham" "Jubilee Campus" Foxes "Melton Hall" Ice Nottinghamshire England "United Kingdom" February Europe Universities Lakes 2012 uonbymattbuck 

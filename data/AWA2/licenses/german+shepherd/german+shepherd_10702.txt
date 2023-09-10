@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jenniffer Baltzell
+Photo URL    : https://www.flickr.com/photos/jjfbaltzell/14657870288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 12 10:58:08 GMT+0200 2013
+Upload Date  : Wed Aug 6 16:58:53 GMT+0200 2014
+Views        : 160
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otto, 9 weeks
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Otto GSD "German Shepherd Dog" 

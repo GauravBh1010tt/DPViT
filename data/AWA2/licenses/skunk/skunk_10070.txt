@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jsnsndr
+Photo URL    : https://www.flickr.com/photos/poopface/19987576525/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 24 20:59:49 GMT+0200 2015
+Upload Date  : Sat Jul 25 07:11:39 GMT+0200 2015
+Geotag Info  : Latitude:49.268112, Longitude:-123.174333
+Views        : 257
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+skunk 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

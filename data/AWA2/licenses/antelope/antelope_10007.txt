@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : weldonwk
+Photo URL    : https://www.flickr.com/photos/99123936@N00/10418958063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 20 05:44:01 GMT+0200 2013
+Upload Date  : Tue Oct 22 12:16:30 GMT+0200 2013
+Views        : 76
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_5663
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Nakuru Africa kenya wildlife 

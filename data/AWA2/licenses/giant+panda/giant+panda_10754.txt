@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : john.gillespie
+Photo URL    : https://www.flickr.com/photos/johnji/6504601155/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 11 01:09:09 GMT+0100 2011
+Upload Date  : Tue Dec 13 12:29:47 GMT+0100 2011
+Views        : 828
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pandas, Ueno Zoo, Tokyo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+japan panda tokyo "ueno zoo" autumn fall leaves ueno park 

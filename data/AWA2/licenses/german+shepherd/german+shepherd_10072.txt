@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kristine Gunter
+Photo URL    : https://www.flickr.com/photos/kristinegunter/4884488400/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 7 11:25:50 GMT+0200 2010
+Upload Date  : Thu Aug 12 06:36:31 GMT+0200 2010
+Geotag Info  : Latitude:45.503534, Longitude:-122.916734
+Views        : 823
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Atta Boy!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Corporal James Cuthbertson directs his dog, Zurg, to leap through a window jump during the 2010 Washington County Sheriff's Office K9 Trials.
+
+
++--------+
+|  TAGS  |
++--------+
+"Dog Breeds" "Dog Events" "German Shepherd" "Police Dog Trial" "Washington County Sheriff" 

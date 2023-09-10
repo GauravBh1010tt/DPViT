@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harlequeen
+Photo URL    : https://www.flickr.com/photos/harlequeen/503166423/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 10 11:04:18 GMT+0200 2005
+Upload Date  : Fri May 18 12:22:26 GMT+0200 2007
+Geotag Info  : Latitude:52.116869, Longitude:0.039928
+Views        : 10,889
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Bored fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Unusually the fox was out at Shepreth Wildlife Park, he was happy to be sunning himself.
+
+
++--------+
+|  TAGS  |
++--------+
+shepreth redfox fox 

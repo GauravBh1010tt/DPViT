@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mulf
+Photo URL    : https://www.flickr.com/photos/mulford/981356662/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 17 10:20:10 GMT+0200 2007
+Upload Date  : Thu Aug 2 05:27:26 GMT+0200 2007
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sea world san antonio texas 

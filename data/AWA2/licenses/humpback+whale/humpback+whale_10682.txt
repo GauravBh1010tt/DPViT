@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : madprime
+Photo URL    : https://www.flickr.com/photos/madprime/7276374562/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 26 15:04:48 GMT+0200 2012
+Upload Date  : Sun May 27 02:48:15 GMT+0200 2012
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Whale tail 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+boston humpback whale watching 

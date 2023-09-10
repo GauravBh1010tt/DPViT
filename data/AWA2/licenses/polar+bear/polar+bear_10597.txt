@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m+A+s
+Photo URL    : https://www.flickr.com/photos/m-a-s/5427833257/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 7 11:57:42 GMT+0100 2011
+Upload Date  : Tue Feb 8 16:30:07 GMT+0100 2011
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

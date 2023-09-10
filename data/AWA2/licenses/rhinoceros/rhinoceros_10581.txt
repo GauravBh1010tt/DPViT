@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russellstreet
+Photo URL    : https://www.flickr.com/photos/russellstreet/4540451496/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 5 12:35:36 GMT+0200 2009
+Upload Date  : Wed Apr 21 11:35:43 GMT+0200 2010
+Geotag Info  : Latitude:-37.774312, Longitude:175.216666
+Views        : 545
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern White Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal "Ceratotherium simum" Hamilton "Hamilton Zoo" "New Zealand" Rhinoceros "Southern White Rhinoceros" Waikato NZL 

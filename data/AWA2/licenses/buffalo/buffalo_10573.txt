@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : outofsocks
+Photo URL    : https://www.flickr.com/photos/outofsocks/2579547388/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 14 20:37:03 GMT+0200 2008
+Upload Date  : Sun Jun 15 04:37:03 GMT+0200 2008
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4374-edited
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Go!
+
+Bison on the loose?
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/6887840816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 31 22:02:15 GMT+0200 2012
+Upload Date  : Sun Apr 1 05:54:46 GMT+0200 2012
+Geotag Info  : Latitude:31.822339, Longitude:-111.022987
+Views        : 758
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Desert Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Raw green valley arizona rabbit bunny 

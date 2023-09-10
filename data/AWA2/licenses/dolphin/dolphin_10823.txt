@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : McRoberts
+Photo URL    : https://www.flickr.com/photos/mcroberts/5173550137/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 11 11:46:49 GMT+0100 2010
+Upload Date  : Sun Nov 14 07:19:31 GMT+0100 2010
+Geotag Info  : Latitude:26.035331, Longitude:-81.770578
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dolphin Florida 

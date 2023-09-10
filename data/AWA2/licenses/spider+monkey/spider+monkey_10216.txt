@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SteFou!
+Photo URL    : https://www.flickr.com/photos/stephen-oung/8056609408/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 22 14:17:56 GMT+0200 2012
+Upload Date  : Fri Oct 5 15:55:49 GMT+0200 2012
+Views        : 481
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It was really cool in this one area where the spider monkeys were free to roam around. They would jump onto people and such; but got a quick spay of water in the face if they tried to grab something
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Germany Leipzig People Travel LPWild2 

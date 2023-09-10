@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Glovebr2008
+Photo URL    : https://www.flickr.com/photos/22427496@N08/15203289112/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 10 22:33:03 GMT+0200 2014
+Upload Date  : Thu Sep 11 03:47:18 GMT+0200 2014
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2014-08-13 17.04.08
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gatos siameses cats siamese 

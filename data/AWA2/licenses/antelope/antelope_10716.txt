@@ -1,0 +1,44 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James St. John
+Photo URL    : https://www.flickr.com/photos/jsjgeology/8269173469/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 28 20:56:18 GMT+0200 2007
+Upload Date  : Thu Dec 13 17:17:51 GMT+0100 2012
+Views        : 1,340
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Odocoileus virginianus (white-tailed deer) (Newark, Ohio, USA) 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Odocoileus virginianus (Zimmerman, 1780) - female white-tailed deer in Newark, Ohio, USA. (photo by Mary Ellen St. John)
+
+Mammals are the dominant group of terrestrial vertebrates on Earth today.  The group is defined based on a combination of features: endothermic (= warm-blooded), air-breathing, body hair, mother's milk, four-chambered heart, large brain-to-body mass ratio, two teeth generations, differentiated dentition, and a single lower jawbone.  Almost all modern mammals have live birth - exceptions are the duck-billed platypus and the echidna, both of which lay eggs.
+
+Mammals first appear in the Triassic fossil record - they evolved from the therapsids (mammal-like reptiles).  Mammals were mostly small and a minor component of terrestrial ecosystems during the Mesozoic.  After the Cretaceous-Tertiary mass extinction at 65 million years ago, the mammals underwent a significant adaptive radiation - most modern mammal groups first appeared during this radiation in the early Cenozoic (Paleocene and Eocene).
+
+Three groups of mammals exist in the Holocene - placentals, marsupials, and monotremes.  Other groups, now extinct, were present during the Mesozoic.
+
+Shown above is a female white-tailed deer, Odocoileus virginianus.  It has a relatively short-haired summer coat that is bright reddish-brown in color.
+
+Classification: Animalia, Chordata, Vertebrata, Mammalia, Artiodactyla, Cervidae
+
+
++--------+
+|  TAGS  |
++--------+
+Odocoileus virginianus white-tailed deer white tailed Newark Ohio doe summer coat 

@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mr.TinDC
+Photo URL    : https://www.flickr.com/photos/mr_t_in_dc/5455140902/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 13 00:26:23 GMT+0100 2011
+Upload Date  : Fri Feb 18 03:19:56 GMT+0100 2011
+Geotag Info  : Latitude:38.928550, Longitude:-77.046175
+Views        : 9,976
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Cub Portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+African Lion cub (Panthera leo) at the National Zoo, in Washington, DC. 
+
+Blogged:
+<a href="http://dcist.com/2011/02/morning_roundup_519.php" rel="nofollow">dcist.com/2011/02/morning_roundup_519.php</a>
+<a href="http://www.princeofpetworth.com/2011/02/your-afternoon-animal-fix-93/" rel="nofollow">www.princeofpetworth.com/2011/02/your-afternoon-animal-fi...</a>
+
+
++--------+
+|  TAGS  |
++--------+
+dc dcist washingtondc zoo nationalzoo nationalzoologicalpark Smithsonianzoologicalpark animals wildlife lion lions lioncubs cubs lioncub cub cute Africanlions Africanlion PantheraLeo Baruti 

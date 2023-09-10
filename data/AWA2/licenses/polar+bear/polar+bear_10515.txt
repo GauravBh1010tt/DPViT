@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StuSeeger
+Photo URL    : https://www.flickr.com/photos/stuseeger/159126795/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 2 23:23:41 GMT+0200 2006
+Upload Date  : Sat Jun 3 08:26:22 GMT+0200 2006
+Geotag Info  : Latitude:45.509722, Longitude:-122.715117
+Views        : 1,938
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oregon Zoo. Portland, Oregon.
+
+
++--------+
+|  TAGS  |
++--------+
+"Portland Zoo" Portland Oregon Minolta Maxxum 7D Bears ZooTrip "Oregon Zoo" ours blanc "ours blanc" polaire sciences creativecommons 

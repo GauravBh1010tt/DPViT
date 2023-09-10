@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : traveler7001
+Photo URL    : https://www.flickr.com/photos/15014982@N03/1582440589/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 17 14:51:53 GMT+0200 2003
+Upload Date  : Tue Oct 16 03:54:57 GMT+0200 2007
+Views        : 1,343
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+gulf_shores
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dolphins near Gulf Shores, Alabama.
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin gulf shores alabama 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cml.1674
+Photo URL    : https://www.flickr.com/photos/cml1674/3335104043/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 3 14:30:54 GMT+0100 2009
+Upload Date  : Sat Mar 7 18:46:47 GMT+0100 2009
+Views        : 132
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sri Lankan Leopard Cubs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

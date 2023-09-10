@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jjandames
+Photo URL    : https://www.flickr.com/photos/jjandames/9417068600/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 26 20:06:30 GMT+0200 2013
+Upload Date  : Thu Aug 1 18:24:50 GMT+0200 2013
+Views        : 134
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly bear in Denali
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Denali Alaska "Denali National Park" "Wonder Lake Shuttle Bus" 

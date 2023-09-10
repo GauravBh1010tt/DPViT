@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Phil_Heck
+Photo URL    : https://www.flickr.com/photos/kleche/6302921206/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 27 15:40:38 GMT+0200 2011
+Upload Date  : Tue Nov 1 16:58:00 GMT+0100 2011
+Geotag Info  : Latitude:46.711948, Longitude:6.379069
+Views        : 621
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison
+
+
++--------+
+|  TAGS  |
++--------+
+Bison Suisse 2011 animal 

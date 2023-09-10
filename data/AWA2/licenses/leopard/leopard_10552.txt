@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jason Wharam
+Photo URL    : https://www.flickr.com/photos/jasonwharam/6929830876/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 22 18:11:17 GMT+0100 2012
+Upload Date  : Sat Apr 14 10:07:46 GMT+0200 2012
+Geotag Info  : Latitude:-18.392157, Longitude:26.485290
+Views        : 2,804
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Sleeping Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Leopard
+Distinguished by its exceptionally beautiful, black-spotted coat, the leopard (Panthera pardus) is also recognised for its supreme stealth and its remarkable versatility. Despite being the smallest of the ‘big cats’, the leopard is the most widespread of all wild cat species, and is well known for the variety of prey it takes, as well as its ability to occupy a range of habitats, from deserts and mountains to jungles and swamps.
+
+Wildlife photography, artwork and graphic editing from Jason Wharam Photography.
+
+
++--------+
+|  TAGS  |
++--------+
+"african wildlife" Zimbabwe Namibia Botswana "South Africa" Tanzania "Kenya and Zambia" "Victoria Falls" "Hwange National Park" "Chobe National Park" Savuti Lynyati Kariba Etosha 

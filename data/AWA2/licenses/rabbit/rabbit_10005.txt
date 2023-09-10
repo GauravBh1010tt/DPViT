@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tanner Stott
+Photo URL    : https://www.flickr.com/photos/fireball5012/7770878046/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 2 13:48:04 GMT+0200 2012
+Upload Date  : Mon Aug 13 04:58:50 GMT+0200 2012
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_DSC0265
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

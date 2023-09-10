@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ken Nakano
+Photo URL    : https://www.flickr.com/photos/almaden/118560646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 1 00:00:00 GMT+0100 2006
+Upload Date  : Tue Mar 21 09:00:14 GMT+0100 2006
+Views        : 88
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6600
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo 

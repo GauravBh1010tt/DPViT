@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stopete60
+Photo URL    : https://www.flickr.com/photos/stockispicts/23768507043/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 23 13:36:06 GMT+0200 2015
+Upload Date  : Fri Jan 15 14:54:22 GMT+0100 2016
+Geotag Info  : Latitude:-2.328614, Longitude:34.756759
+Views        : 292
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+leo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+i could not stop watching - what a beauty
+
+
++--------+
+|  TAGS  |
++--------+
+leopard serengeti tanzania cat 

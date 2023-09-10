@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Doce Sapienss
+Photo URL    : https://www.flickr.com/photos/lolordl/4441331367/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 20 16:02:38 GMT+0200 2009
+Upload Date  : Thu Mar 18 00:47:17 GMT+0100 2010
+Geotag Info  : Latitude:28.226619, Longitude:-16.879323
+Views        : 243
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Delfín en el Atlántico.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dolphin out of water. Atlantic Ocean.
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin out water Atlantic ocean fuera del agua salto delfín 

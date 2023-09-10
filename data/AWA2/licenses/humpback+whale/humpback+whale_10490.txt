@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VirtKitty
+Photo URL    : https://www.flickr.com/photos/lalouque/3878000407/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 24 19:31:59 GMT+0200 2009
+Upload Date  : Tue Sep 1 19:20:00 GMT+0200 2009
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Just when we thought we weren't going to spot any whales, the captain of the boat announced there had been a sighting behind us and he was turning the boat around!
+
+
++--------+
+|  TAGS  |
++--------+
+AK Seward humpback whale 

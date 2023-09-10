@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcoughlin
+Photo URL    : https://www.flickr.com/photos/mcoughlin/11414691643/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 24 00:00:24 GMT+0100 2013
+Upload Date  : Tue Dec 17 07:01:31 GMT+0100 2013
+Geotag Info  : Latitude:-3.185482, Longitude:35.572892
+Views        : 541
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Black Rhino (zoomed way in)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rhinos make themselves pretty scarce. We did see two, but never closer than this. Ngorongoro Crater, Tanzania.
+
+
++--------+
+|  TAGS  |
++--------+
+rhino rhinoceros ngorongoro tanzania 

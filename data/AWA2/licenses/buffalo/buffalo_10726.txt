@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/14833744248/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 19 14:34:05 GMT+0100 2013
+Upload Date  : Sun Aug 24 17:22:30 GMT+0200 2014
+Views        : 647
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lying Down
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bison takes a break at Rocky Mountain Arsenal National Wildlife Refuge.
+
+Photo Credit: USFWS / Cindy Souders
+
+
++--------+
+|  TAGS  |
++--------+
+USFWS FWS "U.S. FISH AND WILDLIFE SERVICE" "U.S. FISH & WILDLIFE SERVICE" "National Wildlife Refuge System" Refuge CONSERVATION NATURE WILDLIFE "Rocky Mountain Arsenal National Wildlife Refuge" Bison 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nicksarebi
+Photo URL    : https://www.flickr.com/photos/34517490@N00/7936144274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 26 12:04:03 GMT+0200 2012
+Upload Date  : Wed Sep 5 12:46:32 GMT+0200 2012
+Views        : 713
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Whale watching in Husavik
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback whales
+
+
++--------+
+|  TAGS  |
++--------+
+husavik iceland humpback whales fin watching 

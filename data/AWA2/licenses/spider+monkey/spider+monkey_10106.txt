@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BrunoSchalch
+Photo URL    : https://www.flickr.com/photos/bsgphotos/13519695945/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 26 18:46:01 GMT+0100 2014
+Upload Date  : Mon Mar 31 02:49:34 GMT+0200 2014
+Views        : 97
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mono araña
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A wild spider monkey. Reserva de la Biosfera Calakmul.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

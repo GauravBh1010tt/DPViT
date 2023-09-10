@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Imagine Communications
+Photo URL    : https://www.flickr.com/photos/23542547@N07/9451669937/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 27 23:04:31 GMT+0100 2009
+Upload Date  : Tue Aug 6 21:55:57 GMT+0200 2013
+Views        : 2,342
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Winter with trainer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Winter the dolphin using her prostethic tail.
+
+
++--------+
+|  TAGS  |
++--------+
+Winter dolphin 

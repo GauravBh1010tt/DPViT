@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : luagh45
+Photo URL    : https://www.flickr.com/photos/luagh45/6423077055/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 28 20:58:30 GMT+0100 2011
+Upload Date  : Tue Nov 29 05:58:30 GMT+0100 2011
+Views        : 438
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Flemish Giant Gray
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+luagh45 bunny rabbit 

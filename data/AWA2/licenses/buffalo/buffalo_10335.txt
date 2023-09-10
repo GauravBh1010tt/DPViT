@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lissalou66
+Photo URL    : https://www.flickr.com/photos/lissalou66/3357473764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 15 10:35:05 GMT+0100 2009
+Upload Date  : Sun Mar 15 20:07:38 GMT+0100 2009
+Geotag Info  : Latitude:38.530727, Longitude:-90.540647
+Views        : 506
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+There was a whole herd of Bison right at the roads edge and in the road.  There were about 8-10 cars parked taking photos and watching until a path cleared.  One of the larger Bison was totally blocking a little car.  Everytime they tried to pull ahead he nudged the front of their car and moved more in front of it.  I would've been scared he was going to ram me but at that point there really isn't much you can do but sit and wait and see what happens.
+
+
++--------+
+|  TAGS  |
++--------+
+2009 "St Louis" Missouri "World Bird Sanctuary" "St Louis Photography Meetup Group" "Lone Elk Park" Bison 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tammylo
+Photo URL    : https://www.flickr.com/photos/tammylo/8027939892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 22 18:27:26 GMT+0200 2012
+Upload Date  : Thu Sep 27 00:11:23 GMT+0200 2012
+Geotag Info  : Latitude:32.729530, Longitude:-117.170562
+Views        : 2,186
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins @ Sea World
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+fish food.
+
+
++--------+
+|  TAGS  |
++--------+
+"sea world" "san diego" animals dolphins 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sakkewiik
+Photo URL    : https://www.flickr.com/photos/sakke/143577177/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 5 11:22:39 GMT+0200 2006
+Upload Date  : Tue May 9 21:18:52 GMT+0200 2006
+Geotag Info  : Latitude:32.618701, Longitude:-17.003231
+Views        : 777
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+madeira portugal 2006 dolphin dolpins sea water 

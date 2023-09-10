@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mava
+Photo URL    : https://www.flickr.com/photos/mava/2693245224/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 21 12:06:05 GMT+0200 2008
+Upload Date  : Tue Jul 22 18:30:52 GMT+0200 2008
+Geotag Info  : Latitude:42.088776, Longitude:-75.993048
+Views        : 1,073
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+The movers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+NY Otis Simon USA Vestal "Viking House" cat moving box U-Haul tabby siamese 

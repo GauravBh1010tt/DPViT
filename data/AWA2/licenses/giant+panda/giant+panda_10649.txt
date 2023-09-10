@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Blue Pylons
+Photo URL    : https://www.flickr.com/photos/10037058@N08/4932090477/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 19 11:34:52 GMT+0200 2010
+Upload Date  : Fri Aug 27 19:29:28 GMT+0200 2010
+Views        : 1,685
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A panda at the National Zoo munching on bamboo.
+
+National Zoo, Washington DC
+
+
++--------+
+|  TAGS  |
++--------+
+"National Zoo" "Washington DC" panda bamboo China 

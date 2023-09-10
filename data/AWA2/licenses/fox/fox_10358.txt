@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bmarks50
+Photo URL    : https://www.flickr.com/photos/bmarks50/2604046223/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 21 18:19:40 GMT+0200 2008
+Upload Date  : Mon Jun 23 19:04:15 GMT+0200 2008
+Views        : 3,924
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gray fox checking us out
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of two gray foxes we saw in the Tomales Bay picnic grounds.  The pups were nearby in the den.
+
+
++--------+
+|  TAGS  |
++--------+
+greyfox fox grayfox 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jabberwock
+Photo URL    : https://www.flickr.com/photos/jabberwock/8353572676/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 26 06:11:57 GMT+0200 2012
+Upload Date  : Sun Jan 6 12:59:10 GMT+0100 2013
+Geotag Info  : Latitude:-33.466473, Longitude:26.050472
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0913
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Shamwari Lion 

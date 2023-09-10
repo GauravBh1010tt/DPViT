@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LaggedOnUser
+Photo URL    : https://www.flickr.com/photos/47847725@N04/4455047407/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 21 13:14:31 GMT+0100 2010
+Upload Date  : Tue Mar 23 00:17:50 GMT+0100 2010
+Views        : 448
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion and lioness
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lion and lioness
+
+
++--------+
+|  TAGS  |
++--------+
+florida photos photography canon usa color jacksonville zoo animals 

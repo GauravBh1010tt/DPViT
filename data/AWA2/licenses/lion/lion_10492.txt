@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kangotraveler
+Photo URL    : https://www.flickr.com/photos/14279744@N03/2240926756/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 6 10:47:47 GMT+0200 2006
+Upload Date  : Mon Feb 4 02:43:50 GMT+0100 2008
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Resting easy.  He has a good life!
+
+
++--------+
+|  TAGS  |
++--------+
+Montgomery Alabama Zoo 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : whistler1984
+Photo URL    : https://www.flickr.com/photos/whistler1984/5714006362/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 24 13:48:23 GMT+0200 2011
+Upload Date  : Thu May 12 21:10:30 GMT+0200 2011
+Views        : 905
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion lions lioness cats "big cats" mane "apex predator" predator savannah plains "masai mara" hunters pride rest cute cuddly furry safari kenya africa "lion king lions lioness cats big cats mane apex predator predator savannah plains masai mara hunters pride rest cute cuddly furry safari kenya africa lion king" 

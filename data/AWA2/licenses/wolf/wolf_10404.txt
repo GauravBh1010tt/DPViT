@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harlequeen
+Photo URL    : https://www.flickr.com/photos/harlequeen/955812638/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 22 11:27:09 GMT+0200 2007
+Upload Date  : Mon Jul 30 23:45:21 GMT+0200 2007
+Geotag Info  : Latitude:51.847231, Longitude:-0.541419
+Views        : 10,556
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf Pack
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These are the European grey wolves, out and about!
+
+
++--------+
+|  TAGS  |
++--------+
+wolf whipsnade zoo 

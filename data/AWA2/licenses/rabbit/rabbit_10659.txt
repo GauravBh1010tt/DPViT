@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/6345182212/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 10 16:03:59 GMT+0200 2011
+Upload Date  : Mon Nov 14 20:00:40 GMT+0100 2011
+Geotag Info  : Latitude:38.922691, Longitude:-76.974785
+Views        : 1,309
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Millie is hanging on your every word.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit pet "house rabbit" millie rex minirex soft white doe 

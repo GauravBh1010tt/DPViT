@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eltpics
+Photo URL    : https://www.flickr.com/photos/eltpics/5197320554/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 26 13:18:40 GMT+0100 2010
+Upload Date  : Mon Nov 22 04:20:30 GMT+0100 2010
+Views        : 7,630
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dolphins at Barça zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+@cerirhiannon
+
+
++--------+
+|  TAGS  |
++--------+
+eltpics animals dolphin 

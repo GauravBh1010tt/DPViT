@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Don Johnson 395
+Photo URL    : https://www.flickr.com/photos/donjohnson395/3606955689/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 8 08:29:54 GMT+0200 2009
+Upload Date  : Mon Jun 8 17:05:41 GMT+0200 2009
+Geotag Info  : Latitude:26.979327, Longitude:-82.212903
+Views        : 1,757
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny having a salad
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bunny rabbit
+
+
++--------+
+|  TAGS  |
++--------+
+Bunny rabbit 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eekim
+Photo URL    : https://www.flickr.com/photos/eekim/8423621262/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 25 12:49:51 GMT+0100 2013
+Upload Date  : Mon Jan 28 11:49:27 GMT+0100 2013
+Views        : 289
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the Cincinnati Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

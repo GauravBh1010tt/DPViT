@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mamoritai
+Photo URL    : https://www.flickr.com/photos/mamoritai/3847142478/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 22 13:04:03 GMT+0200 2009
+Upload Date  : Sun Aug 23 02:30:31 GMT+0200 2009
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Central Park Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Central Park Zoo 

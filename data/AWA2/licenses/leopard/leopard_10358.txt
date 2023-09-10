@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ~ My World ~
+Photo URL    : https://www.flickr.com/photos/shazzywazzy2010/5140518180/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 10 12:06:37 GMT+0200 2010
+Upload Date  : Tue Nov 2 19:13:24 GMT+0100 2010
+Views        : 365
+Comments     : 32
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Looking out for his dinner, he wouldn't look at me as I was blocking his view of the keeper getting his lunch ready. 
+Taken at Chessington World of Adventures, UK
+
+
++--------+
+|  TAGS  |
++--------+
+lepoard close Surrey CWOA Chessington 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : haley8
+Photo URL    : https://www.flickr.com/photos/haley8/4899581137/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 8 10:02:22 GMT+0200 2010
+Upload Date  : Tue Aug 17 04:45:23 GMT+0200 2010
+Geotag Info  : Latitude:9.902061, Longitude:-84.052104
+Views        : 127
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Where's my prize?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese 

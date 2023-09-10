@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/14166110645/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 12 08:53:54 GMT+0100 2014
+Upload Date  : Mon May 12 06:00:04 GMT+0200 2014
+Geotag Info  : Latitude:47.547509, Longitude:7.578211
+Views        : 5,534
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of Kiran
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kiran is a male and the last born of the rhinoceroces of the Basel zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+baby young male rhino rhinoceros portrait face cute zoo basel zolli switzerland nikon d4 

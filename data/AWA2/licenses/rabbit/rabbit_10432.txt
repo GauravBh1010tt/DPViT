@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : grace_kat
+Photo URL    : https://www.flickr.com/photos/g_kat26/4255913328/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 30 07:52:06 GMT+0100 2009
+Upload Date  : Fri Jan 8 04:50:42 GMT+0100 2010
+Views        : 334
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Feral Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals rabbit 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/7532374364/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 8 17:16:44 GMT+0200 2012
+Upload Date  : Mon Jul 9 04:19:05 GMT+0200 2012
+Geotag Info  : Latitude:42.462697, Longitude:-71.093636
+Views        : 2,901
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard Profile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo big cat "snow leopard" profile face closeup spots 

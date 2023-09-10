@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FurLined
+Photo URL    : https://www.flickr.com/photos/furlined/3562144775/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 24 16:27:08 GMT+0200 2009
+Upload Date  : Mon May 25 14:41:25 GMT+0200 2009
+Geotag Info  : Latitude:51.418479, Longitude:-1.153178
+Views        : 25,640
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is one of the uk wolf trust's european wolf pack in their enclosure.
+
+
++--------+
+|  TAGS  |
++--------+
+"uk wolf trust" "uk wolf conservation trust" wolf wolves "european wolf" 

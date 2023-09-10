@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : xpcfan
+Photo URL    : https://www.flickr.com/photos/8659143@N08/17345919515/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 2 12:09:35 GMT+0200 2015
+Upload Date  : Sat May 2 21:19:20 GMT+0200 2015
+Views        : 144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+snoozing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+After a tough morning - playing Frisbee, chasing birds and getting a bath - a guy needs a nap.
+
+
++--------+
+|  TAGS  |
++--------+
+white german shepherd dog 

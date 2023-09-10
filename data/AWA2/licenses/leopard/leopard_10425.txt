@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : darkroomillusions
+Photo URL    : https://www.flickr.com/photos/21604043@N05/2448342386/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 1 10:49:38 GMT+0200 2003
+Upload Date  : Mon Apr 28 06:44:24 GMT+0200 2008
+Views        : 1,991
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard, Kruger National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Leopard Kruger National Park" "South Africa" Africa 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8571481201/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 10 14:40:30 GMT+0100 2012
+Upload Date  : Tue Mar 19 18:01:14 GMT+0100 2013
+Geotag Info  : Latitude:47.050651, Longitude:8.554229
+Views        : 14,186
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Wolves gently biting each other
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Next shot in the series of the wolves gently biting each other to show who has which rank. Interesting to observe!
+
+
++--------+
+|  TAGS  |
++--------+
+two toegether rank biting standing behaviour grass stones "open mouth" wolf canid canine dog tierpark arth goldau zoo switzerland nikon d4 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : E-nat
+Photo URL    : https://www.flickr.com/photos/einat/27152985/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 7 12:28:02 GMT+0100 2004
+Upload Date  : Tue Jul 19 20:32:42 GMT+0200 2005
+Views        : 5,188
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Near Eilat
+The Red (?) Sea
+
+
++--------+
+|  TAGS  |
++--------+
+Israel Animals Nature Dolphin "i love nature" top-v111 "Dolphin reef" Eilat Water "Red sea" Winter "Lovely creatures" sea diving Vacation mamal sailing Smile bestofisraelproject 

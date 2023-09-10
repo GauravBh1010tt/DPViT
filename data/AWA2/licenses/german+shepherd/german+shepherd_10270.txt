@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daniela.magallon
+Photo URL    : https://www.flickr.com/photos/87776777@N00/2321506378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 6 13:17:58 GMT+0100 2008
+Upload Date  : Sun Mar 9 17:11:16 GMT+0100 2008
+Views        : 848
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Fuser de lado
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+germanshepherd pastoraleman schäferhund fuser "the German Shepards group" 

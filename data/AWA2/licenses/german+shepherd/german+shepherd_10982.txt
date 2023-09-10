@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lilli2de
+Photo URL    : https://www.flickr.com/photos/seven_of9/5376644016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 16 13:49:31 GMT+0100 2011
+Upload Date  : Sat Jan 22 00:07:34 GMT+0100 2011
+Geotag Info  : Latitude:51.619631, Longitude:13.698041
+Views        : 1,254
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+Walk with Theo 041
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Theo says: Have a nice weekend!
+And who plays with me?
+
+
++--------+
+|  TAGS  |
++--------+
+2011 Germany "Land Brandenburg" Niederlausitz Elbe-Elster Finsterwalde "my mom's garden" Garten Natur nature Pflanzen plants Hund dog "named Theo" "Belgischer Schäferhund" "Belgian Shepherd Dog" 

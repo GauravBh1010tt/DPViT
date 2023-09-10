@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : L'animalité photographique
+Photo URL    : https://www.flickr.com/photos/leabesson/19490870423/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 19 16:44:45 GMT+0200 2015
+Upload Date  : Wed Jul 29 15:18:33 GMT+0200 2015
+Geotag Info  : Latitude:43.735693, Longitude:1.517486
+Views        : 4,620
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Cute sweetness
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lapin rabbit lapereau bunny cute sweet mignon doux douceur sweetness animal boire water eau drink bébé baby gris grey blanc white nature exterieur out poil mammifere mammals young oreilles ears nervures veines herbe dehors 

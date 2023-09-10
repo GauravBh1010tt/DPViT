@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kathrin_rieger
+Photo URL    : https://www.flickr.com/photos/craighnadun/5028773021/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 19 14:48:32 GMT+0200 2010
+Upload Date  : Mon Sep 27 11:25:23 GMT+0200 2010
+Views        : 697
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Stinktier
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Braunschweig Stinktier skunk 

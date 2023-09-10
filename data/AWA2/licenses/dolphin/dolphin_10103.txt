@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ross D
+Photo URL    : https://www.flickr.com/photos/rossdoering/2553110632/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 1 15:28:36 GMT+0200 2008
+Upload Date  : Thu Jun 5 06:59:21 GMT+0200 2008
+Geotag Info  : Latitude:34.155283, Longitude:-119.512367
+Views        : 644
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Common Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Santa Barbara Channel. A pod of Common Dolphin seen on return trip from Santa Cruz Island, Channel Islands National Park.
+
+Thanks go to Jimmy skipper of &quot;Island Adventure&quot; of <a href="http://www.islandpackers.com/" rel="nofollow">Island Packers</a> for spotting the pod and taking us on the detour to see the dolphin pod up close.
+
+
++--------+
+|  TAGS  |
++--------+
+"2008-05 Santa Cruz Island Kayak Trip" "Santa Barbara Channel" "Daily Ray of Hope" 

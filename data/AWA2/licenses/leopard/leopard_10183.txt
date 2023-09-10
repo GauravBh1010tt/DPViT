@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheWanderingAmerican
+Photo URL    : https://www.flickr.com/photos/fitzharris/14216309814/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 20 23:02:43 GMT+0200 2014
+Upload Date  : Mon May 19 00:05:24 GMT+0200 2014
+Geotag Info  : Latitude:-24.799024, Longitude:31.540632
+Views        : 1,297
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+In a Young Leopard's Eyes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mala Mala Game Reserve, Mpumalanga, South Africa
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Kruger Leopard "Mala Mala" Safari "South Africa" Mpumalanga Africa African Panthera pardus mother son cub leopards leopardess "Animal Planet" "National Geographic" NatGeo 

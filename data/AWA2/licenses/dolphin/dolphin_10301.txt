@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gorotaku
+Photo URL    : https://www.flickr.com/photos/gorotaku/14554054960/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 22 13:35:28 GMT+0200 2014
+Upload Date  : Fri Jul 25 12:51:24 GMT+0200 2014
+Views        : 496
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nikon 1 V3 + 1 NIKKOR 70-300mm
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

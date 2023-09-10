@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ConspiracyofHappiness
+Photo URL    : https://www.flickr.com/photos/97964364@N00/207358851/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 29 11:17:54 GMT+0200 2006
+Upload Date  : Sat Aug 5 20:15:37 GMT+0200 2006
+Geotag Info  : Latitude:38.205716, Longitude:-85.707060
+Views        : 331
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino at Louisville Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+louisville zoo kentucky animal rhinoceros 

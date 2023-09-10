@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : greenleaf 80
+Photo URL    : https://www.flickr.com/photos/bluff_artist/7868342808/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 24 06:46:44 GMT+0200 2012
+Upload Date  : Mon Aug 27 02:04:01 GMT+0200 2012
+Views        : 81
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rabbit in dry grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This photo was taken in July in Prince Edward County at my brother's front lawn in the country.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

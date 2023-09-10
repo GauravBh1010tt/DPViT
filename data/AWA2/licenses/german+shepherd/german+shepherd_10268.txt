@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : distar97
+Photo URL    : https://www.flickr.com/photos/dennisharper/4219569583/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 1 00:00:00 GMT+0100 1972
+Upload Date  : Sun Dec 27 23:22:05 GMT+0100 2009
+Geotag Info  : Latitude:40.834311, Longitude:-73.925887
+Views        : 688
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fritz March 22 1972
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The back of this print has an error. It says Patricia and Jeanette. I think the stick-on backing that Polaroid provided for it's 108 color film was intended for another print. This print is of Fritz (aka Rex) sitting in the living room of the 5th floor apt at 1081 Anderson Ave.
+
+I remember mom saying she got Fritz from Mr Clean who is better known as Captain Haggerty, a no nonsense dog trainer for television and movies.
+
+I thought she made up the Mr Clean reference. But I recently found a New York Times article (July 18, 2006) that verifies he did trade show gigs as Mr Clean for Proctor and Gamble. So it was true.
+
+
++--------+
+|  TAGS  |
++--------+
+Fritz Rex "1081 Anderson" "captain haggerty" Harper german shepherd 

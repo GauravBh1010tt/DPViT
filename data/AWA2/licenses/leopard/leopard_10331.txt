@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/2983978799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 29 15:39:23 GMT+0100 2008
+Upload Date  : Wed Oct 29 18:58:29 GMT+0100 2008
+Geotag Info  : Latitude:3.207832, Longitude:101.756486
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Negara
+Malaysia
+
+
++--------+
+|  TAGS  |
++--------+
+zoo negara malaysia wildlife nature animals 

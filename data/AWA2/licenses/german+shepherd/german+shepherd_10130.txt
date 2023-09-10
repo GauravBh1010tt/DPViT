@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pedliano
+Photo URL    : https://www.flickr.com/photos/pedliano/2766916892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 18 20:26:21 GMT+0200 2008
+Upload Date  : Sat Aug 16 02:36:53 GMT+0200 2008
+Views        : 186
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nick's dog - Buster. Motion blur.
+
+
++--------+
+|  TAGS  |
++--------+
+dog alsation "german shepherd" Canon 

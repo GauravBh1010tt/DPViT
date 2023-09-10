@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KatyC2009
+Photo URL    : https://www.flickr.com/photos/ckaty/3972943554/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 4 20:14:54 GMT+0200 2008
+Upload Date  : Thu Oct 1 23:18:21 GMT+0200 2009
+Views        : 1,926
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+sweet bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal bunny grass brownandgreen Colorado DouglasCounty photography rabbit aminal animals wild nature diplicate KatyC2009 

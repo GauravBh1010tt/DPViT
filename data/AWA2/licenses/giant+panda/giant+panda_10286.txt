@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew and Annemarie
+Photo URL    : https://www.flickr.com/photos/andrew_annemarie/14094537219/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 27 08:59:14 GMT+0200 2014
+Upload Date  : Tue May 27 02:59:14 GMT+0200 2014
+Geotag Info  : Latitude:30.737805, Longitude:104.143191
+Views        : 1,549
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giant Pandas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Follow our trip at <a href="http://www.trekkingasia.co.uk" rel="nofollow">Trekking Asia</a>
+
+
++--------+
+|  TAGS  |
++--------+
+file:md5sum=e73d059a2e2d7905f2d93fa1b3dcbf9f file:sha1sig=e9b24200d35e83e7e917667e6f31c2ec7caa9fa4 panda Chengdu China Asia backpacking trekking sightseeing landscapes 

@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ken Lund
+Photo URL    : https://www.flickr.com/photos/kenlund/1273138699/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 10 09:45:48 GMT+0200 2007
+Upload Date  : Thu Aug 30 08:43:30 GMT+0200 2007
+Geotag Info  : Latitude:44.734181, Longitude:-110.696268
+Views        : 1,119
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yield to Bison, Near Roaring Mountain, Yellowstone National Park, Wyoming
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The American bison (Bison bison), also commonly known as the American buffalo, is a North American species of bison that once roamed the grasslands of North America in massive herds, became nearly extinct by a combination of commercial hunting and slaughter in the 19th century and introduction of bovine diseases from domestic cattle, and has made a recent resurgence largely restricted to a few national parks and reserves. Their historical range roughly comprised a triangle between the Great Bear Lake in Canada's far northwest, south to the Mexican states of Durango and Nuevo León, and east to the Atlantic Seaboard of the United States (nearly to the Atlantic tidewater in some areas) from New York to Georgia and per some sources down to Florida, also in North Carolina where bison were seen near Buffalo Ford on the Catawba River as late as 1750.
+
+Two subspecies or ecotypes have been described: the plains bison (Bison bison bison), smaller in size and with a more rounded hump, and the wood bison (Bison bison athabascae)—the larger of the two and having a taller, square hump. 
+
+<a href="http://en.wikipedia.org/wiki/American_bison" rel="nofollow">en.wikipedia.org/wiki/American_bison</a>
+
+<a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="nofollow">en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_...</a>
+
+
++--------+
+|  TAGS  |
++--------+
+yellowstone "yellowstone np" "yellowstone national park" "national park" park wyoming geyser bison us elk 

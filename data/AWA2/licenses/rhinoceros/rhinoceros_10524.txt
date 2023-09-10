@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mountain/\Ash
+Photo URL    : https://www.flickr.com/photos/mountainash/2621903007/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 23 10:27:30 GMT+0200 2008
+Upload Date  : Mon Jun 30 00:05:49 GMT+0200 2008
+Geotag Info  : Latitude:-32.271530, Longitude:148.585453
+Views        : 104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceroses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+westernplainszoo zoo dubbo holiday 

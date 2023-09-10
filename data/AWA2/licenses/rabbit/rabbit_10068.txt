@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SamCheong
+Photo URL    : https://www.flickr.com/photos/41234325@N06/8604103628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 10 15:04:05 GMT+0100 2013
+Upload Date  : Sat Mar 30 19:46:13 GMT+0100 2013
+Views        : 567
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A6516
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+来拍个写真
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit 兔子 family 家人 malaysia bahau nikon D7000 35mm F1.8G 

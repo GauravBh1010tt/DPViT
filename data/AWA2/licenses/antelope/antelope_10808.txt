@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ian N. White
+Photo URL    : https://www.flickr.com/photos/ian_white/4198839837/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 20 09:08:50 GMT+0100 2009
+Upload Date  : Sun Dec 20 08:08:50 GMT+0100 2009
+Geotag Info  : Latitude:-24.645144, Longitude:25.950908
+Views        : 2,889
+Comments     : 41
+
+
++---------+
+|  TITLE  |
++---------+
+Red-billed Oxpecker (Buphagus erythrorhynchus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Red-billed Oxpecker" "Buphagus erythrorhynchus" Impala "Aepyceros melampus" Gabarone Botswana PHYSIS 

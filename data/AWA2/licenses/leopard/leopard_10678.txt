@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rega Photography
+Photo URL    : https://www.flickr.com/photos/frametaker/7076783727/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 11 22:34:42 GMT+0200 2012
+Upload Date  : Sat Apr 14 17:33:34 GMT+0200 2012
+Views        : 2,412
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tired
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Not the best focus but I still find them amazing.
+
+
++--------+
+|  TAGS  |
++--------+
+mammal leopard cat "big cat" spots tongue pink golden yellow black macro yawn tired whiskers mouth open big 

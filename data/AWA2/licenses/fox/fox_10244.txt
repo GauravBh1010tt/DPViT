@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RhondaRCallow
+Photo URL    : https://www.flickr.com/photos/25559315@N07/2755433740/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 19 17:36:57 GMT+0200 2008
+Upload Date  : Tue Aug 12 02:54:10 GMT+0200 2008
+Geotag Info  : Latitude:55.669428, Longitude:-121.722979
+Views        : 2,620
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A friendly wild fox. Izaac and Brett were laughing at me because I thought it was a dog.
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife animal fox photography chetwynd "british columbia" nikon 

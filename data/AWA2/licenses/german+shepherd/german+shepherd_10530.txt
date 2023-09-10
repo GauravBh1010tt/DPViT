@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ThLiers
+Photo URL    : https://www.flickr.com/photos/thliers/3591118777/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 31 11:47:51 GMT+0200 2009
+Upload Date  : Wed Jun 3 10:07:49 GMT+0200 2009
+Views        : 486
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Joker und Abby
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Schäferhund "German Shepherd" Thliers Abby Joker "französische Bulldogge" W595 SonyEricsson 

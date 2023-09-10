@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tsukunepapa
+Photo URL    : https://www.flickr.com/photos/tsukunepapa/8660814139/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 10 15:55:33 GMT+0100 2013
+Upload Date  : Fri Apr 19 00:26:27 GMT+0200 2013
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20130210_155534_asahiyamaTKN
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+旭山動物園 20130210
+
+
++--------+
+|  TAGS  |
++--------+
+旭山動物園 ホッキョクグマ 

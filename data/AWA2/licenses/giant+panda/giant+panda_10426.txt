@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pandora_60
+Photo URL    : https://www.flickr.com/photos/77843769@N00/554677187/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 15 22:00:10 GMT+0200 2007
+Upload Date  : Sat Jun 16 04:00:10 GMT+0200 2007
+Views        : 209
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Kicking back with my boo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"National Zoo" Pandas "Tai Shan" 

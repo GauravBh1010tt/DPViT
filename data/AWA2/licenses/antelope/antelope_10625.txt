@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ollografik
+Photo URL    : https://www.flickr.com/photos/ollografik/5413295163/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 20 15:46:42 GMT+0100 2011
+Upload Date  : Thu Feb 3 19:12:02 GMT+0100 2011
+Geotag Info  : Latitude:-1.608599, Longitude:35.215988
+Views        : 464
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kenya
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Afrique Antilope Impala Kenya safari africa 

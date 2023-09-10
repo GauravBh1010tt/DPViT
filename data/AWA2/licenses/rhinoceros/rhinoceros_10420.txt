@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sweetpeasue
+Photo URL    : https://www.flickr.com/photos/sweetpeasue/17909507520/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 24 12:49:41 GMT+0200 2015
+Upload Date  : Mon May 25 23:43:06 GMT+0200 2015
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinocéros blancs au zoo de Vincennes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

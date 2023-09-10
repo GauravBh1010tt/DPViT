@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : p.lenedic
+Photo URL    : https://www.flickr.com/photos/philenedic/3751829266/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 18 13:29:06 GMT+0200 2009
+Upload Date  : Fri Jul 24 09:31:27 GMT+0200 2009
+Views        : 261
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+HELLO ! ;-)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polynesian lagoon.TAHITI
+
+
++--------+
+|  TAGS  |
++--------+
+DAUPHIN dolphin 

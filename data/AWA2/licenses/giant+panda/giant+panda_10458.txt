@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bring Back Words
+Photo URL    : https://www.flickr.com/photos/backwords/5281191298/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 19 15:01:26 GMT+0100 2010
+Upload Date  : Tue Dec 21 20:59:29 GMT+0100 2010
+Geotag Info  : Latitude:32.734593, Longitude:-117.149700
+Views        : 992
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ninja panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+panda bamboo zoo 

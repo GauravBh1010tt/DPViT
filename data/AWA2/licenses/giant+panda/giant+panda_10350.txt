@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : himitsu.monban
+Photo URL    : https://www.flickr.com/photos/monban/3379615355/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 21 12:51:35 GMT+0100 2009
+Upload Date  : Mon Mar 23 22:06:57 GMT+0100 2009
+Geotag Info  : Latitude:33.734868, Longitude:-84.370515
+Views        : 229
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2654
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+atlanta panda bear animal zoo 

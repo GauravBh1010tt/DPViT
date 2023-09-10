@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A  Train
+Photo URL    : https://www.flickr.com/photos/26424952@N00/7249029610/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 5 13:58:40 GMT+0200 2012
+Upload Date  : Tue May 22 16:17:12 GMT+0200 2012
+Views        : 1,374
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Polar Bear" White Cold Ice "Cincinnati Zoo" Swim "Icy Water" 

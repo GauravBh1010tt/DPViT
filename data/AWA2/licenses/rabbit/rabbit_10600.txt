@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : michfiel
+Photo URL    : https://www.flickr.com/photos/michfiel/3559383859/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 24 16:32:47 GMT+0200 2009
+Upload Date  : Sun May 24 19:03:14 GMT+0200 2009
+Views        : 1,100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kaninchen
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kaninchen 

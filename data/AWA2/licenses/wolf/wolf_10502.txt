@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matteo Catanese
+Photo URL    : https://www.flickr.com/photos/matteocatanese/5591320183/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 27 16:21:07 GMT+0200 2011
+Upload Date  : Tue Apr 5 12:10:54 GMT+0200 2011
+Geotag Info  : Latitude:59.326600, Longitude:18.067660
+Views        : 925
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"matteo catanese" Stockholm wolf "nikon d90" snow Sweden color fur 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Raphael Quinet
+Photo URL    : https://www.flickr.com/photos/raphaelquinet/1321737368/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 15:47:18 GMT+0200 2007
+Upload Date  : Tue Sep 4 16:11:25 GMT+0200 2007
+Geotag Info  : Latitude:50.499690, Longitude:5.742030
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+MondeSauvage-154718
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Belgium Aywaille MondeSauvage safari rhinoceros rhino 

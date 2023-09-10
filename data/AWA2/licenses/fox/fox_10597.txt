@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Avery
+Photo URL    : https://www.flickr.com/photos/33590535@N06/3520500862/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 25 13:38:22 GMT+0200 2009
+Upload Date  : Mon May 11 02:07:20 GMT+0200 2009
+Geotag Info  : Latitude:38.928167, Longitude:-105.221729
+Views        : 1,077
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Swift Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"taxonomy:common=swift fox" "taxonomy:binomial=Vulpes velox" "Colorado wolf and wildlife" 

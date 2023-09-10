@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Immaculate Photons.co.uk
+Photo URL    : https://www.flickr.com/photos/mrdubya/4281816017/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 28 17:41:26 GMT+0200 2005
+Upload Date  : Sun Jan 17 19:50:49 GMT+0100 2010
+Geotag Info  : Latitude:51.198063, Longitude:-2.278976
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dinosaurs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+jurassic!
+
+
++--------+
+|  TAGS  |
++--------+
+S5800 fuji rhino rhinoceros longleat safari wildlife dinosaur horn "Immaculate Photons" mgwalker mrdubya 

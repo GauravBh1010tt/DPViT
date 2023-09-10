@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Traveller-Reini
+Photo URL    : https://www.flickr.com/photos/129472585@N03/15932020870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 3 21:32:50 GMT+0200 2009
+Upload Date  : Sat Dec 27 15:08:45 GMT+0100 2014
+Geotag Info  : Latitude:42.317304, Longitude:-70.785234
+Views        : 1,498
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whales - Mother with calf (Stellwagen Bank, MA)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Massachusetts Whales Mammals USA New.-England 

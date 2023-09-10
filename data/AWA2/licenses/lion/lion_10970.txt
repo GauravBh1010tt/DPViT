@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mara 1
+Photo URL    : https://www.flickr.com/photos/flametree/418984835/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 3 23:52:27 GMT+0100 2007
+Upload Date  : Mon Mar 12 17:11:25 GMT+0100 2007
+Views        : 5,278
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Walking with Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Watching as other cubs are playing .....
+
+
++--------+
+|  TAGS  |
++--------+
+AntelopePark Lions Cubs WorkingwithLions Zimbabwe Animals Wildlife FlickrBigCats 

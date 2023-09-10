@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/7488661228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 18 09:12:01 GMT+0200 2006
+Upload Date  : Mon Jul 2 20:48:58 GMT+0200 2012
+Views        : 3,436
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Living in a Prairie Dog Town
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This Swift fox (Vulpes velox) doesn't mind living in town (a black-tailed prairie dog town), where the grocery store is never far.  He prefers to do his shopping at night and just might bump into his neighbor, the black-footed ferret on this private land in western Kansas.
+
+Credit:  Tony Ifland / USFWS
+
+Photo Contest Entry #51
+
+
++--------+
+|  TAGS  |
++--------+
+usfws fws "u.s. fish and wildlife service" "government photos" "photo contest" "prairie dog" fox "swift fox" "vulpes velox" 

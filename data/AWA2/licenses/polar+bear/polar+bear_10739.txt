@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PreVamp
+Photo URL    : https://www.flickr.com/photos/prevamp/9783048562/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 26 15:59:32 GMT+0200 2013
+Upload Date  : Tue Sep 17 11:32:09 GMT+0200 2013
+Views        : 189
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+snow bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

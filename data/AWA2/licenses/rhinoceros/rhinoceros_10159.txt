@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : liesvanrompaey
+Photo URL    : https://www.flickr.com/photos/liesvanrompaey/6311870924/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 21 10:56:24 GMT+0200 2011
+Upload Date  : Fri Nov 4 11:15:24 GMT+0100 2011
+Views        : 647
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Ceratotherium simum
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+White rhinoceros
+Rhinocéros blanc
+Witte neushoorn
+
+
++--------+
+|  TAGS  |
++--------+
+Senegal taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Perissodactyla Perissodactyla taxonomy:family=Rhinocerotidae Rhinocerotidae taxonomy:genus=Ceratotherium Ceratotherium taxonomy:species=simum "taxonomy:binomial=Ceratotherium simum" "Ceratotherium simum" "White Rhinoceros" "Northern White Rhinoceros" "Square-lipped Rhinoceros" "Northern White Rhino" "Southern White Rhino" "Southern White Rhinoceros" Rhinoc "Rinoceronte Blanco Del Norte" "taxonomy:common=White Rhinoceros" "taxonomy:common=Northern White Rhinoceros" "taxonomy:common=Square-lipped Rhinoceros" "taxonomy:common=Northern White Rhino" "taxonomy:common=Southern White Rhino" "taxonomy:common=Southern White Rhinoceros" taxonomy:common=Rhinoc "taxonomy:common=Rinoceronte Blanco Del Norte" "Rhinocéros blanc" "Witte neushoorn" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bradleygee
+Photo URL    : https://www.flickr.com/photos/icanchangethisright/3290972750/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 6 09:27:09 GMT+0100 2009
+Upload Date  : Wed Feb 18 18:23:48 GMT+0100 2009
+Views        : 183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+monkey business
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fun animal tree bush monkey free two shrub island amarillo texas "thompson park" zoo "spider monkey" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : iotae
+Photo URL    : https://www.flickr.com/photos/iotae/327853239/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 15 17:46:42 GMT+0200 2006
+Upload Date  : Wed Dec 20 06:32:24 GMT+0100 2006
+Views        : 194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison wagging its tail
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison 

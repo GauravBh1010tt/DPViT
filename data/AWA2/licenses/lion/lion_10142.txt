@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jchification
+Photo URL    : https://www.flickr.com/photos/jchification/15541977338/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 21 09:04:21 GMT+0200 2014
+Upload Date  : Thu Nov 6 22:57:15 GMT+0100 2014
+Geotag Info  : Latitude:-1.299806, Longitude:34.990777
+Views        : 284
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4246
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion 

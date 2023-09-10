@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/7663233566/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 12:46:58 GMT+0200 2012
+Upload Date  : Sat Jul 28 20:49:32 GMT+0200 2012
+Geotag Info  : Latitude:33.096431, Longitude:-116.999673
+Views        : 543
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Angalifu the Northern White Rhinoceros male (Ceratotherium simum cottoni)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The northern white rhinoceros, or northern square-lipped rhinoceros (Ceratotherium simum cottoni), is one of the two subspecies of the white rhinoceros. These animals are extinct in the wild and there are currently seven left in captivity - two at the San Diego Safari Park. 
+
+This is Angalifu, a male at the San Diego Safari Park in Escondido, CA. Angalifu is one of three male Northern White Rhino's in the world. Unfortunately this species of rhino will be extinct in our lifetime.
+
+Photographed at the San Diego Zoo Safari Park in Escondido, CA
+
+
++--------+
+|  TAGS  |
++--------+
+Angalifu rhino rhinoceros animal mammal square-lipped Northern white ungulate "nearly extinct" "Ceratotherium simum cottoni" 

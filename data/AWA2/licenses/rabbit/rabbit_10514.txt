@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MaartjeEyskens
+Photo URL    : https://www.flickr.com/photos/92935733@N05/14782977254/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 29 19:07:15 GMT+0200 2014
+Upload Date  : Wed Jul 30 13:16:46 GMT+0200 2014
+Views        : 1,162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0268
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabit 

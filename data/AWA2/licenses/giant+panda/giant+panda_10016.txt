@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fxqf
+Photo URL    : https://www.flickr.com/photos/fxqf/6219100957/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 23 05:10:39 GMT+0200 2011
+Upload Date  : Fri Oct 7 08:07:59 GMT+0200 2011
+Geotag Info  : Latitude:30.662500, Longitude:104.038810
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2011-09-23_13-10-39_896
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+成都动物园里的熊猫
+chengdu zoo's panda
+
+
++--------+
+|  TAGS  |
++--------+
+panda 大熊猫 

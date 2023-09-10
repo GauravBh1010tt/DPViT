@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tattiehowker
+Photo URL    : https://www.flickr.com/photos/tattiehowker/8122691183/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 29 19:29:50 GMT+0200 2012
+Upload Date  : Thu Oct 25 20:46:26 GMT+0200 2012
+Views        : 278
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Jasper
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+jasper rabbit 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brad2021hk
+Photo URL    : https://www.flickr.com/photos/brad2021hk/3540919975/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 20 15:02:41 GMT+0100 2009
+Upload Date  : Mon May 18 07:02:35 GMT+0200 2009
+Views        : 2
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5001
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

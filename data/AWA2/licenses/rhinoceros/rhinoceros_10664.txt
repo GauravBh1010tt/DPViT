@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dims2012
+Photo URL    : https://www.flickr.com/photos/dims2012/7013273499/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 24 11:59:16 GMT+0100 2012
+Upload Date  : Sun Mar 25 09:30:44 GMT+0200 2012
+Geotag Info  : Latitude:39.072448, Longitude:21.845560
+Views        : 147
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+White rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"ceratotherium simum" "White rhinoceros" 

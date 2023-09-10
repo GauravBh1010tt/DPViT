@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/3442181194/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 09:56:40 GMT+0200 2009
+Upload Date  : Tue Apr 14 18:14:13 GMT+0200 2009
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 7,818
+Comments     : 17
+
+
++---------+
+|  TITLE  |
++---------+
+«Hey! I have to tell you a secret!»
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A closeup of two antelopes of the zoo of Zürich
+
+
++--------+
+|  TAGS  |
++--------+
+antelope mammal horns sunny ear funny lying zoo zürich switzerland nikon d300 zurich schweiz 

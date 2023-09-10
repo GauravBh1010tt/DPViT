@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : unicoletti
+Photo URL    : https://www.flickr.com/photos/unicoletti/4602407312/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 5 22:56:04 GMT+0200 2010
+Upload Date  : Wed May 12 23:00:40 GMT+0200 2010
+Geotag Info  : Latitude:20.516700, Longitude:-87.650001
+Views        : 757
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Puzzled?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in the Punta Laguna Spider Monkey Reserve near Coba, Mexico.
+Fantastic place, great scenery, friendly people and ... monkeys!
+This is actually not a spider monkey but a black howler monkey (even tough they weren't howling at all). They were not bothered by our presence and simply went on with their business, occasionally gazing perplexed at three guys on the jungle floor one of which with a big lens!
+
+
++--------+
+|  TAGS  |
++--------+
+2010 mexico monkey howler black tree punt laguna reserve coba tulum jungle wildlife trees 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/20844160243/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 13 14:56:17 GMT+0200 2015
+Upload Date  : Wed Sep 16 15:01:26 GMT+0200 2015
+Geotag Info  : Latitude:42.305300, Longitude:-71.088956
+Views        : 856
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Approaching
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo massachusetts big cat lion approach walking mane 

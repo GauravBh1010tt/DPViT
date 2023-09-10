@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam's Shots 1
+Photo URL    : https://www.flickr.com/photos/samspectrum/11484589365/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 21 14:36:29 GMT+0100 2013
+Upload Date  : Sat Dec 21 21:40:17 GMT+0100 2013
+Views        : 596
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"spider monkey" Monkey "Yorkshire Wildlife Park" ywp "Wild Animals in Captivity" Wildlife 

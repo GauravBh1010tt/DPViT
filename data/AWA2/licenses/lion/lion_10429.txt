@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdnx
+Photo URL    : https://www.flickr.com/photos/danramarch/5213312177/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 25 14:13:45 GMT+0200 2010
+Upload Date  : Sun Nov 28 08:13:22 GMT+0100 2010
+Geotag Info  : Latitude:21.270674, Longitude:-157.818077
+Views        : 1,596
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion relaxing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"honolulu zoo" zoo oahu lion 

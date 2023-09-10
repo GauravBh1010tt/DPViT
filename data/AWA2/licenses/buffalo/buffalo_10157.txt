@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : shog9
+Photo URL    : https://www.flickr.com/photos/shog9/7739440/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 25 12:31:47 GMT+0100 2005
+Upload Date  : Tue Mar 29 03:27:46 GMT+0200 2005
+Views        : 211
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison at the pull-off
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo winter southdakota grazing 

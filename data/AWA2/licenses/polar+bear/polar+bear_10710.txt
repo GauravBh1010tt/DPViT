@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Madeleine_H
+Photo URL    : https://www.flickr.com/photos/madeleine_h/10949637113/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 9 05:13:46 GMT+0200 2013
+Upload Date  : Tue Nov 19 20:36:26 GMT+0100 2013
+Geotag Info  : Latitude:32.735053, Longitude:-117.150306
+Views        : 2,206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ridiculously huge polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+California LX7 "North America" RTW "San Diego" "San Diego, polar bear" USA 

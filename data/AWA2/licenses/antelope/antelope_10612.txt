@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Sträter
+Photo URL    : https://www.flickr.com/photos/stuutje/5964549007/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 19 15:16:59 GMT+0200 2011
+Upload Date  : Fri Jul 22 21:59:34 GMT+0200 2011
+Geotag Info  : Latitude:51.528648, Longitude:5.124275
+Views        : 216
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Indische Antilope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deze foto is gemaakt in Safaripark Beekse Bergen, Hilvarenbeek, (Nederland).
+
+This picture was taken in Safaripark Beekse Bergen, Hilvarenbeek (Netherlands).
+
+
++--------+
+|  TAGS  |
++--------+
+"Safaripark Beekse Bergen" Hilvarenbeek "Indische Antilope" Hertegeitantilope "Zwarte Bok" Blackbuck Hirschziegenantilope "Antilope Cervicapra" 

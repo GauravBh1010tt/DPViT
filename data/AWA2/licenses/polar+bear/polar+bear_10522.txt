@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blmurch
+Photo URL    : https://www.flickr.com/photos/blmurch/315195122/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 30 15:50:55 GMT+0100 2006
+Upload Date  : Tue Dec 5 23:30:52 GMT+0100 2006
+Geotag Info  : Latitude:-34.621907, Longitude:-58.417053
+Views        : 712
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Argentina "Buenos Aires" Zoo Bear "Polar Bear" 

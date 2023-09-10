@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Simon_sees
+Photo URL    : https://www.flickr.com/photos/39551170@N02/4732585677/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 17 03:19:58 GMT+0100 2005
+Upload Date  : Fri Jun 25 16:25:09 GMT+0200 2010
+Views        : 8,289
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dolphins playing at an underwater viewing window in their tank at Pet Porpoise Pool in Coffs Harbour, Australia.
+
+
++--------+
+|  TAGS  |
++--------+
+"Pet Porpoise Pool" "Coffs Harbour" Australia water aquarium dolphin fun playing window cheeky 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martijn Nijenhuis
+Photo URL    : https://www.flickr.com/photos/martijnnijenhuis/5062292274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 24 12:02:36 GMT+0200 2010
+Upload Date  : Fri Oct 8 13:44:53 GMT+0200 2010
+Geotag Info  : Latitude:32.735920, Longitude:-117.152044
+Views        : 442
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At San Diego Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+nikon d90 san diego usa 2010 Panda amerika Zoo martijn nijenhuis America US Verenigde Staten 

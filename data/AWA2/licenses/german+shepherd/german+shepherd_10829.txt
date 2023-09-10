@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : left-hand
+Photo URL    : https://www.flickr.com/photos/left-hand/6928622335/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 25 12:19:17 GMT+0100 2012
+Upload Date  : Sat Feb 25 17:01:41 GMT+0100 2012
+Geotag Info  : Latitude:52.125679, Longitude:-1.399749
+Views        : 3,011
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shepherds
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A couple of German Shepherd playing on the hills…
+
+Taken at Burton Dassett Country Park, Southam, Warwickshire.
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EF 100-400mm f/4.5-5.6L IS" dog dogs canine Alsation Alsations "German Shepherd" "German Shepherds" "Burton Dassett" Burton Dassett Southam Warwickshire country park hill hills "Country Park" "Burton Dassett Country Park" landscape vista 

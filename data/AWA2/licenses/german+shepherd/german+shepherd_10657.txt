@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thievingjoker
+Photo URL    : https://www.flickr.com/photos/thievingjoker/33340819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 19 22:30:27 GMT+0100 2004
+Upload Date  : Fri Aug 12 08:35:59 GMT+0200 2005
+Views        : 699
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+My favorite place #1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Daria's favorite place in the house seems to be the bath mat in front of our shower. When she was small, she actually fit on it.
+
+
++--------+
+|  TAGS  |
++--------+
+Daria puppy cute bathmat "german shepherd" shepherd dog dogs 

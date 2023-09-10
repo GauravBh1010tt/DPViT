@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Avery
+Photo URL    : https://www.flickr.com/photos/33590535@N06/3656749320/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 14:09:08 GMT+0200 2009
+Upload Date  : Wed Jun 24 10:27:39 GMT+0200 2009
+Geotag Info  : Latitude:21.270704, Longitude:-157.820041
+Views        : 449
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinoceros {ceratotherium simum)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Honolulu Zoo Oahu Hawaii
+
+
++--------+
+|  TAGS  |
++--------+
+"taxonomy:common=White Rhinoceros" "taxonomy:binomial=ceratotherium simum" "honolulu zoo" oahu hawaii 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : George Lu
+Photo URL    : https://www.flickr.com/photos/gzlu/7708851288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 4 11:57:40 GMT+0200 2011
+Upload Date  : Sat Aug 4 09:04:42 GMT+0200 2012
+Views        : 73,948
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Panda in China
+
+
++--------+
+|  TAGS  |
++--------+
+panda chengdu china 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spalti
+Photo URL    : https://www.flickr.com/photos/spalti/3587681135/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 1 00:51:45 GMT+0200 2009
+Upload Date  : Tue Jun 2 08:16:00 GMT+0200 2009
+Views        : 62
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5909
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone Bison 

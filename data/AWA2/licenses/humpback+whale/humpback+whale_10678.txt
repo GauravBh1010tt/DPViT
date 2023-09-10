@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TRF_Mr_Hyde
+Photo URL    : https://www.flickr.com/photos/scottchene/6900898094/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 5 00:00:18 GMT+0200 2012
+Upload Date  : Thu Apr 5 07:00:18 GMT+0200 2012
+Geotag Info  : Latitude:44.396872, Longitude:-68.172569
+Views        : 421
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+We're going to need a bigger boat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+whale humpback boat 

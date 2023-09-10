@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Raphael Quinet
+Photo URL    : https://www.flickr.com/photos/raphaelquinet/1321128437/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 17:58:55 GMT+0200 2007
+Upload Date  : Tue Sep 4 16:54:57 GMT+0200 2007
+Geotag Info  : Latitude:50.499533, Longitude:5.741579
+Views        : 424
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+MondeSauvage-175855
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It's a pity that the double fence made it very hard to take pictures of the lions (and other big cats) without having steel wires in the way.
+
+
++--------+
+|  TAGS  |
++--------+
+Belgium Aywaille MondeSauvage lion 

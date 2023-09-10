@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Flying Photog
+Photo URL    : https://www.flickr.com/photos/pt737swa/13770797154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 10 20:24:50 GMT+0200 2014
+Upload Date  : Fri Apr 11 04:24:50 GMT+0200 2014
+Views        : 709
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+BABY BUNNY!!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+via Instagram <a href="http://ift.tt/1ky9bom" rel="nofollow">ift.tt/1ky9bom</a>
+
+
++--------+
+|  TAGS  |
++--------+
+IFTTT Instagram 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fauxto_digit
+Photo URL    : https://www.flickr.com/photos/fauxto_dkp/3511393469/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 7 07:05:09 GMT+0200 2009
+Upload Date  : Fri May 8 05:41:14 GMT+0200 2009
+Views        : 656
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Cotton Tail Morning
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+62/365. Yes, a shot from me before 8 AM. 
+Brushtown PA.
+
+
++--------+
+|  TAGS  |
++--------+
+Bunny AM Fuzzy "Cotton Tail" Rabbit Leeper Ears "Big Ears" Fauna "Twitchy Nose" project365 

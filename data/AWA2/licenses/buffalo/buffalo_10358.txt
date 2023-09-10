@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rexness
+Photo URL    : https://www.flickr.com/photos/rexness/4390985043/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 26 22:36:10 GMT+0100 2010
+Upload Date  : Sat Feb 27 07:36:10 GMT+0100 2010
+Geotag Info  : Latitude:-37.928543, Longitude:144.665372
+Views        : 471
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Werribee "Werribee Open Range Zoo" "African Animals" Animals Bison 

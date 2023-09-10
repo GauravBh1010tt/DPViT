@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jmd41280
+Photo URL    : https://www.flickr.com/photos/jmd41280/2897709932/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 28 09:47:48 GMT+0200 2008
+Upload Date  : Mon Sep 29 05:08:00 GMT+0200 2008
+Geotag Info  : Latitude:40.485408, Longitude:-79.918305
+Views        : 398
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lion at the Pittsburgh Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Lion "Pittsburgh Zoo" Pittsburgh Pennsylvania Zoo 

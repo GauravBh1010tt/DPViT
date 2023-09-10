@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul!!!
+Photo URL    : https://www.flickr.com/photos/paulhaeder/2292247604/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 10 15:08:59 GMT+0100 2008
+Upload Date  : Mon Feb 25 21:07:26 GMT+0100 2008
+Views        : 239
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Knut
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+eisbär "polar bear" knut bär bear zoo 

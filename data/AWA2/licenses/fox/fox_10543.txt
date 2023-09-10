@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike's Birds
+Photo URL    : https://www.flickr.com/photos/pazzani/11078206326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 1 19:38:08 GMT+0100 2009
+Upload Date  : Wed Nov 27 04:38:08 GMT+0100 2013
+Geotag Info  : Latitude:39.460782, Longitude:-74.438295
+Views        : 5,309
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Brigantine, NJ
+
+
++--------+
+|  TAGS  |
++--------+
+Fox 

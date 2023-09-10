@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Allie_Caulfield
+Photo URL    : https://www.flickr.com/photos/wm_archiv/6748479791/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 29 12:19:47 GMT+0100 2011
+Upload Date  : Mon Jan 23 13:17:18 GMT+0100 2012
+Geotag Info  : Latitude:32.734605, Longitude:-117.154809
+Views        : 307
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2011-12-23 01-01 Kalifornien 599 San Diego, Balboa Park, San Diego Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Foto photo image picture Bild flickr high resolution hi-res jpg jpeg geotagged geo Stockphoto cc Sony SLT-A77 77V Alpha 77 2011 Winter December Dezember California Kalifornien USA Amerika America creative commons 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : orestART
+Photo URL    : https://www.flickr.com/photos/orestart/6906210203/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 19 11:05:37 GMT+0100 2012
+Upload Date  : Mon Feb 20 01:14:39 GMT+0100 2012
+Views        : 1,262
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"snow leopard" leopard apple macbook "steve jobs" wildlife lion snow cat olympus zuiko 70-300 

@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thestevenalan
+Photo URL    : https://www.flickr.com/photos/stevenworster/7986523480/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 14 08:32:16 GMT+0200 2012
+Upload Date  : Fri Sep 14 22:52:39 GMT+0200 2012
+Views        : 1,443
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Diving with Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Went to do some diving when we had an extraordinary encounter with dolphins.
+
+visit my <a href="http://thestevenalan.com/" rel="nofollow">website</a>
+<a href="http://www.facebook.com/thestevenalan" rel="nofollow">facebook</a> - let's be friends
+
+I am also on  <a href="http://followgram.me/thestevenalan/" rel="nofollow">instagram as @thestevenalan</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Hawaii diving dolphins gopro oahu ocean 

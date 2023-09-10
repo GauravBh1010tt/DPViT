@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gvgoebel
+Photo URL    : https://www.flickr.com/photos/37467370@N08/7600941050/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 3 15:33:24 GMT+0200 2006
+Upload Date  : Thu Jul 19 04:15:26 GMT+0200 2012
+Views        : 512
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ybpol_1b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+polar bear, Denver Zoo, Colorado / 2006
+
+
++--------+
+|  TAGS  |
++--------+
+animals mammals "polar bear" 

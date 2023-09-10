@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Glechikoff Andre
+Photo URL    : https://www.flickr.com/photos/128474566@N03/16514879997/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 22 13:54:38 GMT+0200 2012
+Upload Date  : Thu Mar 5 10:08:41 GMT+0100 2015
+Geotag Info  : Latitude:44.923707, Longitude:37.320352
+Views        : 2,359
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+50mm "sigma 50 1.4" captureone blacksea trevel anapa 

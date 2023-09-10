@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tomi Tapio
+Photo URL    : https://www.flickr.com/photos/tomitapio/5777302785/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 18 14:51:03 GMT+0200 2007
+Upload Date  : Mon May 30 21:53:31 GMT+0200 2011
+Geotag Info  : Latitude:60.181002, Longitude:24.930757
+Views        : 5,946
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+The Operahouse's Colony
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2007-10-18. Id x3197.
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit villikani grass ears fur "Canon EF 90-300mm F/4.5-5.6 USM" "ISO 400" "selected-area sharpening" Helsinki Töölönlahti bunnies rabbits 

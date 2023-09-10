@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oinonio
+Photo URL    : https://www.flickr.com/photos/ockam/5778292824/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 28 17:13:41 GMT+0200 2011
+Upload Date  : Mon May 30 23:49:58 GMT+0200 2011
+Views        : 982
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+whale watch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+humpback minke boston whale 

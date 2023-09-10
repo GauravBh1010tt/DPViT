@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/9408542735/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 30 10:42:42 GMT+0200 2013
+Upload Date  : Wed Jul 31 21:13:16 GMT+0200 2013
+Views        : 830
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Pennsuse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Juli 2013
+Canon EOS 40D
+EF-S 17-85mm f/4-5.6 IS USM
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hündin dog dalmatiner female dalmatian Dalmatinac 

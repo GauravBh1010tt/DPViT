@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ojbyrne
+Photo URL    : https://www.flickr.com/photos/ojbyrne/2632062081/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 28 11:13:54 GMT+0200 2006
+Upload Date  : Thu Jul 3 03:50:57 GMT+0200 2008
+Views        : 1,170
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Panda Sleeping
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego" "San Diego Zoo" Panda 

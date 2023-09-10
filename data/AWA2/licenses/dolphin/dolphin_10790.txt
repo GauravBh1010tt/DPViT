@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew Connell
+Photo URL    : https://www.flickr.com/photos/andrewconnell/25192508995/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 17 12:53:55 GMT+0100 2014
+Upload Date  : Mon Feb 22 14:24:07 GMT+0100 2016
+Geotag Info  : Latitude:19.652247, Longitude:-156.035845
+Views        : 107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spinner dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+They came right up to the boat!
+
+
++--------+
+|  TAGS  |
++--------+
+Kailua-Kona Hawaii "United States" US 

@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Billy Lindblom
+Photo URL    : https://www.flickr.com/photos/billyboysfotocolection/4803601063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 10 21:40:38 GMT+0200 2010
+Upload Date  : Sun Jul 18 09:21:02 GMT+0200 2010
+Geotag Info  : Latitude:59.040598, Longitude:14.923295
+Views        : 7,908
+Comments     : 20
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox (Vulpes vulpes)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Saw this little Red Fox not to long ago. :)
+It became very thoughtful when i came past it. Lie'd still in the first time befor it sat up and jumpt in to the forest, dident take long tought befor it were back. It sat in the bushes and stard at me, were proborly a bit intressted. Gota been a quit young fox. 
+
+Photografed it a latte evening in the last sun light.
+
+
++--------+
+|  TAGS  |
++--------+
+Fox preditor Mammal Olympus E-30 "Olympus E-30" "Red Fox" "Vulpes vulpes" Sweden wild wildlife "taxonomy:binomial=Vulpes vulpes" "Billy Lindblom" Zuiko "Zuiko Digital ED 70-300mm" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/18156824626/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 19 16:37:38 GMT+0100 2015
+Upload Date  : Thu May 28 05:52:10 GMT+0200 2015
+Geotag Info  : Latitude:42.462697, Longitude:-71.093636
+Views        : 645
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard Looking Up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo big cat snow leopard profile closeup 

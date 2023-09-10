@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/2113435040/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 7 23:06:11 GMT+0100 2007
+Upload Date  : Sat Dec 15 19:55:31 GMT+0100 2007
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Northern Chinese leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cathouse "feline conservation" rosamund california 

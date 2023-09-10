@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : benmiller23
+Photo URL    : https://www.flickr.com/photos/benmiller23/215928564/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 11 10:05:13 GMT+0200 2006
+Upload Date  : Tue Aug 15 14:37:29 GMT+0200 2006
+Geotag Info  : Latitude:44.915373, Longitude:-110.282049
+Views        : 277
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"defenders of wildlife" "national park" yellowstone august 2006 "Yellowstone National Park" bison 

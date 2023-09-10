@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StevoKebabo
+Photo URL    : https://www.flickr.com/photos/16927804@N07/7131869149/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 1 09:41:25 GMT+0200 2012
+Upload Date  : Tue May 1 15:48:45 GMT+0200 2012
+Geotag Info  : Latitude:51.383780, Longitude:0.068879
+Views        : 2,126
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Fox in my Garden after having a kip
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox 

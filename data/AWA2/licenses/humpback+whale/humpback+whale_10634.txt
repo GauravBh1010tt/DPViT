@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richard Gifford
+Photo URL    : https://www.flickr.com/photos/rgifford/197052904/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 22 14:57:45 GMT+0200 2006
+Upload Date  : Mon Jul 24 14:50:02 GMT+0200 2006
+Geotag Info  : Latitude:-33.745182, Longitude:151.384906
+Views        : 243
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1040368.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback Whales.
+
+
++--------+
+|  TAGS  |
++--------+
+Humpback Whales 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/5020536584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 24 10:02:51 GMT+0200 2010
+Upload Date  : Fri Sep 24 16:03:48 GMT+0200 2010
+Views        : 1,763
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+anim1815
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback whale breaching. California, Monterey Bay.
+
+Photographer: Dr. Mridula Srinivasan, NOAA/NMFS/OST/AMD.
+
+
++--------+
+|  TAGS  |
++--------+
+Humpback Whale NOAA 

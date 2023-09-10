@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : orca_bc
+Photo URL    : https://www.flickr.com/photos/101951515@N07/9781185544/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 14 13:37:55 GMT+0200 2013
+Upload Date  : Tue Sep 17 06:54:19 GMT+0200 2013
+Views        : 77
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+SDZSP_MG_7663_13-Edit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

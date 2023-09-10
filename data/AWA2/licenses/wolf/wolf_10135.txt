@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Emmy_Animals
+Photo URL    : https://www.flickr.com/photos/44711529@N04/5057756038/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 6 10:14:04 GMT+0200 2010
+Upload Date  : Wed Oct 6 19:14:04 GMT+0200 2010
+Geotag Info  : Latitude:51.744518, Longitude:-0.061269
+Views        : 971
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+European Wolves (Canis Lupus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two gorgeous wolves focusing their attention on something interesting by the looks of things.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

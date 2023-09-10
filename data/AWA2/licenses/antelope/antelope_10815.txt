@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tanya Durrant
+Photo URL    : https://www.flickr.com/photos/tanyadurrant/4440495044/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 16 12:20:47 GMT+0100 2010
+Upload Date  : Wed Mar 17 09:35:09 GMT+0100 2010
+Geotag Info  : Latitude:50.991798, Longitude:-1.283082
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Roan Antelope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo marwell animals antelope "Marwell Wildlife" 

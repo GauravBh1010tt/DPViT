@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : happyskrappy
+Photo URL    : https://www.flickr.com/photos/happyskrappy/6054743178/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 20 13:45:18 GMT+0200 2011
+Upload Date  : Thu Aug 18 03:19:05 GMT+0200 2011
+Views        : 979
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Dolphin Encounters 
+Nassau, Bahamas
+
+
++--------+
+|  TAGS  |
++--------+
+2011 stan "norwegian jewel" adventures cruise travels 

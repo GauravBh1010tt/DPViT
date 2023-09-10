@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James G. Milles
+Photo URL    : https://www.flickr.com/photos/jmilles/2019728144/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 11 13:34:15 GMT+0100 2007
+Upload Date  : Wed Nov 14 16:48:17 GMT+0100 2007
+Views        : 4,403
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+polar bear stlouiszoo 

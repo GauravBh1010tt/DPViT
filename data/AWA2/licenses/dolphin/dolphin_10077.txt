@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Makuahine Pa'i Ki'i
+Photo URL    : https://www.flickr.com/photos/hawaii-mcgraths/2142742223/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 27 21:53:20 GMT+0100 2007
+Upload Date  : Fri Dec 28 08:53:20 GMT+0100 2007
+Views        : 900
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Blue Dolphin Cruise 098--Mother and baby Bottlenose dolphins with rainbow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

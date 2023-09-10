@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ColdSleeper
+Photo URL    : https://www.flickr.com/photos/13415311@N05/6112004219/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 28 13:32:44 GMT+0200 2011
+Upload Date  : Sun Sep 4 15:59:26 GMT+0200 2011
+Views        : 206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+だちょう牧場
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+うさぎ
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbit animal 

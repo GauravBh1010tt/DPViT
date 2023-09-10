@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : michael-day
+Photo URL    : https://www.flickr.com/photos/whoisthatfreakwiththecamera/6649531395/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 4 15:52:48 GMT+0200 2011
+Upload Date  : Fri Jan 6 23:54:41 GMT+0100 2012
+Geotag Info  : Latitude:-34.189085, Longitude:21.483764
+Views        : 7,805
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion pose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"iPhoto Flagged" "iPhoto Original" "south africa" "cape town" africa safari animals lion 

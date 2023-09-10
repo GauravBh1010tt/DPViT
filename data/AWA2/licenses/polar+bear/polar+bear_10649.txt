@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher.Michel
+Photo URL    : https://www.flickr.com/photos/cmichel67/19443086819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 30 19:29:34 GMT+0200 2015
+Upload Date  : Sun Jul 12 14:02:13 GMT+0200 2015
+Geotag Info  : Latitude:85.106786, Longitude:61.772794
+Views        : 1,369
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Christopher Michel" "50 Years of Victory" "North Pole" Icebreakers icebreaker russia arctic arcticicebreaker "russian icebreaker" NS 50 Let Pobedy ice arcticice "melting ice" iceshelf "global warming" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Original Turtle
+Photo URL    : https://www.flickr.com/photos/58638411@N00/4239260411/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 3 02:46:03 GMT+0100 2010
+Upload Date  : Sun Jan 3 07:40:30 GMT+0100 2010
+Views        : 293
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jemimah is a big pork
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+She glared at me right before she peed on Nora's feet.  I have laundry to do tomorrow.
+
+
++--------+
+|  TAGS  |
++--------+
+Eye-Fi saturday wabbits wabbit rabbit nora turtle 

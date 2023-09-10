@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/4750284705/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 27 15:19:15 GMT+0200 2010
+Upload Date  : Thu Jul 1 04:16:47 GMT+0200 2010
+Geotag Info  : Latitude:39.952270, Longitude:-75.162368
+Views        : 296
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Philadelphia Zoo" zoo 

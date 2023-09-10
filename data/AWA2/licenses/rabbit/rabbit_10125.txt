@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Summer Diva
+Photo URL    : https://www.flickr.com/photos/summerdiva/2583744881/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 10 18:17:14 GMT+0200 2008
+Upload Date  : Mon Jun 16 18:13:43 GMT+0200 2008
+Geotag Info  : Latitude:48.439290, Longitude:-123.502635
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Black Rabbit 4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals 

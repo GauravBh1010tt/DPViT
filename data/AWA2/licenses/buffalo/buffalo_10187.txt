@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vijayan
+Photo URL    : https://www.flickr.com/photos/vijayan/6839344472/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 1 08:52:34 GMT+0100 2012
+Upload Date  : Thu Mar 15 21:01:21 GMT+0100 2012
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison Engaged_DSC5950_IP
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Bison Landscape Place Snow Yellowstone USA 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Cathrae
+Photo URL    : https://www.flickr.com/photos/suckamc/6834638112/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 4 14:02:47 GMT+0100 2012
+Upload Date  : Wed Mar 14 02:13:40 GMT+0100 2012
+Geotag Info  : Latitude:45.685556, Longitude:-74.948043
+Views        : 1,092
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleeping Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At least, it has it's eyes closed here and is looking pretty chill.
+
+
++--------+
+|  TAGS  |
++--------+
+"Parc Omega" Montebello Quebec Canada park animals bison winter snow 

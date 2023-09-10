@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/6109984030/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 4 16:52:11 GMT+0200 2011
+Upload Date  : Sat Sep 3 21:00:13 GMT+0200 2011
+Geotag Info  : Latitude:47.734849, Longitude:7.350239
+Views        : 4,588
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Walking maned wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is a mane wolf, which has not to be confused with a fox, even if they have the same coloring but the maned wolf has much longer legs. Finally the maned wolf is still genetically closer to a fox than a wolf...
+Taken at the Mulhouse zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+maned wolf canine walking brown mammal zoo mulhouse alsace france nikon d700 

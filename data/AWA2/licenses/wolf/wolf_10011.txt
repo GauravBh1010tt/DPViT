@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/5607277438/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 6 11:17:36 GMT+0100 2011
+Upload Date  : Sun Apr 10 21:14:24 GMT+0200 2011
+Geotag Info  : Latitude:47.547277, Longitude:7.578163
+Views        : 9,300
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Cute white wolf...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is one of the white wolves of the zoo of Basel, I think it's Cesar. Sadly the branch was on the way...
+
+
++--------+
+|  TAGS  |
++--------+
+wolf canine white beige bright walking cute fluffy standing portrait zoo basel switzerland nikon d700 

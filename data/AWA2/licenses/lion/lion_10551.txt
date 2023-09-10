@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ajmexico
+Photo URL    : https://www.flickr.com/photos/ajmexico/4368739555/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 13 11:37:19 GMT+0100 2010
+Upload Date  : Fri Feb 19 03:07:31 GMT+0100 2010
+Geotag Info  : Latitude:30.401321, Longitude:-81.644257
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals 

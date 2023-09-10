@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dulup
+Photo URL    : https://www.flickr.com/photos/duloup/1482307577/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 6 15:27:28 GMT+0200 2007
+Upload Date  : Thu Oct 4 12:57:55 GMT+0200 2007
+Geotag Info  : Latitude:45.687715, Longitude:-1.166439
+Views        : 2,485
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo palmyre lion 

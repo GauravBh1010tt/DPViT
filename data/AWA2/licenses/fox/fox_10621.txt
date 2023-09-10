@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahabeland
+Photo URL    : https://www.flickr.com/photos/habeland/4114661691/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 14 19:21:02 GMT+0100 2009
+Upload Date  : Wed Nov 18 18:15:26 GMT+0100 2009
+Views        : 430
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Urban Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Not happy with his eyes but I'm  sure he'll be back.
+
+
++--------+
+|  TAGS  |
++--------+
+fox garden urban "urban fox" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mitchell Fitzsimmons
+Photo URL    : https://www.flickr.com/photos/78959201@N07/10829581133/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 11 21:56:15 GMT+0200 2013
+Upload Date  : Wed Nov 13 02:28:27 GMT+0100 2013
+Geotag Info  : Latitude:-3.316018, Longitude:35.288085
+Views        : 1,483
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Cubs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa lion cubs "baby lion" "lion cubs" 

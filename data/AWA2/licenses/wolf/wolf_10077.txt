@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OnyxDog86
+Photo URL    : https://www.flickr.com/photos/75471828@N03/6944637217/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 7 15:51:41 GMT+0100 2011
+Upload Date  : Thu Mar 1 21:37:34 GMT+0100 2012
+Views        : 4,550
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Battle of Wills
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Akela chasing off another wolf in her pack. I was told that she is pretty aggressive with this particular wolf. Taken at the Grizzly and Wolf Discovery Center at West Yellowstone, Montana. Taken through glass.
+
+
++--------+
+|  TAGS  |
++--------+
+wolf wolves "wolf pack" alpha dominance carnivore canine dog yellowstone 

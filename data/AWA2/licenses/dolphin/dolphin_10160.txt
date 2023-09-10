@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : k4942174
+Photo URL    : https://www.flickr.com/photos/19038299@N04/6797713852/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 23 11:19:34 GMT+0100 2012
+Upload Date  : Thu Mar 1 15:45:39 GMT+0100 2012
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0626
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : irina slutsky
+Photo URL    : https://www.flickr.com/photos/irinaslutsky/67849727/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 28 00:24:05 GMT+0100 2005
+Upload Date  : Mon Nov 28 09:24:05 GMT+0100 2005
+Views        : 512
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+they're back
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+skeet and sadie at my house for thanksgiving while greg is in philly. for a couple of kids who i didnt give birth to, they sure are a lot of trouble.
+
+
++--------+
+|  TAGS  |
++--------+
+skeet sadie cats kittens siamese window sunshine visitors 

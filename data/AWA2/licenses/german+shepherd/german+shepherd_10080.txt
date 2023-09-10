@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thievingjoker
+Photo URL    : https://www.flickr.com/photos/thievingjoker/33340956/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 30 13:46:34 GMT+0100 2005
+Upload Date  : Fri Aug 12 08:36:43 GMT+0200 2005
+Views        : 1,619
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bad Ear Day
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+German Sheppard puppies are funny when their ears have not fully perked up yet. Kinda makes it look like a windy day, doesn't it?
+
+
++--------+
+|  TAGS  |
++--------+
+Daria puppy ears "german shepherd" shepherd dog dogs 

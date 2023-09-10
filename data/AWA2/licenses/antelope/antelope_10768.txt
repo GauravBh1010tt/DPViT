@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derek Keats
+Photo URL    : https://www.flickr.com/photos/dkeats/3477511300/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 26 13:46:39 GMT+0200 2009
+Upload Date  : Sun Apr 26 21:47:35 GMT+0200 2009
+Views        : 258
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pilanesberg National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pilanesberg Game Reserve is in the Bojanala Region of the North West Province, adjacent to Sun City. Set in the crater of a long extinct volcano, the Park ranks among the largest of the parks in South Africa (it is in fact the fourth largest park) and covers an area of 55 000 hectare.
+
+
++--------+
+|  TAGS  |
++--------+
+pilanesberg 

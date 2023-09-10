@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marsupilami92
+Photo URL    : https://www.flickr.com/photos/marsupilami92/20916077892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 18 14:11:15 GMT+0200 2015
+Upload Date  : Thu Aug 27 16:35:48 GMT+0200 2015
+Geotag Info  : Latitude:46.241037, Longitude:0.292360
+Views        : 92
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ATELE A FACE ROUGE
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+C'est un singe diurne et arboricole vivant dans la canopée de la forêt primaire d'Amérique du Sud (de l'Amazone à la Guyane). Sa queue préhensile lui sert de cinquième membre.
+
+
++--------+
+|  TAGS  |
++--------+
+FRANKREICH FRANCE "SUD OUEST" "POITOU CHARENTES" "LA VALLÉE DES SINGES" 86 VIENNE ROMAGNE PRIMATE SINGE ATELE 

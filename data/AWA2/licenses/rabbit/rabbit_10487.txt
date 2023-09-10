@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/11236127774/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 6 09:57:04 GMT+0100 2013
+Upload Date  : Fri Dec 6 14:15:00 GMT+0100 2013
+Geotag Info  : Latitude:38.922833, Longitude:-76.974834
+Views        : 1,943
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Henrietta! With pawsitude!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit "house rabbit" white soft cute henrietta 

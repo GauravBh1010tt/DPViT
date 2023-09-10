@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Howard N2GOT
+Photo URL    : https://www.flickr.com/photos/33764571@N00/2136668471/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 22 15:34:39 GMT+0100 2007
+Upload Date  : Wed Dec 26 05:20:51 GMT+0100 2007
+Views        : 1,718
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Central Park Zoo" "New York" "Polar Bear" 

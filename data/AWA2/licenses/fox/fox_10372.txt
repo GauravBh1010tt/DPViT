@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : maveric2003
+Photo URL    : https://www.flickr.com/photos/maveric2003/2555804168/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 21 16:47:11 GMT+0200 2008
+Upload Date  : Fri Jun 6 09:52:15 GMT+0200 2008
+Views        : 381
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+grey fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These guys were scavenging food! Bad!
+
+
++--------+
+|  TAGS  |
++--------+
+"Costa Rica" Monteverde "Monteverde Preserve" "cloud forest" 

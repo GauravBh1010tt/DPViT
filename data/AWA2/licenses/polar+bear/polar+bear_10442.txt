@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nist6ss
+Photo URL    : https://www.flickr.com/photos/53771866@N05/7086215675/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 10 02:47:10 GMT+0200 2012
+Upload Date  : Tue Apr 17 05:55:27 GMT+0200 2012
+Views        : 205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear -Tammy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

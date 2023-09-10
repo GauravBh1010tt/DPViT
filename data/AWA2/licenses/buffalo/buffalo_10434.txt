@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : @rsseattle
+Photo URL    : https://www.flickr.com/photos/rsmith11235/10685401425/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 19 10:20:04 GMT+0200 2013
+Upload Date  : Tue Nov 5 07:47:30 GMT+0100 2013
+Views        : 193
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone 

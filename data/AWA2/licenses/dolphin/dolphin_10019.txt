@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NeilStead
+Photo URL    : https://www.flickr.com/photos/nstead/5993189717/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 20 12:56:10 GMT+0100 2009
+Upload Date  : Sun Jul 31 13:40:32 GMT+0200 2011
+Geotag Info  : Latitude:-42.485263, Longitude:173.697968
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20090120-125610
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Neil Stead
+
+
++--------+
+|  TAGS  |
++--------+
+Australasia Canterbury Flickr-All "New Zealand" Waioruarangi ^LOC 

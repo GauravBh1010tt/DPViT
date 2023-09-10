@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tara Lynn1
+Photo URL    : https://www.flickr.com/photos/seegert/5391617350/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 26 15:14:18 GMT+0100 2011
+Upload Date  : Thu Jan 27 00:14:18 GMT+0100 2011
+Views        : 559
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SMILE!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+snow smile german shepherd dog winter 

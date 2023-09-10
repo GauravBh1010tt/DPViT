@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The U.S. Army
+Photo URL    : https://www.flickr.com/photos/soldiersmediacenter/4068945550/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 15 13:09:45 GMT+0200 2009
+Upload Date  : Mon Nov 2 16:55:10 GMT+0100 2009
+Views        : 27,837
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Honoring military working dogs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+U.S. and coalition servicemembers, civilians, military working dog handlers and their dogs met together in a ceremony Oct. 16 to unveil the war dog memorial built at the KAF boardwalk in honor of military working dogs killed here in the line of duty.
+
+See more at <a href="http://www.army.mil" rel="nofollow">www.army.mil</a>
+
+<a href="http://www.army.mil/-news/2009/10/30/29572-kandahar-troops-civilians-honor-mans-best-friend/" rel="nofollow">Kandahar troops, civilians honor man's best friend</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"Military Working Dog" KIA coalition servicemembers civilians "dog handlers" "war dog memorial" memorial fallen ceremony "U.S. Army" Army Soldier military dog "german shepherd" K-9 

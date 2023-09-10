@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OctopusHat
+Photo URL    : https://www.flickr.com/photos/octopushat/3214267472/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 3 13:34:14 GMT+0100 2009
+Upload Date  : Wed Jan 21 01:39:10 GMT+0100 2009
+Geotag Info  : Latitude:34.146476, Longitude:-118.289537
+Views        : 2,158
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion lazoo zoo losangeles FlickrBigCats 

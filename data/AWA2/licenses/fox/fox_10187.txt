@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mark Braggins
+Photo URL    : https://www.flickr.com/photos/mark-braggins/5870165540/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 10 15:06:09 GMT+0200 2011
+Upload Date  : Sat Jun 25 19:15:22 GMT+0200 2011
+Views        : 174
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox cub in Fair Oak
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

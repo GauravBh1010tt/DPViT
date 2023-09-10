@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dgoomany
+Photo URL    : https://www.flickr.com/photos/dgoomany/4999435785/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 18 00:56:36 GMT+0200 2010
+Upload Date  : Sat Sep 18 01:56:36 GMT+0200 2010
+Views        : 483
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox close up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+london "central london" urban city england "united kingdom" animal fox 

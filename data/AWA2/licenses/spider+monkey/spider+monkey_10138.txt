@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/4844114540/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 17 12:46:06 GMT+0200 2010
+Upload Date  : Fri Jul 30 18:20:11 GMT+0200 2010
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 584
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shouting Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwick zoo spider monkey open mouth 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sebastien.faillon
+Photo URL    : https://www.flickr.com/photos/128090976@N08/15310451394/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 16 09:58:13 GMT+0200 2014
+Upload Date  : Tue Dec 2 20:58:53 GMT+0100 2014
+Geotag Info  : Latitude:50.584926, Longitude:3.884267
+Views        : 1,247
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Pairi Daiza Nature Animaux Belgique Lion 

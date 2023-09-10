@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jmd41280
+Photo URL    : https://www.flickr.com/photos/jmd41280/6606836569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 9 12:24:42 GMT+0200 2011
+Upload Date  : Sat Dec 31 16:05:45 GMT+0100 2011
+Geotag Info  : Latitude:40.484547, Longitude:-79.920151
+Views        : 145
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rhinoceros "Pittsburgh Zoo & PPG Aquarium" "Pittsburgh, PA" Pittsburgh Pennsylvania "Pittsburgh Zoo" 

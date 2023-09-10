@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/186729037/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 21 14:12:44 GMT+0200 2006
+Upload Date  : Mon Jul 10 23:06:34 GMT+0200 2006
+Geotag Info  : Latitude:55.943534, Longitude:-3.269913
+Views        : 960
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Edinburgh Zoo 21 May 06 171
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polar Bear
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Jaguar Tiger Polar Bear Red Panda Grevy's Zebra Pygmy Hippo Koala Gentoo Penguin rockhopper peguin king 

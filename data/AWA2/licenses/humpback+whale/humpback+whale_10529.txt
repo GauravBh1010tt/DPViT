@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher.Michel
+Photo URL    : https://www.flickr.com/photos/cmichel67/12389953354/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 6 11:27:21 GMT+0100 2014
+Upload Date  : Sat Feb 8 19:15:29 GMT+0100 2014
+Views        : 2,952
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Silver Bank" "Conscious Breath Adventures" whaleman "dominican republic" "In the Heart of the Sea" "Moby Dick" humpbacks ocean 

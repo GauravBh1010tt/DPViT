@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobPJKeating
+Photo URL    : https://www.flickr.com/photos/onemansportsnetwork/4070328009/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 3 11:23:26 GMT+0100 2009
+Upload Date  : Tue Nov 3 05:00:56 GMT+0100 2009
+Views        : 8,952
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dora the German Shepherd Puppy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dora the German Shepherd Puppy at six and a half weeks
+
+
++--------+
+|  TAGS  |
++--------+
+"german shepherd puppy" puppies dog 

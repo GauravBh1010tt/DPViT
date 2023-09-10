@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wareta_tamago
+Photo URL    : https://www.flickr.com/photos/wareta_tamago/26158701623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 11 13:27:44 GMT+0100 2012
+Upload Date  : Mon May 2 03:44:03 GMT+0200 2016
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2012_02_11_070
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+“アクアスタジアム”でカマイルカのジャンプ。
+
+
++--------+
+|  TAGS  |
++--------+
+2012 Aquarium 水族館 八景島シーパラダイス 

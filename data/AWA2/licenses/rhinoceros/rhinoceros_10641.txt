@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rob Young
+Photo URL    : https://www.flickr.com/photos/rob-young/5234574647/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 23 06:54:31 GMT+0100 2010
+Upload Date  : Sun Dec 5 18:33:48 GMT+0100 2010
+Geotag Info  : Latitude:24.997182, Longitude:121.582646
+Views        : 257
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinoceros @ Taipei Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+asia 2010 white rhino rhinoceros taipei zoo taiwan 

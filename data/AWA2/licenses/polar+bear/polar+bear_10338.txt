@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berned_you
+Photo URL    : https://www.flickr.com/photos/56280644@N07/9244301420/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 6 02:33:53 GMT+0200 2013
+Upload Date  : Tue Jul 9 01:07:04 GMT+0200 2013
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7786
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Como Zoo" "St. Paul" 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Giåm
+Photo URL    : https://www.flickr.com/photos/84554176@N00/1567534898/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 17 10:03:50 GMT+0200 2007
+Upload Date  : Sun Oct 14 10:59:05 GMT+0200 2007
+Geotag Info  : Latitude:-3.190136, Longitude:35.586433
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2007-08-17
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tanzanie, 
+Safari dans le Ngorongoro
+
+
++--------+
+|  TAGS  |
++--------+
+Tanzania Tanzanie Ngorongoro Safari 

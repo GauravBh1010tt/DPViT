@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Newtown grafitti
+Photo URL    : https://www.flickr.com/photos/newtown_grafitti/6748073485/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 23 14:55:19 GMT+0100 2012
+Upload Date  : Mon Jan 23 11:11:35 GMT+0100 2012
+Views        : 243
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown lady, I
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Didn't run away, didn't want to make friends
+
+
++--------+
+|  TAGS  |
++--------+
+Camperdown "siamese cat" 

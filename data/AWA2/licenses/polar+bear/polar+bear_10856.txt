@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : azrael74
+Photo URL    : https://www.flickr.com/photos/azrael74/1788827097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 6 15:00:45 GMT+0200 2007
+Upload Date  : Sun Oct 28 13:28:00 GMT+0100 2007
+Views        : 304
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo-Ansichten
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Berlin, Zoologischer Garten. Knut in Aktiion.
+
+
++--------+
+|  TAGS  |
++--------+
+berlin zoo zoologischergartenberlin knut eisbär 

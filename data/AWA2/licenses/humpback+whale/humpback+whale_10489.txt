@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D.Fletcher
+Photo URL    : https://www.flickr.com/photos/dfletcher/3785989329/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 29 14:33:30 GMT+0200 2009
+Upload Date  : Tue Aug 4 00:05:39 GMT+0200 2009
+Geotag Info  : Latitude:41.995732, Longitude:-69.890899
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback Whale
+
+
++--------+
+|  TAGS  |
++--------+
+Whale Humpback "Cape Cod" "Whale watching" Massachusetts Nikon D80 dfletcher 

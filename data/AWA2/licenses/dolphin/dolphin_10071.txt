@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andy Morffew
+Photo URL    : https://www.flickr.com/photos/andymorffew/25275101809/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 28 16:13:26 GMT+0100 2016
+Upload Date  : Wed Mar 9 14:41:07 GMT+0100 2016
+Views        : 2,772
+Comments     : 32
+
+
++---------+
+|  TITLE  |
++---------+
+Battle scarred
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This bottlenose dolphin was swimming in our boat's wake but I was stunned by the number of scars it has, some from boat propellers!  
+
+Just started a war on facebook between those that think dolphins don't get hit by propellers and those that think they do!!!  And honestly - I have no idea.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

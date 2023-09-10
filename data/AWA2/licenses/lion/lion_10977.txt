@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : p_a_h
+Photo URL    : https://www.flickr.com/photos/pahudson/4424903603/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 11 13:33:54 GMT+0100 2010
+Upload Date  : Thu Mar 11 21:15:10 GMT+0100 2010
+Views        : 1,448
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Paradise Wildlife Park" "White Lion" 

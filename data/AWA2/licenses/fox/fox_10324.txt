@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andy Hay
+Photo URL    : https://www.flickr.com/photos/andyhay/136489767/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 22 13:36:19 GMT+0100 2006
+Upload Date  : Fri Apr 28 20:02:49 GMT+0200 2006
+Geotag Info  : Latitude:53.565234, Longitude:-3.088418
+Views        : 1,131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox, Formby Point
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2006 formby "formby point" fox lancashire national "national trust" "red squirrels" southport trust uk 

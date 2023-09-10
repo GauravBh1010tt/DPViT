@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alison J Photography
+Photo URL    : https://www.flickr.com/photos/velmadarling/4475349016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 5 23:56:15 GMT+0100 2010
+Upload Date  : Tue Mar 30 04:26:57 GMT+0200 2010
+Views        : 216
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3746
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gus new apartment cat siamese 

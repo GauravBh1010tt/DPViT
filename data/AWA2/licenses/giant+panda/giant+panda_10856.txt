@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bob_brents1
+Photo URL    : https://www.flickr.com/photos/132722222@N04/24207095124/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 26 15:27:11 GMT+0100 2016
+Upload Date  : Fri Feb 5 17:24:02 GMT+0100 2016
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

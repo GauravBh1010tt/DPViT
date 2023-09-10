@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vastateparksstaff
+Photo URL    : https://www.flickr.com/photos/vastateparksstaff/5370868060/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 8 02:18:33 GMT+0100 2011
+Upload Date  : Wed Jan 19 20:34:48 GMT+0100 2011
+Views        : 582
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+WR- Bison eats hay in snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+snow snowstorm buffalo bison frontier fort station history nature ice picnic 

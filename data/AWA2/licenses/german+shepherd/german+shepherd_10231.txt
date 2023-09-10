@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tony Ahumada
+Photo URL    : https://www.flickr.com/photos/rocksas/115204754/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 19 04:06:44 GMT+0100 2006
+Upload Date  : Mon Mar 20 10:53:32 GMT+0100 2006
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCF0441
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Pastoraleman dog dogs perro "german shepherd" 

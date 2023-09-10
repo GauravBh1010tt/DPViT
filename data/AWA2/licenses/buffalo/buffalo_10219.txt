@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : YellowstoneNPS
+Photo URL    : https://www.flickr.com/photos/yellowstonenps/16115801636/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 16 11:20:48 GMT+0100 2014
+Upload Date  : Mon Dec 29 23:22:22 GMT+0100 2014
+Views        : 2,140
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison in the Lower Geyser Basin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison, Lower Geyser Basin;
+Neal Herbert;
+November, 2014
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

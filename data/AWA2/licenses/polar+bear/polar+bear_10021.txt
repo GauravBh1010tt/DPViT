@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aaron Sneddon Photography & Aerial Photographer
+Photo URL    : https://www.flickr.com/photos/aaron-sneddon/3987753280/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 6 19:48:37 GMT+0200 2009
+Upload Date  : Wed Oct 7 02:48:37 GMT+0200 2009
+Views        : 3,563
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+_DSC5722 Mercedes the Polar Bear at Edinburgh Zoo before the move to the Highland Wildlife Park Kincraig. Creative Commons licence
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mercedes the Polar Bear at Edinburgh Zoo before the move to the Highland Wildlife Park Kincraig.
+
+Photos taken for Scottish publication. This image is now part of the Creative Commons licence, that is that you are free to print this image or add it to another website- Please first link to <a href="http://www.flickr.com/aaron-sneddon">www.flickr.com/aaron-sneddon</a> and add a clear attribute to Aaron Sneddon below all images used.
+
+
++--------+
+|  TAGS  |
++--------+
+mercedes "mercedes the bear" "mercedes polar bear" "polar bear" bear "edinburgh zoo" "highland wildlife park" edinburgh rzss 

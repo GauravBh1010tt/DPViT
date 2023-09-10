@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ken_from_MD
+Photo URL    : https://www.flickr.com/photos/ken_from_md/4697952954/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 10 22:33:16 GMT+0200 2010
+Upload Date  : Mon Jun 14 00:43:41 GMT+0200 2010
+Views        : 2,370
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Panda_3956
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at the National Zoo in Washington, DC.
+
+
++--------+
+|  TAGS  |
++--------+
+canonef100400mm canon7d zoo panda nationalzoo 

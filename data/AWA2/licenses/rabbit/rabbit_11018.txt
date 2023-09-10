@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SnapAdik
+Photo URL    : https://www.flickr.com/photos/hubertyu/14608590224/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 2 10:20:27 GMT+0200 2014
+Upload Date  : Wed Jul 9 09:00:31 GMT+0200 2014
+Geotag Info  : Latitude:47.959331, Longitude:-122.222460
+Views        : 187
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Forest Park" "Animal Farm" Farm Everett 

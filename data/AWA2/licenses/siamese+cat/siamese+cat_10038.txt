@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/7379290644/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 14 07:18:02 GMT+0200 2012
+Upload Date  : Sat Jun 16 14:38:02 GMT+0200 2012
+Views        : 1,309
+Comments     : 38
+
+
++---------+
+|  TITLE  |
++---------+
+O what a beautiful morning , O what a beautiful day ~~~~
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Happy Caturday !!!!!!!
+Have a great weekend :)
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese "Miss Truffles" morning sun Caturday "Have a nice weekend" Happy 

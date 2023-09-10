@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MindsEye_PJ
+Photo URL    : https://www.flickr.com/photos/mindseye_pj/7879159818/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 3 16:34:34 GMT+0200 2012
+Upload Date  : Tue Aug 28 11:43:48 GMT+0200 2012
+Geotag Info  : Latitude:66.089085, Longitude:-17.523880
+Views        : 1,342
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback whale, Húsavík, Iceland
+
+
++--------+
+|  TAGS  |
++--------+
+humpack whale iceland Húsavík watching water whales ocean marine life 

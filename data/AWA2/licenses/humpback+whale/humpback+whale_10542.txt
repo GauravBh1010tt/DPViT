@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DGriebeling
+Photo URL    : https://www.flickr.com/photos/dgriebeling/14940286254/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 6 09:26:06 GMT+0200 2014
+Upload Date  : Sat Oct 18 08:11:54 GMT+0200 2014
+Geotag Info  : Latitude:-32.752784, Longitude:152.206019
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Australia 2014
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

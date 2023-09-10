@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WxMom
+Photo URL    : https://www.flickr.com/photos/wxmom/8661250825/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 18 21:41:12 GMT+0200 2013
+Upload Date  : Fri Apr 19 04:45:45 GMT+0200 2013
+Views        : 300
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wildlife!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+After we finished driving through The Needles, we were on the first half of the wildlife loop, on our way to Wind Cave.
+
+This was the first buffalo. We were in traffic, and were wondering why we were going so slow. I looked out my window, &quot;Buffalo! Right there!&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+August 2012 wildlife "South Dakota" buffalo bison 

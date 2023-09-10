@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jasonho60912
+Photo URL    : https://www.flickr.com/photos/jasonho60912/14328315044/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 2 09:50:18 GMT+0200 2014
+Upload Date  : Mon Jun 2 15:03:52 GMT+0200 2014
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5450
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

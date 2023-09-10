@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : anuwish
+Photo URL    : https://www.flickr.com/photos/121476474@N04/22823158647/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 5 17:35:29 GMT+0100 2015
+Upload Date  : Sun Nov 22 20:07:43 GMT+0100 2015
+Geotag Info  : Latitude:-24.459806, Longitude:18.070106
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Springboks
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Namibia Kalahari 

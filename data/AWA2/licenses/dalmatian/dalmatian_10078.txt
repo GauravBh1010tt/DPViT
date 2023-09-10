@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jimbomack66
+Photo URL    : https://www.flickr.com/photos/doggybytes/3776451999/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 22 18:38:06 GMT+0100 2006
+Upload Date  : Sat Aug 1 07:15:26 GMT+0200 2009
+Views        : 1,256
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Zack ~ Dalmatian
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zack looking all regal and stuff. Taken in 2007 in Vancouver by our dog walker at the time.
+
+
++--------+
+|  TAGS  |
++--------+
+dogs dalmatian 

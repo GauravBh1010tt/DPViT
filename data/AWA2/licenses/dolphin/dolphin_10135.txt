@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nachans
+Photo URL    : https://www.flickr.com/photos/pancakeplan/5926308572/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 11 22:11:22 GMT+0200 2011
+Upload Date  : Mon Jul 11 15:11:22 GMT+0200 2011
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC08019
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+@名古屋港水族館
+イルカショー
+
+
++--------+
+|  TAGS  |
++--------+
+aquarium dolphin 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/7694131950/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 14:06:03 GMT+0200 2012
+Upload Date  : Thu Aug 2 02:25:24 GMT+0200 2012
+Geotag Info  : Latitude:33.095855, Longitude:-116.999673
+Views        : 890
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Crash of Southern White Rhino females (Ceratotherium simum)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The white rhinoceros or square-lipped rhinoceros (Ceratotherium simum) is one of the five species of rhinoceros that still exist. It has a wide mouth used for grazing and is the most social of all rhino species. The white rhino consists of two subspecies: the southern white rhino, with an estimated 17,460 wild-living and the much rarer northern white rhino. White rhinoceroses live in crashes or herds of up to 14 animals (usually mostly female).
+
+Photographed at the San Diego Zoo Safari Park in Escondido, CA
+
+
++--------+
+|  TAGS  |
++--------+
+white rhino rhinoceros ungulate animal mammal horn Africa endangered "Ceratotherium simum" Square-lipped 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fauxto_digit
+Photo URL    : https://www.flickr.com/photos/fauxto_dkp/3642971520/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 19 19:08:40 GMT+0200 2009
+Upload Date  : Sat Jun 20 04:24:47 GMT+0200 2009
+Views        : 957
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Atune
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Must have heard the camer snaps. It was eating when I first got near, then a truck came by and boom it was off into the woods.  Brooke Ave.
+
+
++--------+
+|  TAGS  |
++--------+
+Bunny Rabbit Ears Furry Fauna "White Taile" "Cotton Tail" Wild 

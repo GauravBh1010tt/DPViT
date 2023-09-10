@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Makarsky
+Photo URL    : https://www.flickr.com/photos/cmak/6615290385/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 1 00:00:00 GMT+0100 2000
+Upload Date  : Sun Jan 1 23:14:08 GMT+0100 2012
+Geotag Info  : Latitude:-0.667404, Longitude:35.639648
+Views        : 237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+gazelles
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+RAW africa safari kenya gazelle 

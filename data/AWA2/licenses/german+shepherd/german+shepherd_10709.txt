@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : karooopa
+Photo URL    : https://www.flickr.com/photos/kar0d/4618523800/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 17 18:02:53 GMT+0200 2010
+Upload Date  : Tue May 18 13:12:13 GMT+0200 2010
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Our German shepherd, Rölli
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Aurinko paistaa&lt;3
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

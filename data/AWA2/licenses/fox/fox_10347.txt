@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/3412447016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 18:44:51 GMT+0200 2009
+Upload Date  : Sat Apr 4 20:07:06 GMT+0200 2009
+Geotag Info  : Latitude:52.463958, Longitude:-2.000885
+Views        : 2,859
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Garden fox 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We occasionally get Foxes in the garden, but not usually in the middle of the lawn. This one wasn't too pleased at being disturbed
+
+
++--------+
+|  TAGS  |
++--------+
+Fox Urban Garden "Vulpes vulpes" 

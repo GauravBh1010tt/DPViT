@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rochelle, just rochelle
+Photo URL    : https://www.flickr.com/photos/tinfoilraccoon/56171410/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 25 22:00:51 GMT+0200 2005
+Upload Date  : Wed Oct 26 05:00:51 GMT+0200 2005
+Views        : 495
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+RIP Luna
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Luna is no longer with us.   She frequently mistook cars for large cats. Or mistook herself for a large, furry car.  We'll miss her.
+
+
++--------+
+|  TAGS  |
++--------+
+siamese cats 

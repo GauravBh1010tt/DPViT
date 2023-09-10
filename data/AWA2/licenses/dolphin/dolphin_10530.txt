@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : naeem.ebrahimjee
+Photo URL    : https://www.flickr.com/photos/naeemebrahimjee/7764563888/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 14:33:36 GMT+0200 2012
+Upload Date  : Sun Aug 12 11:45:19 GMT+0200 2012
+Views        : 56
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Durban - Dolphin Show 007
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robertofaccenda.it
+Photo URL    : https://www.flickr.com/photos/stefanedberg62/1973896200/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 13 07:58:06 GMT+0200 2007
+Upload Date  : Sun Nov 11 00:37:48 GMT+0100 2007
+Views        : 271
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Antelopes crossing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tsavo Est national park. Kenya
+
+
++--------+
+|  TAGS  |
++--------+
+Kenya Africa Travel Safari Tsavo "National Park" "Game drive" Antelope 

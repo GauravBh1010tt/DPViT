@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EdenS13
+Photo URL    : https://www.flickr.com/photos/edens13/12212478896/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 22 11:32:33 GMT+0200 2011
+Upload Date  : Wed Jan 29 23:27:17 GMT+0100 2014
+Views        : 258
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+leopard strong feline France zoo Canon 

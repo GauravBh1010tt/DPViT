@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ChodHound
+Photo URL    : https://www.flickr.com/photos/chodhound/108149279/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 23 18:06:28 GMT+0100 2006
+Upload Date  : Sun Mar 5 17:00:33 GMT+0100 2006
+Views        : 336
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fish in polar bear's mouth
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+TorontoZoo Zoo Animals Canada2006 PolarBear 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlishaV
+Photo URL    : https://www.flickr.com/photos/alishav/3905526993/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 24 13:58:37 GMT+0100 2009
+Upload Date  : Thu Sep 10 08:25:33 GMT+0200 2009
+Views        : 767
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+100_9206
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Each of my cats are special and so I made a page all about them.  If you're interested in their stories check it out:
+<a href="http://www.squidoo.com/AlishaVs_Cats" rel="nofollow">My Lens About My Cats</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Cat White Siamese Kitty "Blue eyes" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Yortw
+Photo URL    : https://www.flickr.com/photos/yortw/5083099289/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 21 13:57:57 GMT+0200 2010
+Upload Date  : Fri Oct 15 13:44:48 GMT+0200 2010
+Geotag Info  : Latitude:52.506752, Longitude:13.341243
+Views        : 967
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+BZ - Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Berlin Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+"Berlin Zoo" Berlin Animals "Panda Bear" Europe DMC-G10 Lumix Panasonic MicroFourThirds 2010 microfourthirdsmicro43 Zoo 

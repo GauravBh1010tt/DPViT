@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michele Lamberti
+Photo URL    : https://www.flickr.com/photos/60740813@N04/10401081844/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 21 03:52:11 GMT+0200 2013
+Upload Date  : Mon Oct 21 12:55:44 GMT+0200 2013
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+FOX WITH DUNLINS
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Volpe con piovanelli pancianera MAREMMA ITALIA VIGILIA SAN LUCA EVANGELISTA 2013
+
+
++--------+
+|  TAGS  |
++--------+
+fox with dunlins 

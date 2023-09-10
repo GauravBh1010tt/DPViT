@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer :  BaBalingus
+Photo URL    : https://www.flickr.com/photos/babalingus/2515275162/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 18 13:43:12 GMT+0200 2008
+Upload Date  : Fri May 23 03:17:56 GMT+0200 2008
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0326
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

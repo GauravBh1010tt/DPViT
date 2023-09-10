@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tinyfroglet
+Photo URL    : https://www.flickr.com/photos/tinyfroglet/4401183289/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 27 10:01:20 GMT+0100 2010
+Upload Date  : Tue Mar 2 19:02:25 GMT+0100 2010
+Views        : 886
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Jackalope Sitting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Black-tailed Jackrabbit
+
+Saguaro National Park
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit jackrabbit saguaro "national park" "Mmm...I like it !" 

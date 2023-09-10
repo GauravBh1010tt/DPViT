@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/6416656425/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 10 15:34:12 GMT+0200 2011
+Upload Date  : Mon Nov 28 06:35:07 GMT+0100 2011
+Geotag Info  : Latitude:48.097171, Longitude:11.553497
+Views        : 8,198
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear in the sun II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Last picture of the nice polar bear in the back light!
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" bear ursus beige white sunny backlight portrait face hellabrunn tierpark zoo munich münchen germany nikon d700 

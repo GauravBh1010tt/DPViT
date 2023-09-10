@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : larkin.family
+Photo URL    : https://www.flickr.com/photos/larkin_family/9097202977/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 17 19:49:50 GMT+0200 2013
+Upload Date  : Fri Jun 21 09:11:02 GMT+0200 2013
+Views        : 63
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0794_2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dolphin 

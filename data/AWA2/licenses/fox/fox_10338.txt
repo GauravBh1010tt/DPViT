@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : llamnudds
+Photo URL    : https://www.flickr.com/photos/llamnuds/512696484/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 25 18:26:05 GMT+0200 2007
+Upload Date  : Fri May 25 00:55:54 GMT+0200 2007
+Geotag Info  : Latitude:51.266426, Longitude:0.464515
+Views        : 1,018
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+foxy lady
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A friendly little fox I see every morning on the way to work.
+
+
++--------+
+|  TAGS  |
++--------+
+fox "building site" animal dog brown fence sand wood watching maidstone kent uk england llamnuds fuji fujifilm s9600 finepix 

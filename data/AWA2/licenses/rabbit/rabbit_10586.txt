@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : minicooper93402
+Photo URL    : https://www.flickr.com/photos/minicooper93402/6050171735/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 15 17:18:38 GMT+0200 2011
+Upload Date  : Tue Aug 16 22:03:18 GMT+0200 2011
+Views        : 459
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+jack rabbit on education road
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+handsome fellow; nice to pose for me.  beautiful brown eyes.
+
+
++--------+
+|  TAGS  |
++--------+
+jackrabbit educationroad sanluisobispo 

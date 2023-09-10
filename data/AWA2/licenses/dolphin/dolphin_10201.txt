@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : César González - Destinos360 
+Photo URL    : https://www.flickr.com/photos/destinos360/6148414540/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 4 09:51:29 GMT+0200 2011
+Upload Date  : Wed Sep 14 23:23:48 GMT+0200 2011
+Geotag Info  : Latitude:10.403825, Longitude:-64.344863
+Views        : 1,023
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Delfines en Mochima
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hermosos delfines jugueteando con los botes llenos de turistas. Este animal es impresionante, simplemente sin palabras la emoción de estar cerca de delfines en su ambiente natural…
+
+
++--------+
+|  TAGS  |
++--------+
+mochima delfín delfines ráfaga 7d 

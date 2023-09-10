@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Harwood
+Photo URL    : https://www.flickr.com/photos/john_t_harwood/21756827379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 7 18:38:40 GMT+0200 2015
+Upload Date  : Sun Oct 4 19:10:31 GMT+0200 2015
+Views        : 83
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions (13)8x10
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kruger National Park (2015)
+
+
++--------+
+|  TAGS  |
++--------+
+Singita 

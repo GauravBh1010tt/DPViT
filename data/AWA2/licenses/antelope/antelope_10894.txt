@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CarolineG2011
+Photo URL    : https://www.flickr.com/photos/cgranycome/12598561425/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 12 11:15:29 GMT+0100 2011
+Upload Date  : Mon Feb 17 22:46:37 GMT+0100 2014
+Geotag Info  : Latitude:-19.001560, Longitude:15.739569
+Views        : 3,327
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Springbok, Etosha, Namibia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Antelope Etosha Namiba Grazing grasses Africa springbok 

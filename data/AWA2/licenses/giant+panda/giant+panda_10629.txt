@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Laure Wayaffe
+Photo URL    : https://www.flickr.com/photos/22634122@N05/2298468859/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 1 00:00:00 GMT+0100 2007
+Upload Date  : Fri Feb 29 00:20:29 GMT+0100 2008
+Views        : 1,035
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+giant panda cute species china bear bamboo snows black white "to eat" eating 

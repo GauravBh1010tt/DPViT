@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lightmatter
+Photo URL    : https://www.flickr.com/photos/lightmatter/5629302083/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 3 11:08:45 GMT+0200 2011
+Upload Date  : Mon Apr 18 03:50:18 GMT+0200 2011
+Views        : 131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison (Yellowstone National Park, Wyoming)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

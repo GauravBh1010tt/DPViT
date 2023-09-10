@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daita
+Photo URL    : https://www.flickr.com/photos/daita/13281486435/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 20 11:18:40 GMT+0100 2014
+Upload Date  : Thu Mar 20 06:21:29 GMT+0100 2014
+Views        : 692
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+円山動物園
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+take PENTAX K200D + SIGMA 100-300mm/f4
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Adam & Tess
+Photo URL    : https://www.flickr.com/photos/23011149@N07/2763536903/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 14 10:18:35 GMT+0200 2008
+Upload Date  : Fri Aug 15 03:22:12 GMT+0200 2008
+Views        : 182
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Whale watching
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+boston "whale watching" "humpback whales" nikon d80 

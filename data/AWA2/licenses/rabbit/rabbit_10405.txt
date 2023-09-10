@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter Glyn
+Photo URL    : https://www.flickr.com/photos/remedy451/8778052014/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 19 12:03:47 GMT+0200 2013
+Upload Date  : Wed May 22 02:56:38 GMT+0200 2013
+Geotag Info  : Latitude:44.026643, Longitude:-79.809150
+Views        : 7,841
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eastern Cottontail Rabbit (Sylvilagus floridanus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cottontail rabbits are among the 16 lagomorph species in the genus Sylvilagus, found in the Americas. In appearance, most cottontail rabbits closely resemble the European rabbit. Most Sylvilagus species tails have white undersides that show when they retreat giving them their name &quot;cottontails&quot;.
+
+
++--------+
+|  TAGS  |
++--------+
+"Eastern Cottontail Rabbit" Cottontail Rabbit Lagomorph "Sylvilagus floridanus" 

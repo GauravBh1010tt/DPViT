@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nunymare
+Photo URL    : https://www.flickr.com/photos/40263796@N05/9045430757/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 14 20:31:52 GMT+0200 2013
+Upload Date  : Sat Jun 15 06:06:50 GMT+0200 2013
+Views        : 784
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit edmonton alberta 

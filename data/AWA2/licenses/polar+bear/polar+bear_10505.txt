@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : twistin
+Photo URL    : https://www.flickr.com/photos/twistin/8065454/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 10 17:33:39 GMT+0200 2000
+Upload Date  : Fri Apr 1 10:29:34 GMT+0200 2005
+Views        : 291
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at Portland Zoo, Feb. '05
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alison.klein
+Photo URL    : https://www.flickr.com/photos/60924502@N00/10217854543/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 24 11:51:09 GMT+0200 2013
+Upload Date  : Sat Oct 12 04:09:39 GMT+0200 2013
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bison-240913-02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oosp
+Photo URL    : https://www.flickr.com/photos/mhl20/8013299889/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 21 10:47:21 GMT+0200 2012
+Upload Date  : Sat Sep 22 23:44:14 GMT+0200 2012
+Views        : 5,105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I got a 500mm mirror lens for my birthday, and this is probably the first vaguely usable shot I've got from it - I hadn't anticipated quite how much every tremor of your hands is amplified at such a long focal length.  Still, it's a lot of fun having having such a different style of lens to try.
+
+This was taken from our kitchen window - some remarkably tame foxes run around in the garden below our flat.
+
+
++--------+
+|  TAGS  |
++--------+
+checksum:sha1=4fce340d2c605a493b1132b868f43b6e910b05cd checksum:md5=7bc39f846a5cada20c039b12f9530945 fox 

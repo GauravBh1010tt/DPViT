@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lisa Brewster
+Photo URL    : https://www.flickr.com/photos/sophistechate/2669161560/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 8 17:22:28 GMT+0100 2007
+Upload Date  : Mon Jul 14 22:54:28 GMT+0200 2008
+Geotag Info  : Latitude:0.000000, Longitude:0.000000
+Views        : 129
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Of course, we all nicknamed him Firefox.
+
+
++--------+
+|  TAGS  |
++--------+
+snapfish 

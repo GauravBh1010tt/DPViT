@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PLR_Photos
+Photo URL    : https://www.flickr.com/photos/kasilof/3312811048/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 26 13:33:55 GMT+0100 2009
+Upload Date  : Fri Feb 27 00:19:22 GMT+0100 2009
+Geotag Info  : Latitude:38.930604, Longitude:-77.049779
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion zoo "Washington DC" 

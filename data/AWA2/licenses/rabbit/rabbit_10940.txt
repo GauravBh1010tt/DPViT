@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : callocx
+Photo URL    : https://www.flickr.com/photos/kallegustafsson/5762199332/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 26 07:54:17 GMT+0200 2011
+Upload Date  : Thu May 26 17:43:32 GMT+0200 2011
+Views        : 437
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sneaking In The Grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hare 

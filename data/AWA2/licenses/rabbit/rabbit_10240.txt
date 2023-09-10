@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : h_f_smith
+Photo URL    : https://www.flickr.com/photos/msheathersmith/10391219983/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 11 20:11:56 GMT+0200 2013
+Upload Date  : Mon Oct 21 00:15:01 GMT+0200 2013
+Views        : 2,013
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bunny Carolina Calabash 

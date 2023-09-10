@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DBduo Photography
+Photo URL    : https://www.flickr.com/photos/drb62/4594668762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 9 13:15:59 GMT+0200 2010
+Upload Date  : Mon May 10 07:34:01 GMT+0200 2010
+Views        : 400
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dude
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbit 

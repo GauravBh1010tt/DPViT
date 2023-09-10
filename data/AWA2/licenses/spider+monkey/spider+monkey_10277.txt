@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VirtualWolf
+Photo URL    : https://www.flickr.com/photos/virtualwolf/4732164951/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 25 11:29:59 GMT+0200 2010
+Upload Date  : Fri Jun 25 11:47:55 GMT+0200 2010
+Geotag Info  : Latitude:-33.842991, Longitude:151.241183
+Views        : 169
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EF 100mm f/2 USM" Australia "New South Wales" Sydney Places "Taronga Zoo" Mosman Equipment Wildlife "Spider Monkey" "Canon EOS 7D" Animal Primate 

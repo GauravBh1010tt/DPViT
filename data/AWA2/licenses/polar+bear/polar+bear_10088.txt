@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AndreSchaefer42
+Photo URL    : https://www.flickr.com/photos/fuffel14/14371780595/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 4 10:52:09 GMT+0200 2011
+Upload Date  : Sun Jun 8 09:15:50 GMT+0200 2014
+Geotag Info  : Latitude:51.543579, Longitude:7.116104
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+as-eos-rgb-15m-2011-06-05-zoom-1237
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eisbär
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Gelsenkirchen Zoom NRW Deutschland DE 

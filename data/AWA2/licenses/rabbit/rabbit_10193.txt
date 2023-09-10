@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/3546962132/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 17 17:48:29 GMT+0200 2009
+Upload Date  : Tue May 19 22:12:18 GMT+0200 2009
+Geotag Info  : Latitude:39.906437, Longitude:-86.016367
+Views        : 520
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bunny on our front porch step
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This little bunny hopped up on our front porch and watched our neighbor mow his lawn for about an hour. As a result, our dogs and we watched the bunny for just as long. I think her nest is under a tree in the neighbor's yard and the mowing was a concern to this fuzzy little one.
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit cottontail indiana indianapolis front porch 

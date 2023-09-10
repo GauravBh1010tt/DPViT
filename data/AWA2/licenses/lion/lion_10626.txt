@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hans vlak2011
+Photo URL    : https://www.flickr.com/photos/hansvlak/8386619475/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 26 15:34:52 GMT+0100 2012
+Upload Date  : Wed Jan 16 20:27:20 GMT+0100 2013
+Views        : 220
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

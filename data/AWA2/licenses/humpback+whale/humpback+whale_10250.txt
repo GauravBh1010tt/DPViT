@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ukeedukee
+Photo URL    : https://www.flickr.com/photos/pjs-omi/4265531796/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 11 16:03:20 GMT+0200 2009
+Upload Date  : Mon Jan 11 08:24:35 GMT+0100 2010
+Views        : 167
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale lunge feeding in Clayoquot Sound
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

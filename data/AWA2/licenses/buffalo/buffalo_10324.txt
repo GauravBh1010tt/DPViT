@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J'Roo
+Photo URL    : https://www.flickr.com/photos/jnicho02/2709973130/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 9 15:52:49 GMT+0200 2002
+Upload Date  : Mon Jul 28 10:49:17 GMT+0200 2008
+Geotag Info  : Latitude:44.472991, Longitude:-110.489501
+Views        : 306
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"American Bison" "Bison bison" wlny:photo=iaa1 wlny:species=s9h wlny:trip=tt1 wlny:place=ppg wlny:geotagged=1 

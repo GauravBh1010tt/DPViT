@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/7484836572/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 1 10:16:24 GMT+0200 2012
+Upload Date  : Mon Jul 2 07:24:08 GMT+0200 2012
+Geotag Info  : Latitude:32.737057, Longitude:-117.149105
+Views        : 354
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Framing Device 9312
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+They are a friendly-looking bear, but watch those teeth!
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" zoo giant panda bai yun 

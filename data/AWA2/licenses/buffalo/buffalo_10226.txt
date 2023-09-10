@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DougFrancis
+Photo URL    : https://www.flickr.com/photos/dougfrancis/7577804714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 26 00:20:58 GMT+0200 2012
+Upload Date  : Sun Jul 15 23:36:38 GMT+0200 2012
+Geotag Info  : Latitude:44.652047, Longitude:-111.002082
+Views        : 1,433
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison in Yellowstone
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A herd of Bison
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone Bison 

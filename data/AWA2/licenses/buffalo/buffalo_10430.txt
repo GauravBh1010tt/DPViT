@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : terkel110
+Photo URL    : https://www.flickr.com/photos/jan-und-tini-auf-reisen/9741511539/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 25 00:00:32 GMT+0200 2013
+Upload Date  : Sat Sep 14 23:10:29 GMT+0200 2013
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+USA Wyoming Yellowstone 

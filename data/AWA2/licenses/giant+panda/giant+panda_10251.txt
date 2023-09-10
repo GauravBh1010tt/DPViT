@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : runneralan2004
+Photo URL    : https://www.flickr.com/photos/runneralan/4280223580/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 16 11:09:43 GMT+0100 2010
+Upload Date  : Sun Jan 17 00:17:55 GMT+0100 2010
+Geotag Info  : Latitude:38.932440, Longitude:-77.053813
+Views        : 158
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giant panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+National Zoo, Washington, DC
+
+
++--------+
+|  TAGS  |
++--------+
+"National Zoo" "Washington, DC" 

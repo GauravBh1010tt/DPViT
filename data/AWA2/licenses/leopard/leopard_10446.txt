@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karamellzucker
+Photo URL    : https://www.flickr.com/photos/karamell/3869670375/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 11:36:54 GMT+0200 2009
+Upload Date  : Sun Aug 30 12:27:38 GMT+0200 2009
+Geotag Info  : Latitude:51.348305, Longitude:12.367944
+Views        : 252
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Leopard Zoo Leipzig "Zoo Leipzig" Sommer Großkatze Portrait 

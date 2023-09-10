@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tombild
+Photo URL    : https://www.flickr.com/photos/tombild/24761367853/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 29 17:46:00 GMT+0100 2016
+Upload Date  : Tue Mar 1 00:22:52 GMT+0100 2016
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_4606
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+fleckendelfin
+
+
++--------+
+|  TAGS  |
++--------+
+"valle gran rey" "la gomera" spanien amazonia2016tombild 

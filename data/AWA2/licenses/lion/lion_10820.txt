@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Benoit Dupont
+Photo URL    : https://www.flickr.com/photos/benoitdupont/4959372249/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 2 14:16:19 GMT+0200 2010
+Upload Date  : Sun Sep 5 13:37:58 GMT+0200 2010
+Geotag Info  : Latitude:51.218727, Longitude:4.420811
+Views        : 2,791
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Loving lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+antwerp anvers lion zoo 

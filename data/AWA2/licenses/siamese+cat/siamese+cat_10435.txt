@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chris favero
+Photo URL    : https://www.flickr.com/photos/cfavero/5617712803/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 13 22:22:01 GMT+0200 2011
+Upload Date  : Thu Apr 14 05:22:01 GMT+0200 2011
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siamese mix kitty Franky the cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram 

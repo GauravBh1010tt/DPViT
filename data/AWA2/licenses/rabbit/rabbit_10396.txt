@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jennicatpink
+Photo URL    : https://www.flickr.com/photos/jennicatpink/5643862337/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 16 14:11:17 GMT+0200 2011
+Upload Date  : Fri Apr 22 22:19:58 GMT+0200 2011
+Views        : 3,081
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dwyfor Ranch cute bunnies
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"north wales barmouth Dwyfor Ranch bunnies" rabbits 

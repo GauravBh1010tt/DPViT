@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kristymurphy47
+Photo URL    : https://www.flickr.com/photos/120578283@N02/13230474993/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 18 13:07:03 GMT+0200 2013
+Upload Date  : Tue Mar 18 00:16:27 GMT+0100 2014
+Geotag Info  : Latitude:39.961959, Longitude:-83.002983
+Views        : 199
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ColumbusZoo2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polar Bear at the Columbus Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

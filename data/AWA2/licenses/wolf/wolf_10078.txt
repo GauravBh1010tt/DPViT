@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrT HK
+Photo URL    : https://www.flickr.com/photos/mrthk/15974767136/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 1 00:00:00 GMT+0100 2014
+Upload Date  : Thu Dec 11 23:39:19 GMT+0100 2014
+Views        : 2,464
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bavarian Forest National Park - Wolves 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Munich Bavaria "Bavarian Forest National Park" Lynx Wolves Bears Wildlife Hohenau Germany 

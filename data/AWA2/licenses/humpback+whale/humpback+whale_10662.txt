@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SubbuThePeaceful
+Photo URL    : https://www.flickr.com/photos/67446336@N00/1085102718/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 13 16:42:25 GMT+0200 2007
+Upload Date  : Sat Aug 11 21:06:54 GMT+0200 2007
+Geotag Info  : Latitude:59.760847, Longitude:-149.506931
+Views        : 3,021
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tail of a Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fortunate to be able to see the tail of a humpback - Kenai Fjords National Park, Seward, Alaska
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska "Humpback Whale" "Kenai Fjords" Seward Tail 

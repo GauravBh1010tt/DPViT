@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PsJeremy
+Photo URL    : https://www.flickr.com/photos/psjeremy/8011089022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 6 17:38:36 GMT+0200 2012
+Upload Date  : Sat Sep 22 06:34:56 GMT+0200 2012
+Views        : 2,190
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cute Pest! A pair of bunny rabbits - but they breed too fast and became a pest in Australia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit pests 

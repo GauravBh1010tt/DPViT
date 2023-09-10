@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Me in ME
+Photo URL    : https://www.flickr.com/photos/pavdw/18566875394/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 26 12:52:35 GMT+0200 2015
+Upload Date  : Sat Jun 27 02:21:03 GMT+0200 2015
+Views        : 1,531
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Neighborhood Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I went to pick up my wife about noon today and very near our house on a sunlit grassy area was a red fox lying on the grass, it rolled over on its back, yawned, licked its lips doing everything it could to look like a dog.  After I picked up my wife the fox was still in the same place so I came back with my camera.  By then there were two or three other cars so the fox decided to move on but I managed to get a few shots.  I was not careful and they were over exposed but Lightroom helped me salvage these three.
+
+
++--------+
+|  TAGS  |
++--------+
+Brunswick Fauna Fox Maine "Red Fox" 

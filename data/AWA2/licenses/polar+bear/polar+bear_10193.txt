@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdsmith1021
+Photo URL    : https://www.flickr.com/photos/jdsmith1021/4916558469/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 25 14:01:23 GMT+0200 2010
+Upload Date  : Sun Aug 22 20:30:39 GMT+0200 2010
+Geotag Info  : Latitude:45.509113, Longitude:-122.713594
+Views        : 369
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC06668
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"oregon zoo" zoo portland oregon polar bear "polar bear" 

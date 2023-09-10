@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ST33VO
+Photo URL    : https://www.flickr.com/photos/st33vo/15026868437/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 6 13:30:13 GMT+0200 2014
+Upload Date  : Fri Sep 12 06:59:51 GMT+0200 2014
+Geotag Info  : Latitude:32.766969, Longitude:-117.226556
+Views        : 5,269
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bottlenose Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bottlenose dolphin dolphins mammal aquatic cetaecean cetacean marine Delphinidae creature Tursiops Cetartiodactyla water 

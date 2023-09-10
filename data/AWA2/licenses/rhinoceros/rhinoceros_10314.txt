@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lin padgham
+Photo URL    : https://www.flickr.com/photos/linpadgham/9288809029/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 9 16:27:18 GMT+0200 2013
+Upload Date  : Mon Jul 15 09:31:03 GMT+0200 2013
+Views        : 82
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1010473
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rhinoceros, Kruger National Park, Buffalo Rock safari
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

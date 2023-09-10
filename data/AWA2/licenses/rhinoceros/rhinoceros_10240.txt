@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/20354136570/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 1 00:00:00 GMT+0100 1996
+Upload Date  : Thu Aug 13 17:23:59 GMT+0200 2015
+Geotag Info  : Latitude:27.572664, Longitude:84.490356
+Views        : 257
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Indian Rhino (Rhinoceros unicornis) young orphan reared by the guards ...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sauraha, Chitwan NP, Terai, NEPAL
+
+ 
+
+Scanned Slide from January 1996
+
+
++--------+
+|  TAGS  |
++--------+
+Chitwan "Indian Rhino" NEPAL "Rhinoceros unicornis" Sauraha "Taxonomy:binomial=Rhinoceros unicornis" Terai 

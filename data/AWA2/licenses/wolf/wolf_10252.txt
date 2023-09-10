@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/14909630454/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 22 16:29:07 GMT+0200 2014
+Upload Date  : Tue Oct 14 00:49:30 GMT+0200 2014
+Geotag Info  : Latitude:35.072030, Longitude:-106.202399
+Views        : 1,415
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mexican Gray Wolf 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Albuquerque Route 66 2014 Mother Road Trip Highway 

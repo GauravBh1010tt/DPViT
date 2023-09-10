@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ianz
+Photo URL    : https://www.flickr.com/photos/ianz/2436657556/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 17 09:52:17 GMT+0200 2008
+Upload Date  : Wed Apr 23 16:02:46 GMT+0200 2008
+Geotag Info  : Latitude:30.674534, Longitude:104.067478
+Views        : 257
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3698
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Panda`s  in Xian" 

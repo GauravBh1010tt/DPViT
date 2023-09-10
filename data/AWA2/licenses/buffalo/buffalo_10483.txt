@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roy.luck
+Photo URL    : https://www.flickr.com/photos/royluck/20042381331/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 10 09:06:09 GMT+0200 2015
+Upload Date  : Mon Jul 27 01:25:49 GMT+0200 2015
+Geotag Info  : Latitude:44.640308, Longitude:-110.886640
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison, Yellowstone NP WY
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grazing along the Firehole River
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

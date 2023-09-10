@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : katzenfinch
+Photo URL    : https://www.flickr.com/photos/katzenfinch/3758810292/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 24 20:59:20 GMT+0200 2009
+Upload Date  : Sun Jul 26 19:18:27 GMT+0200 2009
+Views        : 510
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sierra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"german shepherd" dog 

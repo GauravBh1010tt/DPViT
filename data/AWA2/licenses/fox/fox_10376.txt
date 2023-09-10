@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 3n
+Photo URL    : https://www.flickr.com/photos/3n/4690296988/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 3 13:09:38 GMT+0200 2010
+Upload Date  : Fri Jun 11 08:40:43 GMT+0200 2010
+Geotag Info  : Latitude:63.515730, Longitude:-149.946384
+Views        : 563
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hello there, fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Not sure what he's got in his mouth, but it looks delicious. 
+
+Denali National Park &amp; Preserve
+
+
++--------+
+|  TAGS  |
++--------+
+alaska nikon denali "denali national park" 

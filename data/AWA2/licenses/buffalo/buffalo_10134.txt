@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : YellowstoneNPS
+Photo URL    : https://www.flickr.com/photos/yellowstonenps/16381898062/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 14 11:18:34 GMT+0100 2015
+Upload Date  : Tue Jan 27 20:57:33 GMT+0100 2015
+Views        : 1,961
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison along the Gibbon River
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison  along the Gibbon River;
+Diane Renkin;
+January 2015;
+Catalog #19815d;
+Original #IMG_7337
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone "Yellowstone National Park" "national park" wildlife 

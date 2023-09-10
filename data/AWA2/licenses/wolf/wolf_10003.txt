@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/3320407834/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 22 14:32:08 GMT+0100 2009
+Upload Date  : Sun Mar 1 21:39:24 GMT+0100 2009
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 47,689
+Comments     : 258
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf posing in the snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+As a last picture, here is a wolf posing nicely in the snow for me! :)
+
+Made it in Explore, #411, March 1st, 2009
+
+
++--------+
+|  TAGS  |
++--------+
+posing snow "canis lupus" lying winter mongolian zoo zürich switzerland nikon d300 wolf canid ImpressedBeauty explore VosPlusBellesPhotos APlusPhoto zurich schweiz 

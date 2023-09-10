@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : variationblogr
+Photo URL    : https://www.flickr.com/photos/variationblogr/6698206961/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 24 18:41:09 GMT+0100 2011
+Upload Date  : Sun Jan 15 02:42:14 GMT+0100 2012
+Geotag Info  : Latitude:34.681499, Longitude:135.482454
+Views        : 1,283
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Osaka_Zoo_Lion_1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+japan osaka "osaka zoo" lion "skinny lion" 

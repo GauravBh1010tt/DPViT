@@ -1,0 +1,44 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : avlxyz
+Photo URL    : https://www.flickr.com/photos/avlxyz/1483005621/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 2 08:14:56 GMT+0200 2007
+Upload Date  : Thu Oct 4 15:37:18 GMT+0200 2007
+Geotag Info  : Latitude:30.638207, Longitude:104.034004
+Views        : 3,578
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Resting Panda - Panda Research Centre, Chengdu
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+大熊猫 
+Cute lazy <a href="http://en.wikipedia.org/wiki/Panda" rel="nofollow">panda</a>... :)
+They always look as if they are smiling.
+
+You wouldn't believe how lazy they are!
+That's not entirely true. Bamboo is a very poor in energy, and as a result, pandas have to conserve all the energy they can in order to find more bamboo!
+
+Their <a href="http://www.flickr.com/photos/avlxyz/1483002937/">red panda</a> are quite fast and agile!
+
+Youtube video: <a href="http://youtube.com/watch?v=RwT-Lr_HaPw" rel="nofollow">Panda Eating - Panda Research Centre, Chengdu</a>
+
+
++--------+
+|  TAGS  |
++--------+
+china travel chengdu casio exilim z850 panda pandaresearchcentre 

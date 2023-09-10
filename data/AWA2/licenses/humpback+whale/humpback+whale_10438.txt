@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gripso_banana_prune
+Photo URL    : https://www.flickr.com/photos/antonystanley/3954153574/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 20 05:57:56 GMT+0200 2009
+Upload Date  : Fri Sep 25 22:01:42 GMT+0200 2009
+Geotag Info  : Latitude:-17.136197, Longitude:49.702148
+Views        : 708
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale, Île Sainte-Marie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+madagascar humpback whale baleen Megaptera novaeangliae "Megaptera novaeangliae" Île Sainte-Marie "Île Sainte-Marie" Isle Madagaskar 

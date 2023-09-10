@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amy.gizienski
+Photo URL    : https://www.flickr.com/photos/agizienski/3715127859/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 11 13:02:58 GMT+0200 2009
+Upload Date  : Mon Jul 13 07:05:19 GMT+0200 2009
+Views        : 539
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+albert!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese 

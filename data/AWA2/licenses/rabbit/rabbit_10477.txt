@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : orestART
+Photo URL    : https://www.flickr.com/photos/orestart/5836278260/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 12 19:44:16 GMT+0200 2011
+Upload Date  : Wed Jun 15 16:04:07 GMT+0200 2011
+Views        : 1,424
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Hare
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Hase Hare Rabbit Animal Wildlife Hamburg Germany Deutschland Olympus Zuiko Orest Shvadchak Orestart silviantrius NaturesFinest 

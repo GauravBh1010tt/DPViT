@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : caligula1995
+Photo URL    : https://www.flickr.com/photos/pussreboots/15867296079/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 18 15:31:57 GMT+0100 2014
+Upload Date  : Fri Dec 19 02:00:38 GMT+0100 2014
+Geotag Info  : Latitude:37.676486, Longitude:-122.062387
+Views        : 288
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+PC187380
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gray Fox
+
+
++--------+
+|  TAGS  |
++--------+
+"Sulphur Creek" 2014 "gray fox" 

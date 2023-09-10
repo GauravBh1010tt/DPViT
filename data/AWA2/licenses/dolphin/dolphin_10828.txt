@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cav...
+Photo URL    : https://www.flickr.com/photos/cavyi/3789141413/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 8 15:36:46 GMT+0200 2009
+Upload Date  : Tue Aug 4 21:50:51 GMT+0200 2009
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+singapore dolphin tricks water 

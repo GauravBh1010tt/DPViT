@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Bezaire
+Photo URL    : https://www.flickr.com/photos/dlbezaire/3788866913/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 30 14:51:45 GMT+0200 2009
+Upload Date  : Tue Aug 4 20:18:01 GMT+0200 2009
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale Tail 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Valdez Alaska "United States of America" 

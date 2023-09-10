@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sanchez jalapeno
+Photo URL    : https://www.flickr.com/photos/sanchezjalapeno/6188384250/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 27 11:54:14 GMT+0200 2011
+Upload Date  : Tue Sep 27 10:36:50 GMT+0200 2011
+Views        : 829
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chengdu Panda Breeding Centre
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+China
+Pandas
+
+
++--------+
+|  TAGS  |
++--------+
+China Pandas 

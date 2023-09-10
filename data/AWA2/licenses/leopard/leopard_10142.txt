@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mattu76
+Photo URL    : https://www.flickr.com/photos/mattu76/5266322017/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 2 11:19:39 GMT+0200 2009
+Upload Date  : Thu Dec 16 20:07:21 GMT+0100 2010
+Views        : 167
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCF0040
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+leopard zoo animals wildlife 

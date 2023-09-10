@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/2367417112/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 30 06:32:35 GMT+0100 2008
+Upload Date  : Thu Mar 27 22:14:55 GMT+0100 2008
+Geotag Info  : Latitude:-24.001453, Longitude:31.690012
+Views        : 784
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Shower
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kruger "Kruger National Park" "South Africa" "game reserve" lion lions 

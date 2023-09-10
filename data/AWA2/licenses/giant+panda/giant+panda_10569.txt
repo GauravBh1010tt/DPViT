@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gvgoebel
+Photo URL    : https://www.flickr.com/photos/37467370@N08/7603743732/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 19 07:54:29 GMT+0200 2012
+Upload Date  : Thu Jul 19 16:55:37 GMT+0200 2012
+Views        : 519
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ybpan_1b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+giant panda, San Diego Zoo, California / 2007
+
+
++--------+
+|  TAGS  |
++--------+
+animals mammals "giant panda" 

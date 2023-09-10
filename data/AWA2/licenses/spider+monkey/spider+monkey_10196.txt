@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kurayba
+Photo URL    : https://www.flickr.com/photos/kurt-b/4747558751/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 27 16:25:57 GMT+0200 2010
+Upload Date  : Wed Jun 30 06:35:11 GMT+0200 2010
+Geotag Info  : Latitude:53.511954, Longitude:-113.555899
+Views        : 130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hanging around.
+
+
++--------+
+|  TAGS  |
++--------+
+sigma 105 macro edmonton alberta canada storyland valley zoo captive spider monkey hanging around pentax k-7 "Sigma 105mm F2.8 EX DG" 

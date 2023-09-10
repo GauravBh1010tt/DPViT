@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ulrich Latzenhofer
+Photo URL    : https://www.flickr.com/photos/latzenhofer/3316588857/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 28 14:57:30 GMT+0100 2009
+Upload Date  : Sat Feb 28 22:17:11 GMT+0100 2009
+Geotag Info  : Latitude:48.181500, Longitude:16.305830
+Views        : 296
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Tiergarten Schönbrunn" Wien Österreich 

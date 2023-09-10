@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : omninate
+Photo URL    : https://www.flickr.com/photos/nate_kate/359678942/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 15 14:13:44 GMT+0100 2007
+Upload Date  : Tue Jan 16 19:53:27 GMT+0100 2007
+Geotag Info  : Latitude:38.929762, Longitude:-77.050724
+Views        : 200
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giant Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"national zoo" "dc zoo" zoo 

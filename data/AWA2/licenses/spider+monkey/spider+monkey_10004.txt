@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mr. Theklan
+Photo URL    : https://www.flickr.com/photos/theklan/4960823569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 19 11:42:23 GMT+0200 2010
+Upload Date  : Sun Sep 5 21:53:23 GMT+0200 2010
+Geotag Info  : Latitude:16.897693, Longitude:-90.975036
+Views        : 679
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+016 Ateles geoffroyi
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"ateles geoffroy" "mono araña" "spider monkey" yaxchilan mono monkey tximino berde orlegi verde green mexico chiapas 

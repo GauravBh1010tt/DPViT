@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flamesworddragon
+Photo URL    : https://www.flickr.com/photos/flamesworddragon/5710819330/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 28 14:48:47 GMT+0200 2011
+Upload Date  : Wed May 11 19:25:27 GMT+0200 2011
+Geotag Info  : Latitude:50.986855, Longitude:-1.288661
+Views        : 183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+snoozing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Marwell "Marwell Zoo" leopard 

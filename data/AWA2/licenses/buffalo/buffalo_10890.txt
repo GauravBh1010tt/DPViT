@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kurayba
+Photo URL    : https://www.flickr.com/photos/kurt-b/4641311054/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 17 17:20:28 GMT+0200 2010
+Upload Date  : Wed May 26 07:47:16 GMT+0200 2010
+Geotag Info  : Latitude:53.676781, Longitude:-112.831306
+Views        : 169
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+You lookin' at me?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The path clearly belongs to this bison, we'll just go around the long way. :)
+
+
++--------+
+|  TAGS  |
++--------+
+plains bison elk island national park path sigma 400 alberta canada sandy beach pentax k-7 f/5.6 APO Macro 

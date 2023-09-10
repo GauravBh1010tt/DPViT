@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcunnelly
+Photo URL    : https://www.flickr.com/photos/cunnelly/14383642597/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 3 21:10:27 GMT+0200 2014
+Upload Date  : Fri Jul 4 07:50:19 GMT+0200 2014
+Views        : 706
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Testing my new compact Canon EOS M.
+
+
++--------+
+|  TAGS  |
++--------+
+german shepherd gsd dog canon 600d 

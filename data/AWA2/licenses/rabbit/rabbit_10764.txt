@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gurdonark
+Photo URL    : https://www.flickr.com/photos/46183897@N00/7799355176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 16 08:12:43 GMT+0200 2012
+Upload Date  : Fri Aug 17 04:57:49 GMT+0200 2012
+Views        : 1,692
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rabbit by a driveway
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+OLYMPUS DIGITALandsford Drive Allen Texas August 16, 2012
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny "driveway allen texas landsford wildlife" 

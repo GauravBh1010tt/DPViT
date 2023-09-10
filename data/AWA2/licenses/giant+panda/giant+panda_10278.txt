@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gill_penney
+Photo URL    : https://www.flickr.com/photos/gillpenney/3423962326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 5 03:21:07 GMT+0200 2009
+Upload Date  : Wed Apr 8 14:14:42 GMT+0200 2009
+Views        : 1,204
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giant Panda, Chengdu, Sichuan april 2009  2256
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Giant Panda" Chengdu cubs bamboo China Chinese Sichuan 

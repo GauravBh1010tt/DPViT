@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : katedubya
+Photo URL    : https://www.flickr.com/photos/websterkate/3075679503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 1 00:00:00 GMT+0100 2004
+Upload Date  : Wed Nov 19 04:34:56 GMT+0100 2008
+Views        : 1,771
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bahamas Dolphin 

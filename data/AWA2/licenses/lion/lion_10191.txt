@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 24hrt
+Photo URL    : https://www.flickr.com/photos/traffichaze/6494951683/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 11 21:32:10 GMT+0100 2011
+Upload Date  : Sun Dec 11 22:32:10 GMT+0100 2011
+Geotag Info  : Latitude:51.194511, Longitude:-2.278110
+Views        : 423
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grazing Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+big cats longleat lion 

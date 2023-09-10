@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paslotte
+Photo URL    : https://www.flickr.com/photos/paslotte/16795533071/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 23 16:36:04 GMT+0100 2015
+Upload Date  : Thu Mar 12 21:28:41 GMT+0100 2015
+Geotag Info  : Latitude:-18.406654, Longitude:23.477783
+Views        : 1,104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lion_3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion 

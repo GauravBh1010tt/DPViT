@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ryn413
+Photo URL    : https://www.flickr.com/photos/ryn413/3952952164/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 10 14:42:59 GMT+0200 2009
+Upload Date  : Fri Sep 25 10:36:34 GMT+0200 2009
+Views        : 20,947
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dolphins
+
+
++--------+
+|  TAGS  |
++--------+
+Dolphins 

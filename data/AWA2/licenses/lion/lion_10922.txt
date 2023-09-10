@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sharon Mollerus
+Photo URL    : https://www.flickr.com/photos/clairity/4425060597/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 6 12:24:26 GMT+0100 2010
+Upload Date  : Thu Mar 11 22:33:08 GMT+0100 2010
+Views        : 268
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy King
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo lion qd10 

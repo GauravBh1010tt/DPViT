@@ -1,0 +1,13 @@
++--------------------------------------+
+|             Photo Metadata           |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MTSOfan
+Photo URL    : http://www.flickr.com/photos/8505707@N06/28350947913
+License      : Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic (https://creativecommons.org/licenses/by-nc-sa/2.0/)
+Date         : 11.08.2016

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sunnylapin
+Photo URL    : https://www.flickr.com/photos/sunnylapin/18863347638/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 22 11:08:21 GMT+0200 2015
+Upload Date  : Mon Jun 22 13:11:44 GMT+0200 2015
+Geotag Info  : Latitude:9.431683, Longitude:100.016559
+Views        : 130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Samui Aquarium and Tiger Zoo @Ko Samui, Thailand
+
+
++--------+
+|  TAGS  |
++--------+
+50mm siam pentax zoo leopard cage wild 

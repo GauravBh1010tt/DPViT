@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : outdoorPDK
+Photo URL    : https://www.flickr.com/photos/21202718@N00/7435394816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 10 03:46:21 GMT+0200 2012
+Upload Date  : Sun Jun 24 23:44:44 GMT+0200 2012
+Geotag Info  : Latitude:40.793018, Longitude:28.501281
+Views        : 379
+Comments     : 17
+
+
++---------+
+|  TITLE  |
++---------+
+Welcoming Excitement
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+As we neared Istanbul these dolphins raced along in the wake of the ship.
+
+
++--------+
+|  TAGS  |
++--------+
+Dolphins Istanbul "Sea Of Mamara" 

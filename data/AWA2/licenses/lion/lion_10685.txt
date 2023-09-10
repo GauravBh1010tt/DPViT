@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hermie Carino Photo Images
+Photo URL    : https://www.flickr.com/photos/hermiecarino/4400131010/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 15 15:09:18 GMT+0100 2010
+Upload Date  : Tue Mar 2 02:23:25 GMT+0100 2010
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion's  Thoughts
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

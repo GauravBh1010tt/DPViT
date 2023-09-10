@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ShutterPulp
+Photo URL    : https://www.flickr.com/photos/115267254@N07/12456893885/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 2 08:14:19 GMT+0200 2013
+Upload Date  : Tue Feb 11 14:15:18 GMT+0100 2014
+Views        : 15,889
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+panda cub
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+panda cub
+
+
++--------+
+|  TAGS  |
++--------+
+china chinese asia asian asien panda baby cub bamboo bambus animal cute 

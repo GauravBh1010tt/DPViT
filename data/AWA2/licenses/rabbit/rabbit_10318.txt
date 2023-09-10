@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SeeMidTN.com (aka Brent)
+Photo URL    : https://www.flickr.com/photos/brent_nashville/213833016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 12 16:34:50 GMT+0200 2006
+Upload Date  : Sun Aug 13 10:54:40 GMT+0200 2006
+Geotag Info  : Latitude:35.865013, Longitude:-86.828094
+Views        : 14,679
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Creepy Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Those rabbits with the red eyes have always looked creepy.  This one was at the 2006 Williamson County Fair
+
+
++--------+
+|  TAGS  |
++--------+
+"2006 Williamson County Fair" "county fair" "williamson county" tennessee rabbit bunny bmok bmok2 

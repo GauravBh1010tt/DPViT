@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bagsgroove
+Photo URL    : https://www.flickr.com/photos/bagsgroove/8608723250/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 21 16:10:46 GMT+0100 2013
+Upload Date  : Mon Apr 1 04:21:47 GMT+0200 2013
+Views        : 1,269
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Toby the Tobster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Toby resting elegantly
+
+
++--------+
+|  TAGS  |
++--------+
+bunny stare 

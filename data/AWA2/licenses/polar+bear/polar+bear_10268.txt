@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/9542470827/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 12 14:51:14 GMT+0200 2013
+Upload Date  : Mon Aug 19 08:22:22 GMT+0200 2013
+Geotag Info  : Latitude:80.811844, Longitude:21.217813
+Views        : 2,089
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Having a look...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A selection of images from a recent trip to Svalbard.
+<a href="http://www.flickr.com/photos/smudge9000/sets/72157634799866136/">See the full set here eventually...</a>
+
+
++--------+
+|  TAGS  |
++--------+
+2013 Arctic Bear Ice Pack Polar "Polar Bear" Summer Svalbard "Ursus maritimus" "Svalbard and Jan Mayen" 

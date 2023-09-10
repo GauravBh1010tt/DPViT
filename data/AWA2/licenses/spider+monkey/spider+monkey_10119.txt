@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Zarquil
+Photo URL    : https://www.flickr.com/photos/zarquil/6894735976/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 25 15:10:12 GMT+0200 2012
+Upload Date  : Tue Apr 3 05:22:05 GMT+0200 2012
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1060382
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spider monkey - I didn't get many shots of them.
+
+
++--------+
+|  TAGS  |
++--------+
+"Costa Rica" Tortuguero 

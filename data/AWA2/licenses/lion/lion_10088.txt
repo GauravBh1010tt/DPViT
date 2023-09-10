@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chapmankj75
+Photo URL    : https://www.flickr.com/photos/25553993@N02/4029962532/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 17 14:13:52 GMT+0200 2009
+Upload Date  : Tue Oct 20 21:05:05 GMT+0200 2009
+Views        : 147
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Asiatic lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chapmankj75 

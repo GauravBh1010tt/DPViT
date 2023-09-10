@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lee Edwin Coursey
+Photo URL    : https://www.flickr.com/photos/leeco/8370814058/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 14 18:55:42 GMT+0200 2011
+Upload Date  : Fri Jan 11 16:31:01 GMT+0100 2013
+Views        : 156
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone "National Park" 2011 travel animal wildlife American Bison 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Snake3yes
+Photo URL    : https://www.flickr.com/photos/snake3yes/229897308/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 17 15:47:17 GMT+0200 2006
+Upload Date  : Thu Aug 31 10:41:40 GMT+0200 2006
+Views        : 924
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Doesn't look pleased to see us!
+
+
++--------+
+|  TAGS  |
++--------+
+lion africa kenya "masai mara" wildlife 

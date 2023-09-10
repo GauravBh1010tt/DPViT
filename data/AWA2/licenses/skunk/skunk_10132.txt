@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gamppart
+Photo URL    : https://www.flickr.com/photos/gamppart/7391224830/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 17 19:46:42 GMT+0200 2012
+Upload Date  : Mon Jun 18 04:46:42 GMT+0200 2012
+Views        : 216
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Welcome?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+skunk animals wildlife garden 

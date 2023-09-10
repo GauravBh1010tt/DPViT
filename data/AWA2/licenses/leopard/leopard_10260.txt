@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gattou - Lucie Provencher
+Photo URL    : https://www.flickr.com/photos/gattou/3318432008/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 28 20:58:18 GMT+0100 2009
+Upload Date  : Sun Mar 1 05:58:18 GMT+0100 2009
+Views        : 2,014
+Comments     : 80
+
+
++---------+
+|  TITLE  |
++---------+
+Léopard des neiges  -  Snow leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+12 novembre 2005
+
+
++--------+
+|  TAGS  |
++--------+
+ALittleBeauty Pot-of-Gold LMAOAnimalPhotoAward VosPlusBellesPhotos SpecAnimal 

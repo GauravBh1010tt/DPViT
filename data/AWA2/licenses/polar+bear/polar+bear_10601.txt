@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eileenmak
+Photo URL    : https://www.flickr.com/photos/eileenmak/5605180006/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 9 15:49:14 GMT+0200 2011
+Upload Date  : Sun Apr 10 05:59:45 GMT+0200 2011
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

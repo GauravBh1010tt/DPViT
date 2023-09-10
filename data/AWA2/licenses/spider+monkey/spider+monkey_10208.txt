@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : barry.pousman
+Photo URL    : https://www.flickr.com/photos/castle_life/5781727739/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 24 10:04:58 GMT+0200 2011
+Upload Date  : Tue May 31 18:52:46 GMT+0200 2011
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

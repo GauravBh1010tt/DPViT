@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SSipple
+Photo URL    : https://www.flickr.com/photos/ssipple/12005952536/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 11 21:34:34 GMT+0100 2014
+Upload Date  : Sat Jan 18 04:16:58 GMT+0100 2014
+Views        : 760
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SAS_6763
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"National Zoo" Animals Panda "Panda Cub" "Bao Bao" 

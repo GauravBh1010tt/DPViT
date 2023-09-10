@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : muddyclay
+Photo URL    : https://www.flickr.com/photos/billhunt/3502186410/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 26 07:06:14 GMT+0100 2009
+Upload Date  : Mon May 4 21:59:29 GMT+0200 2009
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lion1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lions 

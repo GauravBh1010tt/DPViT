@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Spiterman
+Photo URL    : https://www.flickr.com/photos/12195219@N02/1535531257/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 7 12:30:28 GMT+0200 2007
+Upload Date  : Wed Oct 10 23:00:55 GMT+0200 2007
+Geotag Info  : Latitude:48.790015, Longitude:6.919498
+Views        : 753
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Les loups...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+spiterman loup loups animaux parc st-croix sainte-croix animalier wolf lupo lobo kodak z740 bridge 

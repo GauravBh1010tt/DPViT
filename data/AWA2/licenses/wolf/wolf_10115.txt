@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : deischi
+Photo URL    : https://www.flickr.com/photos/deischi/12367817374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 22 13:20:21 GMT+0100 2013
+Upload Date  : Fri Feb 7 18:43:10 GMT+0100 2014
+Views        : 1,434
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC02086.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Altenfelden Wildpark Wolf 

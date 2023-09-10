@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Justin Otto
+Photo URL    : https://www.flickr.com/photos/8604504@N03/5544573246/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 19 15:52:14 GMT+0100 2011
+Upload Date  : Sun Mar 20 22:40:34 GMT+0100 2011
+Views        : 1,856
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Dalmatians Playing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I'm sure they're best of friends, really.
+
+
++--------+
+|  TAGS  |
++--------+
+Swanage Beach Dalmatian Playing 

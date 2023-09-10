@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a m lewis
+Photo URL    : https://www.flickr.com/photos/a-m-lewis/4962088340/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 4 11:37:09 GMT+0200 2010
+Upload Date  : Mon Sep 6 01:34:17 GMT+0200 2010
+Geotag Info  : Latitude:38.929018, Longitude:-77.050595
+Views        : 4,084
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "national zoo" "washington dc" animals lion 

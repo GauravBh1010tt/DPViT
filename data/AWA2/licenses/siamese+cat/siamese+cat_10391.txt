@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : iamcootis
+Photo URL    : https://www.flickr.com/photos/camronzeke/2877292339/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 21 10:09:15 GMT+0200 2008
+Upload Date  : Mon Sep 22 05:35:56 GMT+0200 2008
+Views        : 571
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Q-Bert
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese fat 

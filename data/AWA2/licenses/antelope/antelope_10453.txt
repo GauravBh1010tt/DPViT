@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chriest
+Photo URL    : https://www.flickr.com/photos/christophlorse/18210613299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 24 11:33:33 GMT+0200 2015
+Upload Date  : Tue Jun 2 23:35:10 GMT+0200 2015
+Geotag Info  : Latitude:51.471787, Longitude:7.469383
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hirschziegenantilope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Antilope cervicapra
+
+
++--------+
+|  TAGS  |
++--------+
+"Zoo Dortmund" Hirschziegenantilope "Antilope cervicapra" 

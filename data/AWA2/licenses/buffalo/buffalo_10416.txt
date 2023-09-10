@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : St_Ernie
+Photo URL    : https://www.flickr.com/photos/randlatte/7348814420/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 7 14:28:36 GMT+0200 2012
+Upload Date  : Thu Jun 7 19:10:11 GMT+0200 2012
+Geotag Info  : Latitude:52.428166, Longitude:7.090166
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bison Nordhorn 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J.J. Maughn
+Photo URL    : https://www.flickr.com/photos/jjmaughn/16995389022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 31 10:29:44 GMT+0200 2015
+Upload Date  : Wed Apr 1 07:41:26 GMT+0200 2015
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Long-beaked Common Dolphins, Delphinus capensis
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Monterey Co. CA
+3/31/2015
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

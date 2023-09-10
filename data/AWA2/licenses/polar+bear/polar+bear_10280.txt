@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher.Michel
+Photo URL    : https://www.flickr.com/photos/cmichel67/22746138876/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 5 22:18:33 GMT+0200 2015
+Upload Date  : Wed Nov 4 08:11:07 GMT+0100 2015
+Geotag Info  : Latitude:80.244630, Longitude:58.535563
+Views        : 4,365
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+I'm Not A Bad Looking Bear After All
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A polar bear stops to drink near the north pole.
+
+
++--------+
+|  TAGS  |
++--------+
+polar bear 

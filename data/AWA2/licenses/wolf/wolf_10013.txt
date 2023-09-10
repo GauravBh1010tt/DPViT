@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/6974340443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 4 14:25:35 GMT+0100 2012
+Upload Date  : Mon Mar 12 01:04:11 GMT+0100 2012
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 7,651
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Crooked wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I like the position and allure of this wolf, even if the whole body isn't on the picture...
+
+
++--------+
+|  TAGS  |
++--------+
+crooked position strange nice winter snow cold wolf dog mongolian brown canid canine zürich zoo switzerland nikon d700 

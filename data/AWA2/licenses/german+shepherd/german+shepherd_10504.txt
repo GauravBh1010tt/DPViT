@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Elsa Blaine
+Photo URL    : https://www.flickr.com/photos/elsablaine/9338878608/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 21 00:55:44 GMT+0200 2013
+Upload Date  : Sun Jul 21 23:39:33 GMT+0200 2013
+Views        : 486
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2107
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+USPCA Police Dog Challenge Cambridge, Ontario. July 2013
+
+
++--------+
+|  TAGS  |
++--------+
+police dog k9 USPCA german shepherd 

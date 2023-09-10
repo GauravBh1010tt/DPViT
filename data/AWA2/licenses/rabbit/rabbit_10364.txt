@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheBosque
+Photo URL    : https://www.flickr.com/photos/thebosque/6070633477/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 15 15:28:36 GMT+0200 2011
+Upload Date  : Mon Aug 22 23:48:57 GMT+0200 2011
+Views        : 302
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0138
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbits bunnies animals cute "Raising rabbits and chickens" "Raising chickens and rabbits" "virtual bosque" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheGiantSheep
+Photo URL    : https://www.flickr.com/photos/confounding/7069104825/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 12 00:06:56 GMT+0200 2012
+Upload Date  : Thu Apr 12 01:06:56 GMT+0200 2012
+Views        : 375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0053
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+edinburgh zoo panda yang guang animal 

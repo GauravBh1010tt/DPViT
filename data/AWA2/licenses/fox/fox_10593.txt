@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Phil Sellens
+Photo URL    : https://www.flickr.com/photos/phil_sellens/4843480393/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 28 10:04:23 GMT+0200 2010
+Upload Date  : Fri Jul 30 18:12:53 GMT+0200 2010
+Views        : 1,001
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Summerfields Fox (1)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Summerfields Wood, Hastings.
+
+
++--------+
+|  TAGS  |
++--------+
+Reynard "vulpes vulpes" fox "Summerfields wood hastings" Hastings Mammals "British mammals" 

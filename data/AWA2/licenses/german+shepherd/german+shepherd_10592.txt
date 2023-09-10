@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/14259509524/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 21 18:08:43 GMT+0200 2014
+Upload Date  : Sat May 24 21:15:58 GMT+0200 2014
+Views        : 946
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lauern
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mai 2014
+Canon EOS 60D
+EF 85mm f/1.8 USM
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hunde dogs dog puppies puppy welpe welpen deutscher schäferhund german shepherd ddr linie line 

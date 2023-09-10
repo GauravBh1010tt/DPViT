@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/2698768867/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 19 15:49:54 GMT+0200 2008
+Upload Date  : Thu Jul 24 22:05:44 GMT+0200 2008
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 60,114
+Comments     : 184
+
+
++---------+
+|  TITLE  |
++---------+
+Cute arctic wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I like this picture, it shows how cute an arctic wolf can be! :)
+
+
++--------+
+|  TAGS  |
++--------+
+staring looking eyes beautiful arctic white wolf canis lupus canine dog doggy wuff cute snow tongue "open mouth" zoo amnéville france nikon d300 portrait head face close closeup canadian APlusPhoto VosPlusBellesPhotos DigitalCameraClub 

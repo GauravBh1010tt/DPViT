@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kwadephotos
+Photo URL    : https://www.flickr.com/photos/kwphotos/386942494/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 3 16:20:21 GMT+0100 2007
+Upload Date  : Sun Feb 11 20:30:22 GMT+0100 2007
+Views        : 124
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+m1_5x5w
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+from COD Digital Photo class first shoot
+
+
++--------+
+|  TAGS  |
++--------+
+siamese cat d50 nikon "nikon d50" 

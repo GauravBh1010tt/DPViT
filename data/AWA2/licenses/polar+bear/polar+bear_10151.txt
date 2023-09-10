@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Herkie
+Photo URL    : https://www.flickr.com/photos/dherholz/166922511/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 12 11:59:55 GMT+0200 2006
+Upload Date  : Wed Jun 14 07:18:39 GMT+0200 2006
+Geotag Info  : Latitude:38.638059, Longitude:-90.293884
+Views        : 403
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Day at the Zoo 108
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Anybody got a towel?&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+"St. Louis" Zoo "polar bear" 

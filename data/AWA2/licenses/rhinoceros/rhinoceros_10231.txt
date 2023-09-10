@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : probabilistic
+Photo URL    : https://www.flickr.com/photos/probabilistic/7483865342/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 1 16:33:32 GMT+0200 2012
+Upload Date  : Mon Jul 2 04:29:39 GMT+0200 2012
+Geotag Info  : Latitude:43.818179, Longitude:-79.180655
+Views        : 63
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4399
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Toronto Zoo" "indian rhinoceros" 

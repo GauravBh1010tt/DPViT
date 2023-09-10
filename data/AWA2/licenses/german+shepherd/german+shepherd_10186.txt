@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sidewalk flying
+Photo URL    : https://www.flickr.com/photos/sidewalk_flying/443114920/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 1 16:20:54 GMT+0200 2007
+Upload Date  : Mon Apr 2 06:32:29 GMT+0200 2007
+Views        : 479
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Magan took this. Shambles didn't do anything. He just sat there. He's  also late on the rent.
+
+
++--------+
+|  TAGS  |
++--------+
+dog shambles sleeping "sleeping dog" "nice light" beagle "german shepherd" 

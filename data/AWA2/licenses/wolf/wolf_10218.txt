@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rowens27
+Photo URL    : https://www.flickr.com/photos/rowens27/25897335962/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 19 16:11:34 GMT+0100 2016
+Upload Date  : Thu Mar 24 02:45:47 GMT+0100 2016
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6606.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2016 60D Canon "Lakota Wolf Preserve" March "New Jersey" Photografriends animal outdoors wolf wolves 

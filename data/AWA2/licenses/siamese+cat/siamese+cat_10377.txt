@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eirik Newth
+Photo URL    : https://www.flickr.com/photos/eiriknewth/555699571/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 15 17:48:28 GMT+0200 2007
+Upload Date  : Sat Jun 16 09:38:05 GMT+0200 2007
+Views        : 489
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Not twins, but definitely siamese
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cats e61i 

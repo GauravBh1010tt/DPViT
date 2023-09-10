@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mr.TinDC
+Photo URL    : https://www.flickr.com/photos/mr_t_in_dc/5454505141/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 13 00:07:47 GMT+0100 2011
+Upload Date  : Fri Feb 18 03:05:57 GMT+0100 2011
+Geotag Info  : Latitude:38.928550, Longitude:-77.046175
+Views        : 2,882
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Male Lion Resting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Male African Lion (Panthera leo) in the National Zoo in Washington, DC.
+
+
++--------+
+|  TAGS  |
++--------+
+washingtondc zoo nationalzoo nationalzoologicalpark Smithsonianzoologicalpark animals wildlife lion lions Africanlions Africanlion PantheraLeo 

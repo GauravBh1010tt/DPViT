@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BelMikey
+Photo URL    : https://www.flickr.com/photos/belmikey/6109973160/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 3 13:33:44 GMT+0200 2011
+Upload Date  : Sat Sep 3 20:56:06 GMT+0200 2011
+Geotag Info  : Latitude:44.866073, Longitude:-93.252937
+Views        : 268
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Meet Harry
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Recently, the same lady from whom we adopted the now-departed Mercutio and Tybalt posted another cat -- a chocolate point Siamese she'd named Harry. Unlike M and T, he's not a feral, but a domestic cat who apparently got out and got lost. At any rate, he's now settled in the office, denning under my desk :-)
+
+Better picture later.
+
+
++--------+
+|  TAGS  |
++--------+
+cats harry 

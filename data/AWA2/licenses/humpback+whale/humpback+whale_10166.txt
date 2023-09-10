@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gregory "Slobirdr" Smith
+Photo URL    : https://www.flickr.com/photos/slobirdr/9664086612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 12 16:25:09 GMT+0200 2013
+Upload Date  : Tue Sep 3 13:21:10 GMT+0200 2013
+Views        : 17,315
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale (Megaptera novaeangliae) - Kenai Fjords NP Alaska
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I include this tail shot of a humpback and post it to the   group.  There always seems to be someone watching that page that is able to put an identification on the animal (the undertail pattern is as unique to the whale as our fingerprints are to us).  For Howard, Mike and others who were out photographing the whales last month, this might help identify the individuals and where they winter/summer.
+
+
++--------+
+|  TAGS  |
++--------+
+"Humpback Whale (Megaptera novaeangliae)" whale "Kenai Fjords National Park" 

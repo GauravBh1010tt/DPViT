@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rocky Mountain Feline Rescue
+Photo URL    : https://www.flickr.com/photos/arascats/811493649/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 15:40:11 GMT+0200 2007
+Upload Date  : Sat Jul 14 23:59:22 GMT+0200 2007
+Views        : 590
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Saki
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Petite and timid, FeLV positive
+<a href="http://arascolorado.tripod.com" rel="nofollow">Animal Rescue and Adoption Society</a>
+
+
++--------+
+|  TAGS  |
++--------+
+adptus "animal rescue and adoption society" Saki petite siamese cat "short haired cat" "FeLV positive" nokill "cat shelter" "denver, colorado" "non profit" "private shelter" "cats and kittens" "Purrs & Paws of A.R.A.S." "rescud cats" rescue "Animal Rescue and Adopotion Society" 80223 "Save the Meow Meows" "Rocky Mountain Feline Rescue" 

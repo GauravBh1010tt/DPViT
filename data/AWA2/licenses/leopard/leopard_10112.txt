@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/3436811454/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 12 10:45:59 GMT+0200 2009
+Upload Date  : Mon Apr 13 04:06:56 GMT+0200 2009
+Geotag Info  : Latitude:32.736885, Longitude:-117.148933
+Views        : 230
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Close Head 1801
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The appeal of domestic cats is the lion in your lap, right?
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" zoo snow leopard 

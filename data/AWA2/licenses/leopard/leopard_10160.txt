@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/5309317951/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 31 10:30:40 GMT+0100 2010
+Upload Date  : Fri Dec 31 16:30:40 GMT+0100 2010
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Houston Zoo 2010 #10
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The first of 2 sets from our trip to the Houston Zoo for the research project
+
+
++--------+
+|  TAGS  |
++--------+
+"houston zoo" houston texas zoo "paul's pic 2011" animals exotic leopard 

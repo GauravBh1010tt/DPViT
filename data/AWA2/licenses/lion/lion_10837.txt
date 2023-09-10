@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mpaskevi
+Photo URL    : https://www.flickr.com/photos/95447766@N00/4732327409/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 1 00:00:00 GMT+0200 2008
+Upload Date  : Fri Jun 25 13:53:04 GMT+0200 2010
+Geotag Info  : Latitude:-22.649502, Longitude:16.940917
+Views        : 1,291
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Male Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Big Cat Experience at Amani Lodge
+
+
++--------+
+|  TAGS  |
++--------+
+namibia "male lion" lion "amani lodge" bluelightdistrict.org 

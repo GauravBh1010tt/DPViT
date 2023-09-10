@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ericderedelijkheid
+Photo URL    : https://www.flickr.com/photos/58438371@N02/6031978617/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 11 13:44:15 GMT+0200 2011
+Upload Date  : Thu Aug 11 16:39:22 GMT+0200 2011
+Geotag Info  : Latitude:52.150344, Longitude:5.344297
+Views        : 123
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Neushoorn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Neushoorn Rhinoceros 

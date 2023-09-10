@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HBarrison
+Photo URL    : https://www.flickr.com/photos/hbarrison/7500931558/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 30 09:13:33 GMT+0200 2012
+Upload Date  : Wed Jul 4 15:30:08 GMT+0200 2012
+Geotag Info  : Latitude:-3.064638, Longitude:35.721130
+Views        : 619
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ngorongoro_2012 05 30_2402
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Grant's gazelle (Nanger granti) is a species of gazelle. Its populations are distributed from northern Tanzania to southern Sudan and Ethiopia, and from the Kenyan coast to Lake Victoria.
+
+
++--------+
+|  TAGS  |
++--------+
+Africa HBarrison "Harvey Barrison" Tauck Ngorongoro "Ngorongoro Crater" "Ngorongoro Caldera" gazelle "Grant's gazelle" "Taxonomy:binomial=Nanger granti" 

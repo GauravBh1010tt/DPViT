@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Avi-Singh
+Photo URL    : https://www.flickr.com/photos/avinabsingh/5826916240/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 29 17:04:32 GMT+0200 2011
+Upload Date  : Mon Jun 13 03:15:34 GMT+0200 2011
+Views        : 565
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Curious Dolphin :)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is by far my best pic. This curious dolphin was attracted to the camera flashes of the couple standing beside me and I got lucky.. It stood there for a while looking at me with its beady eyes before getting bored when no one flashed anymore..
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

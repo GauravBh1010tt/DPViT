@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lilachd
+Photo URL    : https://www.flickr.com/photos/lilachdan/3847951579/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 23 12:56:06 GMT+0200 2009
+Upload Date  : Sun Aug 23 16:14:27 GMT+0200 2009
+Views        : 244
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gazella gazella
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo saffari animals Ramat Gan Israel lilachdan 

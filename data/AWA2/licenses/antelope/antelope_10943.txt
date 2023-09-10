@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fotopamas
+Photo URL    : https://www.flickr.com/photos/pamas/20333230628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 16 16:55:11 GMT+0200 2015
+Upload Date  : Wed Aug 12 21:56:20 GMT+0200 2015
+Views        : 573
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Thomson's Gazelle ♂ / Lake Nakuru  National Park / Kenya
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Thomson's Gazelle" "Lake Nakuru" Nakuru Kenya Safari 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : y_uno
+Photo URL    : https://www.flickr.com/photos/y_uno/6424433817/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 29 14:04:57 GMT+0100 2011
+Upload Date  : Tue Nov 29 13:01:12 GMT+0100 2011
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9732
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

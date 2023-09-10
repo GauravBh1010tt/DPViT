@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dr. Warner
+Photo URL    : https://www.flickr.com/photos/rwwmd/2241605178/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 00:00:41 GMT+0100 1980
+Upload Date  : Mon Feb 4 08:59:10 GMT+0100 2008
+Views        : 389
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3726
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal african safari lion 

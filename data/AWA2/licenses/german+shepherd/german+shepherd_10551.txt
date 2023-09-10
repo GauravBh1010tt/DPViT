@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : M. Bertulat
+Photo URL    : https://www.flickr.com/photos/berti66/3502206602/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 4 20:48:34 GMT+0200 2009
+Upload Date  : Mon May 4 22:06:24 GMT+0200 2009
+Views        : 262
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Kessy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Unser Hund Kessy
+
+
++--------+
+|  TAGS  |
++--------+
+Hund Schäferhund dog animals "german shepherd" "german shepherd dog" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/13955510450/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 25 17:00:20 GMT+0100 2014
+Upload Date  : Fri May 9 06:00:04 GMT+0200 2014
+Geotag Info  : Latitude:47.547509, Longitude:7.578211
+Views        : 25,502
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Cute spider monkey baby and rope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Again, the cute spider monkey baby biting a rope!
+
+
++--------+
+|  TAGS  |
++--------+
+monkey "spider monkey" young baby primate ape cute biting rope fun playing zoo basel zolli switzerland nikon d4 

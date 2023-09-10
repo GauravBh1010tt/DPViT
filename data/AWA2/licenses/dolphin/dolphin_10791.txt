@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lhirlimann
+Photo URL    : https://www.flickr.com/photos/hirlimann/27735378731/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 31 18:25:14 GMT+0100 2011
+Upload Date  : Tue Jun 21 09:16:56 GMT+0200 2016
+Geotag Info  : Latitude:21.885641, Longitude:-159.514520
+Views        : 998
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Spinning dolphin jumping out of the water
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+That day a wahle jumped, way too close from the boat I was in , and I missed the shot, only being equipped with long lenses.
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EF 70-200mm f/2.8L IS USM" "Canon EOS 5D Mark II" Kauai hawaii lightroom:cropped=true lightroom:vibrance=+64 "océan pacifique" "pacific ocean" usa Kauaʻi geotagged 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wsimmons
+Photo URL    : https://www.flickr.com/photos/wsimmons/3736692038/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 19 14:51:30 GMT+0200 2009
+Upload Date  : Sun Jul 19 23:07:40 GMT+0200 2009
+Geotag Info  : Latitude:40.137251, Longitude:-105.148000
+Views        : 26,045
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Bunny in the Fence
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Found a baby bunny hiding in our fence.
+
+
++--------+
+|  TAGS  |
++--------+
+baby bunny fence 

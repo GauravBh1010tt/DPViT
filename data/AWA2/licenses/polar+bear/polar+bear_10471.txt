@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edenpictures
+Photo URL    : https://www.flickr.com/photos/edenpictures/5457409844/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 18 15:58:14 GMT+0100 2011
+Upload Date  : Sat Feb 19 01:37:38 GMT+0100 2011
+Geotag Info  : Latitude:40.849124, Longitude:-73.877403
+Views        : 3,917
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear I
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the Bronx Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+"Bronx Zoo" snow "polar bear" bear Picnik 

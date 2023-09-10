@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JavierPsilocybin
+Photo URL    : https://www.flickr.com/photos/santoposmoderno/8379086682/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 13 16:08:18 GMT+0100 2013
+Upload Date  : Mon Jan 14 03:01:47 GMT+0100 2013
+Geotag Info  : Latitude:-33.430300, Longitude:-70.634014
+Views        : 835
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mono araña
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tirándote un besito
+
+
++--------+
+|  TAGS  |
++--------+
+animal fauna zoo zoologico "Zoológico Nacional de Chile" "Parque Metropolitano de Santiago" "Región Metropolitana" Santiago mono simio ape monkey "Ateles paniscus" 

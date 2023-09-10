@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : noodlet
+Photo URL    : https://www.flickr.com/photos/noodlet/17308911889/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 10 13:35:43 GMT+0200 2015
+Upload Date  : Sun May 10 19:29:46 GMT+0200 2015
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

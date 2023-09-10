@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/241883824/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 9 07:58:55 GMT+0200 2006
+Upload Date  : Wed Sep 13 00:24:58 GMT+0200 2006
+Views        : 1,004
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Lake Buchanan" dog wolf pet animal 

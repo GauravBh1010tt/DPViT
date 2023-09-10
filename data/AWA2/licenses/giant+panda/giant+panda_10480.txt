@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Will Clayton
+Photo URL    : https://www.flickr.com/photos/spool32/4541522200/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 2 09:34:57 GMT+0200 2009
+Upload Date  : Wed Apr 21 21:11:52 GMT+0200 2010
+Views        : 382
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1020989
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Giant panda being active...
+
+
++--------+
+|  TAGS  |
++--------+
+panda "da xiong mao" chengdu china 2009 

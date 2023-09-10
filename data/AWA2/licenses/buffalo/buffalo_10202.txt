@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : M Hedin
+Photo URL    : https://www.flickr.com/photos/23660854@N07/19433351938/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 3 02:40:25 GMT+0200 2015
+Upload Date  : Sun Jul 12 06:07:49 GMT+0200 2015
+Geotag Info  : Latitude:43.810011, Longitude:-110.526580
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison herd, Grand Teton NP
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Grand Teton National Park" wyoming buffalo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rexness
+Photo URL    : https://www.flickr.com/photos/rexness/4391757654/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 26 22:39:26 GMT+0100 2010
+Upload Date  : Sat Feb 27 07:39:26 GMT+0100 2010
+Geotag Info  : Latitude:-37.924328, Longitude:144.664213
+Views        : 303
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion looks longingly
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Unfortunately for this guy, there is a large moat between him and the object of his desire!
+
+
++--------+
+|  TAGS  |
++--------+
+Werribee "Werribee Open Range Zoo" "African Animals" Animals "Big Cats" Predators 

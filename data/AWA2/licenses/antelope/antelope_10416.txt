@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hktang
+Photo URL    : https://www.flickr.com/photos/hktang/4032912594/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 19 10:18:26 GMT+0200 2009
+Upload Date  : Wed Oct 21 21:10:18 GMT+0200 2009
+Geotag Info  : Latitude:-2.644019, Longitude:37.235412
+Views        : 458
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gazelles @ Amboseli
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polygamy eh?
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yoppy
+Photo URL    : https://www.flickr.com/photos/spilt-milk/2810996520/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 26 13:41:33 GMT+0200 2008
+Upload Date  : Sat Aug 30 13:02:07 GMT+0200 2008
+Geotag Info  : Latitude:33.666166, Longitude:135.372516
+Views        : 1,411
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+P1070252
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Adventure World" 白浜 zoo panda アドベンチャーワールド 

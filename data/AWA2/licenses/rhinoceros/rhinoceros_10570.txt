@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/7694113590/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 14:12:06 GMT+0200 2012
+Upload Date  : Thu Aug 2 02:25:32 GMT+0200 2012
+Geotag Info  : Latitude:33.096143, Longitude:-116.999673
+Views        : 370
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern White Rhinoceros (Ceratotherium simum) taking a mud bath
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The white rhinoceros or square-lipped rhinoceros (Ceratotherium simum) is one of the five species of rhinoceros that still exist. It has a wide mouth used for grazing and is the most social of all rhino species. The southern white rhino has an estimated 17,460 wild-living animals at the end of 2007. 
+
+Photographed at the San Diego Zoo Safari Park in Escondido, CA
+
+
++--------+
+|  TAGS  |
++--------+
+rhino rhinoceros ungulate Africa animal mammal white "ceratotherium simum" square-lipped Endangered 

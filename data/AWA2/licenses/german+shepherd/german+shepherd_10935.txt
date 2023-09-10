@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tokyo Butterfly
+Photo URL    : https://www.flickr.com/photos/23222713@N02/4349616816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 11 19:51:10 GMT+0100 2010
+Upload Date  : Thu Feb 11 20:51:10 GMT+0100 2010
+Views        : 169
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A shot of my Alsatian enjoying the snow at Haigh Hall on December 23rd 2009.
+ Sadly, he died on the 14th July 2010.
+
+
++--------+
+|  TAGS  |
++--------+
+Alsatian German Shepherd Aspull 

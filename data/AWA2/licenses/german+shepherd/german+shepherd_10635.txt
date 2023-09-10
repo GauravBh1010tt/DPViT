@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lucas Brigido
+Photo URL    : https://www.flickr.com/photos/lucasbrigido/4595896371/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 8 13:24:27 GMT+0200 2010
+Upload Date  : Mon May 10 21:42:28 GMT+0200 2010
+Geotag Info  : Latitude:-19.843268, Longitude:-44.149428
+Views        : 525
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Meu Cachorro / My Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cachorro Dog "Pastor Alemão" "German Shepherd Dog" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rootskontrolla
+Photo URL    : https://www.flickr.com/photos/rootskontrolla/148306624/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 17 11:58:08 GMT+0200 2006
+Upload Date  : Wed May 17 20:58:08 GMT+0200 2006
+Views        : 2,152
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+my cats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+from left to right: Africa, Lucy and Homer
+
+
++--------+
+|  TAGS  |
++--------+
+cats 

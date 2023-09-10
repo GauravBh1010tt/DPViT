@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Szecska
+Photo URL    : https://www.flickr.com/photos/szecska/8984921745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 21 14:53:40 GMT+0200 2012
+Upload Date  : Sat Jun 8 13:09:29 GMT+0200 2013
+Views        : 158
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Atlantic spotted dolphin pod swimming near the Azores, Atlantic Ocean
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Atlantic spotted dolphin pod swimming near the Azores, Atlantic Ocean
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

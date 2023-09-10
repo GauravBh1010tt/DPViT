@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : -JvL-
+Photo URL    : https://www.flickr.com/photos/-jvl-/15321807061/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 21 14:21:57 GMT+0200 2014
+Upload Date  : Mon Sep 22 22:59:39 GMT+0200 2014
+Geotag Info  : Latitude:51.520813, Longitude:5.111733
+Views        : 6,853
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A lion sunbathing on the roof of a car in Safari Park Beekse Bergen
+
+
++--------+
+|  TAGS  |
++--------+
+"Beekse Bergen" Leeuw Lion "Safari Park" Hilvarenbeek Noord-Brabant Nederland 

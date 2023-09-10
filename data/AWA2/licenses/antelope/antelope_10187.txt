@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flöschen
+Photo URL    : https://www.flickr.com/photos/floeschen/5445025444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 3 09:50:01 GMT+0100 2011
+Upload Date  : Mon Feb 14 12:56:12 GMT+0100 2011
+Geotag Info  : Latitude:-0.663530, Longitude:29.656906
+Views        : 213
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Antilopes Near Ishasha
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Queen Elizabeth National Park" QENP uganda:nationalpark=qenp savannah gras 16:9 Africa Afrika Uganda Himmel 

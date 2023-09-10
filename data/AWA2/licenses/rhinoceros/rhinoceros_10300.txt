@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ThomasKohler
+Photo URL    : https://www.flickr.com/photos/mecklenburg/5390851311/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 19 12:43:17 GMT+0100 2011
+Upload Date  : Wed Jan 26 23:03:26 GMT+0100 2011
+Geotag Info  : Latitude:53.606206, Longitude:11.440930
+Views        : 1,507
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nashorn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Schwerin
+
+
++--------+
+|  TAGS  |
++--------+
+zoo tiergarten tierpark schwerin sn zoologisch zoologischer garten rhino rhinos Nashorn rhinoceros rhinoceroses Rhinozeros tier animal wild afrika dick big horn africa 

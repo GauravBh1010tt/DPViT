@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jmck
+Photo URL    : https://www.flickr.com/photos/jmck/2735490086/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 5 08:32:29 GMT+0200 2008
+Upload Date  : Tue Aug 5 14:32:29 GMT+0200 2008
+Views        : 244
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+2008-capecod-whalewatch-02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback whale.
+
+
++--------+
+|  TAGS  |
++--------+
+whale 

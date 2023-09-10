@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : minbuck
+Photo URL    : https://www.flickr.com/photos/minbuck/5807848257/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 4 18:51:09 GMT+0200 2008
+Upload Date  : Tue Jun 7 15:32:01 GMT+0200 2011
+Views        : 405
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lil stinker
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"samsung digimaxL50" nature skunk 

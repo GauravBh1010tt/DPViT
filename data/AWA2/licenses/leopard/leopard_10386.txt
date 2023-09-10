@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mitchell Fitzsimmons
+Photo URL    : https://www.flickr.com/photos/78959201@N07/10829578893/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 4 21:06:53 GMT+0200 2013
+Upload Date  : Wed Nov 13 02:28:26 GMT+0100 2013
+Geotag Info  : Latitude:-3.316018, Longitude:35.288085
+Views        : 4,148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Leopard in a tree. Africa 2013. © Mitchell Fitzsimmons 2013
+
+
++--------+
+|  TAGS  |
++--------+
+Africa leopard 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marc.M
+Photo URL    : https://www.flickr.com/photos/shinra34/15583052658/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 11 16:37:00 GMT+0100 2014
+Upload Date  : Tue Nov 11 23:34:45 GMT+0100 2014
+Geotag Info  : Latitude:43.642783, Longitude:3.878517
+Views        : 639
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Prise au zoo du Lunaret à Montpellier, Il était un peu tout seul dans son coin, alors que ses congénères couraient à ses cotés. J'ai plus vu le cousin du chien que l'animal sauvage de meute, un peu triste...
+
+Prise avec un tokina 200mm argentique (full manuel), à travers une vitre, d'ou l'impression de surimpression!
+
+
++--------+
+|  TAGS  |
++--------+
+SHINRA34 Shinra Marc Meynadier MONTPELLIER zoo languedoc lunaret louo loup tokina 200mm nikon D90 seul surimpression 

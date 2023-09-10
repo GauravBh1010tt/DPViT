@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gvgoebel
+Photo URL    : https://www.flickr.com/photos/37467370@N08/19631991272/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 11 14:45:25 GMT+0200 2015
+Upload Date  : Sun Jul 12 20:39:41 GMT+0200 2015
+Views        : 306
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ybsno_1b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+snow leopard, Tathaus Park Zoo, Idaho Falls, Idaho / 2015
+
+
++--------+
+|  TAGS  |
++--------+
+animals felines "snow leopard" 

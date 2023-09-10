@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew Hayward
+Photo URL    : https://www.flickr.com/photos/ahayward/179866369/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 21 19:48:09 GMT+0200 2006
+Upload Date  : Sun Jul 2 18:23:35 GMT+0200 2006
+Views        : 320
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the Bronx Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+NYC "Bronx Zoo" 

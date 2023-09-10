@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : golbenge (골뱅이)
+Photo URL    : https://www.flickr.com/photos/golbenge/4909681887/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 15 15:51:55 GMT+0200 2010
+Upload Date  : Fri Aug 20 14:09:29 GMT+0200 2010
+Geotag Info  : Latitude:37.493386, Longitude:126.922980
+Views        : 8,569
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherd Dog (독일 양몰이개)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal "Boramae Park" Dog "German Shepherd Dog" "SAL 1680Z" "SONY a350" 개 동물 보라매공원 셰퍼드 

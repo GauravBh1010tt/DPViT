@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eedrummer
+Photo URL    : https://www.flickr.com/photos/gregorowicz/7967626948/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 9 13:19:45 GMT+0200 2012
+Upload Date  : Mon Sep 10 04:02:54 GMT+0200 2012
+Geotag Info  : Latitude:42.306702, Longitude:-71.087193
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squinty Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

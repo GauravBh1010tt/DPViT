@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DncnH
+Photo URL    : https://www.flickr.com/photos/duncanh1/5339025771/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 9 14:49:31 GMT+0100 2011
+Upload Date  : Sun Jan 9 17:24:03 GMT+0100 2011
+Geotag Info  : Latitude:53.103699, Longitude:-1.335042
+Views        : 1,187
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Siamese
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+From the archives, my mum's late Siamese cats, Susie &amp; Thomas.
+
+
++--------+
+|  TAGS  |
++--------+
+cat Siamese "Siamese cat" "seal point" "seal point siamese" Susie Thomas pets 

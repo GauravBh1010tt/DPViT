@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeffreyw
+Photo URL    : https://www.flickr.com/photos/jeffreyww/4415407580/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 7 17:41:22 GMT+0100 2010
+Upload Date  : Mon Mar 8 00:11:50 GMT+0100 2010
+Views        : 584
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Here Kitty Kitty
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+skunk critter "here kitty kitty" 

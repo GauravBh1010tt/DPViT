@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : .RGB.
+Photo URL    : https://www.flickr.com/photos/rbulmahn/4925282145/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 24 10:41:03 GMT+0200 2010
+Upload Date  : Wed Aug 25 07:56:15 GMT+0200 2010
+Geotag Info  : Latitude:38.633441, Longitude:-90.287286
+Views        : 503
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_19049
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"St. Louis Zoo" "Amur Leopard" "Big Cat Country" 

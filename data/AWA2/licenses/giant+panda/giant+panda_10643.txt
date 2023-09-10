@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hutntut
+Photo URL    : https://www.flickr.com/photos/8716797@N05/4241340527/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 24 15:10:06 GMT+0200 2009
+Upload Date  : Sun Jan 3 21:29:53 GMT+0100 2010
+Geotag Info  : Latitude:32.715679, Longitude:-117.161720
+Views        : 729
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+panda "SD Zoo" 2009 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 5of7
+Photo URL    : https://www.flickr.com/photos/5of7/5528519628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 12 22:16:14 GMT+0100 2011
+Upload Date  : Tue Mar 15 05:31:07 GMT+0100 2011
+Geotag Info  : Latitude:33.452569, Longitude:-111.948194
+Views        : 11,476
+Comments     : 21
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel Monkey (Genus: Saimiri).
+This photo was taken at the Phoenix Zoo on March 12, 2011.
+
+
++--------+
+|  TAGS  |
++--------+
+"Ateles geoffroyi" Monkey "Phoenix Zoo" "captive animals" animals 300views 300v0f 200v0f nopeople animal mammals mammal captive zoo brown favourites small challengeyouwinner CYWinner challengewinner "Game Winner" DoF little "preGame Sweep Winner" "preGame Winner" "pre*Game DUEL winner" TP2012-08-24 challengeyou CY2Eligible StorybookWinner "The Storybook Challenge Group" Bokeh "15 Challenges Winner" "15 Challenges" "The Challenge Factory" "Hero Winner" "Super Hero Challenges" gameX2winner "*GameX2 Showcase" cute "AGCG SWEEP! winner" "Anything Goes! Challenge Group" "3Way Challenge" nature TP2012-11-13 FotoCompetition FotoCompetitionBronze "Friendly Challenges" BigMomma "The Mother of All Challenge Groups" goodicon ShowBizWinner "Show Biz Challenges" A3B "A3B CHALLENGE" 10wins "AGCG SWEEP!Challenge winner" 17wins fav "TP2013-03-13 Bokeh/Shallow Depth of Field" "5000 views" 5fav rural "Squirrel Monkey" Saimiri detail 

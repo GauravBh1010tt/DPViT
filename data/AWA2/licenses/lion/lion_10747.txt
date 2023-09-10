@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ghewgill
+Photo URL    : https://www.flickr.com/photos/ghewgill/324597704/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 16 20:41:08 GMT+0100 2006
+Upload Date  : Sun Dec 17 08:06:34 GMT+0100 2006
+Views        : 202,857
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It was feeding time for these lions (a mother and her three cubs). The people inside the feeding truck got the best view!
+
+
++--------+
+|  TAGS  |
++--------+
+"new zealand" orana lions 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lostandcold
+Photo URL    : https://www.flickr.com/photos/lostandcold/4862510907/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 10 14:27:17 GMT+0200 2010
+Upload Date  : Thu Aug 5 14:45:13 GMT+0200 2010
+Views        : 39
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

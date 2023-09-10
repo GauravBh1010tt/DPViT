@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jans canon
+Photo URL    : https://www.flickr.com/photos/43158397@N02/4440648343/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 16 18:07:37 GMT+0100 2010
+Upload Date  : Wed Mar 17 19:14:52 GMT+0100 2010
+Views        : 1,074
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Had to get the camera through the bushes to see these.
+
+
++--------+
+|  TAGS  |
++--------+
+fox cemetery wildlife 

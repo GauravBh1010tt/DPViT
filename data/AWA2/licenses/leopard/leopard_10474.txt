@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Maurice Luimes
+Photo URL    : https://www.flickr.com/photos/nuances-ontwerp/9529839102/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 16 09:48:24 GMT+0200 2013
+Upload Date  : Sat Aug 17 10:46:52 GMT+0200 2013
+Geotag Info  : Latitude:-19.158789, Longitude:23.280715
+Views        : 693
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Luipaard in Botswana
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Een voldaan luipaard die even tevoren een springbok had gevangen, ergens in de wildernis van Moremi reserve.
+
+
++--------+
+|  TAGS  |
++--------+
+luipaard botswana moremi leopard afrika africa 

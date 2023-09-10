@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Focx Photography
+Photo URL    : https://www.flickr.com/photos/focx/5043588900/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 1 12:28:43 GMT+0200 2010
+Upload Date  : Sat Oct 2 06:31:03 GMT+0200 2010
+Geotag Info  : Latitude:-27.027324, Longitude:153.341675
+Views        : 1,279
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This was one of many great Humpback Whales (Megaptera novaeangliae) we were able to watch off the island of Moreton, Queensland, Australia. From my website at <a href="http://www.focx.de" rel="nofollow">www.focx.de</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"humpback whale" "megaptera novaeangliae" wildlife australia "moreton island" Olympus E-620 14-54mm 

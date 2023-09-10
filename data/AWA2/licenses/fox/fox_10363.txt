@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : U. S. Fish and Wildlife Service - Northeast Region
+Photo URL    : https://www.flickr.com/photos/usfwsnortheast/5343669656/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 8 17:22:15 GMT+0200 2006
+Upload Date  : Mon Jan 10 19:06:54 GMT+0100 2011
+Geotag Info  : Latitude:36.690446, Longitude:-75.923831
+Views        : 2,720
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gray Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gray fox at Back Bay National Wildlife Refuge in Virginia.
+
+Credit: USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+"back bay national wildlife refuge" "back bay" "national wildlife refuge" refuge virginia va beach shore coast ocean atlantic "virginia beach" "gray fox" fox mammal 

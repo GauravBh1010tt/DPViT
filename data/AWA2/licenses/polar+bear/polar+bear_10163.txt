@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yoppy
+Photo URL    : https://www.flickr.com/photos/spilt-milk/13950987327/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 2 14:25:03 GMT+0200 2014
+Upload Date  : Thu May 8 16:19:38 GMT+0200 2014
+Geotag Info  : Latitude:43.047472, Longitude:141.305672
+Views        : 206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0124
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo 円山動物園 polarBear 

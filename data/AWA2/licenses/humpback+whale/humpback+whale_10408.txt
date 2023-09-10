@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pasha Kirillov
+Photo URL    : https://www.flickr.com/photos/pasha_k/15970446991/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 24 10:22:49 GMT+0200 2014
+Upload Date  : Mon Dec 8 04:14:32 GMT+0100 2014
+Geotag Info  : Latitude:-1.550711, Longitude:-80.862044
+Views        : 533
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Near Puerto Lopez, Ecuador
+
+
++--------+
+|  TAGS  |
++--------+
+Ecuador geo:country=Ecuador "south america" "Puerto Lopez" "Humpback whale" "animal planet" 

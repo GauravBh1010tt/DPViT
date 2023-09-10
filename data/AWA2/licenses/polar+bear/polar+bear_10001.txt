@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/4911684770/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 30 12:51:28 GMT+0200 2010
+Upload Date  : Sat Aug 21 00:37:37 GMT+0200 2010
+Geotag Info  : Latitude:48.806298, Longitude:9.205083
+Views        : 11,128
+Comments     : 46
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear with bent neck
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is, if I correctly remember, the female bear of the Wilhelma zoo. Nice animals!
+
+
++--------+
+|  TAGS  |
++--------+
+polar bear ursus white positing neck profile zoo wilhelma stuttgart zürich switzerland nikon d300 

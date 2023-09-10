@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gregory "Slobirdr" Smith
+Photo URL    : https://www.flickr.com/photos/slobirdr/19186359064/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 17 14:00:01 GMT+0200 2015
+Upload Date  : Sat Jul 18 23:21:14 GMT+0200 2015
+Geotag Info  : Latitude:35.428364, Longitude:-120.991058
+Views        : 2,236
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale (Megaptera novaeangliae)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+There have been up to three humpbacks hanging out near San Simeon pier for the last five days.  This is the only one I could find yesterday, and it was taking a break from feeding on the schools of anchovies...
+
+
++--------+
+|  TAGS  |
++--------+
+"Humpback Whale (Megaptera novaeangliae)" anchovies "San Simeon" "Hearst Castle whale" "Gregory Slobirdr Smith" 

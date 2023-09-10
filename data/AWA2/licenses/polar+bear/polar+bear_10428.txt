@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : skasamatsu
+Photo URL    : https://www.flickr.com/photos/86647866@N06/11028034824/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 23 06:25:01 GMT+0100 2013
+Upload Date  : Sun Nov 24 14:42:50 GMT+0100 2013
+Views        : 2,534
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+PB230734
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+OLYMPUS DIGITAL CAMERA
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

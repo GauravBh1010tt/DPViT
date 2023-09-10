@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/5895343592/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 2 12:53:42 GMT+0200 2011
+Upload Date  : Sat Jul 2 23:54:49 GMT+0200 2011
+Views        : 2,663
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox cub
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at the British Wildlife Centre, Newchapel, Surrey. One of the fox cubs, born in April 2011.
+
+
++--------+
+|  TAGS  |
++--------+
+British Wildlife Centre Newchapel Surrey 2011 Fox Cub Vulpes Peter Trimming 

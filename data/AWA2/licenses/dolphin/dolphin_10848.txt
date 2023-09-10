@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter Glenday
+Photo URL    : https://www.flickr.com/photos/psg3/8702894673/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 2 00:19:19 GMT+0200 2013
+Upload Date  : Fri May 3 05:57:32 GMT+0200 2013
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_DSC0475.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chicago "shedd aquarium" dolphins 

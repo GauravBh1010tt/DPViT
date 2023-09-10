@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lisa Zins
+Photo URL    : https://www.flickr.com/photos/lisazins/24690215274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 7 18:22:26 GMT+0200 2013
+Upload Date  : Sun Feb 28 02:10:54 GMT+0100 2016
+Views        : 291
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Antennas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He looks kinda surprised!
+
+
++--------+
+|  TAGS  |
++--------+
+"Lisa Zins" Tn Tennessee rabbit "rabbit ears" ears "bunny ears" bunny wildlife "Tennessee wildlife" 

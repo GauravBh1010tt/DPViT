@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sarah&Boston
+Photo URL    : https://www.flickr.com/photos/pocheco/10803591443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 28 07:53:39 GMT+0200 2013
+Upload Date  : Mon Nov 11 19:07:37 GMT+0100 2013
+Views        : 136
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Whale Watching in Gloucester
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jlantzy
+Photo URL    : https://www.flickr.com/photos/jlantzy/705221739/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 20 03:15:20 GMT+0200 2005
+Upload Date  : Tue Jul 3 16:15:00 GMT+0200 2007
+Geotag Info  : Latitude:33.103297, Longitude:-116.989760
+Views        : 185
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Indian Rhinocerous
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"wild animal park" "indian rhinoceros" rhino 

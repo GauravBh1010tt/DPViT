@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Markus Wollny
+Photo URL    : https://www.flickr.com/photos/wollny/5654407165/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 18 11:06:16 GMT+0200 2011
+Upload Date  : Mon Apr 25 21:23:59 GMT+0200 2011
+Geotag Info  : Latitude:27.400499, Longitude:33.850661
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Delfin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

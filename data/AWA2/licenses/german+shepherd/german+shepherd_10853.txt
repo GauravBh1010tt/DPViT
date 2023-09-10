@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lilli2de
+Photo URL    : https://www.flickr.com/photos/seven_of9/5327160021/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 30 13:02:16 GMT+0100 2010
+Upload Date  : Wed Jan 5 18:36:15 GMT+0100 2011
+Views        : 1,467
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Snow on the nose 181
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Theo, my mothers dog, loves snow!
+
+
++--------+
+|  TAGS  |
++--------+
+30/12/2010 Germany "Land Brandenburg" Niederlausitz Elbe-Elster Finsterwalde Garten garden "my mothers garden" Winter Schnee snow Eis ice Frost "Belgischer Schäferhund" "Belgian Shepherd Dog" Theo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tree Leaf Clover
+Photo URL    : https://www.flickr.com/photos/tree_leaf_clover/6003933627/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 29 15:53:20 GMT+0200 2011
+Upload Date  : Wed Aug 3 06:48:48 GMT+0200 2011
+Views        : 3,051
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Caesar
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+German shepherd
+He's an off-duty k9 veteran dog, He's super cute, like everyone who's ready to play fetch. He is Caesar!
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

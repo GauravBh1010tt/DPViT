@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lakpuratravels
+Photo URL    : https://www.flickr.com/photos/lakpura/15135862644/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 10 02:58:47 GMT+0100 2014
+Upload Date  : Mon Nov 10 11:59:22 GMT+0100 2014
+Views        : 259
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sri Lankan Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sri Lanka has a rich and exotic variety of wildlife. The jungles of Sri Lanka abound in a variety of wildlife, which is surprising for an island of its size in the tropics. The best known national park is the Ruhunu National Park at Yala. There are also two other National Parks at Inginiyagala and Uda Walawe.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

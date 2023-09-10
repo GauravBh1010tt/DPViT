@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : La case photo de Got
+Photo URL    : https://www.flickr.com/photos/lespetitescases/7587174100/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 16 22:00:04 GMT+0200 2012
+Upload Date  : Tue Jul 17 03:42:52 GMT+0200 2012
+Views        : 167
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ours blanc en train de se reposer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo de St Félicien
+
+
++--------+
+|  TAGS  |
++--------+
+nature faune 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : behang
+Photo URL    : https://www.flickr.com/photos/giffordclan/4257043643/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 2 08:34:34 GMT+0100 2010
+Upload Date  : Fri Jan 8 22:22:11 GMT+0100 2010
+Views        : 447
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins in Nuevo Vallarta
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These dolphins are part of an &quot;encounter&quot; program where people swim wiht them... it was beautiful watching them interact and play wiht their trainers.
+
+
++--------+
+|  TAGS  |
++--------+
+2009 mexico banderasbay dolphin 

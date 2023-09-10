@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jinglejammer
+Photo URL    : https://www.flickr.com/photos/jinglejammer/3461660330/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 14 15:11:48 GMT+0100 2008
+Upload Date  : Tue Apr 21 04:48:44 GMT+0200 2009
+Views        : 381
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Through the Glass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He came up so close that we started yelling at Jack to step away from the window. I have that part on video.
+
+
++--------+
+|  TAGS  |
++--------+
+lion "Woodland Park Zoo" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : technicolours
+Photo URL    : https://www.flickr.com/photos/14842295@N07/7252904032/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 22 20:12:26 GMT+0200 2012
+Upload Date  : Wed May 23 03:43:41 GMT+0200 2012
+Views        : 228
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1120952
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+not very good pictures, but they were so skittish, I didn't dare try to move any closer and zoom only goes so far :/
+
+
++--------+
+|  TAGS  |
++--------+
+rabbits 

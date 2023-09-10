@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/5568885290/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 26 15:16:42 GMT+0100 2011
+Upload Date  : Mon Mar 28 20:18:00 GMT+0200 2011
+Views        : 918
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+'Did you catch that?'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sorry Josh; I was too busy watching for you to jump to consider re-setting the camera, for a faster shutter speed. Seen at the British Wildlife Centre, Newchapel, Surrey.
+
+
++--------+
+|  TAGS  |
++--------+
+British Wildlife Centre Newchapel Surrey 2011 Josh Fox Vulpes Peter Trimming 

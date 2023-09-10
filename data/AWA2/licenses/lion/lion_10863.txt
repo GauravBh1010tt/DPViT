@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pelican
+Photo URL    : https://www.flickr.com/photos/pelican/5585579/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 26 13:26:02 GMT+0100 2005
+Upload Date  : Mon Feb 28 14:47:15 GMT+0100 2005
+Views        : 651
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Oji zoo, Kobe, Japan
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The sleepy king.
+
+It looks like a Japanese comedian named <a href="http://www.aheahe.tv/who/index.html" rel="nofollow"> Kanpei Hazama</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo kobe lion 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pijpers662
+Photo URL    : https://www.flickr.com/photos/8259447@N06/20422353533/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 27 10:22:38 GMT+0200 2015
+Upload Date  : Mon Aug 31 23:39:43 GMT+0200 2015
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Safari de Peaugres
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+France
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros rhino 

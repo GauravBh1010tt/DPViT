@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Soren Wolf
+Photo URL    : https://www.flickr.com/photos/sorenwolf/23543568806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 6 09:28:44 GMT+0100 2015
+Upload Date  : Sun Dec 6 22:24:01 GMT+0100 2015
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Vuko
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Vuko in the park
+
+
++--------+
+|  TAGS  |
++--------+
+animal pet dog nikon d7100 outdoor canine german shepherd vuko grass 

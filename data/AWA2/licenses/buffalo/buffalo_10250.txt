@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lraul06
+Photo URL    : https://www.flickr.com/photos/106918403@N05/16791456868/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 28 11:40:29 GMT+0100 2015
+Upload Date  : Mon Mar 30 17:10:27 GMT+0200 2015
+Geotag Info  : Latitude:45.630380, Longitude:25.997557
+Views        : 153
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison Reserve, Vama Buzaului / Bodzavám, Romania
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rezervatia Naturala &quot;Valea Zimbrilor&quot;
+Bodzavámi Bölényrezervátum
+
+
++--------+
+|  TAGS  |
++--------+
+bison 

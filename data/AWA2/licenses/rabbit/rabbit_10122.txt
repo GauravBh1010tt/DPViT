@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J.T. Lindroos
+Photo URL    : https://www.flickr.com/photos/84307396@N00/25570210383/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 30 18:23:18 GMT+0200 2016
+Upload Date  : Fri Apr 1 19:05:55 GMT+0200 2016
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Birthday Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Panasonic Lumix" Lumix DMC-FZ70 

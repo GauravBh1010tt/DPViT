@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tolomea
+Photo URL    : https://www.flickr.com/photos/tolomea/6965948978/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 2 08:49:12 GMT+0100 2011
+Upload Date  : Wed Apr 25 09:37:36 GMT+0200 2012
+Views        : 12,882
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin 1of3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Read about this photo on my <a href="http://www.tolomea.com/2012/04/25/dolphin-1of3/" rel="nofollow">blog</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin 

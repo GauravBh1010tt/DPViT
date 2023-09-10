@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobbieBlair
+Photo URL    : https://www.flickr.com/photos/robbieblair/9112598703/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 20 11:04:20 GMT+0100 2012
+Upload Date  : Sun Jun 23 09:16:35 GMT+0200 2013
+Geotag Info  : Latitude:44.599268, Longitude:-110.578079
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shedding bison closeup
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

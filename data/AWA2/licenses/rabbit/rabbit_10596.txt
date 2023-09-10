@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wolfpix
+Photo URL    : https://www.flickr.com/photos/wolfraven/5625158429/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 27 12:06:44 GMT+0100 2011
+Upload Date  : Sat Apr 16 23:45:21 GMT+0200 2011
+Geotag Info  : Latitude:37.868044, Longitude:-122.308720
+Views        : 2,291
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Jumping jackrabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Black-tailed jackrabbit, <i>Lepus californicus</i>
+Berkeley Meadows
+Berkeley, California
+
+
++--------+
+|  TAGS  |
++--------+
+Nikon "Nikon D5000" rabbit hare jackrabbit "Lepus californicus" Berkeley "Berkeley Meadows" "Berkeley, California" lapin Kaninchen lièvres Hasen Hase lièvre conejo liebres liebre ノウサギ lepri lebre lebres hazen зайцы 野兔 rodent rodentia kuneho kani kanin hace ख़रगोश שפן królik แรบบิท 

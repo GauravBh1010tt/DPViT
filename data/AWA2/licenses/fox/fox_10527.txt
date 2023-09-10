@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DGriebeling
+Photo URL    : https://www.flickr.com/photos/dgriebeling/5564796017/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 10 14:36:45 GMT+0100 2011
+Upload Date  : Sun Mar 27 21:16:52 GMT+0200 2011
+Geotag Info  : Latitude:28.800959, Longitude:-82.587494
+Views        : 281
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+florida nature 

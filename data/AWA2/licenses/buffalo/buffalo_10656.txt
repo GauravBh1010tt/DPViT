@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : djtansey
+Photo URL    : https://www.flickr.com/photos/djtansey/47363252/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 19 22:54:08 GMT+0200 2005
+Upload Date  : Wed Sep 28 09:14:44 GMT+0200 2005
+Views        : 298
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1240.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone bison buffalo Wyoming 

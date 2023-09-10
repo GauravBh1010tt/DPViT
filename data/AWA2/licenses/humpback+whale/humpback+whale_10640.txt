@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/5078480248/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 13 10:14:50 GMT+0200 2010
+Upload Date  : Wed Oct 13 16:19:59 GMT+0200 2010
+Views        : 1,279
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sanc0116
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A humpback tail. California, Gulf of the Farallones NMS
+
+Photographer: Tom Kieckhefer.
+
+
++--------+
+|  TAGS  |
++--------+
+NOAA whale 

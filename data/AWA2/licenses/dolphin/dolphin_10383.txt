@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ms. Information
+Photo URL    : https://www.flickr.com/photos/msinformation/6601804217/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 30 12:52:32 GMT+0100 2011
+Upload Date  : Fri Dec 30 19:52:32 GMT+0100 2011
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram Amaro 

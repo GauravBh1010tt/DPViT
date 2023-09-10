@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : | El Caganer - Over 6 Million views!
+Photo URL    : https://www.flickr.com/photos/seat850/6592052609/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 28 13:04:33 GMT+0100 2011
+Upload Date  : Thu Dec 29 05:17:08 GMT+0100 2011
+Geotag Info  : Latitude:38.365617, Longitude:-120.508153
+Views        : 368
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison near Railroad Flat, CA
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"gold country" "day trip" "small towns" northern "california rustic charming amador" "county calaveras" county "volcano ca" "sheep ranch ca" Jackson "ca old" "town small" "town rustic farm country charming day" "trip gold" country 

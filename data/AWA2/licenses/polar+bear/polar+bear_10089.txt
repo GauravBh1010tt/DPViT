@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dick Thomas Johnson
+Photo URL    : https://www.flickr.com/photos/31029865@N06/15051875692/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 9 14:47:26 GMT+0200 2006
+Upload Date  : Wed Aug 27 13:30:40 GMT+0200 2014
+Geotag Info  : Latitude:43.768319, Longitude:142.479388
+Views        : 1,404
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Asahiyama Zoo: Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+旭山動物園 ホッキョクグマ
+
+
++--------+
+|  TAGS  |
++--------+
+北海道 日本 japan hokkaido 旭山 旭川市旭山動物園 AsahikawaAsahiyamazoologicalpark AsahiyamaZoo 旭山動物園 Zoo 動物園 animal 動物 ホッキョクグマ クマ Polarbear bear 

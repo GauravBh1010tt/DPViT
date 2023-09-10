@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BergsPix
+Photo URL    : https://www.flickr.com/photos/rick_bergstrom/7418373914/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 27 17:34:21 GMT+0200 2011
+Upload Date  : Fri Jun 22 08:05:06 GMT+0200 2012
+Geotag Info  : Latitude:44.662239, Longitude:-111.101112
+Views        : 257
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gray_Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Wolves 

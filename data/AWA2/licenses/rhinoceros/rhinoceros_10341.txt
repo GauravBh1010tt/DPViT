@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alejandro Hernandez.
+Photo URL    : https://www.flickr.com/photos/ace_0f_magic/3340564664/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 8 13:34:55 GMT+0100 2009
+Upload Date  : Mon Mar 9 05:13:48 GMT+0100 2009
+Views        : 162
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhino rhinoceros "white rhinoceros" zoo "tulsa zoo" animal mammal 

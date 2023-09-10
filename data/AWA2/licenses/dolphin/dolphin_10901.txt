@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donielle
+Photo URL    : https://www.flickr.com/photos/vampiress144/9254723902/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 4 09:12:55 GMT+0200 2013
+Upload Date  : Wed Jul 10 09:24:02 GMT+0200 2013
+Geotag Info  : Latitude:39.285244, Longitude:-76.607902
+Views        : 59
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Effortlessly uploaded by <a href="http://www.eye.fi" rel="nofollow">Eye-Fi</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Eye-Fi Baltimore Maryland "United States" "national aquarium" aquarium 

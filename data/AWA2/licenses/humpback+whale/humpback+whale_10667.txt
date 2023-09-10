@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chadica
+Photo URL    : https://www.flickr.com/photos/chadica/2069754477/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 29 05:41:10 GMT+0100 2005
+Upload Date  : Wed Nov 28 04:31:35 GMT+0100 2007
+Geotag Info  : Latitude:-64.822878, Longitude:-64.856414
+Views        : 198
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The blow hole on a Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+travel whale "humpback whale" Antarctica "Animal Planet" 

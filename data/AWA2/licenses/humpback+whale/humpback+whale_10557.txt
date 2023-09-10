@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Polar Cruises
+Photo URL    : https://www.flickr.com/photos/polarphotos/5962043469/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 11 11:27:14 GMT+0100 2011
+Upload Date  : Fri Jul 22 01:00:12 GMT+0200 2011
+Views        : 198
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback's in Wilhelmina Bay Antarctica-0769.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback whale
+
+
++--------+
+|  TAGS  |
++--------+
+whale 

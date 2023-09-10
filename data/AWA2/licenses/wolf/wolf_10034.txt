@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/18039772986/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 3 16:51:51 GMT+0200 2015
+Upload Date  : Mon May 25 06:00:06 GMT+0200 2015
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 5,099
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Standing arctic wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This arcticwolf knows how to pose!
+
+
++--------+
+|  TAGS  |
++--------+
+posing standing stretching rocks stone profile arctic polar white beige wolf canine canid dog amnéville zoo france nikon d4 

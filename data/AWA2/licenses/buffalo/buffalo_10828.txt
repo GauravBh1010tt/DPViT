@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hammer51012
+Photo URL    : https://www.flickr.com/photos/hammer51012/468420182/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 14 09:10:56 GMT+0200 2005
+Upload Date  : Sun Apr 22 17:10:56 GMT+0200 2007
+Geotag Info  : Latitude:42.778354, Longitude:-95.572868
+Views        : 1,858
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Where The Buffalo Roam
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Buffalo grazing on grass near Cherokee, Iowa.
+
+
++--------+
+|  TAGS  |
++--------+
+Buffalo Roam Bison Iowa "Animal Planet" Olympus C-7000 geotagged 

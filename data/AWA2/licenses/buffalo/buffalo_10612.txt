@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ceasol
+Photo URL    : https://www.flickr.com/photos/ceasol/1166927399/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 5 19:43:32 GMT+0200 2007
+Upload Date  : Sun Aug 19 07:58:13 GMT+0200 2007
+Geotag Info  : Latitude:53.594644, Longitude:-112.843837
+Views        : 2,762
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Elk Island National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Plain Bison Bull Elk Island National Park Alberta Canada
+
+
++--------+
+|  TAGS  |
++--------+
+canada national park nature elk island Alberta Plain Bison Bull American parafb 

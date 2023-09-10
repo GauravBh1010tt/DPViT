@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/3813926353/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 18 10:39:06 GMT+0200 2009
+Upload Date  : Wed Aug 12 14:35:37 GMT+0200 2009
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 7,103
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Watching his territory
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+An arctic wolf of the zoo of Amnéville watches around his enclosure while standing on a log.
+I like this shot, because it looks like taken in the nature (besides the cut log).
+
+
++--------+
+|  TAGS  |
++--------+
+white beige arctic wolf canine dog standing cute vegetation zoo amnéville franice nikon d300 

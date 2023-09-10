@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ssetaro
+Photo URL    : https://www.flickr.com/photos/76827729@N08/9197914299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 25 19:16:15 GMT+0200 2013
+Upload Date  : Wed Jul 3 13:38:55 GMT+0200 2013
+Geotag Info  : Latitude:0.000000, Longitude:0.000000
+Views        : 162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hare
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hare on main campus of the University of Calgary.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

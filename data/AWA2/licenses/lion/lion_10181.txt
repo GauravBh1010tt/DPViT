@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marco Hebing
+Photo URL    : https://www.flickr.com/photos/marcohebing/4043369069/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 2 15:42:26 GMT+0200 2004
+Upload Date  : Sun Oct 25 21:35:33 GMT+0100 2009
+Views        : 597
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Female lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Female lion facing front.
+Captive animal.
+#
+Leeuwin frontaal.
+Dier in gevangenschap.
+
+
++--------+
+|  TAGS  |
++--------+
+Leeuwin DI0007_299 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ludovic Hirlimann
+Photo URL    : https://www.flickr.com/photos/lhirlimann/1184944432/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 12:19:19 GMT+0200 2007
+Upload Date  : Mon Aug 20 19:49:23 GMT+0200 2007
+Geotag Info  : Latitude:52.184878, Longitude:4.487915
+Views        : 521
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit at the camp
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal Wireless community Camp 2007 bluethooth scanning "Canon EF 70-300mm f/4-5.6 IS USM" geotagged lapin WildlifeWednesday 

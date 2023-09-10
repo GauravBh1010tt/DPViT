@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Todd Huffman
+Photo URL    : https://www.flickr.com/photos/oddwick/149822774/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 14 11:20:28 GMT+0200 2006
+Upload Date  : Sat May 20 17:26:37 GMT+0200 2006
+Geotag Info  : Latitude:20.538975, Longitude:-156.534662
+Views        : 674
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Swim and Spin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My brothers and I were quite lucky with our snorkeling, about 10 Spinner Dolphin took an interest in our boat, and stuck around once we were in the water.  The 'Matron', (I ain't sure how dolphin society works), centered in the photo with the little dolphin by her side, was very bold and entertaining.  She had a bit of rubber in her mouth, which she carried around, and would periodically drop and swim quickly around and pick back up before anyone else could get near it.  Swimming with beings who are alien, but strangely related, was the highlight of the trip.
+
+
++--------+
+|  TAGS  |
++--------+
+dolphins hawaii maui snorkeling 

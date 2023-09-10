@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Travis S.
+Photo URL    : https://www.flickr.com/photos/baggis/2401858745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 26 11:22:39 GMT+0100 2008
+Upload Date  : Thu Apr 10 05:56:19 GMT+0200 2008
+Geotag Info  : Latitude:49.301075, Longitude:-123.130956
+Views        : 839
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pacific White-Sided Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The dolphin would skim the top of the water before shooting down to the bottom of the tank and righting itself.
+
+
++--------+
+|  TAGS  |
++--------+
+Canada "British Columbia" Vancouver "V Canada British" "Columbia Vancouver Vancouver" Aquarium "Pacific White-Sided Dolphin" "White-Sided Dolphin" white black dolphin water Pacific "upside down" 

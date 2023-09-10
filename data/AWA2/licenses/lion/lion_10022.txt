@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stephen.P.Temple
+Photo URL    : https://www.flickr.com/photos/122772068@N08/14250427097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 14 16:23:11 GMT+0200 2011
+Upload Date  : Mon Jun 16 17:32:46 GMT+0200 2014
+Views        : 134
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2011-07-14_16-23-11_30D.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife lion kenya 

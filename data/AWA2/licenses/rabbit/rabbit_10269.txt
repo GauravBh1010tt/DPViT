@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jimmiehomeschoolmom
+Photo URL    : https://www.flickr.com/photos/jimmiehomeschoolmom/3423114689/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 26 22:03:58 GMT+0100 2007
+Upload Date  : Wed Apr 8 13:46:50 GMT+0200 2009
+Views        : 1,685
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+buns the rabbit on a rag
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit 

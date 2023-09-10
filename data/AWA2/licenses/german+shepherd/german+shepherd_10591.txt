@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : liza31337
+Photo URL    : https://www.flickr.com/photos/lizadaly/226760449/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 27 14:01:51 GMT+0200 2006
+Upload Date  : Mon Aug 28 05:19:18 GMT+0200 2006
+Geotag Info  : Latitude:42.383084, Longitude:-71.098746
+Views        : 7,502
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lab v. German shepherd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dogs dog-park labrador retriever german shepherd "nunziato off-leash recreation area" 

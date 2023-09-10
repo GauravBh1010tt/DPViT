@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : frankieleon
+Photo URL    : https://www.flickr.com/photos/armydre2008/3523058663/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 11 17:04:06 GMT+0200 2009
+Upload Date  : Tue May 12 01:04:28 GMT+0200 2009
+Views        : 721
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+race is on
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+58/365
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit hare nature bunny wild animal "cotton tail" grass tree outdoors "rabbit food" "rabbit's foot" lucky project365 frankieleon "Creative Commons" "best of" interestingness popular interesting cc 

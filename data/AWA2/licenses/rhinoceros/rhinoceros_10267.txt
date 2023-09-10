@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Professor Batty
+Photo URL    : https://www.flickr.com/photos/flippism/245480523/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 1 00:00:00 GMT+0100 2004
+Upload Date  : Sun Sep 17 17:32:18 GMT+0200 2006
+Geotag Info  : Latitude:21.269919, Longitude:-157.817230
+Views        : 248
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Kim's Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rhinoceros "Kim Kessler" 

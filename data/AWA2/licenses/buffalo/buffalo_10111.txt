@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aka Kath
+Photo URL    : https://www.flickr.com/photos/aka_kath/517146025/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 27 13:04:27 GMT+0200 2007
+Upload Date  : Mon May 28 04:38:28 GMT+0200 2007
+Geotag Info  : Latitude:40.734726, Longitude:-89.733383
+Views        : 883
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wildlife Prairie Park in Peoria, Illinois
+
+
++--------+
+|  TAGS  |
++--------+
+WildlifePrairiePark Peoria Illinois bison buffalo 

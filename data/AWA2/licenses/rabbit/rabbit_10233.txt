@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kiki1ki1:)
+Photo URL    : https://www.flickr.com/photos/kikikidd/5843471223/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 9 01:05:46 GMT+0200 2011
+Upload Date  : Sat Jun 18 02:26:32 GMT+0200 2011
+Views        : 86
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Artur Staszewski
+Photo URL    : https://www.flickr.com/photos/arturstaszewski/8375235460/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 16 17:41:21 GMT+0200 2010
+Upload Date  : Sun Jan 13 02:43:00 GMT+0100 2013
+Geotag Info  : Latitude:45.448480, Longitude:-73.891983
+Views        : 29,065
+Comments     : 37
+
+
++---------+
+|  TITLE  |
++---------+
+My Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dog female old resting german shepherd Montreal Quebec Canada Nike thinking wise look wisdom animal paw floor laying down 

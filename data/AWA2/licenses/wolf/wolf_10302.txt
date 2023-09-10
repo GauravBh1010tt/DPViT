@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lazurite
+Photo URL    : https://www.flickr.com/photos/lazurite/8312855948/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 26 11:53:52 GMT+0100 2012
+Upload Date  : Thu Dec 27 01:25:31 GMT+0100 2012
+Views        : 398
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+red wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rosamond-Gifford Zoo
+Syracuse, NY
+December 26, 2012
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

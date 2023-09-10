@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bschmove
+Photo URL    : https://www.flickr.com/photos/brandonschauer/2837957779/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 31 23:12:25 GMT+0200 2008
+Upload Date  : Mon Sep 8 05:11:25 GMT+0200 2008
+Geotag Info  : Latitude:44.724295, Longitude:-110.659790
+Views        : 866
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bison!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison yellowstone 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bloertzer
+Photo URL    : https://www.flickr.com/photos/42030383@N04/13966837253/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 17 10:44:42 GMT+0200 2014
+Upload Date  : Mon Apr 21 11:01:06 GMT+0200 2014
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bremerhaven-197.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sonstiges 

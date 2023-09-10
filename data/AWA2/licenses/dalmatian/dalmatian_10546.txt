@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hunsrod
+Photo URL    : https://www.flickr.com/photos/ingvildhunsrod/8472152717/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 11 01:54:36 GMT+0100 2013
+Upload Date  : Thu Feb 14 09:42:29 GMT+0100 2013
+Views        : 252
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ruffen
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+8 uker
+
+
++--------+
+|  TAGS  |
++--------+
+Dalmatian Dog Puppy 

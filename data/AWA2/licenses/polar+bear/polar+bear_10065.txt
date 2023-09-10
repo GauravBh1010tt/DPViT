@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 2sirius
+Photo URL    : https://www.flickr.com/photos/peterv/6074978159/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 23 13:06:12 GMT+0200 2011
+Upload Date  : Wed Aug 24 05:29:02 GMT+0200 2011
+Views        : 338
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20110823_0015.JPG.500
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polar bear.
+
+
++--------+
+|  TAGS  |
++--------+
+Toronto Ontario Canada Meadowvale Zoo polar bear 

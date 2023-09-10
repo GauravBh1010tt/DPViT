@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : little5am
+Photo URL    : https://www.flickr.com/photos/cutesam/10468684843/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 2 10:48:45 GMT+0100 2008
+Upload Date  : Fri Oct 25 05:14:32 GMT+0200 2013
+Views        : 1,215
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+polar bear snow 

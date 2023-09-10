@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : richardrichard
+Photo URL    : https://www.flickr.com/photos/richardtoller/9490419582/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 20 05:24:49 GMT+0200 2013
+Upload Date  : Sun Aug 11 23:32:51 GMT+0200 2013
+Views        : 329
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4212
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lion, Ngorongoro Crater
+
+
++--------+
+|  TAGS  |
++--------+
+Lion Ngorongoro Crater 

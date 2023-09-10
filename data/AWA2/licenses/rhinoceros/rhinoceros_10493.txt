@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sheilaellen
+Photo URL    : https://www.flickr.com/photos/sheilaellen/6826800927/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 31 16:57:11 GMT+0100 2012
+Upload Date  : Mon Feb 6 02:10:49 GMT+0100 2012
+Geotag Info  : Latitude:28.357718, Longitude:-81.591081
+Views        : 53
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Animal Kingdom" Disney themepark Orlando Florida USA "North America" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vol-42
+Photo URL    : https://www.flickr.com/photos/vol42/8674014149/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 22 18:18:43 GMT+0200 2013
+Upload Date  : Tue Apr 23 12:19:12 GMT+0200 2013
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1432
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

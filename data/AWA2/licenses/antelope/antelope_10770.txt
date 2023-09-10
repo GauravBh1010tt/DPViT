@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bluespete
+Photo URL    : https://www.flickr.com/photos/bluespete/15316203301/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 17 17:44:06 GMT+0200 2014
+Upload Date  : Mon Sep 22 12:07:24 GMT+0200 2014
+Views        : 2,603
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of a goat (Ziege)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fotografiert am Hofgut Gassenbach in Idstein. Der landwirtschaftiche Betrieb gehört zur Domäne Mechthildshausen. Im Hofladen können Bioland Produkte erworben werden. 
+
+Copyright: CC BY-NC-SA. Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen - Kommerzielle Nutzung auf Anfrage.
+
+
++--------+
+|  TAGS  |
++--------+
+Bauernhof Bioland CC Deutschland "Gassenbacher Hof" Germany Hessen Idstein Landwirtschaft Nutztiere Tiere Ziege Ziegen Ziegenbock "camera:model=nikon d7100" "exif:focal_length=110 mm" "exif:aperture=ƒ / 6,3" exif:iso_speed=1100 "exif:model=nikon d7100" geo:location= "exif:make=nikon corporation" "exif:lens=55.0-300.0 mm f/4.5-5.6" "camera:make=nikon corporation" explored 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : peffs
+Photo URL    : https://www.flickr.com/photos/peffs/3812481874/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 2 11:36:27 GMT+0200 2009
+Upload Date  : Tue Aug 11 20:51:07 GMT+0200 2009
+Views        : 38
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+white sided dolphin top
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sea World SA 

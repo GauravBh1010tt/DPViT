@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BobMacInnes
+Photo URL    : https://www.flickr.com/photos/lonetown/8930353346/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 2 17:39:39 GMT+0200 2013
+Upload Date  : Mon Jun 3 01:44:58 GMT+0200 2013
+Views        : 667
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+036
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+foxred foxvixenkitkitsvulpes vulpesplaying foxfox playing "red fox" kit vixen "vulpes vulpes" 

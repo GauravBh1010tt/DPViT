@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : にほ
+Photo URL    : https://www.flickr.com/photos/nihongi/4924502051/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 23 02:41:40 GMT+0200 2010
+Upload Date  : Wed Aug 25 01:52:07 GMT+0200 2010
+Geotag Info  : Latitude:37.732235, Longitude:-122.501308
+Views        : 269
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard@SF Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

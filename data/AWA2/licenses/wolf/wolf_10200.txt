@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marcin Chady
+Photo URL    : https://www.flickr.com/photos/marcinchady/1521558813/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 8 11:53:45 GMT+0200 2007
+Upload Date  : Tue Oct 9 08:45:59 GMT+0200 2007
+Geotag Info  : Latitude:49.372949, Longitude:-123.097692
+Views        : 3,450
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Howling wolves
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"grouse mountain" wolves howling 

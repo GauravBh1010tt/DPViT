@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EvelynGiggles
+Photo URL    : https://www.flickr.com/photos/evelynishere/3687968061/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 25 19:36:31 GMT+0200 2009
+Upload Date  : Sun Jul 5 01:50:41 GMT+0200 2009
+Views        : 576
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+sniffy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny white pet yard outdoors green grass 

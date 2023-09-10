@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ciamabue
+Photo URL    : https://www.flickr.com/photos/ciamabue/9538731262/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 28 15:55:27 GMT+0200 2013
+Upload Date  : Sun Aug 18 15:48:30 GMT+0200 2013
+Geotag Info  : Latitude:-24.150187, Longitude:30.643000
+Views        : 658
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard cub climbing tree
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Garonga Holidays "Makalali Conservancy" Safari "South Africa" 

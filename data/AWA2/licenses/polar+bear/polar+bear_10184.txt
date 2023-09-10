@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jon.Proehl
+Photo URL    : https://www.flickr.com/photos/jadenmaru/8554138998/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 19 15:28:17 GMT+0200 2011
+Upload Date  : Wed Mar 13 06:41:22 GMT+0100 2013
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_7972
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

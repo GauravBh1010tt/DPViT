@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lucid Nightmare
+Photo URL    : https://www.flickr.com/photos/lucid_nightmare/167304870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 15 00:37:04 GMT+0200 2006
+Upload Date  : Thu Jun 15 00:34:25 GMT+0200 2006
+Geotag Info  : Latitude:34.894330, Longitude:-82.333216
+Views        : 14,961
+Comments     : 23
+
+
++---------+
+|  TITLE  |
++---------+
+Mean Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is Lexie being well.....Lexie.
+Actually someone she doesn't care for was standing behind me.
+
+
++--------+
+|  TAGS  |
++--------+
+Lexie "German Shepherd" top20dogpix RAW 

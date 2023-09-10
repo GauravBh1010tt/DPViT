@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Scott Loarie
+Photo URL    : https://www.flickr.com/photos/55368994@N06/7384220526/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 15 03:17:22 GMT+0200 2012
+Upload Date  : Sun Jun 17 07:26:11 GMT+0200 2012
+Geotag Info  : Latitude:44.458781, Longitude:-93.146837
+Views        : 445
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5134
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Lagomorpha Lagomorpha taxonomy:family=Leporidae Leporidae taxonomy:genus=Sylvilagus Sylvilagus taxonomy:species=floridanus "taxonomy:binomial=Sylvilagus floridanus" "Eastern Cottontail" "Sylvilagus floridanus" "Conejo serrano" "lapin à queue blanche" "Conejo Castellano" "taxonomy:common=Eastern Cottontail" "taxonomy:common=Conejo serrano" "taxonomy:common=lapin à queue blanche" "taxonomy:common=Conejo Castellano" inaturalist:observation=93141 

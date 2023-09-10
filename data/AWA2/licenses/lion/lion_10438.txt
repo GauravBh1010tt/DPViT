@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/18228102793/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 09:49:55 GMT+0200 2015
+Upload Date  : Tue Jun 16 05:21:40 GMT+0200 2015
+Geotag Info  : Latitude:42.305272, Longitude:-71.088862
+Views        : 663
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Showing Teeth
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo "big cat" cat african lion 

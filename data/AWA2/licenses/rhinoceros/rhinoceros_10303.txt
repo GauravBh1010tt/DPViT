@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jDevaun.Photography
+Photo URL    : https://www.flickr.com/photos/34316967@N04/7842890738/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 16 01:00:44 GMT+0200 2012
+Upload Date  : Thu Aug 23 07:49:42 GMT+0200 2012
+Views        : 2,385
+Comments     : 26
+
+
++---------+
+|  TITLE  |
++---------+
+Nom Nom Nom
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhino rhinoceros "j devaun" horn 

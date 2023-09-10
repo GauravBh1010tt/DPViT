@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Percita
+Photo URL    : https://www.flickr.com/photos/dittmars/1569311756/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 30 16:10:29 GMT+0200 2007
+Upload Date  : Sun Oct 14 15:13:34 GMT+0200 2007
+Views        : 805
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Merrimbula  Humpback whale blow up close
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Whales "humpback whale" Merimbula 

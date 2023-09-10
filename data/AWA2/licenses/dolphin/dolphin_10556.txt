@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : anschieber | niadahoam.de
+Photo URL    : https://www.flickr.com/photos/anschieber/14819133644/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 1 09:25:46 GMT+0100 2014
+Upload Date  : Sun Aug 3 23:07:38 GMT+0200 2014
+Geotag Info  : Latitude:26.009387, Longitude:-111.337122
+Views        : 547
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Große Tümmler / Common bottlenose dolphins (Tursiops truncatus) - Bootstour von Loreto aus, Baja California Sur, Mexico
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2014 2014_02 "Baja California" "Baja California Sur" "Delfine (Delphinidae)" "Große Tümmler / Common bottlenose dolphin (Tursiops truncatus)" Loreto Mexico Niederkalifornien "taxonomy:dinomial=Tursiops truncatus" 

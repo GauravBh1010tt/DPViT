@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Juan Paulo Carbajal-Borges
+Photo URL    : https://www.flickr.com/photos/elcoacervado/6955321118/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 19 09:59:23 GMT+0100 2011
+Upload Date  : Sun Apr 22 10:17:06 GMT+0200 2012
+Geotag Info  : Latitude:15.619730, Longitude:-92.821426
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Peace!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mono araña (Ateles geoffroyi) en la reserva de la biosfera El Triunfo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

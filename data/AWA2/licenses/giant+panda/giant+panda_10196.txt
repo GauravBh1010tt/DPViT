@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AdamAxon
+Photo URL    : https://www.flickr.com/photos/statto7/4923140848/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 21 12:36:44 GMT+0200 2010
+Upload Date  : Tue Aug 24 11:37:09 GMT+0200 2010
+Views        : 266
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Funi eats Bamboo 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo taken in Adelaide Zoo, Adelaide
+
+
++--------+
+|  TAGS  |
++--------+
+Adelaide Zoo Panda 

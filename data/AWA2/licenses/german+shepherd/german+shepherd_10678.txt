@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/8968237745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 6 12:03:30 GMT+0200 2013
+Upload Date  : Thu Jun 6 15:41:31 GMT+0200 2013
+Views        : 424
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+"Oh no you don't!"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+GSD "German Shepherd" "River Roding" river "Wanstead Park" Bessy Maxx 

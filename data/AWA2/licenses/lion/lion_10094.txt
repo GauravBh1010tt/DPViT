@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mara 1
+Photo URL    : https://www.flickr.com/photos/flametree/18186844793/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 11 18:34:42 GMT+0100 2003
+Upload Date  : Sun Jun 14 19:15:44 GMT+0200 2015
+Views        : 7,429
+Comments     : 18
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Lion Cub !
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My time in Zim &quot;Walking with Lions&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+Lion Animal Wildlife Cub Outdoors Grass Resting Zimbabwe "Walk with Lions" Gweru 

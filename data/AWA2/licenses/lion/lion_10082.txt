@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Schofield
+Photo URL    : https://www.flickr.com/photos/foxtree1/4508540401/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 9 15:09:36 GMT+0200 2010
+Upload Date  : Sun Apr 11 00:20:21 GMT+0200 2010
+Geotag Info  : Latitude:51.533649, Longitude:-0.151582
+Views        : 211
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Asian Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(1902)
+
+
++--------+
+|  TAGS  |
++--------+
+"London Zoo" sx20 IS 2010 Canon PowerShot 

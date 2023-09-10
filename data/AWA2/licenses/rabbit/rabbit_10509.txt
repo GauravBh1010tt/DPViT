@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vlad & Marina Butsky
+Photo URL    : https://www.flickr.com/photos/butsky/5826536233/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 11 06:59:40 GMT+0200 2011
+Upload Date  : Sat Jun 11 15:59:40 GMT+0200 2011
+Geotag Info  : Latitude:36.157944, Longitude:-120.411890
+Views        : 119
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Image 21477.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Place: USA/California/Central Valley/Coalinga Rifle Club
+Image 21477.
+
+
++--------+
+|  TAGS  |
++--------+
+"Set: 2011 Coalinga" "Author: Vlad" 

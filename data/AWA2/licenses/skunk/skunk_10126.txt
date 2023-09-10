@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mjambon
+Photo URL    : https://www.flickr.com/photos/mjambon/6977106970/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 28 18:33:05 GMT+0200 2012
+Upload Date  : Sun Apr 29 04:51:20 GMT+0200 2012
+Views        : 168
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Striped skunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Striped skunk (Mephitis mephitis), Shoreline Park, Mountain View, California.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : changehali
+Photo URL    : https://www.flickr.com/photos/53371280@N04/4976109396/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 18 00:33:56 GMT+0100 2008
+Upload Date  : Fri Sep 10 06:32:37 GMT+0200 2010
+Views        : 218
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

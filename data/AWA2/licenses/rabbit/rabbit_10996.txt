@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marko Milošević
+Photo URL    : https://www.flickr.com/photos/nictalopen/129017431/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 15 12:51:06 GMT+0200 2006
+Upload Date  : Sat Apr 15 21:51:06 GMT+0200 2006
+Views        : 906
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Today I visited my friend on his farm and there was my dearest rabbit. She's so confused.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit "red eye" cage farm sharp 

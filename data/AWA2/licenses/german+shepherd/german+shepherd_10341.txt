@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Guinea Fowl Flock
+Photo URL    : https://www.flickr.com/photos/7846004@N05/4292684913/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 21 09:28:18 GMT+0100 2010
+Upload Date  : Thu Jan 21 17:28:18 GMT+0100 2010
+Views        : 3,286
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherd dog herding the Guinea fowl
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Our German Shepherd dog, Buddy, watches over and herds the Guinea fowl as needed.
+
+For more Guinea Fowl Photographs and Information visit <a href="http://guineafowlbirds.com" rel="nofollow">guineafowlbirds.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"Pearl grey Guinea fowl" "guinea hens" dogs 

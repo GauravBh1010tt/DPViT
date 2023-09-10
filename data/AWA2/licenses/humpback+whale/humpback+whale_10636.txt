@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dwolfgra
+Photo URL    : https://www.flickr.com/photos/wolfgrams/9649419774/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 29 18:23:29 GMT+0200 2013
+Upload Date  : Sun Sep 1 22:08:52 GMT+0200 2013
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P8290469
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback Whale fluke, Frederick Sound
+
+
++--------+
+|  TAGS  |
++--------+
+wolfgrams southeast alaska uncruise adventures wilderness explorer 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nakae
+Photo URL    : https://www.flickr.com/photos/nakae/201923050/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 14 12:18:17 GMT+0200 2006
+Upload Date  : Sun Jul 30 19:13:30 GMT+0200 2006
+Geotag Info  : Latitude:43.769854, Longitude:142.477569
+Views        : 1,057
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hot days... #3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at Asahiyama zoo
+
+
++--------+
+|  TAGS  |
++--------+
+hokkaido asahiyama zoo lion 北海道 animal 

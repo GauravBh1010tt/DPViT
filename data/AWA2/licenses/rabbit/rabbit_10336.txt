@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Four Corners School
+Photo URL    : https://www.flickr.com/photos/fourcornersschool/10125508494/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 31 15:17:44 GMT+0200 2013
+Upload Date  : Mon Oct 7 01:08:50 GMT+0200 2013
+Views        : 145
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Desert Cotton Tail
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo by Jacob W. Frank
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

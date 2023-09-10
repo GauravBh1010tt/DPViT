@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sufw
+Photo URL    : https://www.flickr.com/photos/sufw/9997497223/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 5 01:15:18 GMT+0200 2013
+Upload Date  : Sun Sep 29 13:46:11 GMT+0200 2013
+Geotag Info  : Latitude:-24.738062, Longitude:31.510975
+Views        : 1,452
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard on the Hunt
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A young male leopard stalking a bushbuck in the late afternoon. Witnessing how silently and patiently this big cat stalked potential prey was a great experience.
+
+
++--------+
+|  TAGS  |
++--------+
+"Big 5" "Sabi Sands" "Panthera pardus" "big cat" male "Sabi Sand Wildtuin" "South Africa" cat Arathusa leopard "Canon EF200-400mm f/4L IS USM" 

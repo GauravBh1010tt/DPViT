@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Henrik Sommerfeld
+Photo URL    : https://www.flickr.com/photos/henrikpalm/7555972236/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 7 12:33:44 GMT+0200 2012
+Upload Date  : Thu Jul 12 16:06:55 GMT+0200 2012
+Geotag Info  : Latitude:-2.418000, Longitude:34.685388
+Views        : 231
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard with prey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Afrika "Serengeti National Park" Tanzania Mara Animal Djur Leopard "Panthera pardus" 

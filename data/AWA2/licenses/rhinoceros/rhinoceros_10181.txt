@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobosh_t
+Photo URL    : https://www.flickr.com/photos/frted/6760573423/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 24 23:48:38 GMT+0100 2012
+Upload Date  : Wed Jan 25 16:34:41 GMT+0100 2012
+Geotag Info  : Latitude:33.098875, Longitude:-116.997485
+Views        : 455
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0693
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+African Rhinos
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego Zoo Safari Park" animals mammals Rhino Rhinos Rhinoceros 

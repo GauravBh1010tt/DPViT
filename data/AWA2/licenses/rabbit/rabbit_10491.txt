@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/3135500023/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 25 15:01:25 GMT+0100 2008
+Upload Date  : Thu Dec 25 21:14:57 GMT+0100 2008
+Geotag Info  : Latitude:39.000934, Longitude:-76.876165
+Views        : 1,018
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Holmes also marvels at the Silent Wave Motor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+And the shutter doesn't bother him!
+
+
++--------+
+|  TAGS  |
++--------+
+petsitting holmes bunny rabbit "house rabbit" hopping "18-55mm f/3.5-5.6g vr" nikkor nikon d50 dslr 

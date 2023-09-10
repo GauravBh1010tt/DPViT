@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : arudhio
+Photo URL    : https://www.flickr.com/photos/arudhio/139653468/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 3 02:45:59 GMT+0200 2006
+Upload Date  : Wed May 3 11:45:59 GMT+0200 2006
+Views        : 2,444
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+キタキツネ
+
+
++--------+
+|  TAGS  |
++--------+
+Japan Hokkaido Nature Spring Animal fox 

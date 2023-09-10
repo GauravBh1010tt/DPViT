@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : misooden
+Photo URL    : https://www.flickr.com/photos/nickyu/8819958646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 25 10:19:01 GMT+0200 2013
+Upload Date  : Sat May 25 03:19:01 GMT+0200 2013
+Geotag Info  : Latitude:35.155252, Longitude:136.978088
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+何だかな〜って気分ですな
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram foursquare:venue=4eceef0a29c223f927275428 

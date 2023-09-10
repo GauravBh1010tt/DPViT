@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mrpolyonymous
+Photo URL    : https://www.flickr.com/photos/mrpolyonymous/6863015307/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 9 11:18:49 GMT+0100 2012
+Upload Date  : Sun Feb 12 16:22:14 GMT+0100 2012
+Geotag Info  : Latitude:45.683877, Longitude:-74.946928
+Views        : 1,800
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Arctic fox stalks its prey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The prey being a hot dog.
+
+
++--------+
+|  TAGS  |
++--------+
+"Parc Omega" fox "arctic fox" 

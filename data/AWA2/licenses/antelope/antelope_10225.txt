@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stormsignal
+Photo URL    : https://www.flickr.com/photos/stormsignal/15566979056/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 16 16:15:06 GMT+0200 2014
+Upload Date  : Tue Oct 21 11:36:13 GMT+0200 2014
+Views        : 1,770
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Blesbok
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The blesbok or blesbuck is an antelope endemic to South Africa. It has a distinctive white face and forehead which inspired the name, because 'bles' is the Afrikaans word for a blaze such as one might see on the forehead of a horse. Caught this cool customer out in the spring heat.
+
+
++--------+
+|  TAGS  |
++--------+
+Blesbuck Blesbok Antelope animals animal African Africa Magaliesberg "South Africa" StormSignal Savannah 

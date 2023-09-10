@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JustinJensen
+Photo URL    : https://www.flickr.com/photos/justinjensen/4710090206/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 20 12:55:47 GMT+0200 2009
+Upload Date  : Sat Jun 19 22:12:03 GMT+0200 2010
+Geotag Info  : Latitude:10.653185, Longitude:-85.550537
+Views        : 784
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Let me out.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nikon d90 "costa rica" "central america" wildlife wild life spider monkey captivity fence cage 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher.Michel
+Photo URL    : https://www.flickr.com/photos/cmichel67/19672683870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 5 22:18:33 GMT+0200 2015
+Upload Date  : Mon Jul 20 17:35:04 GMT+0200 2015
+Geotag Info  : Latitude:37.781549, Longitude:-122.403450
+Views        : 307
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bears
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+polarbears 50letpebody nuclearicebreaker "north pole" quark 

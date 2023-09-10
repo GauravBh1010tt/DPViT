@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : anyjazz65
+Photo URL    : https://www.flickr.com/photos/49024304@N00/4336885557/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 21 16:35:36 GMT+0200 2008
+Upload Date  : Thu Dec 21 14:52:20 GMT+0100 2006
+Views        : 910
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Striped Siamese
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This &quot;Striped&quot; Siamese was very aware of me and avoided being anywhere near me.  The  four or five stray cats roaming near the restaurant dumpster tolerated each other but did not seem friendly at all.
+
+
++--------+
+|  TAGS  |
++--------+
+ajo65 cat "feral cat" Siamese blogTHcats20141022 

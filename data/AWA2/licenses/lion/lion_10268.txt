@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BFS Man
+Photo URL    : https://www.flickr.com/photos/bfs_man/6473284409/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 6 11:48:10 GMT+0100 2011
+Upload Date  : Wed Dec 7 21:23:39 GMT+0100 2011
+Geotag Info  : Latitude:29.713848, Longitude:-95.391197
+Views        : 3,168
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Laid-Back Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Jonathan the Lion at the Houston Zoo chills out on a cool December day
+
+
++--------+
+|  TAGS  |
++--------+
+Houston Texas "Houston Zoo" cat "big cat" lion 

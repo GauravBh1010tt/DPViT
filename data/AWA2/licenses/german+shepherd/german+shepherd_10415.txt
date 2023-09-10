@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 2Tales
+Photo URL    : https://www.flickr.com/photos/stigster/3881029497/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 2 18:02:46 GMT+0200 2009
+Upload Date  : Wed Sep 2 18:02:46 GMT+0200 2009
+Views        : 504
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gopi the puppy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"German Shepherd" Gopi dog 

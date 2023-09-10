@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D.Fletcher
+Photo URL    : https://www.flickr.com/photos/dfletcher/3790515856/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 29 14:34:32 GMT+0200 2009
+Upload Date  : Wed Aug 5 01:11:51 GMT+0200 2009
+Geotag Info  : Latitude:41.995732, Longitude:-69.890899
+Views        : 495
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Flounder HWC#8439
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback Whale
+
+
++--------+
+|  TAGS  |
++--------+
+Humpback Whale fluke tail "Cape Cod" nikon D80 dfletcher Flounder HWC#8439 t2 t2gom atlanticmatched 

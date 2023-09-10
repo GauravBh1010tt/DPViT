@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/4894890356/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 28 16:15:08 GMT+0200 2010
+Upload Date  : Sun Aug 15 20:25:58 GMT+0200 2010
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 8,700
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Head on the ground
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the Mongolian wolves of the zoo of Zürich lying on the ground, looking a bit bored but I think he just wanted to relax. The light was a bit tricky with the shadow and light zones.
+
+
++--------+
+|  TAGS  |
++--------+
+wolf mongolian cannine dog lying ground tired shadows zoo zürich switzerland nikon d300 zurich 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdrephotography
+Photo URL    : https://www.flickr.com/photos/jdrephotography/8095094221/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 15:22:55 GMT+0200 2012
+Upload Date  : Wed Oct 17 00:06:44 GMT+0200 2012
+Geotag Info  : Latitude:-19.861341, Longitude:-44.010629
+Views        : 271
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhino rhinoceros animal "animal photography" zoo horns fenced 

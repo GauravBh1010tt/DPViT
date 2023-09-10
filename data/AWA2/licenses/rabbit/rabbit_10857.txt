@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andyarthur
+Photo URL    : https://www.flickr.com/photos/andyarthur/7165024650/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 5 15:15:57 GMT+0200 2012
+Upload Date  : Wed May 9 16:55:24 GMT+0200 2012
+Geotag Info  : Latitude:42.683719, Longitude:-75.518939
+Views        : 3,987
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://andyarthur.org/photos/rogers/rabbit.html" rel="nofollow">andyarthur.org/photos/rogers/rabbit.html</a>
+
+
++--------+
+|  TAGS  |
++--------+
+rogers environmental education center andyarthur rabbit 

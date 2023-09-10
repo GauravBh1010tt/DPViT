@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gailhampshire
+Photo URL    : https://www.flickr.com/photos/gails_pictures/18155863601/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 19 13:18:31 GMT+0200 2015
+Upload Date  : Wed May 27 11:51:34 GMT+0200 2015
+Geotag Info  : Latitude:52.381022, Longitude:1.015377
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Forestry Commission. Hockham Fen Norfolk
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

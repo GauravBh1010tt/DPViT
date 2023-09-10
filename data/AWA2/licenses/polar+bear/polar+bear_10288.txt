@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DragonFlyEye
+Photo URL    : https://www.flickr.com/photos/dragonflyeye/7503444746/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 1 04:20:04 GMT+0200 2012
+Upload Date  : Wed Jul 4 22:32:22 GMT+0200 2012
+Views        : 5
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0029
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

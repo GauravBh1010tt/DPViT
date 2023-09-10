@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jmd41280
+Photo URL    : https://www.flickr.com/photos/jmd41280/7104324431/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 18 11:42:40 GMT+0200 2012
+Upload Date  : Mon Apr 23 02:45:39 GMT+0200 2012
+Geotag Info  : Latitude:30.403268, Longitude:-81.645069
+Views        : 309
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+African Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"African Lion" Lion "Jacksonville Zoo" "Jacksonville, FL" Jacksonville Florida Zoo 

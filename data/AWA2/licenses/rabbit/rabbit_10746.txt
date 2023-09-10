@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dulup
+Photo URL    : https://www.flickr.com/photos/duloup/927367604/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 10:42:49 GMT+0200 2007
+Upload Date  : Sat Jul 28 13:53:26 GMT+0200 2007
+Geotag Info  : Latitude:44.802788, Longitude:-0.699251
+Views        : 22,010
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit / Lapin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rabbit
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Pessac Lapin Rabbit "Animal Planet" AnimalAddiction! 

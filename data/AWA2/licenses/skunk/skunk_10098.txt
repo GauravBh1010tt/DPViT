@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cobaltfish
+Photo URL    : https://www.flickr.com/photos/cobaltfish/13565232595/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 27 11:48:56 GMT+0100 2014
+Upload Date  : Tue Apr 1 20:20:48 GMT+0200 2014
+Geotag Info  : Latitude:53.239402, Longitude:10.051336
+Views        : 415
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Skunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+About as close as I care to come to its &quot;business end&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+Skunk 

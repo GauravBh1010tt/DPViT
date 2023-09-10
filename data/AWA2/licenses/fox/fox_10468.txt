@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eschipul
+Photo URL    : https://www.flickr.com/photos/eschipul/5809854924/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 5 16:39:19 GMT+0200 2011
+Upload Date  : Tue Jun 7 23:27:17 GMT+0200 2011
+Geotag Info  : Latitude:29.736715, Longitude:-95.580497
+Views        : 1,060
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+photo of a photo of a fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+photo of a photo of a fox at the fox and hound in houston
+
+
++--------+
+|  TAGS  |
++--------+
+pool "pool hall" "the cousins visit" texas "the fox & hound" pub 

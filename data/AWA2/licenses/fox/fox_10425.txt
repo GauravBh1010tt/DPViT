@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bambe1964
+Photo URL    : https://www.flickr.com/photos/bambe1964/5641743341/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 17 12:24:57 GMT+0200 2011
+Upload Date  : Fri Apr 22 04:18:01 GMT+0200 2011
+Geotag Info  : Latitude:29.716681, Longitude:-95.393160
+Views        : 318
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+maned wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox "houston zoo" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lauren Tucker Photography
+Photo URL    : https://www.flickr.com/photos/photographygal123/4779751363/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 5 16:20:23 GMT+0200 2010
+Upload Date  : Sat Jul 10 18:12:26 GMT+0200 2010
+Geotag Info  : Latitude:36.541488, Longitude:-4.623980
+Views        : 1,851
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+End Of Dolphin Show In Selwo Marina
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+End Of Dolphin Show In Selwo Marina, Benalmadena
+
+
++--------+
+|  TAGS  |
++--------+
+Spain Fuengirola Costa Del Sol Espanol Selwo Marina Sea World Benalmadena Blue Dolphins Water Grey White Jump 

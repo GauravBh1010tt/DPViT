@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ivette D.L.G.
+Photo URL    : https://www.flickr.com/photos/ivettespetphotography/7714134478/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 17:38:03 GMT+0200 2012
+Upload Date  : Sun Aug 5 04:03:45 GMT+0200 2012
+Views        : 832
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Darla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Darla GSD German Shepherd Dog Perro Pastor Aleman Female Hembra 

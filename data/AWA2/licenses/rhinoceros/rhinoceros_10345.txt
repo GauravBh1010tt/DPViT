@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steveslater195
+Photo URL    : https://www.flickr.com/photos/leopardsteve/17074712612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 21 21:58:36 GMT+0200 2009
+Upload Date  : Wed Apr 8 12:04:22 GMT+0200 2015
+Views        : 119
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rhino and calf grazing in the African bush
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+rhino and calf grazing in the African bush
+
+
++--------+
+|  TAGS  |
++--------+
+HDR How KwaZulu-Natal Mammals Nature "South Africa" What Where "White Rhinoceros" Wildlife abstract artistic "fine art" "hluhluwe umfolozi" "wildlife encounters" Eastbourne UK 

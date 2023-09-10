@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ruocaled
+Photo URL    : https://www.flickr.com/photos/ruocaled/8499003091/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 21 01:38:12 GMT+0100 2013
+Upload Date  : Sat Feb 23 09:15:31 GMT+0100 2013
+Geotag Info  : Latitude:48.453342, Longitude:-123.372344
+Views        : 3,016
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+took 1000 pictures of it, only this one is not blur....lol
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit victoria saanich bunny 

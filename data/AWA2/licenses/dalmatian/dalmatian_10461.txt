@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/7947612488/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 9 12:24:34 GMT+0200 2012
+Upload Date  : Fri Sep 7 06:30:07 GMT+0200 2012
+Geotag Info  : Latitude:46.515287, Longitude:7.592368
+Views        : 9,049
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sidney running in the grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is Sidney, the Dalmatian of friends running happily in the grass!
+
+
++--------+
+|  TAGS  |
++--------+
+dog dalmatian male spots black white happy running grass "berner oberland" adelboden switzerland nikon d700 frisbee 

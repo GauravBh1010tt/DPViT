@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aperture_lag
+Photo URL    : https://www.flickr.com/photos/aperture_lag/9121630999/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 20 19:12:49 GMT+0200 2013
+Upload Date  : Mon Jun 24 06:41:37 GMT+0200 2013
+Views        : 576
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+BUNNYBUNNYBUNNY
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+----
+Canon 30D
+Tokina 500mm f/8 mirror
+
+ISO 3200 (H) + one stop push in Lightroom.
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon 30D" "Tokina 500mm f/8 Mirror" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Y.UTU
+Photo URL    : https://www.flickr.com/photos/utsunomiya/5498178979/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 3 18:19:28 GMT+0100 2011
+Upload Date  : Sat Mar 5 05:43:51 GMT+0100 2011
+Geotag Info  : Latitude:35.628000, Longitude:139.735166
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2011-03-03_18-19-28
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Aquarium アクアスタジアム 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : emdot
+Photo URL    : https://www.flickr.com/photos/emdot/4211293/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 1 00:00:00 GMT+0100 2003
+Upload Date  : Thu Feb 3 18:37:27 GMT+0100 2005
+Geotag Info  : Latitude:35.277511, Longitude:-120.656817
+Views        : 3,984
+Comments     : 17
+
+
++---------+
+|  TITLE  |
++---------+
+The photo that sealed the deal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Houston cats while they were still in Houston. The orange one still lives in Houston. The far left white one is Tula and she lives with <a href="http://www.flickr.com/photos/springdew/">Spring Dew</a> in Florida. The middle one is Charlotte. And last but not least is Sir Chapes Alot.
+
+
++--------+
+|  TAGS  |
++--------+
+siamese chapin charlotte kittens cats 

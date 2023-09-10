@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fortherock
+Photo URL    : https://www.flickr.com/photos/fortherock/3899154842/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 2 11:53:41 GMT+0100 2008
+Upload Date  : Tue Sep 8 04:41:05 GMT+0200 2009
+Views        : 5,998
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Panda Bear - San Diego Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Baby Panda Bear - San Diego Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Baby Panda Bear San Diego Zoo 

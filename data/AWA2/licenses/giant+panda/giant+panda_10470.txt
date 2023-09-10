@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : feserc
+Photo URL    : https://www.flickr.com/photos/feserc/3512821906/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 3 10:48:46 GMT+0200 2009
+Upload Date  : Fri May 8 13:09:48 GMT+0200 2009
+Geotag Info  : Latitude:30.665380, Longitude:104.064559
+Views        : 376
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+On the Rocks
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chengdu china panda 

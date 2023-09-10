@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mollenborg
+Photo URL    : https://www.flickr.com/photos/mollenborg/4663202981/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 8 11:49:38 GMT+0200 2009
+Upload Date  : Wed Jun 2 18:30:13 GMT+0200 2010
+Geotag Info  : Latitude:55.672255, Longitude:12.522150
+Views        : 268
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Olek the Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Copenhagen Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+copenhagen zoo danmark frederiksberg denmark animals animal 

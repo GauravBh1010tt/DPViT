@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : plasticpeople
+Photo URL    : https://www.flickr.com/photos/plasticpeople-jp/14872830639/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 19 12:39:56 GMT+0100 2013
+Upload Date  : Thu Aug 28 06:18:57 GMT+0200 2014
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/3583355138/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 31 11:22:00 GMT+0200 2009
+Upload Date  : Mon Jun 1 00:23:32 GMT+0200 2009
+Geotag Info  : Latitude:32.736885, Longitude:-117.148933
+Views        : 560
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fierce Yawn 2864
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Kung Fu Panda&quot; has it all wrong, you know.
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" zoo snow leopard lick yawn 

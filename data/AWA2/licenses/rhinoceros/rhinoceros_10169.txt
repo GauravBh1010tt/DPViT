@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pquan
+Photo URL    : https://www.flickr.com/photos/pquan/4613496680/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 30 12:21:07 GMT+0100 2008
+Upload Date  : Mon May 17 00:51:26 GMT+0200 2010
+Geotag Info  : Latitude:32.741244, Longitude:-96.816828
+Views        : 161
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dallas Zoo-2008-10-30-035
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Black Rhinoceros, Diceros bicornis minor
+
+
++--------+
+|  TAGS  |
++--------+
+Dallas zoo "Dallas Zoo" animal rhinoceros rhino 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeremyparr
+Photo URL    : https://www.flickr.com/photos/jparr/4128744018/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 19 16:07:24 GMT+0100 2009
+Upload Date  : Mon Nov 23 18:55:03 GMT+0100 2009
+Geotag Info  : Latitude:20.647884, Longitude:-87.640342
+Views        : 56
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+PB194164
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tulum Mexico "Puna Laguna" "spider monkey" monkey reserve 

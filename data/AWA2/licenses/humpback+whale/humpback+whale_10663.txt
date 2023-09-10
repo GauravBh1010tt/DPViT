@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : U. S. Fish and Wildlife Service - Northeast Region
+Photo URL    : https://www.flickr.com/photos/usfwsnortheast/8577619195/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 6 14:49:16 GMT+0200 2009
+Upload Date  : Thu Mar 21 22:08:46 GMT+0100 2013
+Geotag Info  : Latitude:42.614349, Longitude:-70.668113
+Views        : 801
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tail of a Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photographed off the coast of Gloucester, MA.
+
+Credit: BJ Richardson/USFWS
+
+<a href="http://www.fws.gov/northeast" rel="nofollow">www.fws.gov/northeast</a>
+<a href="http://www.facebook.com/usfwsnortheast" rel="nofollow">www.facebook.com/usfwsnortheast</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"humpback whale" mammal "atlantic ocean" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larkyn.
+Photo URL    : https://www.flickr.com/photos/larkyn/4545557912/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 21 11:25:34 GMT+0200 2010
+Upload Date  : Fri Apr 23 12:05:47 GMT+0200 2010
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+jacksonville zoo florida leopard 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SSipple
+Photo URL    : https://www.flickr.com/photos/ssipple/14506246521/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 22 08:22:35 GMT+0200 2014
+Upload Date  : Thu Jun 26 04:51:35 GMT+0200 2014
+Views        : 541
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SharonSipple_20140622_4387
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Smithsonian National Zoo" Panda "Panda Cub" 

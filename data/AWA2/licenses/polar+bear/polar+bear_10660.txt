@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/7486613122/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 30 16:01:42 GMT+0200 2012
+Upload Date  : Mon Jul 2 14:53:11 GMT+0200 2012
+Geotag Info  : Latitude:39.972647, Longitude:-75.196180
+Views        : 2,486
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bears (Ursus maritimus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Philadelphia Zoo
+June 30, 2012
+
+
++--------+
+|  TAGS  |
++--------+
+"Philadelphia Zoo" zoo "polar bear" 

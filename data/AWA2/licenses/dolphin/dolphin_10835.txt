@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tim ellis
+Photo URL    : https://www.flickr.com/photos/tim_ellis/9599996987/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 15 12:56:49 GMT+0200 2013
+Upload Date  : Mon Aug 26 22:53:42 GMT+0200 2013
+Geotag Info  : Latitude:38.257633, Longitude:-28.311359
+Views        : 891
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Whale watch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+3rd Day Whale Watch
+
+
++--------+
+|  TAGS  |
++--------+
+Holiday Azores Horta "Whale Watch Azores" Portugal Faial Dolphin 

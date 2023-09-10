@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BrandonLord
+Photo URL    : https://www.flickr.com/photos/95508982@N06/11595585535/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 26 13:56:09 GMT+0100 2013
+Upload Date  : Sat Dec 28 03:49:40 GMT+0100 2013
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

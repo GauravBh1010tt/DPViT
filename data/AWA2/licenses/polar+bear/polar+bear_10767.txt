@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Commodore Gandalf Cunningham
+Photo URL    : https://www.flickr.com/photos/gandalfcunningham/5295177069/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 26 16:04:46 GMT+0100 2010
+Upload Date  : Mon Dec 27 05:26:23 GMT+0100 2010
+Views        : 3,664
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Toronto Zoo - Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+toronto zoo polar bear 

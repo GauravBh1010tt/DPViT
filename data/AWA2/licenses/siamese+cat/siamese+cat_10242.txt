@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marcelo Alves
+Photo URL    : https://www.flickr.com/photos/xfer/5294228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 1 16:52:28 GMT+0200 2004
+Upload Date  : Wed Feb 23 14:01:13 GMT+0100 2005
+Views        : 1,073
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Boo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My siamese cat, Boo.
+
+
++--------+
+|  TAGS  |
++--------+
+unfound photo Boo cat animal 

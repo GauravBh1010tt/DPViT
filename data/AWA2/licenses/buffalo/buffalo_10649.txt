@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mmmavocado
+Photo URL    : https://www.flickr.com/photos/mmmavocado/19079943932/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 15 12:43:19 GMT+0200 2015
+Upload Date  : Tue Jun 23 16:25:48 GMT+0200 2015
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0605
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison with calves
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

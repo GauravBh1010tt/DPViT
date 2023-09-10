@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Traveller-Reini
+Photo URL    : https://www.flickr.com/photos/129472585@N03/16754673102/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 22 05:09:25 GMT+0200 2014
+Upload Date  : Sun Mar 8 19:29:40 GMT+0100 2015
+Geotag Info  : Latitude:52.501300, Longitude:13.526155
+Views        : 2,340
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Berlin: Asian Rhino, Tierpark Friedrichsfelde
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Indian rhinoceros
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Animals Tiere Rhino Deutschland Germany 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : coolinsights
+Photo URL    : https://www.flickr.com/photos/coolinsights/5824285509/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 1 06:13:10 GMT+0200 2011
+Upload Date  : Sun Jun 12 17:04:17 GMT+0200 2011
+Views        : 280
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rocky Mountain Buffalo Ranch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Rocky Mountain Buffalo Ranch" Bison "North American Bison" Buffalo Bulls Cows Calves Farm 

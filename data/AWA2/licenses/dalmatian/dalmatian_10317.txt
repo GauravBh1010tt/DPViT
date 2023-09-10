@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/15496008374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 25 19:03:45 GMT+0200 2014
+Upload Date  : Sat Dec 27 12:26:20 GMT+0100 2014
+Views        : 976
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Angie und Jack
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mai 2014
+Canon EOS 60D
+EF-S 55-250mm f/4-5.6 IS II
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+dog hund rüde male mischling braun langhaar long hear water wasser hunde spaß fun dogs baden swimming dalmatiner dalmatian 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joepyrek
+Photo URL    : https://www.flickr.com/photos/joepyrek/8300057745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 19 05:40:32 GMT+0200 2012
+Upload Date  : Sun Dec 23 18:44:01 GMT+0100 2012
+Geotag Info  : Latitude:-3.044043, Longitude:35.379098
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Impala in Ngorongoro (1)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Serengeti Tanzania Shoebaru Subaru Forester "Goodwood to Good Hope" 

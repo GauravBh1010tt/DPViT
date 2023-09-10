@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jonas Rau
+Photo URL    : https://www.flickr.com/photos/126958342@N04/15545286155/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 10 19:32:55 GMT+0200 2014
+Upload Date  : Thu Oct 16 00:05:04 GMT+0200 2014
+Views        : 110
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+15-IMG_2355
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+You are free to use this photo  (including commercial use) under attribution to the author. If being used online please add a link to <a href="http://ujora.de" rel="nofollow">ujora.de</a>
+
+Dieses Foto darf unter Angabe des Autors frei verwendet werden (eingeschlossen kommerzielle Zwecke). Bei Online-Verwendung bitte einen Link zu <a href="http://ujora.de" rel="nofollow">ujora.de</a> hinzufügen. 
+
+Usted es libre de utilizar esta foto (incluido el uso comercial) en virtud de la atribución al autor. Si se está utilizando en línea por favor añadir un enlace a <a href="http://ujora.de" rel="nofollow">ujora.de</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"Africam Safari" Nashorn Rhino Rhinoceros Rhinozeros "Rinoceronte Blanco" "Rinoceronte Negro" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/7103487117/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 21 15:52:19 GMT+0200 2012
+Upload Date  : Sun Apr 22 22:21:19 GMT+0200 2012
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 744
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Optimistic Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwicks zoo massachusetts cat leopard sunny 

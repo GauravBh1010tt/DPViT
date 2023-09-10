@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Robert.Pittman
+Photo URL    : https://www.flickr.com/photos/50144889@N08/15997570518/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 23 22:10:32 GMT+0100 2014
+Upload Date  : Sat Jan 3 16:33:32 GMT+0100 2015
+Geotag Info  : Latitude:26.551372, Longitude:-80.322143
+Views        : 3,732
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Southern White Rhinoceros. Nikon D3200. DSC_0625.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Southern White Rhinoceros
+In Florida’sonly Drive Through Safari Adventure!
+Weighs up to 2.5 Tons. Has poor eyesight but excellent senses of hearing and smell, life expectancy is around 40 years. Unlike its cousin, the black rhino, they are relatively docile animals
+Taken on the 23/12/2014 at 17;10:32Hrs  In Lion Country Safari park,USING A NIKON D3200 CAMERA WITH A TAMRON AF70-300MM F4-5.6 DI LD MACRO 1:2 LENS,
+
+Lion Country Safari, Florida opened in 1967, in rural Western Palm Beach County, Florida.
+
+
++--------+
+|  TAGS  |
++--------+
+NikonD3200 d3200 "Tamron AF70-300mm F/4-5" "6 Di LD MACRO 1:2" "62mm UV Filter" "I AM NIKON" "Southern White Rhinoceros" "Lion Country Safari" Loxahatchee "Wildlife Preserve" "Western Palm Beach County" "Palm Beach" Florida USA 

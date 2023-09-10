@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : desicamera
+Photo URL    : https://www.flickr.com/photos/67421162@N04/6136010159/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 31 16:41:48 GMT+0200 2011
+Upload Date  : Sun Sep 11 16:29:25 GMT+0200 2011
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Whale season Maui, 2011.
+Extremely difficult shot, because you don't know when they will jump out of the water.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

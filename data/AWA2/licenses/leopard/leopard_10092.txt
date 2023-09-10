@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Avery
+Photo URL    : https://www.flickr.com/photos/33590535@N06/3681488696/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 10 12:40:24 GMT+0200 2009
+Upload Date  : Thu Jul 2 12:43:51 GMT+0200 2009
+Geotag Info  : Latitude:1.404264, Longitude:103.789429
+Views        : 1,794
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Asian Leopard Cat {prionailurus bengalensis}
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Singapore Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"singapore zoo" "taxonomy:common=Asian Leopard Cat" "taxonomy:binomial=prionailurus bengalensis" 

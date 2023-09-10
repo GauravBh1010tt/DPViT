@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MeRyan
+Photo URL    : https://www.flickr.com/photos/63457916@N00/3213781959/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 16 15:05:41 GMT+0100 2006
+Upload Date  : Wed Jan 21 04:23:02 GMT+0100 2009
+Views        : 26
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMGP0898
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"New Orleans" "Audubon Zoo" Rhinoceros Public 

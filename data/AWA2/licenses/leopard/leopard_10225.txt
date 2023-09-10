@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gregory "Slobirdr" Smith
+Photo URL    : https://www.flickr.com/photos/slobirdr/21615251779/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 9 23:12:01 GMT+0200 2015
+Upload Date  : Tue Sep 29 06:53:53 GMT+0200 2015
+Geotag Info  : Latitude:-19.254108, Longitude:23.172912
+Views        : 1,484
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard (Panthera pardus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Always looking for a breeze on a hot day, this leopard found a shady branch to lounge over...
+
+
++--------+
+|  TAGS  |
++--------+
+"Leopard (Panthera pardus)" "Moremi Game Reserve" Botswana "Gregory Slobirdr Smith" 

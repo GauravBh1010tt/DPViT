@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photec
+Photo URL    : https://www.flickr.com/photos/photec/9544833623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 19 17:07:23 GMT+0200 2013
+Upload Date  : Mon Aug 19 16:08:30 GMT+0200 2013
+Views        : 311
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+336273_10150372193189530_84471928_o
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog george agasandian photography nikon canon gsd german shepherd 

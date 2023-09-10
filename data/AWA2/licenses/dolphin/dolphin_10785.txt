@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rob Shenk
+Photo URL    : https://www.flickr.com/photos/rcsj/7922305100/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 19 03:08:51 GMT+0200 2012
+Upload Date  : Mon Sep 3 18:00:39 GMT+0200 2012
+Geotag Info  : Latitude:21.997808, Longitude:-159.791393
+Views        : 3,979
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Spinner Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A dolphin surfaces near our boat along the south shore of Kauai.
+
+
++--------+
+|  TAGS  |
++--------+
+Dolphin Kauai Hawaii Pacific Blue Sea 

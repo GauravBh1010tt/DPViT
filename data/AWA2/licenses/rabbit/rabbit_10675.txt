@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/5762497189/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 26 16:25:55 GMT+0200 2011
+Upload Date  : Thu May 26 23:01:07 GMT+0200 2011
+Geotag Info  : Latitude:44.295584, Longitude:-77.553343
+Views        : 683
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Munch, munch_4572
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Wild Rabbit" Stirling Ontario 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Zillay Ali
+Photo URL    : https://www.flickr.com/photos/zillay/12463379245/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 11 19:07:38 GMT+0100 2014
+Upload Date  : Tue Feb 11 20:04:24 GMT+0100 2014
+Views        : 445
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siamese Kitten on my Shoulder
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Siamese Kitten on my Shoulder
+
+
++--------+
+|  TAGS  |
++--------+
+Siamese Cat Kitten Cute "Siamese Kitten" Playful beautiful pet animal free "creative common" share-alike 

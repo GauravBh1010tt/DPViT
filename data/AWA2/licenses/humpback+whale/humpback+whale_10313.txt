@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : clr_flickr
+Photo URL    : https://www.flickr.com/photos/clr-photos/3453766245/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 11 12:32:17 GMT+0200 2009
+Upload Date  : Sun Apr 19 04:16:42 GMT+0200 2009
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimney Rock - Point Reyes National Seashore
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

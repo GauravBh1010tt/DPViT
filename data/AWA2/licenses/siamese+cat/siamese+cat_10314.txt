@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : emdot
+Photo URL    : https://www.flickr.com/photos/emdot/283947/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 29 00:08:07 GMT+0200 2004
+Upload Date  : Sun Aug 29 09:14:11 GMT+0200 2004
+Views        : 994
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+His big game skills were exceptional.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My cat is so lazy, he thinks hunting for feet equals a hard day's work.
+
+
++--------+
+|  TAGS  |
++--------+
+foot bite cat siamese chapin beige jeans 

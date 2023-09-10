@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : santanartist
+Photo URL    : https://www.flickr.com/photos/dottieday/7711667690/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 11:07:23 GMT+0200 2012
+Upload Date  : Sat Aug 4 20:07:37 GMT+0200 2012
+Geotag Info  : Latitude:-1.556391, Longitude:-80.809979
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale Fluke
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another good shot of a humpback whale.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

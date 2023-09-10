@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : peupleloup
+Photo URL    : https://www.flickr.com/photos/peupleloup/905461590/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 11 19:35:40 GMT+0200 2004
+Upload Date  : Thu Jul 26 15:21:56 GMT+0200 2007
+Views        : 14,300
+Comments     : 21
+
+
++---------+
+|  TITLE  |
++---------+
+Grand renard tout proche/Large very close fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ce magnifique renard s'est bien moqué de ma présence. Il s'est même rapproché encore, à tel point que la mise au point n'était plus possible !
+
+This splendid fox made fun well of my presence. It even still approached, so much so that the development was not possible any more!
+
+
++--------+
+|  TAGS  |
++--------+
+faune sauvage québec renard nature fox wildlife red AnimalKingdomElite ImpressedBeauty 

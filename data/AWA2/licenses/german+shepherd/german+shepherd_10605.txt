@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lucid Nightmare
+Photo URL    : https://www.flickr.com/photos/lucid_nightmare/130933208/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 18 06:05:28 GMT+0200 2006
+Upload Date  : Tue Apr 18 21:24:28 GMT+0200 2006
+Views        : 868
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Lexie and her Buddy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the few dogs she seems to like, at least most of the time.
+
+
++--------+
+|  TAGS  |
++--------+
+Lexie "German Shepherd" dogs 

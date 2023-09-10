@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tai strietman
+Photo URL    : https://www.flickr.com/photos/21949386@N07/2251757093/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 3 17:30:34 GMT+0100 2008
+Upload Date  : Sat Feb 9 13:20:32 GMT+0100 2008
+Geotag Info  : Latitude:-20.324023, Longitude:21.071777
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

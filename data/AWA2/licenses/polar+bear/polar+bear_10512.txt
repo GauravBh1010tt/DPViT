@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Will Ellis
+Photo URL    : https://www.flickr.com/photos/wills/124102585/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 31 11:56:13 GMT+0200 2006
+Upload Date  : Thu Apr 6 08:37:30 GMT+0200 2006
+Views        : 939
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Singapore Zoo" Bear "Polar Bear" Singapore "Round The World Trip" "Gap Year" 

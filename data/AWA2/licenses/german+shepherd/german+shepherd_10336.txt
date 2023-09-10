@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Armin M. Photography
+Photo URL    : https://www.flickr.com/photos/arminmuza/21496686776/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 26 17:03:52 GMT+0200 2015
+Upload Date  : Sat Sep 19 00:18:09 GMT+0200 2015
+Geotag Info  : Latitude:45.655088, Longitude:15.320434
+Views        : 72
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German Shepherd Chillin'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+#dog #German #Shepherd #Slovenia 

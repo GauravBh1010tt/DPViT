@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Erick Houli
+Photo URL    : https://www.flickr.com/photos/bejor77/4277312007/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 2 13:29:00 GMT+0100 2010
+Upload Date  : Sat Jan 16 03:21:59 GMT+0100 2010
+Views        : 39
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2813a
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

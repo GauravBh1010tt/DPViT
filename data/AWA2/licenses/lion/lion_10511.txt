@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David Hurt
+Photo URL    : https://www.flickr.com/photos/davidht/3032322221/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 8 15:19:00 GMT+0100 2008
+Upload Date  : Sat Nov 15 23:00:12 GMT+0100 2008
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo of Madrid
+
+
++--------+
+|  TAGS  |
++--------+
+Animals nature zoo 

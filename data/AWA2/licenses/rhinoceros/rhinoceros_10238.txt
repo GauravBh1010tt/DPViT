@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dpape
+Photo URL    : https://www.flickr.com/photos/dpape/3095768937/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 20 12:02:50 GMT+0200 2008
+Upload Date  : Tue Dec 9 23:05:56 GMT+0100 2008
+Geotag Info  : Latitude:42.938611, Longitude:-78.851516
+Views        : 244
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_18251
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2008 buffalo zoo rhinoceros "buffalo zoo" 

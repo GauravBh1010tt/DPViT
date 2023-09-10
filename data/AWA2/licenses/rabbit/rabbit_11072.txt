@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hannibal1107
+Photo URL    : https://www.flickr.com/photos/21022123@N04/18820323462/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 09:52:53 GMT+0200 2015
+Upload Date  : Mon Jun 15 09:52:44 GMT+0200 2015
+Views        : 91
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Can you find the one that is not a bird?, Yes you are right.
+
+
++--------+
+|  TAGS  |
++--------+
+Birds Moraine Hills State Park 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8700132926/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 10 12:15:59 GMT+0100 2013
+Upload Date  : Wed May 1 22:02:03 GMT+0200 2013
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 22,479
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cute sleeping wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This sleeping wolf was looking so content and adorable!
+
+
++--------+
+|  TAGS  |
++--------+
+sleeping lying sunny content happy relaxed "open mouth" dreaming brown mongolian wolf canine canid dog winter snow cold zoo zürich nikon d4 

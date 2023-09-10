@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/8119981680/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 18 17:56:17 GMT+0200 2012
+Upload Date  : Wed Oct 24 21:33:58 GMT+0200 2012
+Views        : 422
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Abendspaziergang mit Angie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oktober 2012
+Canon EOS 40D
+EF-S 55-250mm f/4-5.6 IS II
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hündin dog dalmatiner female dalmatian Dalmatinac 

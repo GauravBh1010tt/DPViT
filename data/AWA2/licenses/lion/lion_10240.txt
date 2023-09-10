@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JoyTek
+Photo URL    : https://www.flickr.com/photos/joytek/5730377175/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 14 14:03:08 GMT+0200 2011
+Upload Date  : Tue May 17 19:11:08 GMT+0200 2011
+Geotag Info  : Latitude:47.248001, Longitude:1.352037
+Views        : 334
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMGP5550
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+zoo parc beauval
+
+
++--------+
+|  TAGS  |
++--------+
+zoo beauval lion 

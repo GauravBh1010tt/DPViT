@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Headquarters
+Photo URL    : https://www.flickr.com/photos/usfwshq/14499486219/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 11 08:29:02 GMT+0100 2009
+Upload Date  : Fri Jul 18 23:19:28 GMT+0200 2014
+Views        : 3,023
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gray wolf pups emerging from den
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Image credit: Hilary Cooley
+
+
++--------+
+|  TAGS  |
++--------+
+wolf wolves "gray wolf" 

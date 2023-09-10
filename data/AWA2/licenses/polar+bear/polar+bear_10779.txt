@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kate nev
+Photo URL    : https://www.flickr.com/photos/katenev/3085815468/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 16 11:57:03 GMT+0200 2008
+Upload Date  : Fri Dec 5 23:41:03 GMT+0100 2008
+Geotag Info  : Latitude:52.507225, Longitude:13.337402
+Views        : 511
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+berlin germany europe knut "polar bear" zoo 

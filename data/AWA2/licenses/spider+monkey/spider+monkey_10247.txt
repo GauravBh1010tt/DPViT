@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : smalltownguy22
+Photo URL    : https://www.flickr.com/photos/smalltownguy22/3349272645/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 11 09:21:54 GMT+0100 2009
+Upload Date  : Thu Mar 12 21:53:35 GMT+0100 2009
+Geotag Info  : Latitude:31.767954, Longitude:-106.443861
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+spider monkeys
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

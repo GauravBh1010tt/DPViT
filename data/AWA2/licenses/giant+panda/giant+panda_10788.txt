@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SSipple
+Photo URL    : https://www.flickr.com/photos/ssipple/10047832035/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 22 01:30:36 GMT+0200 2013
+Upload Date  : Wed Oct 2 05:14:28 GMT+0200 2013
+Views        : 395
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SAS_9961
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"National Zoo" Pandas 

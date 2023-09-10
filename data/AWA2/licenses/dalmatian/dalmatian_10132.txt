@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/7649730338/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 24 18:58:35 GMT+0200 2012
+Upload Date  : Thu Jul 26 14:43:41 GMT+0200 2012
+Views        : 283
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dreckgusche
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Juli 2012
+Canon EOS 40D
+EF-S 55-250mm f/4-5.6 IS II
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hündin dog dalmatiner female dalmatian Dalmatinac 

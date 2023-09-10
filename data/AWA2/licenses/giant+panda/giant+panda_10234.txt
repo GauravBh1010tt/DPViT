@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Swetha _R
+Photo URL    : https://www.flickr.com/photos/swetha_r/17197335161/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 19 00:44:10 GMT+0200 2015
+Upload Date  : Sun Apr 19 13:21:36 GMT+0200 2015
+Views        : 128
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+You talkin' to me?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Panda at Chengdu Panda Breeding Research Center
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

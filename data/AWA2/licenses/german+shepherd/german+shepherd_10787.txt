@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jkbrooks85
+Photo URL    : https://www.flickr.com/photos/jkbrooks85/12297731286/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 21 14:15:21 GMT+0100 2013
+Upload Date  : Tue Feb 4 02:31:28 GMT+0100 2014
+Views        : 438
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Santa Paws
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A German Shepherd waits to have her picture taken with Santa Claus, portrayed by Michael Dube, on Saturday, Dec. 21, 2013 in the St. Mary's Marion Center. The Humane Society of Kodiak held a Santa photo session fundraiser, collecting donations for animal shelter operations.
+(James Brooks photo)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

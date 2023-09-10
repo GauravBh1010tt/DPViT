@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : the4mahers1997
+Photo URL    : https://www.flickr.com/photos/the4mahers/6944218065/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 30 02:11:29 GMT+0200 2011
+Upload Date  : Thu Mar 1 18:34:11 GMT+0100 2012
+Views        : 259
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+NC Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Brown Bear 

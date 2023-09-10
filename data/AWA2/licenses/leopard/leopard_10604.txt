@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/4767904296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 6 09:11:36 GMT+0200 2010
+Upload Date  : Tue Jul 6 15:11:36 GMT+0200 2010
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Roger Williams Park Zoo (Providence, RI)
+
+
++--------+
+|  TAGS  |
++--------+
+"roger williams park" zoo "paul's pic" 2010 canon "rebel t2i" animals "rhode Island" Snow Leopard 

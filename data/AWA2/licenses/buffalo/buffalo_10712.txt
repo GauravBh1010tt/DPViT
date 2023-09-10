@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jkbrooks85
+Photo URL    : https://www.flickr.com/photos/jkbrooks85/6692391417/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 31 16:33:28 GMT+0100 2011
+Upload Date  : Sat Jan 14 01:44:22 GMT+0100 2012
+Views        : 1,796
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Kodiak Island bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison and cattle at Bill Burton's Kodiak Game Ranch on Kodiak Island's Narrow Cape, Dec. 31, 2011.
+
+
++--------+
+|  TAGS  |
++--------+
+bison "Kodiak Island" Kodiak "December 31" 

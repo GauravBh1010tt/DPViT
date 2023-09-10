@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rosshuggett
+Photo URL    : https://www.flickr.com/photos/rosshuggett/8147380594/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 25 14:02:32 GMT+0200 2012
+Upload Date  : Fri Nov 2 12:06:27 GMT+0100 2012
+Geotag Info  : Latitude:-23.972099, Longitude:31.497999
+Views        : 170
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+africa kruger lion national park south 

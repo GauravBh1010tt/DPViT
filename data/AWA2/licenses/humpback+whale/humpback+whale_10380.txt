@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D-Stanley
+Photo URL    : https://www.flickr.com/photos/davidstanleytravel/10029930165/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 14 09:37:24 GMT+0200 2013
+Upload Date  : Tue Oct 1 03:50:34 GMT+0200 2013
+Geotag Info  : Latitude:-12.567883, Longitude:44.896402
+Views        : 5,892
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A humpback whale surfaces in the Mozambique Channel, Indian Ocean, just northwest of the French overseas department of Mayotte. The whales come here from Antarctica each year from July to October to bear their young.
+
+
++--------+
+|  TAGS  |
++--------+
+humpback whale 

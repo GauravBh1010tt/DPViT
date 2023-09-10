@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Willem vdh
+Photo URL    : https://www.flickr.com/photos/willemvdh/2288951049/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 00:00:00 GMT+0200 2007
+Upload Date  : Sun Feb 24 23:05:16 GMT+0100 2008
+Views        : 205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fat Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+China panda Sichuan Chengdu 

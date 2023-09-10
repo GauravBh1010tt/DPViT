@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sarcroth
+Photo URL    : https://www.flickr.com/photos/24737767@N00/822482274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 15 09:45:35 GMT+0200 2007
+Upload Date  : Sun Jul 15 23:50:21 GMT+0200 2007
+Views        : 449
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Polar Bear at the Rio Grande Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" zoo animal 

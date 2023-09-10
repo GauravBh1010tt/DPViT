@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : German Shepherd Central
+Photo URL    : https://www.flickr.com/photos/germanshepherdcentral/1472751582/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 2 12:15:25 GMT+0200 2007
+Upload Date  : Tue Oct 2 18:15:25 GMT+0200 2007
+Views        : 1,682
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Four shepherds 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tenze, Leia, Mulder and Kessel with ball
+
+
++--------+
+|  TAGS  |
++--------+
+German Shepherds dogs 

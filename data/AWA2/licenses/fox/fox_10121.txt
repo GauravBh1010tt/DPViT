@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harlequeen
+Photo URL    : https://www.flickr.com/photos/harlequeen/6785253977/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 29 14:21:06 GMT+0100 2012
+Upload Date  : Sun Jan 29 23:39:12 GMT+0100 2012
+Geotag Info  : Latitude:52.410220, Longitude:-0.329418
+Views        : 438
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Corsac Fox 6
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamerton hamertonzoopark fox corsacfox 

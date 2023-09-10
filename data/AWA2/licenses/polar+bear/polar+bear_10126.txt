@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Metassus
+Photo URL    : https://www.flickr.com/photos/metassus/7906147244/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 14:22:17 GMT+0200 2012
+Upload Date  : Sat Sep 1 15:22:17 GMT+0200 2012
+Views        : 728
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chill Out
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A polar bear cools down nicely in the snow.
+
+
++--------+
+|  TAGS  |
++--------+
+woods winter polar snow wilderness bear ursine 

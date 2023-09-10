@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marie Hale
+Photo URL    : https://www.flickr.com/photos/15016964@N02/4241908638/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 3 14:10:14 GMT+0100 2010
+Upload Date  : Sun Jan 3 20:31:58 GMT+0100 2010
+Views        : 1,451
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Amur leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Amur leopard - taken at Marwell Wildlife on 3rd January 2010
+
+
++--------+
+|  TAGS  |
++--------+
+marwell leopard 

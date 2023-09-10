@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Robert Agthe
+Photo URL    : https://www.flickr.com/photos/polarity/144235395/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 4 15:56:08 GMT+0200 2006
+Upload Date  : Mon May 31 16:10:19 GMT+0200 2010
+Views        : 559
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Machs jut altes Mädchen
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hast Dir deine Ruhe verdient :)
+
+
++--------+
+|  TAGS  |
++--------+
+Garten Hund Schäferhund 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Robert W. Howington
+Photo URL    : https://www.flickr.com/photos/whitetrashtexas/3791231137/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 15 08:51:07 GMT+0200 2009
+Upload Date  : Wed Aug 5 14:05:33 GMT+0200 2009
+Views        : 1,635
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Cub
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Nikon Nikkor D700 "Capture NX" "Fort Worth Zoo" lion cub "70-300mm f4.5-5.6 VR II" 

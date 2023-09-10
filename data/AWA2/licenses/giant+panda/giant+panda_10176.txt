@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thethrillstheyyield
+Photo URL    : https://www.flickr.com/photos/thethrillstheyyield/4131898643/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 20 11:20:43 GMT+0100 2009
+Upload Date  : Wed Nov 25 03:20:02 GMT+0100 2009
+Geotag Info  : Latitude:33.735493, Longitude:-84.371094
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN3131
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"zoo atlanta" "mei lan" panda 

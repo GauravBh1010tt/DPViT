@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kangotraveler
+Photo URL    : https://www.flickr.com/photos/14279744@N03/2240133453/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 28 13:43:28 GMT+0200 2006
+Upload Date  : Mon Feb 4 02:42:58 GMT+0100 2008
+Views        : 186
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The lions were hot and not in the mood to strut their stuff.
+
+
++--------+
+|  TAGS  |
++--------+
+Montgomery Alabama Zoo 

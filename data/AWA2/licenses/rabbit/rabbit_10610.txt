@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : distar97
+Photo URL    : https://www.flickr.com/photos/dennisharper/5799133348/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 4 23:14:39 GMT+0200 2011
+Upload Date  : Sun Jun 5 07:43:38 GMT+0200 2011
+Geotag Info  : Latitude:41.083726, Longitude:-74.063590
+Views        : 1,134
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lana, Millie's German Angora bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Millie has had Lana for a three years. She is extremely docile despite being a fairly large bunny. Millie brushes her often since she produces so much wool. Millie brings Lana to school and wool festivals for demonstrations.
+
+
++--------+
+|  TAGS  |
++--------+
+"Lana Millie Harper wool bunny fiber" "German angora" 

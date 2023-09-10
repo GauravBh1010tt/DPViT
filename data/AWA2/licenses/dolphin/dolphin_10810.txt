@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hyku
+Photo URL    : https://www.flickr.com/photos/hyku/524274114/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 31 20:28:32 GMT+0200 2007
+Upload Date  : Fri Jun 1 05:24:59 GMT+0200 2007
+Geotag Info  : Latitude:24.944896, Longitude:-80.603224
+Views        : 215
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Theater of the Sea - Dolphin Show - FAA Conference
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+faa keys floridakeys theaterofthesea dolphins 

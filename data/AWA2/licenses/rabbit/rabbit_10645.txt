@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aardvark of Fnord
+Photo URL    : https://www.flickr.com/photos/aardvarkoffnord/4821713955/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 23 23:00:01 GMT+0200 2010
+Upload Date  : Fri Jul 23 23:59:47 GMT+0200 2010
+Geotag Info  : Latitude:52.113930, Longitude:-2.329829
+Views        : 538
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Malvern Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Long range, low light, it may not be the best rabbit picture but I am happy I managed to take it.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

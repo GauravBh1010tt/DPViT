@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Parker2012
+Photo URL    : https://www.flickr.com/photos/chrisparker2012/8318542177/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 24 15:38:46 GMT+0200 2011
+Upload Date  : Fri Dec 28 22:26:15 GMT+0100 2012
+Views        : 141
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Female leopard enjoying an afternoon meal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa wildlife nature "big cat" leopard spots 

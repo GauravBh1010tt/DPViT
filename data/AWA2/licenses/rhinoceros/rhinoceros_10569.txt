@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/7486597882/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 30 16:04:10 GMT+0200 2012
+Upload Date  : Mon Jul 2 14:53:18 GMT+0200 2012
+Geotag Info  : Latitude:39.972647, Longitude:-75.196180
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern White Rhinoceros (Ceratotherium simum simum)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Philadelphia Zoo
+June 30, 2012
+
+
++--------+
+|  TAGS  |
++--------+
+"Philadelphia Zoo" zoo 

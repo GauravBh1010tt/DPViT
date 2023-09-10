@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Prayitno / Thank you for (11 millions +) views
+Photo URL    : https://www.flickr.com/photos/prayitnophotography/14043724075/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 24 16:21:26 GMT+0100 2013
+Upload Date  : Mon Apr 28 04:34:29 GMT+0200 2014
+Geotag Info  : Latitude:32.765259, Longitude:-117.226545
+Views        : 4,207
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Blue Horizons
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sea World San Diego, California
+
+
++--------+
+|  TAGS  |
++--------+
+Konomark dolphin dolphins show Blue Horizon Horizons "Blue Horizons" SW Sea World San Diego CA California 

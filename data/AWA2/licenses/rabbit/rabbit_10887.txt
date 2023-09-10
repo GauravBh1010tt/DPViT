@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jo Reeve
+Photo URL    : https://www.flickr.com/photos/jo_garbutt/17337740048/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 4 09:02:44 GMT+0200 2015
+Upload Date  : Mon May 11 19:15:51 GMT+0200 2015
+Geotag Info  : Latitude:52.968972, Longitude:0.605256
+Views        : 834
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at RSPB Titchwell
+
+
++--------+
+|  TAGS  |
++--------+
+RSPB Titchwell Norfolk Rabbit 

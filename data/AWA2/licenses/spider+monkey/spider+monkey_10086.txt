@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : western4uk
+Photo URL    : https://www.flickr.com/photos/western4uk/1076391404/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 18:54:09 GMT+0200 2007
+Upload Date  : Sat Aug 11 01:39:45 GMT+0200 2007
+Geotag Info  : Latitude:20.492793, Longitude:-87.714157
+Views        : 248
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Luis and His Mate the Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Visit to Mayan City of Coba and nearby current Mayan Village rounded off with a trip to cool off in a Cenote.
+
+
++--------+
+|  TAGS  |
++--------+
+Luis Friend "Yucatan Peninsular" "Quintana Roo" Coba "Mayan City" Mexico 2007 "Mayan Village" Holiday Jungle 

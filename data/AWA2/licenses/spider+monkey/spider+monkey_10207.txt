@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : osseous
+Photo URL    : https://www.flickr.com/photos/osseous/5739125764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 15 11:50:28 GMT+0200 2011
+Upload Date  : Fri May 20 06:55:59 GMT+0200 2011
+Geotag Info  : Latitude:26.709239, Longitude:-80.322793
+Views        : 131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+spider monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+May 15, 2011 Day at Lion Country Safari
+
+
++--------+
+|  TAGS  |
++--------+
+"2011 may" lion-country-safari monkey 

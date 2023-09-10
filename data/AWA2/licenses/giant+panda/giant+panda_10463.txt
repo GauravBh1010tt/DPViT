@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ryan_fung
+Photo URL    : https://www.flickr.com/photos/ryan_fung/4068042887/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 30 13:17:10 GMT+0100 2009
+Upload Date  : Mon Nov 2 16:04:51 GMT+0100 2009
+Views        : 4,396
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Ocean Park - 16
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+oceanpark hongkong animal panda 

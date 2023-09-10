@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CinCool
+Photo URL    : https://www.flickr.com/photos/cincooldesigns/4547607913/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 22 19:24:03 GMT+0200 2010
+Upload Date  : Sat Apr 24 16:14:43 GMT+0200 2010
+Views        : 395
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Backyard Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+geneseo illinois rabbit bunny grass fur yard 

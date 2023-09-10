@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bi_plus_one
+Photo URL    : https://www.flickr.com/photos/bi_plus_one/4120897066/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 5 13:02:25 GMT+0200 2009
+Upload Date  : Fri Nov 20 23:28:00 GMT+0100 2009
+Geotag Info  : Latitude:53.354566, Longitude:-6.305100
+Views        : 83
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dublin ireland dublino irlanda nikon d40 nature "dublin zoo" zoo animal rhinoceros 

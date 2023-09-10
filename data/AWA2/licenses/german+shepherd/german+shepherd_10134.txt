@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lucas Brigido
+Photo URL    : https://www.flickr.com/photos/lucasbrigido/4867871692/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 10 15:45:47 GMT+0200 2010
+Upload Date  : Sat Aug 7 05:06:05 GMT+0200 2010
+Geotag Info  : Latitude:-19.843268, Longitude:-44.149428
+Views        : 723
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cachorro Sonhador / Dog Dreamer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cachorro Dog "Pastor Alemão" "German Shepherd Dog" 

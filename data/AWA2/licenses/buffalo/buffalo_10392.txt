@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bjorn.watland
+Photo URL    : https://www.flickr.com/photos/bjornwatland/5891779559/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 1 13:42:03 GMT+0200 2011
+Upload Date  : Sat Jul 2 00:21:16 GMT+0200 2011
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

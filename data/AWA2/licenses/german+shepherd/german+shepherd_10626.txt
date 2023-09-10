@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jimmy Benson
+Photo URL    : https://www.flickr.com/photos/jimmybenson/4641399294/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 24 19:50:06 GMT+0200 2010
+Upload Date  : Wed May 26 08:47:49 GMT+0200 2010
+Views        : 265
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mayco
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"duitse herder" "nokia e72" "jimmy benson" german shepherd 

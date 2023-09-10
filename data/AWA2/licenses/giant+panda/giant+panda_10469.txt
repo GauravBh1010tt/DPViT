@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brunkfordbraun
+Photo URL    : https://www.flickr.com/photos/brunkfordbraun/421633743/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 14 21:53:35 GMT+0100 2007
+Upload Date  : Thu Mar 15 02:53:35 GMT+0100 2007
+Geotag Info  : Latitude:38.929060, Longitude:-77.047140
+Views        : 777
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+On The Prowl
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Giant panda, National Zoo, Washington, DC.
+
+
++--------+
+|  TAGS  |
++--------+
+panda zoo "washington dc" 

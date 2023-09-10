@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ravend
+Photo URL    : https://www.flickr.com/photos/ravendr78/5708757588/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 10 18:04:02 GMT+0200 2011
+Upload Date  : Wed May 11 01:51:09 GMT+0200 2011
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1661
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

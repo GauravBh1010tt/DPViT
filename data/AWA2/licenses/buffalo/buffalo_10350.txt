@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Greencolander
+Photo URL    : https://www.flickr.com/photos/greencolander/3959822847/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 25 15:12:01 GMT+0200 2009
+Upload Date  : Mon Sep 28 00:24:50 GMT+0200 2009
+Views        : 337
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison "elk island national park" herd 

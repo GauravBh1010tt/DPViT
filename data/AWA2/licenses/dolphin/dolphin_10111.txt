@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : traveling.the.world
+Photo URL    : https://www.flickr.com/photos/christianschuit/6267380754/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 17 13:08:31 GMT+0200 2011
+Upload Date  : Fri Oct 21 21:30:53 GMT+0200 2011
+Geotag Info  : Latitude:52.353534, Longitude:5.616245
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Curious - 02124
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Harderwijk, the Netherlands
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin water sea swim 

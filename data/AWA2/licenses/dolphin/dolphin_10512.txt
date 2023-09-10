@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Thomas.B.P.
+Photo URL    : https://www.flickr.com/photos/pudekamp/8715542172/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 28 13:03:00 GMT+0200 2013
+Upload Date  : Mon May 6 22:11:34 GMT+0200 2013
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+From the boat on the way to Ras Nasrani, Sharm.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

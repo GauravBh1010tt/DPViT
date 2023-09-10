@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrHicks46
+Photo URL    : https://www.flickr.com/photos/teosaurio/15429811981/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 17 23:35:33 GMT+0200 2014
+Upload Date  : Sat Oct 4 03:15:40 GMT+0200 2014
+Views        : 543
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bison I spotted while riding through Yellowstone National Park.
+
+
++--------+
+|  TAGS  |
++--------+
+flickr export yellowstone montana rtw2014 usa nex 

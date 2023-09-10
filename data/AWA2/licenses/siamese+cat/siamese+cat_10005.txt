@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/4713744259/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 18 09:51:39 GMT+0200 2010
+Upload Date  : Sat Jun 19 15:31:32 GMT+0200 2010
+Views        : 2,033
+Comments     : 63
+
+
++---------+
+|  TITLE  |
++---------+
+Sometimes you pick your friends, sometimes they pick you. :)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Happy Caturday to all our Flickr Friends !!!!!!!!!!!!
+
+
++--------+
+|  TAGS  |
++--------+
+cat kitten siamese mainecoonmix MissTruffles RumTumTugger truffles tugger friends caturday 

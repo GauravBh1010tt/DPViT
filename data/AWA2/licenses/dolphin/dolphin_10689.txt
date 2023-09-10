@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : puppendoktorpille
+Photo URL    : https://www.flickr.com/photos/doktorpille/6983018117/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 25 15:15:36 GMT+0200 2006
+Upload Date  : Wed Mar 14 22:29:26 GMT+0100 2012
+Geotag Info  : Latitude:39.531055, Longitude:2.466430
+Views        : 53
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mallorca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Mallorca Delfin 

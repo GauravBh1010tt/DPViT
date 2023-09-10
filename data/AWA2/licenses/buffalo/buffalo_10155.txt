@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/17040635607/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 22 13:20:01 GMT+0200 2015
+Upload Date  : Thu Apr 23 22:17:25 GMT+0200 2015
+Views        : 1,359
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison at the Arsenal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A curious female momentarily stops her grazing to examine this photographer, who was photographing her from the safety of a vehicle on the refuge's auto loop.
+
+Credit: Ryan Moehring / USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+usfws "U.S. FISH AND WILDLIFE SERVICE" "Rocky Mountain Arsenal National Wildlife Refuge" "'Rocky Mountain Arsenal" "Wildlife Refuge" Bison "bison buffalo" "urban refuge" "urban wildlife refuge" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : elPadawan
+Photo URL    : https://www.flickr.com/photos/elpadawan/6203891634/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 4 11:36:00 GMT+0200 2011
+Upload Date  : Sun Oct 2 16:13:32 GMT+0200 2011
+Geotag Info  : Latitude:48.862540, Longitude:1.788647
+Views        : 3,785
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lion, Zoo parc de Thoiry, France
+
+
++--------+
+|  TAGS  |
++--------+
+"0729-0815 - Summer Vacation" "0804 - Thoiry" Thoiry "Zoo-Parc de Thoiry" nature Lion mammals 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : p_a_h
+Photo URL    : https://www.flickr.com/photos/pahudson/2069192573/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 20 16:52:01 GMT+0100 2007
+Upload Date  : Tue Nov 27 23:51:59 GMT+0100 2007
+Geotag Info  : Latitude:40.768155, Longitude:-73.971725
+Views        : 666
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Central Park Zoo" "Polar Bear" 

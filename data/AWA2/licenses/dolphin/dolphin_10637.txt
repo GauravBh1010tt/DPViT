@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MDB 28
+Photo URL    : https://www.flickr.com/photos/mdb28/5222059775/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 26 16:17:35 GMT+0100 2010
+Upload Date  : Wed Dec 1 03:11:37 GMT+0100 2010
+Geotag Info  : Latitude:36.120591, Longitude:-115.176120
+Views        : 27
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8651.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

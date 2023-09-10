@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Grim Optimist
+Photo URL    : https://www.flickr.com/photos/keefcooper/8596090498/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 18 12:39:25 GMT+0100 2013
+Upload Date  : Wed Mar 27 19:38:24 GMT+0100 2013
+Views        : 115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

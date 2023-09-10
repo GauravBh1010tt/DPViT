@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Guttorm Flatabø
+Photo URL    : https://www.flickr.com/photos/dittaeva/182379145/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 28 20:24:32 GMT+0200 2006
+Upload Date  : Wed Jul 5 14:14:15 GMT+0200 2006
+Views        : 1,129
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Darias cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A really lively one, and Daria wants to cut off his balls so that he's not so lively any more.
+
+In Ciocana, Chisinau, Moldova.
+
+
++--------+
+|  TAGS  |
++--------+
+Moldova "Siamese cat" flash eyes cat 

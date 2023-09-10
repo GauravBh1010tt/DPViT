@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : z2amiller
+Photo URL    : https://www.flickr.com/photos/z2amiller/234759819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 12 11:27:14 GMT+0200 2006
+Upload Date  : Tue Sep 5 09:41:38 GMT+0200 2006
+Views        : 230
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin Jet Ski
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seaworld dolphin san diego 

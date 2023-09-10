@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pakelc
+Photo URL    : https://www.flickr.com/photos/pakeec/5990565181/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 20 16:05:24 GMT+0200 2011
+Upload Date  : Sat Jul 30 18:41:36 GMT+0200 2011
+Geotag Info  : Latitude:45.661567, Longitude:-74.959630
+Views        : 1,358
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He's thinking.
+
+Park Omega, Ontario.
+
+
++--------+
+|  TAGS  |
++--------+
+White Wolf Park Omega Canada 

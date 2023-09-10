@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marfis75
+Photo URL    : https://www.flickr.com/photos/marfis75/5900229260/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 18 17:38:41 GMT+0200 2011
+Upload Date  : Mon Jul 4 08:11:23 GMT+0200 2011
+Views        : 2,175
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Jaguar - dotted neck
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+cc creative commons
+
+
++--------+
+|  TAGS  |
++--------+
+Jaguar raubkatze panthera cc creative creativecommons commons marfis75 marfis75onflickr tier animal zoo zootier brüllen gebrüllt katze beast predator raubtiere katzen großkatze eye leopard leo panzer #CC-BY-SA 

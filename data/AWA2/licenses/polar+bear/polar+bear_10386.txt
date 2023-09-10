@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cobaltfish
+Photo URL    : https://www.flickr.com/photos/cobaltfish/2927207772/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 3 10:59:12 GMT+0200 2008
+Upload Date  : Thu Oct 9 17:37:07 GMT+0200 2008
+Geotag Info  : Latitude:52.500506, Longitude:13.529405
+Views        : 621
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mother Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin Teirpark "Polar Bear" 

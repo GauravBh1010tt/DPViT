@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : simon.sutcliffe
+Photo URL    : https://www.flickr.com/photos/simonsutcliffe/25012128629/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 29 12:30:13 GMT+0100 2016
+Upload Date  : Mon Feb 29 17:50:30 GMT+0100 2016
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mountain Lion ZA
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

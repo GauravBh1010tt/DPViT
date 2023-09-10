@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bunnygoth
+Photo URL    : https://www.flickr.com/photos/bunnygoth/6202778964/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 2 08:30:45 GMT+0200 2011
+Upload Date  : Sun Oct 2 07:11:40 GMT+0200 2011
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Berlin Fair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bunny at the Berlin Fair, Berlin, Connecticut - 2011
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit berlin fair ct connecticut 2011 

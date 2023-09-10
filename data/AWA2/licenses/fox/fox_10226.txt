@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8619406810/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 16 13:44:27 GMT+0100 2012
+Upload Date  : Thu Apr 4 15:00:08 GMT+0200 2013
+Geotag Info  : Latitude:47.291907, Longitude:8.529338
+Views        : 7,990
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Fox walking in the snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The fox just got up and started to walk in the snow (well, remains of snow)...
+
+
++--------+
+|  TAGS  |
++--------+
+walking profile snow winter grass red fox brown tierpark wildpark park langenberg affoltern zürich switzerland nikon d4 

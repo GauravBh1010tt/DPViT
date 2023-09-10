@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Graham Ó Síodhacháin
+Photo URL    : https://www.flickr.com/photos/funkdooby/15717403287/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 22 16:05:08 GMT+0100 2013
+Upload Date  : Sat Nov 29 07:14:35 GMT+0100 2014
+Views        : 777
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Off for a wander
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox snow "margate cemetery" nature wildlife 

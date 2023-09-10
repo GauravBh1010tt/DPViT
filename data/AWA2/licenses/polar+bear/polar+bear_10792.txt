@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : maximalideal
+Photo URL    : https://www.flickr.com/photos/maximalideal/5705294566/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 25 13:33:57 GMT+0200 2009
+Upload Date  : Tue May 10 01:02:42 GMT+0200 2011
+Geotag Info  : Latitude:35.087256, Longitude:-106.439434
+Views        : 176
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+outdoors zoo USA albuquerque "New Mexico" "AF-S DX VR Zoom-Nikkor 55-200mm f/4-5.6G IF-ED" 

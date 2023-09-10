@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sweetron1982
+Photo URL    : https://www.flickr.com/photos/sweetron1982/10784456546/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 10 16:28:42 GMT+0100 2013
+Upload Date  : Sun Nov 10 21:12:36 GMT+0100 2013
+Views        : 1,441
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+I can look mean but deep inside i lick your face
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dog dogs doggie shepherd "border collie" "german shepherd dog" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jojo.schmitt
+Photo URL    : https://www.flickr.com/photos/jojo-franglas/8519802501/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 2 08:28:21 GMT+0100 2013
+Upload Date  : Sat Mar 2 08:37:12 GMT+0100 2013
+Views        : 268
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bailys
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat katze siamese siamkatze ktzenportrait 

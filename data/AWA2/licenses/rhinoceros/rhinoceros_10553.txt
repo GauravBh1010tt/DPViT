@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bshamblen
+Photo URL    : https://www.flickr.com/photos/23972840@N04/2573893589/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 8 14:31:13 GMT+0100 2006
+Upload Date  : Fri Jun 13 05:00:18 GMT+0200 2008
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Diego Wild Animal Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pictures from the San Diego Wild Animal Park.
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo San Diego Rhinoceros "San Diego" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/5760104322/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 24 12:09:23 GMT+0200 2011
+Upload Date  : Thu May 26 01:11:02 GMT+0200 2011
+Geotag Info  : Latitude:51.548000, Longitude:0.035333
+Views        : 430
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Alsatian dog "German Shepherd" Max 

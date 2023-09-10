@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ThomasKohler
+Photo URL    : https://www.flickr.com/photos/mecklenburg/4691828140/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 19 11:13:49 GMT+0200 2008
+Upload Date  : Fri Jun 11 23:10:37 GMT+0200 2010
+Geotag Info  : Latitude:53.387858, Longitude:12.324857
+Views        : 596
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Meister Petz
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bär bärenwald bärenpark bärengehege bear braunbär brown tier animal plau-am-see stuer 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lee Edwin Coursey
+Photo URL    : https://www.flickr.com/photos/leeco/3904654237/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 28 14:25:52 GMT+0200 2009
+Upload Date  : Thu Sep 10 01:44:23 GMT+0200 2009
+Geotag Info  : Latitude:49.125342, Longitude:-113.861360
+Views        : 518
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken on our trip to Waterton Lakes National Park in Alberta, Canada, in 2009.
+
+
++--------+
+|  TAGS  |
++--------+
+glacier national park 2009 travel canada animal bison waterton wildlife "Glacier NP" "National Park" Montana 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tony.evans
+Photo URL    : https://www.flickr.com/photos/tonyevans/14754626599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 3 16:36:08 GMT+0200 2014
+Upload Date  : Sun Aug 17 03:30:57 GMT+0200 2014
+Geotag Info  : Latitude:36.109310, Longitude:-5.346736
+Views        : 967
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Trip out through the Bay and Strait of Gibraltar.
+
+©2014 Tony Evans. All Rights Reserved.
+
+
++--------+
+|  TAGS  |
++--------+
+"Strait Ride" Gibraltar "Bay of Gibraltar" "Strait of Gibraltar" Marine Vessel Ship "Yacht. Bunkering" Bunker Tanker Container Airbus A380 Levante Dolphin Dolphins Rock Sea Ferry Catamaran Plane "British Airways Strait Ride" 

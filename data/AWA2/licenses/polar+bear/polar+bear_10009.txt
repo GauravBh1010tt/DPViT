@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/13345057413/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 9 11:14:53 GMT+0100 2013
+Upload Date  : Sun Mar 23 05:53:47 GMT+0100 2014
+Geotag Info  : Latitude:48.806298, Longitude:9.205083
+Views        : 16,594
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear with open mouth
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Impressive shot of the male polar bear with open mough.
+
+
++--------+
+|  TAGS  |
++--------+
+"open mouth" portrait face profile impressive big "polar bear" bear beige white wilhelma zoo stuttgart germany nikon d4 

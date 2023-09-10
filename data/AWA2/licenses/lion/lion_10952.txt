@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Philippe Berdalle
+Photo URL    : https://www.flickr.com/photos/berdcris2011/416584773/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 9 15:57:05 GMT+0100 2007
+Upload Date  : Sat Mar 10 18:51:40 GMT+0100 2007
+Views        : 104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+THOIRY
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A l'heure du gouter.
+
+
++--------+
+|  TAGS  |
++--------+
+LIONS 

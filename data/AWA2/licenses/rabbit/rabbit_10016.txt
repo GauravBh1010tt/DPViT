@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paulshannon
+Photo URL    : https://www.flickr.com/photos/paul_shannon/1007824462/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 2 10:08:15 GMT+0200 2007
+Upload Date  : Sat Aug 4 16:05:42 GMT+0200 2007
+Geotag Info  : Latitude:45.385882, Longitude:-75.696111
+Views        : 860
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+07-08-02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bunny rabbit near the O Train stop at Carleton. This little guy was injured. It was only apparent when he was 'walking'. His 'running' seemed unaffected.
+
+
++--------+
+|  TAGS  |
++--------+
+carleton otrain thursday august 2nd 2007 oneyear rabbit 

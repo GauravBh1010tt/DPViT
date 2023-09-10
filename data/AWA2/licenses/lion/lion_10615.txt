@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carl J Angel
+Photo URL    : https://www.flickr.com/photos/angelcj/8113922905/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 26 13:20:50 GMT+0200 2011
+Upload Date  : Mon Oct 22 22:40:37 GMT+0200 2012
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Toronto Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

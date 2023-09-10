@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Edgar Zuniga Jr.
+Photo URL    : https://www.flickr.com/photos/edgarzuniga/3790094757/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 2 13:30:53 GMT+0200 2009
+Upload Date  : Wed Aug 5 03:53:59 GMT+0200 2009
+Views        : 133
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buffalo Life
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Antelope Island, Utah
+
+
++--------+
+|  TAGS  |
++--------+
+bison mountains distant clouds desert Americana wild west 

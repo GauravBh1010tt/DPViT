@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andy Hay
+Photo URL    : https://www.flickr.com/photos/andyhay/10708599263/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 1 12:16:52 GMT+0100 2013
+Upload Date  : Wed Nov 6 15:27:43 GMT+0100 2013
+Geotag Info  : Latitude:54.165908, Longitude:-3.168430
+Views        : 861
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2013 lightroom rhino rhinoceros "south lakes wild animal park" "white rhinoceros" zoo Dalton-in-Furness England "United Kingdom" 

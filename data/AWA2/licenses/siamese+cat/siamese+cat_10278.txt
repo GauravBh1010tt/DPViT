@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andy Farnsworth
+Photo URL    : https://www.flickr.com/photos/farnsie/40803785/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 6 15:23:53 GMT+0200 2005
+Upload Date  : Tue Sep 6 15:18:38 GMT+0200 2005
+Views        : 128
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+dream1.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My elderly cat Dream having a nap in the sun
+
+
++--------+
+|  TAGS  |
++--------+
+Cats Siamese D50 

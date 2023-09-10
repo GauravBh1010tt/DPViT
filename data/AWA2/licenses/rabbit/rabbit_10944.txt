@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David~O
+Photo URL    : https://www.flickr.com/photos/8106459@N07/4002252264/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 7 20:13:34 GMT+0200 2009
+Upload Date  : Sun Oct 11 21:26:20 GMT+0200 2009
+Views        : 3,787
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+"Snowflake"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny pet fluffy white 

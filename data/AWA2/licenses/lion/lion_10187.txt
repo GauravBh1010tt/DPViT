@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Digital Aesthetica
+Photo URL    : https://www.flickr.com/photos/137982947@N02/23807860610/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 2 01:04:31 GMT+0100 2016
+Upload Date  : Fri Jan 1 13:52:21 GMT+0100 2016
+Views        : 81
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+FLIKR_0255
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+africa serengeti savannah lion 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Percita
+Photo URL    : https://www.flickr.com/photos/dittmars/8127304069/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 4 12:57:27 GMT+0200 2012
+Upload Date  : Sat Oct 27 13:16:56 GMT+0200 2012
+Geotag Info  : Latitude:-37.139519, Longitude:150.017967
+Views        : 415
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Humpbacks wave goodbye
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+humpback Whales 

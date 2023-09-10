@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bradsview
+Photo URL    : https://www.flickr.com/photos/bfra07/4829979693/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 26 22:20:50 GMT+0200 2010
+Upload Date  : Mon Jul 26 14:20:50 GMT+0200 2010
+Geotag Info  : Latitude:-38.405144, Longitude:142.521195
+Views        : 5,496
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Southern Right Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+There were several Southern Right Whales at Logan's Beach - Warrnambool, Victoria, Australia. This one played throughout the day, some times less than 100 metres off shore. 
+The Southern Right Whales is one of the largest mammals on earth being only marginally smaller than the Blue and Humpback whales. An adult whale averages 15 - 18 metres in length and 50 - 90 tonnes in weight
+
+
++--------+
+|  TAGS  |
++--------+
+whales warrnambool "southern right whale" wildlife ocean "warrnambool whale" "logans beach" "whale tail" tail marine mammal "marine mammal" surf surfer 

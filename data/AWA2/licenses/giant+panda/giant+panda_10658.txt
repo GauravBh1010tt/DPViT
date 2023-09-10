@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nestletron
+Photo URL    : https://www.flickr.com/photos/60149964@N08/5486155374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 27 16:14:24 GMT+0100 2011
+Upload Date  : Mon Feb 28 17:12:28 GMT+0100 2011
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

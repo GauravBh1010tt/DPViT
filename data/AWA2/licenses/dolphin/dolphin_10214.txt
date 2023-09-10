@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pablo Miranzo
+Photo URL    : https://www.flickr.com/photos/pablomiranzo/7217653870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 12 14:00:58 GMT+0200 2012
+Upload Date  : Thu May 17 22:38:01 GMT+0200 2012
+Geotag Info  : Latitude:38.418628, Longitude:-0.135955
+Views        : 1,917
+Comments     : 26
+
+
++---------+
+|  TITLE  |
++---------+
+Delfín mular
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"delfines dolphin sea cetaceo mar goleta morena navegar" 

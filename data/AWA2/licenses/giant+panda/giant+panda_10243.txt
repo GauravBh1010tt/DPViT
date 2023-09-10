@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : totobotteri
+Photo URL    : https://www.flickr.com/photos/totobotteri/2634436344/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 3 00:27:31 GMT+0200 2008
+Upload Date  : Thu Jul 3 19:09:21 GMT+0200 2008
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giant Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

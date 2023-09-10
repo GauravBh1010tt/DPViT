@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/2203972295/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 17 02:01:37 GMT+0100 2008
+Upload Date  : Sat Jan 19 22:26:14 GMT+0100 2008
+Views        : 276
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Asian Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rhinoceros unicornis
+
+
++--------+
+|  TAGS  |
++--------+
+sanfranciscozoo zoo Animals animal Animalia Chordata Mammalia Perissodactyla Rhinocerotidae "Rhinoceros unicornis" "Indian Rhinoceros" Rhinoceros One-horned 

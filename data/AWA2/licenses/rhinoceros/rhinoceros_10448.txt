@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Capella Boltiador
+Photo URL    : https://www.flickr.com/photos/capella_888/2138023782/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 25 14:19:25 GMT+0200 2007
+Upload Date  : Wed Dec 26 10:56:23 GMT+0100 2007
+Views        : 481
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhino animal whipsnade zoo dunstable englan england uk britain Rhinoceros 

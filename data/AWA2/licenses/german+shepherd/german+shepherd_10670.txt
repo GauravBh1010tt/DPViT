@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlishaV
+Photo URL    : https://www.flickr.com/photos/alishav/3268274321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 12 10:14:37 GMT+0200 2008
+Upload Date  : Tue Feb 10 08:54:47 GMT+0100 2009
+Views        : 113
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nevada (32)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Exif-JPEG-422
+
+
++--------+
+|  TAGS  |
++--------+
+Dog "German Shepherd" Nevada "big dog" 

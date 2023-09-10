@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : _Mairod
+Photo URL    : https://www.flickr.com/photos/_mairod/15216513879/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 24 14:32:10 GMT+0200 2014
+Upload Date  : Tue Sep 30 19:27:09 GMT+0200 2014
+Views        : 1,502
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Rambo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cute cat siamese photography Nikon "Nikon d5100" Nikkor home light 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mount Rainier NPS
+Photo URL    : https://www.flickr.com/photos/mountrainiernps/7030763521/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 7 15:40:40 GMT+0100 2012
+Upload Date  : Sat Mar 31 02:33:59 GMT+0200 2012
+Geotag Info  : Latitude:46.776684, Longitude:-121.753621
+Views        : 4,213
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Licking her chops
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Cascade Red Fox active during Paradise's long winter.
+Photo by Kevin Bacher.
+
+
++--------+
+|  TAGS  |
++--------+
+"Mount Rainier National Park" fox mammal tongue feeding snow winter "keep wildlife wild" "Cascade Red Fox" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peyman Zehtab Fard
+Photo URL    : https://www.flickr.com/photos/peymanz/9050669629/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 15 14:11:11 GMT+0200 2013
+Upload Date  : Sat Jun 15 21:50:29 GMT+0200 2013
+Views        : 1,824
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+FOX
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fox 

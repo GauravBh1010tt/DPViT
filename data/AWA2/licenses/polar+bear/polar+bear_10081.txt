@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Günter Hentschel
+Photo URL    : https://www.flickr.com/photos/v230gh/16643733758/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 14 12:30:59 GMT+0100 2015
+Upload Date  : Mon Mar 16 08:55:04 GMT+0100 2015
+Views        : 775
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Allwetterzoo Münster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Besuch im Allwetterzoo in Münster. Immer ein Besuch wert!
+
+<a href="http://www.allwetterzoo.de/" rel="nofollow">www.allwetterzoo.de/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Allwetterzoo Münster "Allwetterzoo Münster" Deutschland Germany NRW Europa Alemania Allemagne Germania Nikon D40 D50 NikonD50 NikonD40 Löwe Tiger Bär Pinguin Tiere Wildtiere Katzen raubtiere Elefanten 

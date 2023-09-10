@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DanO'Connor
+Photo URL    : https://www.flickr.com/photos/doconnr/3929115673/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 17 13:29:26 GMT+0200 2009
+Upload Date  : Thu Sep 17 22:09:19 GMT+0200 2009
+Geotag Info  : Latitude:39.767850, Longitude:-86.177884
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo23
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo animals 

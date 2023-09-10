@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martijn.Munneke
+Photo URL    : https://www.flickr.com/photos/martijnmunneke/6521931525/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 15 16:18:55 GMT+0100 2011
+Upload Date  : Fri Dec 16 19:42:09 GMT+0100 2011
+Views        : 2,399
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Black Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Unfortunately the rhino has been poached to the brink of extinction. Etosha NP is the best spot in Africa to watch Black Rhino's.
+
+
++--------+
+|  TAGS  |
++--------+
+etosha national park namibia black rhinoceros rhino 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Captain DJ
+Photo URL    : https://www.flickr.com/photos/darrinjonz/402644282/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 25 08:33:37 GMT+0100 2007
+Upload Date  : Mon Feb 26 00:27:55 GMT+0100 2007
+Views        : 433
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rikki
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+An 11 year old spider monkey named Rikki
+
+
++--------+
+|  TAGS  |
++--------+
+Monkey "Spider Monkey" Face hands eyes primate 

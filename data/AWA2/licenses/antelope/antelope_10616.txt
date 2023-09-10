@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Douglas J O'Brien
+Photo URL    : https://www.flickr.com/photos/douglasobrien/6905717736/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 6 14:31:12 GMT+0200 2012
+Upload Date  : Fri Apr 6 23:34:35 GMT+0200 2012
+Geotag Info  : Latitude:45.306663, Longitude:-75.865631
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+K5_11760
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Ottawa Old Quarry Trail 2012" Nepean Ontario Canada 

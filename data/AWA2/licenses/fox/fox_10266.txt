@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jans canon
+Photo URL    : https://www.flickr.com/photos/43158397@N02/4660321776/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 30 18:34:15 GMT+0200 2010
+Upload Date  : Tue Jun 1 17:18:04 GMT+0200 2010
+Views        : 779
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+She really seemed unsure of what she should be doing!
+
+
++--------+
+|  TAGS  |
++--------+
+Fox mammal wildlife animal 

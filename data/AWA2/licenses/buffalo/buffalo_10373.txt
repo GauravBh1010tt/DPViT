@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mmmavocado
+Photo URL    : https://www.flickr.com/photos/mmmavocado/4804599449/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 23 10:23:35 GMT+0200 2010
+Upload Date  : Sun Jul 18 17:36:08 GMT+0200 2010
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison bison
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone 

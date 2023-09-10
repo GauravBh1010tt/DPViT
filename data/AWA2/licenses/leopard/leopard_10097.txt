@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sdhansay
+Photo URL    : https://www.flickr.com/photos/sdhansay/5422041577/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 29 14:17:39 GMT+0100 2011
+Upload Date  : Sun Feb 6 20:31:01 GMT+0100 2011
+Views        : 1,149
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Leopard Cub
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+If you would like to use the picture please provide a link back to <a href="http://www.picturesquetraveller.com" rel="nofollow">www.picturesquetraveller.com</a>, if possible
+
+
++--------+
+|  TAGS  |
++--------+
+"Baby Leopard Cub" Leopard "Leopard Cub" South Africa picturesquetraveller 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : valkrye131
+Photo URL    : https://www.flickr.com/photos/valkrye131/4136937809/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 12 13:01:51 GMT+0200 2009
+Upload Date  : Fri Nov 27 05:06:18 GMT+0100 2009
+Views        : 201
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+buffalo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Just like the guy on a nickel.
+Seen @ Elmwood Park Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+fauna bison zoo buffalo 

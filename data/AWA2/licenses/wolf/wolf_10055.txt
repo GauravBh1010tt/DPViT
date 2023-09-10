@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tino Trubel
+Photo URL    : https://www.flickr.com/photos/tinotrubel/9623952536/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 29 18:09:48 GMT+0200 2013
+Upload Date  : Thu Aug 29 18:18:24 GMT+0200 2013
+Views        : 648
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20130829-wolfcenter-014
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Wolfcenter Dörverden Tino Trubel Exkursion Wolf Wölfe Wolve Wolves 

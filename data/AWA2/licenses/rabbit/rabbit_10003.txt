@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : x020440
+Photo URL    : https://www.flickr.com/photos/106963474@N02/13862817285/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 11 08:36:26 GMT+0200 2007
+Upload Date  : Tue Apr 15 05:34:15 GMT+0200 2014
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

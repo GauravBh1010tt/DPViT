@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ocean yamaha
+Photo URL    : https://www.flickr.com/photos/oceanyamaha/431796539/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 22 22:28:06 GMT+0100 2007
+Upload Date  : Fri Mar 23 23:05:16 GMT+0100 2007
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20070322_MG_6932.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rhinoceros 

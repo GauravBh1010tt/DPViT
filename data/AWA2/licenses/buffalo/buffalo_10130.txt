@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Fraley
+Photo URL    : https://www.flickr.com/photos/mrfraley/7659736456/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 27 19:37:59 GMT+0200 2012
+Upload Date  : Sat Jul 28 04:37:59 GMT+0200 2012
+Views        : 211
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 09
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus Stylus Zoom 140
+Olympus lens 38-140mm/f4-11
+Wphoto 200
+07/05/2012
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wseltzer
+Photo URL    : https://www.flickr.com/photos/wseltzer/4449139974/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 8 02:58:39 GMT+0100 2010
+Upload Date  : Sat Mar 20 23:39:51 GMT+0100 2010
+Geotag Info  : Latitude:-1.345701, Longitude:36.796302
+Views        : 899
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros "Nairobi National Park" Kenya safari ICANN 

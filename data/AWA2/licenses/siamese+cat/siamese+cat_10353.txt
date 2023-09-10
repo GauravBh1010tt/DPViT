@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fogcat5
+Photo URL    : https://www.flickr.com/photos/fogcat5/3227152/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 10 23:05:16 GMT+0100 2005
+Upload Date  : Tue Jan 11 08:05:16 GMT+0100 2005
+Views        : 134
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Luna
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+up to something...
+she's Siamese and Russian Blue
+
+
++--------+
+|  TAGS  |
++--------+
+luna cat screensaver-old 

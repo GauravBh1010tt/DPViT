@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WindwalkerNld
+Photo URL    : https://www.flickr.com/photos/windwalkernld/4210347901/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 7 15:38:49 GMT+0200 2008
+Upload Date  : Thu Dec 24 14:33:34 GMT+0100 2009
+Geotag Info  : Latitude:27.766076, Longitude:-15.745811
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Gran Canaria canarias canarische canary islands eilanden insel spain spanje españa august 2009 dolphin dolfin dolfijn sea blue clear puerto rico 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : barb.dunlap
+Photo URL    : https://www.flickr.com/photos/13995293@N02/5178379555/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 5 13:55:16 GMT+0200 2010
+Upload Date  : Mon Nov 15 16:38:14 GMT+0100 2010
+Views        : 285
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Male Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Atlanta
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marco Fumasoni
+Photo URL    : https://www.flickr.com/photos/marco-fumasoni/22635627354/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 11 21:46:22 GMT+0200 2015
+Upload Date  : Tue Nov 24 04:22:25 GMT+0100 2015
+Geotag Info  : Latitude:42.263081, Longitude:-70.128479
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale (Megaptera novaeangliae)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

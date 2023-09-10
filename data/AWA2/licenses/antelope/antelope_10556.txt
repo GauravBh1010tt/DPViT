@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/12102196934/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 13 11:03:21 GMT+0200 2013
+Upload Date  : Thu Jan 23 15:01:37 GMT+0100 2014
+Geotag Info  : Latitude:-25.281954, Longitude:27.107391
+Views        : 5,708
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Impala and lake
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Picture similar to the other one, but you can see the lake!
+
+
++--------+
+|  TAGS  |
++--------+
+lake water wild wildlife impala antelope profile looking grass high dry yellow pilanesberg "national park" "south africa" nikon d4 

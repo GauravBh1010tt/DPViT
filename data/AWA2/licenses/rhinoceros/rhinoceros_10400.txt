@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David Berkowitz
+Photo URL    : https://www.flickr.com/photos/davidberkowitz/6883908882/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 25 11:17:46 GMT+0200 2012
+Upload Date  : Fri Mar 30 20:20:47 GMT+0200 2012
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros - Rhino - Zoo Atlanta - Atlanta, Georgia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A trip to Atlanta, Georgia - United States of America - March 2012
+
+(cc) David Berkowitz - <a href="http://www.marketersstudio.com" rel="nofollow">www.marketersstudio.com</a> / <a href="http://www.about.me/dberkowitz" rel="nofollow">www.about.me/dberkowitz</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Atlanta Georgia GA USA America travel South 

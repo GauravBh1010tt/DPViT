@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fr.zil
+Photo URL    : https://www.flickr.com/photos/fr_zil/4801493931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 17 17:24:10 GMT+0200 2010
+Upload Date  : Sat Jul 17 17:24:10 GMT+0200 2010
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros blanc
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

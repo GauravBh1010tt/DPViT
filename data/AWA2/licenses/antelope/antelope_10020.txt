@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AndrewEick
+Photo URL    : https://www.flickr.com/photos/andreweick/3767815961/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 21 11:25:20 GMT+0200 2009
+Upload Date  : Wed Jul 29 10:16:38 GMT+0200 2009
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2 Antelope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+aedc_web antelope "fathers day" "smithsonian zoo" zoo 

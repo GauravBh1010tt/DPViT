@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : versageek
+Photo URL    : https://www.flickr.com/photos/versageek/2039320172/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 15 15:43:52 GMT+0100 2007
+Upload Date  : Sat Nov 17 03:10:07 GMT+0100 2007
+Geotag Info  : Latitude:26.720467, Longitude:-80.326516
+Views        : 192
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sleeping in the sun at Lion Country Safari in Florida.
+
+
++--------+
+|  TAGS  |
++--------+
+"Lion Country Safari" nature animal life vie rhinocéros Versageek 

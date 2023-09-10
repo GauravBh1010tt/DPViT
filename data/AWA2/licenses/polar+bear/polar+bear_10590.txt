@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StudioEddies
+Photo URL    : https://www.flickr.com/photos/studioeddies/4817850958/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 22 17:29:16 GMT+0200 2010
+Upload Date  : Thu Jul 22 10:29:16 GMT+0200 2010
+Views        : 9,640
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Asahiyama Zoo, Ashikawa, Hokkaido, Japan
+
+
++--------+
+|  TAGS  |
++--------+
+polar bear 

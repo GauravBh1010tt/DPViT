@@ -1,0 +1,43 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/16136937873/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 8 15:47:02 GMT+0100 2015
+Upload Date  : Sun Mar 8 21:25:05 GMT+0100 2015
+Views        : 1,137
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fahrradtraining
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+März 2015 
+
+Canon EOS 60D
+EF 85mm f/1.8 USM
+
+Creative Commons Licence BY 2.0
+<a href="https://creativecommons.org/licenses/by/2.0/" rel="nofollow">creativecommons.org/licenses/by/2.0/</a>
+
+Quellenangabe / Credit:
+Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund dog hunde dogs hündin female dalmatiner dalmatian schwarz weiß black white fahrrad training fahren cycle 

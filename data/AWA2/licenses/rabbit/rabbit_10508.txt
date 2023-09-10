@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jpowers65
+Photo URL    : https://www.flickr.com/photos/jpowers65/3631056942/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 15 20:35:24 GMT+0200 2009
+Upload Date  : Tue Jun 16 02:59:33 GMT+0200 2009
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+If I move really slowly do you think they'll notice
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Nikon D80" "Nikkor 50 mm - 200 mm lens" "Turtlehead Court South" "Plymouth, MI 48170" 

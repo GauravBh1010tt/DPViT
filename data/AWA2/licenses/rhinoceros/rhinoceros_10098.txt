@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : César Rincón
+Photo URL    : https://www.flickr.com/photos/crincon/977282006/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 19 18:17:11 GMT+0100 2005
+Upload Date  : Wed Aug 1 20:55:48 GMT+0200 2007
+Geotag Info  : Latitude:20.731181, Longitude:-103.305988
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20050219181711-0
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros rhino mud zoo 

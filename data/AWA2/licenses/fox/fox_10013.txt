@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/5636735173/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 19 11:00:14 GMT+0200 2011
+Upload Date  : Wed Apr 20 10:14:52 GMT+0200 2011
+Views        : 887
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+'Hello Richard!'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the British Wildlife Centre, Newchapel, Surrey; 'Pickles' greets Keeper Richard, at the morning talk.
+
+
++--------+
+|  TAGS  |
++--------+
+British Wildlife Centre Newchapel Surrey 2011 Richard Pickles Fox Vixen Vulpes Peter Trimming Sigma 300mm EX DG 

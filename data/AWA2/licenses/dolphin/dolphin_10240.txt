@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jurvetson
+Photo URL    : https://www.flickr.com/photos/jurvetson/336157/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 8 12:56:42 GMT+0100 2003
+Upload Date  : Sat Sep 4 06:51:20 GMT+0200 2004
+Views        : 42,344
+Comments     : 41
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin Crest
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In the ocean near Kona.
+
+“Dolphins have a massive new brain area, the paralimbic lobe, that we do not possess. The paralimbic lobe is an outgrowth of the cingulate gyrus, which is known to elaborate social communication and social emotions in all other mammals. Thus, dolphins may have social thoughts and feelings that we can only vaguely imagine.” (Steven Johnson, <i>Mind Wide Open</i>, p.225.)
+
+A <a href="http://www.eurekalert.org/pub_releases/2005-04/euhs-esf040505.php" rel="nofollow">recent update</a>: &quot;Despite the divergent evolutionary paths of dolphins and primates -- and their vastly different brains -- both have developed similar high-level cognitive abilities&quot; such as <a href="http://www.flickr.com/photos/jurvetson/434627557">mirror self-recognition</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+animals dolphins Kona Hawaii top-v1111 top20np top-f25 dolphin top-f50 1500v60f "thanks for all the fish" "Steven Johnson" 

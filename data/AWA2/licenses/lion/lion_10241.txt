@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HyperLemon
+Photo URL    : https://www.flickr.com/photos/hyperlemon/105827513/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 27 13:39:19 GMT+0100 2006
+Upload Date  : Tue Feb 28 16:19:44 GMT+0100 2006
+Views        : 400
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+In the zoo - 7
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A crying lion!
+Well anyways, I don't like that zoo too much, first there is a railing, then there is a fence. Which means it is quite hard to take pictures without metal beams in it. If you have a fence, you need to get as close as you can so it's so much out of focus that you can't see it anymore, but in that zoo it's impossible with many animals. Shame. Oh and at 300mm (times 1.6 factor) ISO 200 F5.6 free hand. Was expecting worse.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo lion 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hendel
+Photo URL    : https://www.flickr.com/photos/hendelopticon/2191139476/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 12 15:42:31 GMT+0100 2007
+Upload Date  : Mon Jan 14 01:21:41 GMT+0100 2008
+Geotag Info  : Latitude:36.120354, Longitude:-115.176329
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC02186
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Vegas Dolphin 

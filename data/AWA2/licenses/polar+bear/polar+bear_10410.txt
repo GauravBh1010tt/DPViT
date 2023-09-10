@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pingui72
+Photo URL    : https://www.flickr.com/photos/100276835@N06/9515577808/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 5 10:31:56 GMT+0200 2013
+Upload Date  : Thu Aug 15 08:32:19 GMT+0200 2013
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1030683
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amerune
+Photo URL    : https://www.flickr.com/photos/amerune/8604981979/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 30 12:23:04 GMT+0100 2013
+Upload Date  : Sun Mar 31 12:54:40 GMT+0200 2013
+Geotag Info  : Latitude:42.938458, Longitude:-78.851714
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Buffalo Zoo" 

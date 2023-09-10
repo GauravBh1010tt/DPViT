@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Graham S Dean Photography
+Photo URL    : https://www.flickr.com/photos/britanglishman/6306560951/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 30 16:50:53 GMT+0100 2011
+Upload Date  : Wed Nov 2 21:09:49 GMT+0100 2011
+Geotag Info  : Latitude:51.839397, Longitude:-0.222730
+Views        : 585
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Big Cats (68)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Big Cat Survival Trust Snow Leopard Hertsfordshire 

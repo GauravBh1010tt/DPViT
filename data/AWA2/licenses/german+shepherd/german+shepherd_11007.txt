@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lilli2de
+Photo URL    : https://www.flickr.com/photos/seven_of9/5422393129/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 29 16:51:14 GMT+0100 2011
+Upload Date  : Sun Feb 6 22:17:17 GMT+0100 2011
+Geotag Info  : Latitude:51.620108, Longitude:13.698245
+Views        : 1,545
+Comments     : 14
+
+
++---------+
+|  TITLE  |
++---------+
+Who plays with me?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2011 Germany "Land Brandenburg" Niederlausitz Elbe-Elster Finsterwalde "Belgischer Schäferhund" "Belgian Shepherd Dog" "meiner Mutters Hund Theo" "my moms dog Theo" "fast 2 Jahre alt" 

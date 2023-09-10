@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stevendamron
+Photo URL    : https://www.flickr.com/photos/sadsnaps/6043675707/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 14 15:51:59 GMT+0200 2011
+Upload Date  : Mon Aug 15 03:57:44 GMT+0200 2011
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+san francisco zoo 

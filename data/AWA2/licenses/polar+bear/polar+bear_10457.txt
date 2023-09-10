@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobistraveling
+Photo URL    : https://www.flickr.com/photos/bobistraveling/16098753806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 1 12:05:16 GMT+0100 2014
+Upload Date  : Sun Dec 28 03:45:19 GMT+0100 2014
+Views        : 132
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear AnanaNC Zoo Asheboro NC 4489
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+NCZoo mammal 

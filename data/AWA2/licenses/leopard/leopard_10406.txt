@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : big-ashb
+Photo URL    : https://www.flickr.com/photos/big-ashb/14880107875/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 7 15:51:17 GMT+0200 2014
+Upload Date  : Sun Aug 10 23:22:59 GMT+0200 2014
+Geotag Info  : Latitude:50.991313, Longitude:-1.283255
+Views        : 1,734
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Canon 600D Sigma Marwell Zoo animal leopard cat big "big cat" 

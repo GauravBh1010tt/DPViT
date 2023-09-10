@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gudi&cris
+Photo URL    : https://www.flickr.com/photos/gudi3101/4060884219/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 10 09:52:15 GMT+0200 2009
+Upload Date  : Sat Oct 31 19:09:00 GMT+0100 2009
+Views        : 406
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+China giant panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+giant panda 3
+
+
++--------+
+|  TAGS  |
++--------+
+china "gobi desert" people 

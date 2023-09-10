@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : travelinknu
+Photo URL    : https://www.flickr.com/photos/dknuth/5051186124/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 26 18:15:11 GMT+0200 2010
+Upload Date  : Mon Oct 4 15:53:55 GMT+0200 2010
+Views        : 1,307
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whales bubblenet fishing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback whales spend the summer in Alaska feeding on herring.  Some of then hunt in groups using a technique called Bubble Net.  
+They find a school of herring and swim down below it.
+
+One whale swims in a circle blowing small bubbles. 
+As the ring of bubbles rise the whales swim up the center, chasing the herring.
+The herring think they cannot cross the wall of bubbles and so swim straight up until they hit the surface.
+The whales open their mouths wide as they surface and scoop up the fish. 
+We watched two groups of whales do this over and over for several hours.
+
+
++--------+
+|  TAGS  |
++--------+
+whales Alaska Linblad "Sea Lion" 

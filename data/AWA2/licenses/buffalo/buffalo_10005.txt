@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/7467046076/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 27 06:59:27 GMT+0100 2009
+Upload Date  : Fri Jun 29 17:23:45 GMT+0200 2012
+Views        : 1,963
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+20th Place - Bison in the Shadows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison on the National Elk Refuge in Jackson, WY.
+
+Credit: Ameen Al-Ghetta
+ 
+Photo Contest Entry #84
+
+
++--------+
+|  TAGS  |
++--------+
+usfws fws "U.S. Fish and Wildlife Service" conservation "photo contest" "government photos" bison nwrs "wildlife refuge" wildlife 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Adventures with my dogs
+Photo URL    : https://www.flickr.com/photos/jantruter/8181868270/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 13 09:11:51 GMT+0100 2012
+Upload Date  : Tue Nov 13 12:57:50 GMT+0100 2012
+Geotag Info  : Latitude:-26.925819, Longitude:29.236850
+Views        : 1,581
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Storm
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I see you there
+
+
++--------+
+|  TAGS  |
++--------+
+Nikon D3100 dog shepherd "Swiss shepherd" "German shepherd" white 

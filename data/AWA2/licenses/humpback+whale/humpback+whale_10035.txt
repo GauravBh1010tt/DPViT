@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markbyzewski
+Photo URL    : https://www.flickr.com/photos/markbyzewski/9759547755/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 14 22:24:01 GMT+0200 2013
+Upload Date  : Sun Sep 15 16:12:59 GMT+0200 2013
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_6399HDRa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humpback Whales in Alaska.
+
+
++--------+
+|  TAGS  |
++--------+
+HDR "Humpback Whale" Alaska 

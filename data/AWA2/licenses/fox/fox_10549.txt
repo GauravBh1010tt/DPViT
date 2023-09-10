@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wildreturn
+Photo URL    : https://www.flickr.com/photos/wildreturn/16106781348/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 15 13:27:05 GMT+0100 2015
+Upload Date  : Fri Jan 16 18:12:01 GMT+0100 2015
+Views        : 587
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Carondelet Park 1/15/15
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

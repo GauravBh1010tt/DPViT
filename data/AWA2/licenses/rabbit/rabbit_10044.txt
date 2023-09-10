@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Albumen
+Photo URL    : https://www.flickr.com/photos/albumen/5558984085/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 25 13:43:59 GMT+0100 2011
+Upload Date  : Fri Mar 25 21:45:46 GMT+0100 2011
+Geotag Info  : Latitude:47.664426, Longitude:-122.328257
+Views        : 782
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+2010_12_11_1016
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit lapin 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JoyTek
+Photo URL    : https://www.flickr.com/photos/joytek/3880577605/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 26 10:14:08 GMT+0200 2009
+Upload Date  : Wed Sep 2 14:52:27 GMT+0200 2009
+Geotag Info  : Latitude:47.248001, Longitude:1.352037
+Views        : 356
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinocéros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo beauval Rhinocéros girafe 

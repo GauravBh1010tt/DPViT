@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kerryinlondon
+Photo URL    : https://www.flickr.com/photos/kerrylondon/6155774585/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 17 08:21:44 GMT+0200 2011
+Upload Date  : Sat Sep 17 19:37:57 GMT+0200 2011
+Views        : 358
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+what do you think you are looking at?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" "polar bears" norway svalbard "national geographic explorer" "linblad expeditions" 

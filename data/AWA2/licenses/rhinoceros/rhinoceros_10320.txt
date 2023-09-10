@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nagy David
+Photo URL    : https://www.flickr.com/photos/ndave/930368629/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 11:19:49 GMT+0200 2007
+Upload Date  : Sat Jul 28 21:44:45 GMT+0200 2007
+Geotag Info  : Latitude:47.518417, Longitude:19.075870
+Views        : 196
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Papa and Mama Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+budapest zoo rhino rhinoceros 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/15097581905/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 17 09:09:43 GMT+0200 2014
+Upload Date  : Sun Aug 31 22:00:41 GMT+0200 2014
+Geotag Info  : Latitude:47.547509, Longitude:7.578211
+Views        : 5,343
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cleopatra attentive but a bit afraid!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is Cleopatra, the female wolf of the Basel zoo. Sadly the photo isn't that good...
+
+
++--------+
+|  TAGS  |
++--------+
+gray wolf female canine canid dog standing cute shadow portrait basel zoo zolli switzerland nikon d4 

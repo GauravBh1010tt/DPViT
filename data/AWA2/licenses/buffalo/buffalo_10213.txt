@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tommytex2001
+Photo URL    : https://www.flickr.com/photos/tommytex2001/6133478752/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 26 13:47:36 GMT+0200 2011
+Upload Date  : Sat Sep 10 18:30:17 GMT+0200 2011
+Views        : 84
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison in Hayden Valley
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Courtesy of Caravan passenger Bob Young.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ross_hawkes
+Photo URL    : https://www.flickr.com/photos/rosshawkes/5537806595/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 29 18:25:55 GMT+0200 2010
+Upload Date  : Fri Mar 18 22:29:34 GMT+0100 2011
+Views        : 659
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two rhinos at Disney's Animal Kingdom.
+
+
++--------+
+|  TAGS  |
++--------+
+Disney Florida Orlando Rhino Rhinoceros "Animal Kingdom" "Walt Disney World" 

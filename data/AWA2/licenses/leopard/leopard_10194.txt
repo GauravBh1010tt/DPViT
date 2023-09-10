@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobBixbyPhotography
+Photo URL    : https://www.flickr.com/photos/scubabix/7818312974/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 19 08:18:00 GMT+0200 2012
+Upload Date  : Sun Aug 19 23:21:25 GMT+0200 2012
+Geotag Info  : Latitude:30.402361, Longitude:-81.643985
+Views        : 254
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+JaxZoo_8-19-12-8300.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Jacksonville Florida Zoo animals leopard cubs Lion birds HDR 

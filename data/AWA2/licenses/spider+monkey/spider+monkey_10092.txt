@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photoverulam
+Photo URL    : https://www.flickr.com/photos/photoverulam/9640091120/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 31 11:34:18 GMT+0200 2013
+Upload Date  : Sat Aug 31 21:34:11 GMT+0200 2013
+Views        : 205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Monkey ahoy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"London Zoo" "Spider monkeys" 

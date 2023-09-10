@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gvgoebel
+Photo URL    : https://www.flickr.com/photos/37467370@N08/7612043682/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 20 15:42:52 GMT+0200 2012
+Upload Date  : Sat Jul 21 00:48:12 GMT+0200 2012
+Views        : 310
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ybbuf_3b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+buffalo (bison), Yellowstone National Park, Wyoming / 2006
+
+This is not a zoom picture, by the way.  I could have reached out and touched it from my car window.  Not a good idea .....
+
+
++--------+
+|  TAGS  |
++--------+
+animals mammals buffalo bison 

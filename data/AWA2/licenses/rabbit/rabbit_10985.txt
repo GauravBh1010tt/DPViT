@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/2886732056/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 21 13:40:47 GMT+0200 2008
+Upload Date  : Thu Sep 25 04:31:29 GMT+0200 2008
+Geotag Info  : Latitude:39.094526, Longitude:-77.825131
+Views        : 535
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+This is my Derby face
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Great Country Farms bunny.
+
+
++--------+
+|  TAGS  |
++--------+
+virginia "Great Country Farms" rabbit bunny Bluemont 

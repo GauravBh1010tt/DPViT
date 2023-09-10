@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lgoub
+Photo URL    : https://www.flickr.com/photos/lgoub/24070915891/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 29 01:16:25 GMT+0100 2015
+Upload Date  : Sun Jan 3 20:38:22 GMT+0100 2016
+Geotag Info  : Latitude:20.877333, Longitude:-86.869517
+Views        : 26
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey knows where to find food
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Mexico Travel zoo interactivezoo animals crococun rivieramaya 

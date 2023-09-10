@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dick Penn
+Photo URL    : https://www.flickr.com/photos/dickpenn/5862195231/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 14 12:52:04 GMT+0200 2011
+Upload Date  : Thu Jun 23 09:00:59 GMT+0200 2011
+Views        : 2,232
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Chertsey Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Very brave rabbits. What happened to all those little boys with catapaults we used to see?
+
+
++--------+
+|  TAGS  |
++--------+
+Rabbit 

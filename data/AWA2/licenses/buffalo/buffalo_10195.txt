@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Don Johnson 395
+Photo URL    : https://www.flickr.com/photos/donjohnson395/2678172183/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 16 15:01:12 GMT+0200 2008
+Upload Date  : Fri Jul 18 04:25:32 GMT+0200 2008
+Views        : 442
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison herd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wild Wind Buffalo Preserve
+Over 400 sacred acres of rolling land,  home to approximately 200 Bison.
+Fremont, Indiana
+
+
++--------+
+|  TAGS  |
++--------+
+Tatanka Bison buffalo Fremont Indiana 

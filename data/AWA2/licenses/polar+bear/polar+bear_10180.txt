@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roman Pfeiffer
+Photo URL    : https://www.flickr.com/photos/roman581/5047133825/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 6 16:35:48 GMT+0200 2009
+Upload Date  : Sun Oct 3 17:35:42 GMT+0200 2010
+Geotag Info  : Latitude:48.181339, Longitude:16.302938
+Views        : 84
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4789-1490.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Schönbrunn Vienna Wien eisbär 

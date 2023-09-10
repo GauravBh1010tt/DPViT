@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jimbowen0306
+Photo URL    : https://www.flickr.com/photos/jamiedfw/6093006016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 3 12:56:44 GMT+0200 2011
+Upload Date  : Mon Aug 29 15:34:07 GMT+0200 2011
+Geotag Info  : Latitude:42.718500, Longitude:-84.528422
+Views        : 5,553
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I have no idea why, but this picture reminds me of the actress Amanda Bynes
+
+
++--------+
+|  TAGS  |
++--------+
+Lion Lions "Potter Park Zoo" Zoo Zoos "Animal in Captivity" Lansing "Lansing MI" Michigan MI America "United States" US USA "Olympus e-3" Olympus e-3 "Zoos of North America" animal animals 

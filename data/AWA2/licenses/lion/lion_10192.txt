@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LisaW123
+Photo URL    : https://www.flickr.com/photos/pixellou/4987956634/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 11 16:13:50 GMT+0200 2010
+Upload Date  : Mon Sep 13 22:43:25 GMT+0200 2010
+Geotag Info  : Latitude:37.733241, Longitude:-122.504693
+Views        : 1,050
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Handsome Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Such a beautiful animal!
+
+
++--------+
+|  TAGS  |
++--------+
+"san francisco" california "sf zoo" zoo lion animal lioness wildlife 

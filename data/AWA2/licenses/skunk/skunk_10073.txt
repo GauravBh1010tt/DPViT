@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/5204066881/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 00:01:10 GMT+0100 1980
+Upload Date  : Wed Nov 24 17:52:31 GMT+0100 2010
+Views        : 1,163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Skunk at the Bird Feeder
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A striped skunk helps clean up the leftovers at a Bear River Migratory Bird Refuge bird feeder in September 2010. 
+
+Credit: Jason St. Sauver / USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+"Bear River Migratory Bird Refugeutah" skunk 

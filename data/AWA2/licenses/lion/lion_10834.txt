@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amrishwadekar
+Photo URL    : https://www.flickr.com/photos/7979283@N05/3641072740/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 28 13:53:46 GMT+0200 2009
+Upload Date  : Fri Jun 19 11:39:59 GMT+0200 2009
+Views        : 981
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+male lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pride "walking lion" "large male" lion "male lion" "black mane" "lower sabie" "south africa" kruger 

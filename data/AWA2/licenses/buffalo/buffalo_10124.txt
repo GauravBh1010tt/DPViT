@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NathanF
+Photo URL    : https://www.flickr.com/photos/nathanf/9594515380/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 24 16:43:39 GMT+0200 2013
+Upload Date  : Sun Aug 25 22:10:54 GMT+0200 2013
+Geotag Info  : Latitude:37.769145, Longitude:-122.498706
+Views        : 328
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison "Golden Gate Park" animal buffalo 

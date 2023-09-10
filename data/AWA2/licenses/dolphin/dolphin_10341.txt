@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : morberg
+Photo URL    : https://www.flickr.com/photos/morberg/3681153621/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 19 14:42:58 GMT+0200 2009
+Upload Date  : Thu Jul 2 17:11:12 GMT+0200 2009
+Geotag Info  : Latitude:43.616093, Longitude:7.125084
+Views        : 3,910
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+marineland dolphin 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mostly Dans
+Photo URL    : https://www.flickr.com/photos/dannyboymalinga/4428092620/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 12 15:14:43 GMT+0100 2010
+Upload Date  : Fri Mar 12 22:32:10 GMT+0100 2010
+Geotag Info  : Latitude:51.560024, Longitude:0.708253
+Views        : 5,532
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+rabbit on watch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The rabbits in the cemetery opposite my work are coming out in the late afternoon.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit animal wildlife nature 

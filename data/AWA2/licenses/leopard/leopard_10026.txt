@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rasmithuk
+Photo URL    : https://www.flickr.com/photos/rasmithuk/4649314649/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 29 13:34:29 GMT+0200 2010
+Upload Date  : Sat May 29 14:34:29 GMT+0200 2010
+Geotag Info  : Latitude:52.922157, Longitude:1.297164
+Views        : 327
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_8684
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Amazona Zoo" norfolk wildlife leopard 

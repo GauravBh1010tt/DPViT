@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : niki385434
+Photo URL    : https://www.flickr.com/photos/nicim/5281602214/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 21 15:00:02 GMT+0100 2010
+Upload Date  : Wed Dec 22 00:00:02 GMT+0100 2010
+Geotag Info  : Latitude:53.140212, Longitude:7.450221
+Views        : 762
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+My dog playing in the snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Berger Blanc Suisse" white dog snow "Weißer schweizer Schäferhund" Schnee Hund 

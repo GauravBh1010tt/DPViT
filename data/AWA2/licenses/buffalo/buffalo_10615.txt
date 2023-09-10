@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Madeleine_H
+Photo URL    : https://www.flickr.com/photos/madeleine_h/15233530901/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 1 20:53:34 GMT+0200 2014
+Upload Date  : Sun Sep 14 17:40:27 GMT+0200 2014
+Views        : 666
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Enormous bison, incredible intimidating when he starts walking towards you!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+USA Alaska "Road Trip" "North America" buffalo bison "Kenai Peninsula" "Alaskan Wildlife Conservation Center" 

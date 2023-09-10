@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : csakkarin
+Photo URL    : https://www.flickr.com/photos/csakkarin/25809153054/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 9 10:52:09 GMT+0200 2016
+Upload Date  : Wed Apr 13 22:54:38 GMT+0200 2016
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Asiatic Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Edinburgh Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Edinburgh Zoo Samsung NX1 Lion 

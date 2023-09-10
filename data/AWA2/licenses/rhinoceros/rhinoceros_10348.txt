@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jimbowen0306
+Photo URL    : https://www.flickr.com/photos/jamiedfw/5976320024/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 25 10:23:14 GMT+0200 2011
+Upload Date  : Tue Jul 26 02:39:51 GMT+0200 2011
+Geotag Info  : Latitude:39.766795, Longitude:-86.176879
+Views        : 589
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino at Indianapolis Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rhino Rhinos Rhinoceros Rhinoceroses Animal Animals "Indianapolis Zoo" Zoo Zoos "Zoos of North America" Indianapolis "Indianapolis IN" Indiana IN America "United States" US USA "Olympus e-3" Olympus e-3 

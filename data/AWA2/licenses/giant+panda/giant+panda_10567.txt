@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : diskychick
+Photo URL    : https://www.flickr.com/photos/diskychick/2739925708/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 3 07:30:11 GMT+0200 2008
+Upload Date  : Thu Aug 7 00:16:56 GMT+0200 2008
+Views        : 249
+Comments     : 20
+
+
++---------+
+|  TITLE  |
++---------+
+Panda Face
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at National Zoo...same as &quot;Not as cuddly as I look&quot; photo which has had issues displaying properly.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/8338184344/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 2 14:27:55 GMT+0100 2013
+Upload Date  : Wed Jan 2 14:34:52 GMT+0100 2013
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bessy GSD "German Shepherd" dog 

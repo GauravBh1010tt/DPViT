@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul!!!
+Photo URL    : https://www.flickr.com/photos/paulhaeder/2254602071/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 10 14:28:09 GMT+0100 2008
+Upload Date  : Sun Feb 10 17:46:23 GMT+0100 2008
+Views        : 409
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bao Bao
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"bao bao" panda berlin zoo 

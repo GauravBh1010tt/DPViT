@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TenaciousR
+Photo URL    : https://www.flickr.com/photos/tenaciousr/3320731133/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 28 22:02:34 GMT+0100 2009
+Upload Date  : Mon Mar 2 03:56:31 GMT+0100 2009
+Views        : 297
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Missy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We brought Missy home from the shelter 13 years ago.  She's aloof and demanding but keeps me warm at night.
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese rescued "red point siamese" "flame point siamese" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : regexman
+Photo URL    : https://www.flickr.com/photos/regexman/10293942334/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 13 14:03:04 GMT+0200 2013
+Upload Date  : Tue Oct 15 18:22:54 GMT+0200 2013
+Geotag Info  : Latitude:37.614769, Longitude:-123.048014
+Views        : 118
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

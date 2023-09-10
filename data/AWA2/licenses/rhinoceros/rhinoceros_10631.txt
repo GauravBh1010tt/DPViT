@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derek Keats
+Photo URL    : https://www.flickr.com/photos/dkeats/4696496417/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 13 09:28:18 GMT+0200 2010
+Upload Date  : Sun Jun 13 20:32:09 GMT+0200 2010
+Views        : 494
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White rhino, Pilanesberg National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pilanesberg National Park in Northwest Province, South Africa
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife africa pilanesberg "animal planet" rhinoceros "white rhino" 

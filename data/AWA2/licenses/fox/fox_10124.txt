@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loz Flowers
+Photo URL    : https://www.flickr.com/photos/blahflowers/3713080165/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 12 14:21:52 GMT+0200 2009
+Upload Date  : Sun Jul 12 20:04:07 GMT+0200 2009
+Geotag Info  : Latitude:51.419041, Longitude:-0.067119
+Views        : 6,866
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Crystal Palace Dinosaur Park, Cute Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cute!
+
+
++--------+
+|  TAGS  |
++--------+
+London "Capital Ring: Walk Three" "Crystal Palace" "Crystal Palace Park" Fox 

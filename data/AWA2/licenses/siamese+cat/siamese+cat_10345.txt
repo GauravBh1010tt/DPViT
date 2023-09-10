@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LinaMon
+Photo URL    : https://www.flickr.com/photos/linamon/6319283036/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 14 16:17:26 GMT+0100 2009
+Upload Date  : Sun Nov 6 18:57:55 GMT+0100 2011
+Views        : 225
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+La Mediana
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Registro de mascotas 2011.
+
+
++--------+
+|  TAGS  |
++--------+
+gato cat siames 

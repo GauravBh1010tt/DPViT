@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gih_calicchio
+Photo URL    : https://www.flickr.com/photos/giih_calicchio/5531729885/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 26 01:30:50 GMT+0100 2011
+Upload Date  : Wed Mar 16 16:03:08 GMT+0100 2011
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+why so serious?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Japan Nagoya Aquarium water dolphin fish sun sunset ladscape @gih_calicchio "Japan Nagoya Aquarium water dolphin fish sun sunset ladscape @gih_calicchio" penguim turtle "jelly fish" nemo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/4880138795/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 28 12:40:11 GMT+0200 2010
+Upload Date  : Wed Aug 11 00:58:09 GMT+0200 2010
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 6,361
+Comments     : 20
+
+
++---------+
+|  TITLE  |
++---------+
+Male rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Profile portrait of the male black Rhinoceros of the zoo of Zürich.
+
+
++--------+
+|  TAGS  |
++--------+
+rhino rhinoceros black portrait face profile horns gray zoo zürich switzerland nikon d300 zurich 

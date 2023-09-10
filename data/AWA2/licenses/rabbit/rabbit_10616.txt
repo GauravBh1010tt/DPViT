@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : R.T.Lee
+Photo URL    : https://www.flickr.com/photos/rtlphoto/6091945990/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 28 03:02:51 GMT+0200 2011
+Upload Date  : Mon Aug 29 06:44:49 GMT+0200 2011
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lawn Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

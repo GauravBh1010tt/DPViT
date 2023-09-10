@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : [toon]
+Photo URL    : https://www.flickr.com/photos/t00n/5213836239/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 11 08:41:33 GMT+0200 2010
+Upload Date  : Sun Nov 28 13:57:32 GMT+0100 2010
+Geotag Info  : Latitude:30.682299, Longitude:104.097141
+Views        : 734
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chengdu
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Chengdu china go-26 joker panda "panda base" fokcentrum wolong sichuan 

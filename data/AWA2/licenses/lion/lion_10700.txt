@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eileenmak
+Photo URL    : https://www.flickr.com/photos/eileenmak/3615840060/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 7 17:03:09 GMT+0200 2009
+Upload Date  : Thu Jun 11 04:37:03 GMT+0200 2009
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lioness
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yawning on a lazy Sunday afternoon
+
+
++--------+
+|  TAGS  |
++--------+
+"Calgary Zoo" Calgary Alberta lions 

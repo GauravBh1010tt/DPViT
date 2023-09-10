@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neil T
+Photo URL    : https://www.flickr.com/photos/neilt/4248765068/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 3 12:42:56 GMT+0100 2010
+Upload Date  : Tue Jan 5 19:21:50 GMT+0100 2010
+Geotag Info  : Latitude:53.815555, Longitude:-3.012777
+Views        : 156
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkeys
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+blackpoolzoo zoo monkey spidermonkey "Squirrel monkey" Saimiri wlny:photo=i2af wlny:species=s31 wlny:trip=t56 wlny:place=pe wlny:geotagged=1 

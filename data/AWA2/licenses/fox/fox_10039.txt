@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Zippo S
+Photo URL    : https://www.flickr.com/photos/briansummers/6098416674/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 27 15:04:29 GMT+0200 2011
+Upload Date  : Wed Aug 31 01:22:06 GMT+0200 2011
+Geotag Info  : Latitude:47.264166, Longitude:-53.282834
+Views        : 290
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+:3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"arctic fox" fox salmonier nature park wildlife captivity newfoundland 

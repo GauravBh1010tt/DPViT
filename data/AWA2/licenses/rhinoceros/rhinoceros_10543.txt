@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nomad Tales
+Photo URL    : https://www.flickr.com/photos/pnglife/2910713457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 28 16:56:16 GMT+0200 2008
+Upload Date  : Sat Oct 4 07:22:17 GMT+0200 2008
+Geotag Info  : Latitude:27.595706, Longitude:84.475936
+Views        : 1,013
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+River cross
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chitwan National Park, Nepal
+
+
++--------+
+|  TAGS  |
++--------+
+nepal rhino indian horn one horned rhinoceros chitwan 

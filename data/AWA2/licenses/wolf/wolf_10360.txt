@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J. Scotty Emerle
+Photo URL    : https://www.flickr.com/photos/scottyemerle/6823652691/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 5 11:09:27 GMT+0100 2012
+Upload Date  : Sun Feb 5 17:09:27 GMT+0100 2012
+Views        : 1,339
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Winston
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wolf wolves sanctuary 

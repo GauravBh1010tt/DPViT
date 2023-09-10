@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cliff1066™
+Photo URL    : https://www.flickr.com/photos/nostri-imago/2886878520/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 17 11:58:02 GMT+0200 2008
+Upload Date  : Thu Sep 25 05:53:17 GMT+0200 2008
+Geotag Info  : Latitude:38.846454, Longitude:-77.075025
+Views        : 1,550
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Pandora
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Calico Cat "Dilute Calico" Kitty Meow Pandora Pussy Siamese Rescue Dilute "Kitty cat" "Pussy Cat" "Siamese cat" "Rescue Cat" "blocks of color" Black Grey White tabby faded "faded color" "pale orange" “Dilute Calico” Griffin Harlee “Maine Coon” “Felis catus” Felis catus “domestic cat” mammal companion companionship pet feline felid meowing purring trilling hissing growling domesticated animal carnivorous Animalia Chordata Mammalia Carnivora Felidae domestica” silvestris “catus siamensis” siamensis Oriental Feral Catfight Purr 

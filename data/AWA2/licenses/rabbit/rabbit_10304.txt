@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kaibab National Forest
+Photo URL    : https://www.flickr.com/photos/kaibabnationalforest/4445913041/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 27 17:58:10 GMT+0200 2005
+Upload Date  : Fri Mar 19 23:55:39 GMT+0100 2010
+Views        : 2,670
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cottontail Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cottontail rabbit on the Kaibab National Forest.
+
+Please give credit to:  U.S. Forest Service, Southwestern Region, Kaibab National Forest.
+
+
++--------+
+|  TAGS  |
++--------+
+"Kaibab National Forest" rabbit wildlife cottontail 

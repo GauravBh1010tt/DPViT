@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lamerie
+Photo URL    : https://www.flickr.com/photos/lamerie/88999176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 20 19:13:39 GMT+0100 2006
+Upload Date  : Fri Jan 20 20:13:39 GMT+0100 2006
+Views        : 515
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+win
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+wincat
+
+
++--------+
+|  TAGS  |
++--------+
+cat sitting cats siamese chocolate lamerie 

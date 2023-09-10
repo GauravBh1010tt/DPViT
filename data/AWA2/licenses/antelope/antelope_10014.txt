@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lecucurbitacee
+Photo URL    : https://www.flickr.com/photos/jpetitseigneur/5983418452/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 26 12:31:01 GMT+0200 2011
+Upload Date  : Thu Jul 28 04:07:56 GMT+0200 2011
+Geotag Info  : Latitude:-3.438286, Longitude:35.793972
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+[224] - Antilope Impala
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

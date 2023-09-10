@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Make Lemons
+Photo URL    : https://www.flickr.com/photos/fritz_pj/3520432722/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 9 23:42:03 GMT+0200 2009
+Upload Date  : Mon May 11 01:42:58 GMT+0200 2009
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin 

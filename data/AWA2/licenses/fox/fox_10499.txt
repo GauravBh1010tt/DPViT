@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt-Zimmerman
+Photo URL    : https://www.flickr.com/photos/16725630@N00/4945327945/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 12 15:23:26 GMT+0200 2010
+Upload Date  : Tue Aug 31 19:49:12 GMT+0200 2010
+Views        : 439
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red fox in Denali National Park, Alaska
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"denali national park" denali "national park" park backpack backpacking hike hiking alaska 2010 "red fox" red fox 

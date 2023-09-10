@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Hedegaard
+Photo URL    : https://www.flickr.com/photos/martin_hedegaard/4138384502/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 18 10:48:50 GMT+0200 2009
+Upload Date  : Fri Nov 27 14:07:30 GMT+0100 2009
+Views        : 568
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Berlin Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin Canon "EOS 1000d" Tamron "AF 55-200" Icebear 

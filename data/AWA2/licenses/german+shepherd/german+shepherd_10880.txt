@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lucas Brigido
+Photo URL    : https://www.flickr.com/photos/lucasbrigido/4596312944/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 8 13:24:21 GMT+0200 2010
+Upload Date  : Mon May 10 20:34:49 GMT+0200 2010
+Geotag Info  : Latitude:-19.843268, Longitude:-44.149428
+Views        : 294
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Tão Lindo / So Beautiful
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cachorro Dog "Pastor Alemão" "German Shepherd Dog" 

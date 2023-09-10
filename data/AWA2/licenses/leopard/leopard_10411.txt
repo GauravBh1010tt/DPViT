@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GRVO TV
+Photo URL    : https://www.flickr.com/photos/64755053@N06/16280459811/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 14 13:31:26 GMT+0100 2015
+Upload Date  : Thu Jan 15 00:13:48 GMT+0100 2015
+Views        : 250
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+For reviews views &amp; opinions on camera equipment follow me on youtube, GRVO TV <a href="http://www.youtube.com/user/69acrowot/videos" rel="nofollow">www.youtube.com/user/69acrowot/videos</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

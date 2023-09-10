@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : devinshire
+Photo URL    : https://www.flickr.com/photos/devinshire/4270674563/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 6 18:03:32 GMT+0100 2010
+Upload Date  : Wed Jan 13 11:31:22 GMT+0100 2010
+Views        : 390
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Alert fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Nature "River Kelvin" Glasgow Scotland Animals Foxes January 2010 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : muwen
+Photo URL    : https://www.flickr.com/photos/41731094@N00/4139792614/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 27 10:06:33 GMT+0100 2009
+Upload Date  : Sat Nov 28 02:04:17 GMT+0100 2009
+Views        : 307
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros at National Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Zoo Negara" 

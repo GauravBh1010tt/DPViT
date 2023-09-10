@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chetbox
+Photo URL    : https://www.flickr.com/photos/chetbox/3843067969/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 16 15:48:35 GMT+0200 2009
+Upload Date  : Fri Aug 21 23:19:46 GMT+0200 2009
+Views        : 435
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bunnies a-plenty on graduation day.
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Kilpatrick
+Photo URL    : https://www.flickr.com/photos/rkilpatrick21/20043670498/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 16 01:01:01 GMT+0200 2015
+Upload Date  : Sun Aug 2 18:20:59 GMT+0200 2015
+Views        : 87
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino & Calf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Hluhluwe rhino rhinoceros 

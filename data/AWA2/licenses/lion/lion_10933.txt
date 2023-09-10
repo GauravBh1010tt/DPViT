@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 'villian
+Photo URL    : https://www.flickr.com/photos/27113916@N00/212609474/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 9 12:40:31 GMT+0200 2006
+Upload Date  : Fri Aug 11 19:27:57 GMT+0200 2006
+Views        : 603
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+So Sad
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the National Zoo in Washington, DC
+
+
++--------+
+|  TAGS  |
++--------+
+National Zoo animal "National Zoo" lion 

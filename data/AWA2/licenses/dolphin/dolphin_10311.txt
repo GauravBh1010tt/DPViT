@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Scott the Hobo
+Photo URL    : https://www.flickr.com/photos/dapperscoo/166797625/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 13 14:12:36 GMT+0200 2006
+Upload Date  : Wed Jun 14 03:19:04 GMT+0200 2006
+Geotag Info  : Latitude:32.764470, Longitude:-117.226009
+Views        : 2,540
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dolphin requesting fish at Rocky Point Preserve.
+
+
++--------+
+|  TAGS  |
++--------+
+sea world san diego dolphin 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : puliarf
+Photo URL    : https://www.flickr.com/photos/puliarfanita/22154670472/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 27 11:44:29 GMT+0200 2015
+Upload Date  : Wed Oct 14 17:43:49 GMT+0200 2015
+Views        : 3,805
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear Pose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another pose of &quot;Mr Clean&quot; being curious about human presence.  Kaktovik, AK on Action Photo Tour
+
+
++--------+
+|  TAGS  |
++--------+
+alaska kaktovik,alaska "arctic ocean" "arctic circle" bear "polar bear" "kaktovik tours" "action photo tours" Iñupiat fairbanks "Barter Island" "wild bears" 

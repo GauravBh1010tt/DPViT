@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AthenaBikes
+Photo URL    : https://www.flickr.com/photos/fontosaurus/402873474/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 25 21:34:39 GMT+0100 2007
+Upload Date  : Mon Feb 26 03:38:31 GMT+0100 2007
+Geotag Info  : Latitude:44.955953, Longitude:-93.290920
+Views        : 249
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Regal Boy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scout, all pleased with himself.
+
+
++--------+
+|  TAGS  |
++--------+
+scout cat kitten siamese tabby 

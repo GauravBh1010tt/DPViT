@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : muzina_shanghai
+Photo URL    : https://www.flickr.com/photos/muzina_shanghai/5651420978/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 24 13:21:43 GMT+0200 2011
+Upload Date  : Mon Apr 25 00:37:51 GMT+0200 2011
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC01069
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+須磨海浜水族園 sumasui 

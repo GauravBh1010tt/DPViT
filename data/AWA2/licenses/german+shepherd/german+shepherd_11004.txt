@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rennett Stowe
+Photo URL    : https://www.flickr.com/photos/tomsaint/3091302062/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 7 17:14:16 GMT+0100 2008
+Upload Date  : Mon Dec 8 01:45:40 GMT+0100 2008
+Views        : 10,176
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+white-faced german shepherd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog "wolf mix" "german shepherd" "shepherd wolf mix" "shepherd dog" dogs "california dog" "white faced dog" "white faced german shepherd" "family pet" "dog in the garden" "dog whiskers" whiskers' "black nose" "cute nose" "dog white mask" "family pets" "suburban pet" "nine mile stare" "when can i get up" "i am tired of sitting here" "black whiskers" "thinking dog" contemplative "i have concerns" "get out of my face" 

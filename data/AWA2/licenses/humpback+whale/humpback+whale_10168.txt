@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : S. Rae
+Photo URL    : https://www.flickr.com/photos/35142635@N05/7459712968/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 20 11:38:44 GMT+0200 2012
+Upload Date  : Thu Jun 28 11:21:00 GMT+0200 2012
+Geotag Info  : Latitude:36.708063, Longitude:-121.975021
+Views        : 204
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale (Megaptera novaeangliae)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Monterey Bay, California, USA
+
+
++--------+
+|  TAGS  |
++--------+
+"taxonomy:binomial=Megaptera novaeangliae" California 

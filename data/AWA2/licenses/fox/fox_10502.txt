@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : slgckgc
+Photo URL    : https://www.flickr.com/photos/slgc/5434682052/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 10 17:37:04 GMT+0100 2011
+Upload Date  : Thu Feb 10 22:35:55 GMT+0100 2011
+Views        : 1,369
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox Leaving Backyard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shot from the porch step
+
+
++--------+
+|  TAGS  |
++--------+
+fox redfox 

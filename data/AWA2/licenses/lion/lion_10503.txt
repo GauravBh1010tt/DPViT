@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : solyanka
+Photo URL    : https://www.flickr.com/photos/solyanka/2846203700/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 7 15:23:27 GMT+0200 2008
+Upload Date  : Wed Sep 10 17:55:44 GMT+0200 2008
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+San Francisco ZOO, 2008
+
+
++--------+
+|  TAGS  |
++--------+
+sfzoo s5200 s5600 fuji zoo 

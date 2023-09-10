@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JoyTek
+Photo URL    : https://www.flickr.com/photos/joytek/15008993816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 24 14:20:45 GMT+0200 2014
+Upload Date  : Mon Aug 25 16:25:15 GMT+0200 2014
+Views        : 123
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_IMG1142
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2014 "zoo parc beauval" panda 

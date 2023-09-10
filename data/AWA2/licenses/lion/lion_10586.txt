@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ralph W. Hsu
+Photo URL    : https://www.flickr.com/photos/mrkarate724/3422737513/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 3 01:21:00 GMT+0200 2007
+Upload Date  : Wed Apr 8 08:55:35 GMT+0200 2009
+Geotag Info  : Latitude:24.994809, Longitude:121.578440
+Views        : 6,696
+Comments     : 16
+
+
++---------+
+|  TITLE  |
++---------+
+獅子 LEO
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+自從買了200mm小砲之後，事隔近一年終於抽空去動物園拍照，那天無奈天陰氣沉，拍啥照片都不像樣，這隻獅子例外......獅子會故意對著遊客噴尿，所以獅子沒辦法用圍欄關著，要用強化玻璃，這照片是隔著強化玻璃，用橡皮製的遮光罩拍的；附帶一提，獅子的活動力強，很難拍......
+
+Since  I bought a EF 55-200 lens, l'd want to go to city zoo again, some day, I met a male lion and took this photos, lions are vigorous and not easy to gat a chance to shoot, and, male lions like to attack visitors by urine, so they can not be separate by only iron enclosure, I took this photo out of the tempered glass, using soft lens hood.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo lions 獅子 木柵動物園 

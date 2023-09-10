@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : maduko
+Photo URL    : https://www.flickr.com/photos/maduko/5293829335/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 24 15:31:42 GMT+0100 2010
+Upload Date  : Sun Dec 26 21:21:09 GMT+0100 2010
+Geotag Info  : Latitude:36.210069, Longitude:-95.906438
+Views        : 81
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+PC247921
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo kittens "tulsa zoo" "snow leopards" 

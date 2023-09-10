@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marc_Smith
+Photo URL    : https://www.flickr.com/photos/marc_smith/379135352/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 4 02:03:14 GMT+0100 2007
+Upload Date  : Sun Feb 4 13:47:12 GMT+0100 2007
+Views        : 281
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard, Bannerghatta Park, Bangalore, India
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2007 February India Bangalore Bannerghatta Animal Park 

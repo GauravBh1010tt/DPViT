@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WIlly Volk
+Photo URL    : https://www.flickr.com/photos/volk/1258013191/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 30 11:03:43 GMT+0200 2007
+Upload Date  : Tue Aug 28 16:45:58 GMT+0200 2007
+Geotag Info  : Latitude:26.694551, Longitude:-79.005646
+Views        : 924
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins on the bow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Bottlenose dolphins" dolphin dolphins bahamas 

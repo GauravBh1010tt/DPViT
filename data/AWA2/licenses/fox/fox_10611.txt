@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lukes_photos
+Photo URL    : https://www.flickr.com/photos/lukenicolaides/8911402806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 26 18:55:34 GMT+0200 2010
+Upload Date  : Sat Jun 1 13:23:51 GMT+0200 2013
+Geotag Info  : Latitude:51.360447, Longitude:-0.191692
+Views        : 191
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+UK London - Fox at our allotment
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+UK London - Fox at our allotment
+
+
++--------+
+|  TAGS  |
++--------+
+Sutton "United Kingdom" GBR UK London Nature "3 Star" 

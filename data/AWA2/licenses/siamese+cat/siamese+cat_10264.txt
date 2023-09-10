@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/8258975294/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 9 13:01:21 GMT+0100 2012
+Upload Date  : Sun Dec 9 20:56:33 GMT+0100 2012
+Views        : 878
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Christmas Kitty
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+thinking she is a gift to our family beneath the Christmas tree
+
+
++--------+
+|  TAGS  |
++--------+
+siamese tonkinese tabby mix cat feline christmas holiday tree decarations quilt 

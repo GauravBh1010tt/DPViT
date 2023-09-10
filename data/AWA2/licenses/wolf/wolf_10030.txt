@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/16798720551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 1 11:50:55 GMT+0100 2014
+Upload Date  : Fri Mar 13 06:00:10 GMT+0100 2015
+Geotag Info  : Latitude:47.734849, Longitude:7.350239
+Views        : 12,623
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Semi profile of a wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These wolves were so pretty! But it was hard to take pictures because of the bad quality of the window!
+
+
++--------+
+|  TAGS  |
++--------+
+portrait face "semi profile" pretty brown canadian wolf timberwolf dog canid canine gray mulhouse zoo france nikon d4 

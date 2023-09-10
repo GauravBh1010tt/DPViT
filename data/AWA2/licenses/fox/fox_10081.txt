@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/8565976614/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 16 14:51:12 GMT+0100 2013
+Upload Date  : Sun Mar 17 18:19:53 GMT+0100 2013
+Geotag Info  : Latitude:42.462697, Longitude:-71.093636
+Views        : 3,214
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Arctic Fox with Stick
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo massachusetts arctic fox white stick 

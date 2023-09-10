@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ewcronin
+Photo URL    : https://www.flickr.com/photos/14137506@N02/8373469535/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 30 15:50:20 GMT+0100 2012
+Upload Date  : Sat Jan 12 22:15:38 GMT+0100 2013
+Views        : 168
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox at Wildlife refuge
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Tybee Island Georgia" Tybee 

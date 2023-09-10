@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Frontierofficial
+Photo URL    : https://www.flickr.com/photos/frontierofficial/8006403705/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 20 16:31:49 GMT+0200 2012
+Upload Date  : Thu Sep 20 17:31:49 GMT+0200 2012
+Geotag Info  : Latitude:-33.954182, Longitude:25.598831
+Views        : 369
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+South Africa Wildlife Conservation
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Images by Lily Sansom.
+
+For more information please visit the <a href="http://bit.ly/PDEziy" rel="nofollow">South Africa Conservation</a> page of the Frontier website.
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" Wildlife 

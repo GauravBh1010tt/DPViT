@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brep
+Photo URL    : https://www.flickr.com/photos/brepetti/7686053616/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 30 17:17:06 GMT+0200 2012
+Upload Date  : Tue Jul 31 21:14:56 GMT+0200 2012
+Views        : 42
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hudson Canyon
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

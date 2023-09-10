@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : atlai
+Photo URL    : https://www.flickr.com/photos/atlai/6068659617/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 20 21:30:04 GMT+0200 2011
+Upload Date  : Mon Aug 22 12:57:46 GMT+0200 2011
+Views        : 486
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Springbok, Auckland Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mascots of the South African rugby team :)
+
+
++--------+
+|  TAGS  |
++--------+
+auckland zoo springbok 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : weslowik
+Photo URL    : https://www.flickr.com/photos/7702946@N02/15451954762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 31 10:17:28 GMT+0200 2014
+Upload Date  : Mon Oct 6 00:09:43 GMT+0200 2014
+Views        : 237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wildlife Prairie SP Wolf 20140831 -02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2014 Web "Wildlife Prairie SP" 

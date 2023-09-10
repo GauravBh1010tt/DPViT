@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ~Ealasaid~
+Photo URL    : https://www.flickr.com/photos/fredrte/5465048490/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 20 15:24:46 GMT+0100 2011
+Upload Date  : Mon Feb 21 14:56:01 GMT+0100 2011
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0901
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Brevard Zoo rhino white rhinoceros 

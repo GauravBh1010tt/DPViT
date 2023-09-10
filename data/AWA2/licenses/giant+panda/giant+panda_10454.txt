@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : angela n.
+Photo URL    : https://www.flickr.com/photos/aon/8545910203/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 10 14:29:01 GMT+0100 2013
+Upload Date  : Mon Mar 11 01:02:47 GMT+0100 2013
+Views        : 252
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+National Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flickr panda 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BBM Explorer
+Photo URL    : https://www.flickr.com/photos/bbmexplorer/5304428242/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 29 10:55:50 GMT+0100 2010
+Upload Date  : Wed Dec 29 21:19:36 GMT+0100 2010
+Geotag Info  : Latitude:51.869707, Longitude:0.841484
+Views        : 9,566
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lone Wolf, Colchester Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Grey Wolf at Colchester Zoo
+
+You are free to use this image providing you link back to <a href="http://www.landscapesofengland.co.uk" rel="nofollow">www.landscapesofengland.co.uk</a>
+
+
++--------+
+|  TAGS  |
++--------+
+colchester zoo essex grey wolf 

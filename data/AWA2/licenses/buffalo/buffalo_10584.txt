@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yorkeagles
+Photo URL    : https://www.flickr.com/photos/110578874@N05/11211766835/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 29 15:25:10 GMT+0200 2012
+Upload Date  : Wed Dec 4 22:43:52 GMT+0100 2013
+Views        : 215
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN0328
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison 

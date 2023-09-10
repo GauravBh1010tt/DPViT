@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Seokhee Kim
+Photo URL    : https://www.flickr.com/photos/45139404@N02/9497416127/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 10 09:05:35 GMT+0200 2013
+Upload Date  : Tue Aug 13 05:10:10 GMT+0200 2013
+Views        : 220
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

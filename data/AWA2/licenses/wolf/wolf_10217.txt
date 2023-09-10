@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PatrickRohe
+Photo URL    : https://www.flickr.com/photos/patrickrohe/19139638544/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 10:57:43 GMT+0200 2015
+Upload Date  : Fri Jul 17 05:01:42 GMT+0200 2015
+Geotag Info  : Latitude:43.733738, Longitude:-71.591225
+Views        : 239
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6429.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squam Lakes Natural Science Center near Lake Winnipesaukee, NH
+
+
++--------+
+|  TAGS  |
++--------+
+wolf Holderness "New Hampshire" "United States" 

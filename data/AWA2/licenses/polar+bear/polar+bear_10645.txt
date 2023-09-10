@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rob Oo
+Photo URL    : https://www.flickr.com/photos/105105658@N03/16189553657/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 4 13:31:25 GMT+0200 2013
+Upload Date  : Mon Jan 26 21:53:17 GMT+0100 2015
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Animals ro016b 

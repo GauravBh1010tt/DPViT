@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Greencolander
+Photo URL    : https://www.flickr.com/photos/greencolander/7235225126/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 7 05:52:37 GMT+0200 2012
+Upload Date  : Sun May 20 20:04:48 GMT+0200 2012
+Views        : 5,645
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+napping polar bears
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Berlin Zoological Garden" "Zoologischer Garten Berlin" polar bear 

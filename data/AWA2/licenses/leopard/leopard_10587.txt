@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SaraYeomans
+Photo URL    : https://www.flickr.com/photos/yeomans/402856645/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 12 10:46:59 GMT+0100 2007
+Upload Date  : Mon Feb 26 03:23:06 GMT+0100 2007
+Views        : 1,895
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals "Snow leopard" yawn zoo "Toronto Zoo" 

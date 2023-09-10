@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Max Goldberg
+Photo URL    : https://www.flickr.com/photos/max-goldberg/19718741145/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 3 01:14:11 GMT+0200 2015
+Upload Date  : Wed Jul 15 16:16:28 GMT+0200 2015
+Views        : 665
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kenai Peninsula Day 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska Kenai Bears Brown Grass "Natural Habitat" Grizzly Bear Fight "Bear Fight" 

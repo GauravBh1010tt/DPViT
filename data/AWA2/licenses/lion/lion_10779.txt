@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mandy spearing
+Photo URL    : https://www.flickr.com/photos/57298788@N04/5674984796/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 1 12:45:14 GMT+0200 2011
+Upload Date  : Sun May 1 08:23:57 GMT+0200 2011
+Views        : 76
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

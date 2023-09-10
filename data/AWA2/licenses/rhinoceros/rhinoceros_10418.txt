@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Flikkersteph -4,000,000 views ,thank you!
+Photo URL    : https://www.flickr.com/photos/topsteph53/9723738341/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 17 14:49:08 GMT+0200 2013
+Upload Date  : Wed Sep 11 20:33:16 GMT+0200 2013
+Geotag Info  : Latitude:50.582051, Longitude:3.891135
+Views        : 182
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinocéros blanc
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nature park zoo animals Pairi-Daiza Brugelette 

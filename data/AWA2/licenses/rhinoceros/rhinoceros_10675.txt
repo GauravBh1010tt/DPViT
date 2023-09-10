@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sufw
+Photo URL    : https://www.flickr.com/photos/sufw/9854345375/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 5 00:20:19 GMT+0200 2013
+Upload Date  : Sat Sep 21 15:49:45 GMT+0200 2013
+Geotag Info  : Latitude:-24.738062, Longitude:31.510975
+Views        : 1,738
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinos Grazing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A pair of White Rhinos grazing in the Sabi Sand park. 
+Rhinos in Sabi have their horns injected with both a purple dye and a fungicide which is highly toxic to humans in the hope of preventing their slaughter by poachers.
+
+
++--------+
+|  TAGS  |
++--------+
+"Sabi Sands" "Sabi Sand Wildtuin" "White Rhino" "South Africa" rhino "Ceratotherium simum" rhinoceros "White Rhinoceros" Arathusa "Canon EF200-400mm f/4L IS USM EXT" 

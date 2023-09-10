@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrewhalliday
+Photo URL    : https://www.flickr.com/photos/andrewhalliday/3497869311/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 3 15:01:42 GMT+0200 2009
+Upload Date  : Sun May 3 23:29:17 GMT+0200 2009
+Geotag Info  : Latitude:51.839874, Longitude:-0.223610
+Views        : 401
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard Cubs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Alpha and Omega, 8 months old
+
+
++--------+
+|  TAGS  |
++--------+
+"Cat Survival Trust" "Snow Leopard" cub conservation breeding Panthera charity "Uncia Uncia" 

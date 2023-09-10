@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/23510678572/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 7 22:24:08 GMT+0100 2015
+Upload Date  : Wed Dec 9 01:18:13 GMT+0100 2015
+Views        : 557
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison at Rocky Mountain Arsenal National Wildlife Refuge
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison get itchy. They'll use whatever is available to scratch that nagging itch!
+
+Credit: Ryan Moehring / USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+USFWS "U.S. FISH AND WILDLIFE SERVICE" "Rocky Mountain Arsenal National Wildlife Refuge" "Wildlife Refuge" Bison Outdoors NATURE buffalo "bison buffalo" tatonka Denver Colorado WILDLIFE "Wildlife Conservation" 

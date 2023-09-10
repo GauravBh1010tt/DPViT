@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/6481177591/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 8 16:47:13 GMT+0100 2011
+Upload Date  : Fri Dec 9 11:32:09 GMT+0100 2011
+Views        : 544
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Wo bleibt mein Rinderohr?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dezember 2011
+Canon EOS 40D
+EF-S 17-85mm f/4-5.6 IS USM
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hunde hündin dog welpe puppy dalmatiner female dalmatian Dalmatinac hund junghund young 

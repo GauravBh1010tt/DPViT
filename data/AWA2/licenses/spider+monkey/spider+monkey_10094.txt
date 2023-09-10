@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Saul Adereth
+Photo URL    : https://www.flickr.com/photos/saul_adereth/5064730853/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 1 11:55:22 GMT+0200 2009
+Upload Date  : Sat Oct 9 18:36:35 GMT+0200 2010
+Geotag Info  : Latitude:17.217140, Longitude:-89.623260
+Views        : 91
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Monkey Business
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tikal - Spider Monkey
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wallygrom
+Photo URL    : https://www.flickr.com/photos/33037982@N04/4379832847/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 1 00:00:00 GMT+0100 2010
+Upload Date  : Tue Feb 23 00:16:36 GMT+0100 2010
+Geotag Info  : Latitude:50.808304, Longitude:-0.483934
+Views        : 1,099
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+A local varmint!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the many urban foxes that are running out of control in East Preston ... not helped by the garbage lying around ... not helped by people feeding them.
+
+We have a couple of foxes who use our garden as a haven. That is the down side of having a nice, jungly garden. A few months back one of them bared his teeth at me as I went out to defend a neighbour's cat who was trapped in the corner. My own cats are too frightened to go out unless I'm there. And tonight, just now, I heard a commotion at the cat flap ... Wallace was growling ... at a fox who was trying to get in.
+
+I'm sorry ... I love all animals ... but foxes are not pets, they're feral ... and the problem needs addressing ... fast.
+
+
++--------+
+|  TAGS  |
++--------+
+England "West Sussex" "East Preston" fox "urban fox" 

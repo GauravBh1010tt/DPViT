@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : danifeb
+Photo URL    : https://www.flickr.com/photos/danifeb/3507824025/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 6 19:00:53 GMT+0200 2009
+Upload Date  : Wed May 6 22:34:53 GMT+0200 2009
+Geotag Info  : Latitude:40.423633, Longitude:-3.761444
+Views        : 1,008
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Madrid - Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+panda zoo madrid 

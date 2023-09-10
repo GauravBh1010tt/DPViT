@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LandBetweenTheLakesKYTN
+Photo URL    : https://www.flickr.com/photos/lblkytn/7624006072/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 31 15:46:46 GMT+0100 2011
+Upload Date  : Sun Jul 22 21:28:24 GMT+0200 2012
+Geotag Info  : Latitude:36.785641, Longitude:-88.059883
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Winter at the Elk & Bison Prairie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Driving through the Elk &amp; Bison Prairie we came across the herd grazing as they crossed the road. Photo by Jan Bush 12/31/2011
+
+
++--------+
+|  TAGS  |
++--------+
+Elk&Bison-Prairie; Land-Between-The-Lakes; Buffalo LandBetweenTheLakesKYTN "US Forest Service" nature "environmental education" "Kentucky Lake" "Lake Barkley" history camping birding biking hiking hunting Kentucky Tennessee "public lands" "scenic driving" "wildlife watching" 

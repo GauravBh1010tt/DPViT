@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cliff1066™
+Photo URL    : https://www.flickr.com/photos/nostri-imago/2886014991/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 1 22:00:18 GMT+0200 2007
+Upload Date  : Thu Sep 25 05:38:21 GMT+0200 2008
+Geotag Info  : Latitude:38.846446, Longitude:-77.075036
+Views        : 742
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Harlee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It's a long way down?
+
+
++--------+
+|  TAGS  |
++--------+
+Cat Harlee Kitty Meow Pussy Siamese "alpha cat" "Oriental cat" "Kitty Cat" "Pussy Cat" "traditional Siamese" Shorthair "Domestic cat" Domestic Harliqueen Calico “Dilute Calico” Griffin “Maine Coon” Pandora “Felis catus” Felis catus “domestic cat” mammal companion companionship pet feline felid meowing purring trilling hissing growling domesticated animal carnivorous Animalia Chordata Mammalia Carnivora Felidae domestica” silvestris “catus siamensis” siamensis Oriental Feral Catfight Purr 

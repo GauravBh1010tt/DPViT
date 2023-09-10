@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Arctic Wolf Pictures
+Photo URL    : https://www.flickr.com/photos/arcticwoof/8118955538/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 3 10:00:14 GMT+0200 2012
+Upload Date  : Wed Oct 24 14:51:31 GMT+0200 2012
+Views        : 7,404
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chin scruff
+
+
++--------+
+|  TAGS  |
++--------+
+polar bear 

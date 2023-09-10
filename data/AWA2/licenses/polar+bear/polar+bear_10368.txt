@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrea & Stefan
+Photo URL    : https://www.flickr.com/photos/winterbald/1763816131/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 19 11:28:12 GMT+0200 2007
+Upload Date  : Fri Oct 26 22:44:07 GMT+0200 2007
+Views        : 1,077
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Knut mit seinem Pfleger Thomas Dörflein
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+knut eisbär berlin 

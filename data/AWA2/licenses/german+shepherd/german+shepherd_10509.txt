@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : martinilounge834
+Photo URL    : https://www.flickr.com/photos/58841418@N03/5395270268/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 6 16:27:44 GMT+0100 2009
+Upload Date  : Fri Jan 28 09:21:54 GMT+0100 2011
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5032
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Best friends.
+
+
++--------+
+|  TAGS  |
++--------+
+martiniphoto canon unedited "no photoshop" animal dog "german shepherd" husky 

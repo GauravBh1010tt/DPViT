@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/10341055296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 18 07:02:51 GMT+0200 2013
+Upload Date  : Fri Oct 18 08:56:26 GMT+0200 2013
+Geotag Info  : Latitude:51.562922, Longitude:0.015172
+Views        : 338
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flickriosapp:filter=NoFilter uploaded:by=flickr_mobile Bessy GSD "German Shepherd" dog sunrise Leytonstone 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christoph Schmidt
+Photo URL    : https://www.flickr.com/photos/44287441@N06/4069008275/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 1 15:00:09 GMT+0100 2009
+Upload Date  : Mon Nov 2 21:23:39 GMT+0100 2009
+Geotag Info  : Latitude:48.097214, Longitude:11.553969
+Views        : 174
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bisons
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Tierpark Hellabrunn Tiere München 

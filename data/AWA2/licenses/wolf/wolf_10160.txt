@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : U.S. Fish and Wildlife Service - Midwest Region
+Photo URL    : https://www.flickr.com/photos/usfwsmidwest/6545954621/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 20 16:57:11 GMT+0100 2011
+Upload Date  : Tue Dec 20 23:57:11 GMT+0100 2011
+Views        : 16,223
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+gray wolf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gray wolf close up
+Photo by National Park Service
+
+
++--------+
+|  TAGS  |
++--------+
+"gray wolf" Wolf Mammal Mammals "Creative Commons" USFWS "U.S. Fish and Wildlife Service" Midwest 

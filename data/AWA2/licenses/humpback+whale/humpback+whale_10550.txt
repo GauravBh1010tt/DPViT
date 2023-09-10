@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : puliarf
+Photo URL    : https://www.flickr.com/photos/puliarfanita/9592732147/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 19 11:28:09 GMT+0200 2013
+Upload Date  : Mon Aug 26 00:43:07 GMT+0200 2013
+Views        : 3,273
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback_7
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Female humpback whale and calf.  Note calf pectoral fin in foreground
+
+
++--------+
+|  TAGS  |
++--------+
+"Megaptera novaeangliae" "humpback whale" "Condor Express" "channel islands" 

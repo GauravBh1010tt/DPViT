@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kteneyck
+Photo URL    : https://www.flickr.com/photos/17367038@N08/9447017068/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 5 08:59:20 GMT+0200 2013
+Upload Date  : Mon Aug 5 21:49:37 GMT+0200 2013
+Views        : 780
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+YunZi4th_001_Med
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+from the San Diego Zoo web site.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

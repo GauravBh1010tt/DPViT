@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/3865845652/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 28 16:01:11 GMT+0200 2009
+Upload Date  : Fri Aug 28 21:50:35 GMT+0200 2009
+Geotag Info  : Latitude:52.379208, Longitude:-2.286293
+Views        : 2,257
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A day out at West Midlands Safari Park
+
+
++--------+
+|  TAGS  |
++--------+
+"West Midlands Safari Park" "Big Cat" Cat Lion 

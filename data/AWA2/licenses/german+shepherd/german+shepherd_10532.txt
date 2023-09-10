@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wisconsin Department of Natural Resources
+Photo URL    : https://www.flickr.com/photos/widnr/6589315149/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 16 15:36:26 GMT+0100 2011
+Upload Date  : Wed Dec 28 20:03:33 GMT+0100 2011
+Views        : 1,568
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+K-9 Warden Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A German shepherd &quot;Warden K-9.&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+dog warden "German shepherd" K-9 vest 

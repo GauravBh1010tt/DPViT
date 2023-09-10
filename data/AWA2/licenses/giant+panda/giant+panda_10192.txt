@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : clarejim
+Photo URL    : https://www.flickr.com/photos/clarejim/2786637187/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 8 00:51:33 GMT+0200 2007
+Upload Date  : Fri Aug 22 18:59:44 GMT+0200 2008
+Views        : 437
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+flute
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+F80 panda china Sichuan 

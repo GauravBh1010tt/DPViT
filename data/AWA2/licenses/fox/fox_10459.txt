@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Cathrae
+Photo URL    : https://www.flickr.com/photos/suckamc/5764381831/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 19 06:11:41 GMT+0200 2011
+Upload Date  : Fri May 27 14:31:53 GMT+0200 2011
+Geotag Info  : Latitude:46.248160, Longitude:-63.130145
+Views        : 561
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Parental Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Keeping an eye on his/her youngsters, making sure we're not up to any fox baby shenanigans.
+
+
++--------+
+|  TAGS  |
++--------+
+fox charlottetown pei canada 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : girolame
+Photo URL    : https://www.flickr.com/photos/girolame/3052140865/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 12 17:39:04 GMT+0100 2008
+Upload Date  : Sun Nov 23 14:50:09 GMT+0100 2008
+Geotag Info  : Latitude:-29.533029, Longitude:31.211814
+Views        : 322
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Réserve naturelle de Hluhluwe-Umfolozi (environ 800 km²)
+Afrique du Sud
+
+
++--------+
+|  TAGS  |
++--------+
+"afrique du sud" "south africa" IXUS50 "white rhinoceros" rhinoceros Hluhluwe-Umfolozi 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oregon Department of Fish & Wildlife
+Photo URL    : https://www.flickr.com/photos/odfw/17106715250/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 20 11:15:11 GMT+0200 2012
+Upload Date  : Tue Apr 28 00:52:17 GMT+0200 2015
+Views        : 2,775
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+6853_OR014_odfw
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+-Photo by the Oregon Department of Fish and Wildlife-
+
+OR14 was captured and GPS-collared by ODFW in the Weston Mountain area north of the Umatilla River on June 20, 2012. OR14 is one of two known wolves using the area. OR14 weighed 90 lbs. and was estimated to be at least 6 years old.
+
+
++--------+
+|  TAGS  |
++--------+
+mammal canine wolf ODFW Oregon "gray wolf" OR14 "radio collar" "Weston Mountain" 

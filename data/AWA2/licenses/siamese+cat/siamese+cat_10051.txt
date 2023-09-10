@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/7752876390/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 9 07:57:48 GMT+0200 2012
+Upload Date  : Sat Aug 11 14:13:38 GMT+0200 2012
+Views        : 1,765
+Comments     : 42
+
+
++---------+
+|  TITLE  |
++---------+
+Miss Truffles
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Happy Furry Friday :)
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese "Miss Truffles" portrait 

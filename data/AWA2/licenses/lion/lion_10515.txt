@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/3076415560/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 10 17:05:26 GMT+0100 2008
+Upload Date  : Tue Dec 2 03:55:52 GMT+0100 2008
+Geotag Info  : Latitude:-1.752046, Longitude:35.046386
+Views        : 327
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Panthera leo</i>, Northern Serengeti, Tanzania.
+
+
++--------+
+|  TAGS  |
++--------+
+_Favorite_ Tanzania Serengeti Mammal Life 

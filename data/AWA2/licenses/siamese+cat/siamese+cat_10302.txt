@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : recubejim
+Photo URL    : https://www.flickr.com/photos/86886338@N00/2831696324/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 5 16:14:32 GMT+0200 2008
+Upload Date  : Fri Sep 5 23:21:44 GMT+0200 2008
+Views        : 2,731
+Comments     : 48
+
+
++---------+
+|  TITLE  |
++---------+
+Good Boy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He's purring. He pretty much is always purring.
+
+
++--------+
+|  TAGS  |
++--------+
+BetterThanGood BestofCats BlueRibbonPhotography AllCatsNoPeople "Siamese cats and their feline brothers" CatsCloseUp CatsUpClose GingerCats CatShowOffs ShowOffYourCats ExcellentCatShots TheHairySideOfNature 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tedkerwin
+Photo URL    : https://www.flickr.com/photos/tedkerwin/2274628473/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 18 15:34:26 GMT+0100 2008
+Upload Date  : Mon Feb 18 21:34:26 GMT+0100 2008
+Geotag Info  : Latitude:40.194216, Longitude:-74.026222
+Views        : 373
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Allie and Ian 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gsd "german shepherd" dog 

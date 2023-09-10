@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russteaches
+Photo URL    : https://www.flickr.com/photos/89119745@N00/7647574936/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 24 15:45:40 GMT+0200 2012
+Upload Date  : Thu Jul 26 04:23:06 GMT+0200 2012
+Views        : 2,533
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Da Bears
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.ebaumsworld.com/video/watch/38858/" rel="nofollow">www.ebaumsworld.com/video/watch/38858/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+toledo zoo zoological park society polar bear 

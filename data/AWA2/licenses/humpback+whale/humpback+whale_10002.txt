@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : orca_bc
+Photo URL    : https://www.flickr.com/photos/101951515@N07/10219344093/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 4 11:23:20 GMT+0200 2013
+Upload Date  : Sat Oct 12 06:27:04 GMT+0200 2013
+Views        : 523
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_8731
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Blue Ocean Whale Watch" California "Humpback Whale" "Humpback Whales" "Marine Life" "Marine Sanctuary" "Megaptera novaeangliae" Monterey "Monterey Bay" "Pacific Ocean" "United States of America" Whale baleen "baleen whale" cetacean cetaceans "tail fluke" whales 

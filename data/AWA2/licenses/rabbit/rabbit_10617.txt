@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ibm4381
+Photo URL    : https://www.flickr.com/photos/j_benson/3681735154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 1 06:26:33 GMT+0200 2009
+Upload Date  : Thu Jul 2 15:23:40 GMT+0200 2009
+Views        : 1,486
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Leafeater
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This young bunny appears to have a leaf in its mouth
+
+
++--------+
+|  TAGS  |
++--------+
+owen park madison rabbit feeding "Canon EF 400mm F4 DO IS USM" "800mm hand held" 

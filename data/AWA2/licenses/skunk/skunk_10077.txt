@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : minicooper93402
+Photo URL    : https://www.flickr.com/photos/minicooper93402/5240143497/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 6 23:35:05 GMT+0100 2010
+Upload Date  : Tue Dec 7 09:21:25 GMT+0100 2010
+Views        : 960
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+skunk grooming
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+here he is, working on the sore spot on his back, on the left stripe.  he also seems to have lots of fleas, because he was scratching a lot.
+
+
++--------+
+|  TAGS  |
++--------+
+skunk "los osos" "san luis obispo" doorstep grooming "sore spot" 

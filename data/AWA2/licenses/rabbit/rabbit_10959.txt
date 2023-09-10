@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cykocurt
+Photo URL    : https://www.flickr.com/photos/cykocurt/5038129831/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 25 22:45:49 GMT+0200 2008
+Upload Date  : Thu Sep 30 11:19:23 GMT+0200 2010
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+superfunnyanimalsfunnyanimalpicturespichunter-9
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

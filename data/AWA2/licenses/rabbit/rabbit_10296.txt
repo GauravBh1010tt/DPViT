@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gurdonark
+Photo URL    : https://www.flickr.com/photos/46183897@N00/9198245066/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 2 03:09:46 GMT+0200 2013
+Upload Date  : Wed Jul 3 04:59:21 GMT+0200 2013
+Views        : 746
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cottontail bunny Glendover Park,Allen,Texas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+June 30,2013
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit cottontail glendover park allen texas wildlife 

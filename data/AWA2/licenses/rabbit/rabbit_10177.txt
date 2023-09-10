@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eschipul
+Photo URL    : https://www.flickr.com/photos/eschipul/3782011202/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 27 04:44:09 GMT+0200 2009
+Upload Date  : Sun Aug 2 19:54:53 GMT+0200 2009
+Views        : 781
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bunny chaser
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+pennsylvania bunny
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit penn state travel cute cuteness 

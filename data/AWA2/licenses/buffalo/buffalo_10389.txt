@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mmmavocado
+Photo URL    : https://www.flickr.com/photos/mmmavocado/5753387359/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 13 17:54:30 GMT+0200 2011
+Upload Date  : Tue May 24 07:31:25 GMT+0200 2011
+Geotag Info  : Latitude:44.640334, Longitude:-110.894880
+Views        : 142
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The bison had just had their calves for the year.
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone 

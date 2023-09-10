@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HockeyholicAZ
+Photo URL    : https://www.flickr.com/photos/hockeyholic/8427232731/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 4 08:54:55 GMT+0100 2012
+Upload Date  : Tue Jan 29 22:40:05 GMT+0100 2013
+Views        : 132
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4612
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"phoenix zoo" zoo lion 

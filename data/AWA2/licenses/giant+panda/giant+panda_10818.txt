@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : decade_null
+Photo URL    : https://www.flickr.com/photos/decade_null/9596191790/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 6 16:41:01 GMT+0100 2013
+Upload Date  : Mon Aug 26 02:45:31 GMT+0200 2013
+Geotag Info  : Latitude:1.404163, Longitude:103.791577
+Views        : 201
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Singapore Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+travel asia singapore zoo animal panda 

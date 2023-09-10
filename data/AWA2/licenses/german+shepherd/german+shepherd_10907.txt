@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/8338185768/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 2 14:28:40 GMT+0100 2013
+Upload Date  : Wed Jan 2 14:35:19 GMT+0100 2013
+Views        : 1,501
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tired Bessy?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bessy GSD "German Shepherd" dog 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : milkisprotein
+Photo URL    : https://www.flickr.com/photos/toms/127809944/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 13 09:10:12 GMT+0200 2006
+Upload Date  : Thu Apr 13 08:38:45 GMT+0200 2006
+Views        : 1,850
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Looking out of the window
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+figaro bunny rabbit 

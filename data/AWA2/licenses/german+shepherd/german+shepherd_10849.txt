@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/8450877456/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 21 07:45:27 GMT+0100 2013
+Upload Date  : Wed Feb 6 15:22:09 GMT+0100 2013
+Geotag Info  : Latitude:51.564667, Longitude:0.019167
+Views        : 774
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow dog on the leash
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Photo Stream" Bessy GSD "German Shepherd" snow dog 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JulieWalraven
+Photo URL    : https://www.flickr.com/photos/juliewalraven/6905158190/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 22 11:03:08 GMT+0100 2012
+Upload Date  : Fri Apr 6 19:50:00 GMT+0200 2012
+Views        : 2,700
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buddy "German Shepherd"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Buddy testing the new closet out. Thinking it might be his new home. But no, it is a closet for the vacuum cleaners.
+
+
++--------+
+|  TAGS  |
++--------+
+Buddy "German Shepherd" 

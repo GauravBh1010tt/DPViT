@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amslerPIX
+Photo URL    : https://www.flickr.com/photos/amslerpix/6953304686/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 13 12:36:46 GMT+0200 2012
+Upload Date  : Sat Apr 21 19:13:10 GMT+0200 2012
+Views        : 117
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+AIM "Ambassadors in Mission" "assemblies of God" "David Amsler" "Kentucky Youth Ministries" mission Scan 

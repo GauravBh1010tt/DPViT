@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lilli2de
+Photo URL    : https://www.flickr.com/photos/seven_of9/4519183148/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 3 12:12:42 GMT+0200 2010
+Upload Date  : Tue Apr 13 23:43:44 GMT+0200 2010
+Views        : 208
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hey you!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Da saß wohl ein Vogel im Baum..
+
+
++--------+
+|  TAGS  |
++--------+
+April2010 "Theo und Freunde" "Theo and friends" "Belgischer Schäferhund" lilli 

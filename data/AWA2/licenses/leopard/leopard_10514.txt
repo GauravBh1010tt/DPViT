@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ImNotQuiteJack
+Photo URL    : https://www.flickr.com/photos/imnotquitejack/7104412123/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 14 15:57:42 GMT+0200 2012
+Upload Date  : Mon Apr 23 03:15:06 GMT+0200 2012
+Geotag Info  : Latitude:42.305333, Longitude:-71.088667
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panting Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

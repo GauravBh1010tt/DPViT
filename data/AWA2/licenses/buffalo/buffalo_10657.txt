@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PatrickRohe
+Photo URL    : https://www.flickr.com/photos/patrickrohe/7994719993/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 6 18:00:12 GMT+0200 2012
+Upload Date  : Mon Sep 17 05:58:03 GMT+0200 2012
+Geotag Info  : Latitude:44.634788, Longitude:-110.447906
+Views        : 159
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1532.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison in Hayden Valley, in Yellowstone National Park
+
+
++--------+
+|  TAGS  |
++--------+
+bison yellowstone 

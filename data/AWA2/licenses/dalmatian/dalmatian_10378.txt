@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/15283034860/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 3 15:18:53 GMT+0200 2014
+Upload Date  : Tue Oct 7 17:40:41 GMT+0200 2014
+Views        : 960
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Herbstdalmatiner
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oktober 2014
+Canon EOS 60D
+EF 85mm f/1.8 USM
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund dog hündin female dalmatiner dalmatian spaß fun herbst lab wald wood forest autumn 

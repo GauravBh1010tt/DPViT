@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aoife Cahill
+Photo URL    : https://www.flickr.com/photos/aoifecahill/234359313/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 28 12:32:04 GMT+0200 2006
+Upload Date  : Tue Sep 5 01:46:40 GMT+0200 2006
+Geotag Info  : Latitude:32.724909, Longitude:-117.152709
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC01133
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dolphins jumping
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin 

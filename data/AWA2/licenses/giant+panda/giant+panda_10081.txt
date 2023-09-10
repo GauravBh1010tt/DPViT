@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sanfamedia.com
+Photo URL    : https://www.flickr.com/photos/kudo88/4264961403/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 27 05:01:07 GMT+0100 2009
+Upload Date  : Mon Jan 11 10:24:09 GMT+0100 2010
+Views        : 270
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chengdu Panda Base
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chengdu Panda Base
+
+
++--------+
+|  TAGS  |
++--------+
+China Chengdu Panda "Giant Panda" Bambus Sichuan 

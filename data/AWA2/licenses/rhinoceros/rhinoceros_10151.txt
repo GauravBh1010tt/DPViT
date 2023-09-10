@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Headquarters
+Photo URL    : https://www.flickr.com/photos/usfwshq/6880954877/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 26 10:01:51 GMT+0200 2002
+Upload Date  : Wed Feb 15 15:12:56 GMT+0100 2012
+Views        : 966
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Black rhinos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mkhuze, South Africa
+Credit: Karl Stromayer/USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros wildlifewithoutborders multinational species 

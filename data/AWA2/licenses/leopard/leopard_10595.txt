@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Robert Scoble
+Photo URL    : https://www.flickr.com/photos/scobleizer/3583814151/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 31 12:33:59 GMT+0200 2009
+Upload Date  : Mon Jun 1 07:24:21 GMT+0200 2009
+Views        : 728
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Today we visited the San Diego Zoo and here's the pictures I made, all with a Canon 5D Mark II and a 600 mm F4.0 lens (very heavy, but the best zoo lens I've ever used).
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" zoo "san diego zoo" 

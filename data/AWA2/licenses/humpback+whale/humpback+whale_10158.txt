@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HarmonyonPlanetEarth
+Photo URL    : https://www.flickr.com/photos/barrigoni/8107454527/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 15 10:59:07 GMT+0200 2012
+Upload Date  : Sun Oct 21 05:50:56 GMT+0200 2012
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale | Brookings OR | 2012-09-15at10-59-07
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

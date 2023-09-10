@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tompagenet
+Photo URL    : https://www.flickr.com/photos/tompagenet/181003142/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 26 18:28:44 GMT+0200 2006
+Upload Date  : Mon Jul 3 22:55:14 GMT+0200 2006
+Geotag Info  : Latitude:51.532208, Longitude:-0.124776
+Views        : 1,585
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Out. Fox.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The fire caused this fox to roam the streets looking very dazed - not something you usually see at just gone six on a weekday at one of London's busiest stations.
+
+
++--------+
+|  TAGS  |
++--------+
+"King's Cross" "King's Cross Station" closure fire fox 

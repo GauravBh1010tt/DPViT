@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Radcliff
+Photo URL    : https://www.flickr.com/photos/chris_radcliff/158967291/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 2 16:28:25 GMT+0200 2006
+Upload Date  : Sat Jun 3 01:28:25 GMT+0200 2006
+Views        : 1,355
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Fuph kitten on the monitor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is actually an old photo of Eric's that I was telling <a href="http://edward.oconnor.cx" rel="nofollow">Ted</a> about today.  I'll happily take it down once Jacinto (its previous home) is available again.
+
+
++--------+
+|  TAGS  |
++--------+
+cute kitten monitor fuph erich siamese cat "cute overload" 

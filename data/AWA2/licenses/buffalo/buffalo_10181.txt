@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : La case photo de Got
+Photo URL    : https://www.flickr.com/photos/lespetitescases/7585772758/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 16 19:25:33 GMT+0200 2012
+Upload Date  : Mon Jul 16 23:20:30 GMT+0200 2012
+Geotag Info  : Latitude:48.668242, Longitude:-72.460327
+Views        : 209
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison d'Amérique
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+quebec voyage faune nature 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Siemens PLM Software
+Photo URL    : https://www.flickr.com/photos/31274959@N08/14554655771/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 15 20:36:04 GMT+0200 2014
+Upload Date  : Wed Jul 2 16:04:28 GMT+0200 2014
+Views        : 413
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Electronics and Semiconductor Industry Executive Council is a global steering group of Siemens PLM Software customers, within the E&amp;S industry. This council has met every year since 2006 in locations around the world to collaborate with each other and with Siemens PLM executives to focus on PLM best practices and needs within this industry.  
+The 2014 meeting was held in Chengdu, China, hosting executives from the USA, Sweden, Germany, South Korea and China, as well as leaders within Siemens, and Analyst firm IDC.
+
+
++--------+
+|  TAGS  |
++--------+
+Electronics Semiconductor "Electronics and Semiconductor" PLM 

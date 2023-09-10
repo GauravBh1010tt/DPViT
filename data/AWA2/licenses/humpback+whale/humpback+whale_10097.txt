@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pat Hawks
+Photo URL    : https://www.flickr.com/photos/pathawks/3841549078/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 20 15:47:10 GMT+0200 2009
+Upload Date  : Fri Aug 21 03:16:39 GMT+0200 2009
+Geotag Info  : Latitude:44.363133, Longitude:-68.203125
+Views        : 3,595
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bar Harbor Whale Watch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dopplr:explore=atg1 whale watch ocean dopplr:trip=839340 dopplr:woeid=2359069 dopplr:tagged=snaptrip "Humpback Whale" "Megaptera novaeangliae" wlny:photo=i76x wlny:species=sdp wlny:trip=tk8 wlny:place=pgq wlny:geotagged=1 foursquare:venue=4316716 wild 

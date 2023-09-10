@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tricia Kirk
+Photo URL    : https://www.flickr.com/photos/triciakirk/3007137105/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 6 22:56:13 GMT+0100 2008
+Upload Date  : Thu Nov 6 12:56:13 GMT+0100 2008
+Views        : 124
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+charlie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+German Shepherd 

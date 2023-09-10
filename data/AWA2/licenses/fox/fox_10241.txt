@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : simonov
+Photo URL    : https://www.flickr.com/photos/simonov/2072423648/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 6 06:56:15 GMT+0200 2006
+Upload Date  : Wed Nov 28 23:09:30 GMT+0100 2007
+Views        : 264
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We encountered this fox by the side of the road as we were driving out of Mahogany Flats camp.  We stopped to look at her and she just stopped to look at us.
+
+
++--------+
+|  TAGS  |
++--------+
+"telescope peak" "death valley" hiking climbing 

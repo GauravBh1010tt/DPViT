@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alan Wilfahrt
+Photo URL    : https://www.flickr.com/photos/hot_ion_foundry/4475429378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 29 22:00:32 GMT+0200 2010
+Upload Date  : Tue Mar 30 05:00:32 GMT+0200 2010
+Geotag Info  : Latitude:44.819807, Longitude:-93.526997
+Views        : 150
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+fox-spring_
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"crushed glass" "spring trails" 

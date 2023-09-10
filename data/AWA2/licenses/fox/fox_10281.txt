@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ben Christenson
+Photo URL    : https://www.flickr.com/photos/benchristenson/6218556271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 13 19:12:25 GMT+0200 2010
+Upload Date  : Fri Oct 7 03:14:01 GMT+0200 2011
+Geotag Info  : Latitude:43.689155, Longitude:-114.380308
+Views        : 503
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This little fox walked out of the bushes and laid down about 15 feet from me and lounged in the sun for a while.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

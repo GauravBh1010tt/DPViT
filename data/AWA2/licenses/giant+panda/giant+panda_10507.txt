@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gibffe
+Photo URL    : https://www.flickr.com/photos/gibffe/4439667710/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 28 21:17:07 GMT+0100 2010
+Upload Date  : Wed Mar 17 01:18:07 GMT+0100 2010
+Geotag Info  : Latitude:32.731696, Longitude:-117.144556
+Views        : 334
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+panda 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+ahh, another panda photo ! ;))
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : d4rr3ll
+Photo URL    : https://www.flickr.com/photos/d4rr3ll/300056249/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 15 15:39:39 GMT+0200 2006
+Upload Date  : Sat Nov 18 15:05:36 GMT+0100 2006
+Geotag Info  : Latitude:0.000000, Longitude:0.000000
+Views        : 2,018
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Discovery Cove
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphin seaworld discoverycove orlando 

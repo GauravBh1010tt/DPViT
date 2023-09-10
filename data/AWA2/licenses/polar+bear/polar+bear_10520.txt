@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/230409559/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 10 17:18:40 GMT+0200 2006
+Upload Date  : Fri Sep 1 00:00:45 GMT+0200 2006
+Geotag Info  : Latitude:39.767727, Longitude:-86.177626
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals reptiles 

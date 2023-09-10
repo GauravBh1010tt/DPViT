@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dan H. Defensor
+Photo URL    : https://www.flickr.com/photos/dandefensor/5844570908/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 15 08:28:08 GMT+0200 2011
+Upload Date  : Sat Jun 18 07:40:15 GMT+0200 2011
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1170288_bisons
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

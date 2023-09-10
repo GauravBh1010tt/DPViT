@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cjbritton
+Photo URL    : https://www.flickr.com/photos/59291791@N08/5448558487/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 15 11:14:58 GMT+0200 2010
+Upload Date  : Tue Feb 15 21:55:22 GMT+0100 2011
+Views        : 124
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Antelope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+antelope 

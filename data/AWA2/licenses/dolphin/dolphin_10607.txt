@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ferryflickr
+Photo URL    : https://www.flickr.com/photos/ferryflickr/4580564721/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 17 11:53:26 GMT+0200 2010
+Upload Date  : Wed May 5 13:24:43 GMT+0200 2010
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3198
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

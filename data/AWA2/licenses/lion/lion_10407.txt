@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/23048742113/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 12 14:08:18 GMT+0200 2015
+Upload Date  : Fri Dec 11 15:16:21 GMT+0100 2015
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 514
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion Looking at Camera
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwicks zoo big cat lion 

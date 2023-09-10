@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt McGee
+Photo URL    : https://www.flickr.com/photos/pleeker/7092836397/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 19 01:17:24 GMT+0200 2012
+Upload Date  : Thu Apr 19 10:17:24 GMT+0200 2012
+Geotag Info  : Latitude:20.734407, Longitude:-156.650547
+Views        : 440
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale (3)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Whale watching off the coast of Maui, Hawaii.
+
+
++--------+
+|  TAGS  |
++--------+
+whale "humpback whale" maui hawaii animal ocean "pacific ocean" 

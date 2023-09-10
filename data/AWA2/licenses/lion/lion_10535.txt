@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam Felder
+Photo URL    : https://www.flickr.com/photos/samfelder/3840611583/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 15:33:33 GMT+0200 2009
+Upload Date  : Fri Aug 21 02:02:45 GMT+0200 2009
+Geotag Info  : Latitude:40.849833, Longitude:-73.875334
+Views        : 917
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lion animal "bronx zoo" 

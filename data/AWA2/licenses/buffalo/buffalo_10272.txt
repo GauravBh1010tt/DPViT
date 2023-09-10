@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JasonTromm
+Photo URL    : https://www.flickr.com/photos/trommetter/19294508/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 9 06:19:52 GMT+0200 2005
+Upload Date  : Tue Jun 14 12:19:52 GMT+0200 2005
+Geotag Info  : Latitude:35.022619, Longitude:-82.144954
+Views        : 460
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.roblog.com/flickrfly.php" rel="nofollow">Fly to this location</a> (Requires <a href="http://earth.google.com" rel="nofollow">Google Earth</a>)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo hollywild southcarolina sc animals bison geotagged geo:lat=35.022619 geo:lon=-82.144954 mappr:include 

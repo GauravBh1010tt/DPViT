@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MiguelVieira
+Photo URL    : https://www.flickr.com/photos/miguelvieira/5521830820/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 1 11:02:08 GMT+0200 2005
+Upload Date  : Sun Mar 13 05:36:45 GMT+0100 2011
+Geotag Info  : Latitude:8.571048, Longitude:-83.522293
+Views        : 1,716
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Geoffroy's spider monkeys (Ateles geoffroyi) in Corcovado National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Isthmian-Pacific moist forests" "Costa Rica" 2005 June "Corcovado National Park" taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Primates Primates taxonomy:family=Cebidae Cebidae taxonomy:genus=Ateles Ateles taxonomy:species=geoffroyi "taxonomy:binomial=Ateles geoffroyi" "Ateles geoffroyi" "Central American spider monkey" "taxonomy:common=Central American spider monkey" 

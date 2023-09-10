@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vanaddie
+Photo URL    : https://www.flickr.com/photos/vanaddie/7590301916/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 8 01:17:13 GMT+0100 2002
+Upload Date  : Tue Jul 17 16:05:38 GMT+0200 2012
+Views        : 484
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Detroit Zoo, 2002
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+detroit zoo polar bear 

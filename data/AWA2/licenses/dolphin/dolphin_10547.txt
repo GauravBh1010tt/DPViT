@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Frontierofficial
+Photo URL    : https://www.flickr.com/photos/frontierofficial/16124006043/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 7 17:08:37 GMT+0100 2015
+Upload Date  : Sat Mar 7 18:08:37 GMT+0100 2015
+Views        : 422
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Flying dolphin! #animals #dolphins #marine #wildlife #conservation #Greece #volunteer #volunteerabroad #frontiervolunteer #frontiergap
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+via Instagram <a href="http://ift.tt/1EALVhb" rel="nofollow">ift.tt/1EALVhb</a>
+
+
++--------+
+|  TAGS  |
++--------+
+IFTTT Instagram 

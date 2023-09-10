@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jason A G
+Photo URL    : https://www.flickr.com/photos/greerjasona/3707181897/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 8 22:15:44 GMT+0200 2009
+Upload Date  : Fri Jul 10 21:03:31 GMT+0200 2009
+Views        : 196
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison and calf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison and calf, near Fountain Flats, Fire Hole River, Yellowstone NP, Wyoming
+
+July 8, 2009
+
+
++--------+
+|  TAGS  |
++--------+
+2009; summer; wyoming; yellowstone; buffalo; bison; National Park yellowstonenationalpark 

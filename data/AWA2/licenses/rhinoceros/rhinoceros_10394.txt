@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : elPadawan
+Photo URL    : https://www.flickr.com/photos/elpadawan/22344360513/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 7 17:11:07 GMT+0200 2008
+Upload Date  : Thu Nov 12 13:29:24 GMT+0100 2015
+Geotag Info  : Latitude:43.340136, Longitude:-80.181293
+Views        : 86
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rhino, African Lion Safari, Hamilton, ON, CA
+
+
++--------+
+|  TAGS  |
++--------+
+"African Lion Safari" Ontario Canada Rhinoceros mammals nature "0907 - African Lion Safari" 2008 

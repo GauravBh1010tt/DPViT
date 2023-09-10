@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aaron_anderer
+Photo URL    : https://www.flickr.com/photos/aaron_anderer/2997630057/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 2 20:27:06 GMT+0100 2008
+Upload Date  : Mon Nov 3 05:34:00 GMT+0100 2008
+Views        : 185
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7056
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sitting on my lap is one of the few things that makes him wag his tail these days.  The Wobbler's Disease has been progressing lately, and has made walking difficult.
+
+<a href="http://en.wikipedia.org/wiki/Wobbler_disease" rel="nofollow">en.wikipedia.org/wiki/Wobbler_disease</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Duke Dalmatian "Wobbler Disease" 

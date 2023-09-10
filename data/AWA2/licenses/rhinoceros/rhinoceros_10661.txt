@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : .waldec
+Photo URL    : https://www.flickr.com/photos/waldec/5169891529/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 4 09:49:00 GMT+0100 2010
+Upload Date  : Fri Nov 12 23:04:38 GMT+0100 2010
+Geotag Info  : Latitude:-1.658017, Longitude:35.394859
+Views        : 230
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lake nakuru kenya safari rhino 

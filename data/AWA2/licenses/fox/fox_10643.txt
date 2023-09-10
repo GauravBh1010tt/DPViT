@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : normalityrelief
+Photo URL    : https://www.flickr.com/photos/normalityrelief/5301299623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 1 16:34:44 GMT+0100 2010
+Upload Date  : Wed Dec 29 01:36:19 GMT+0100 2010
+Geotag Info  : Latitude:39.556318, Longitude:-105.320182
+Views        : 18,917
+Comments     : 21
+
+
++---------+
+|  TITLE  |
++---------+
+What're you all about?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It's funny: we're the only animals around who get offended or uncomfortable when another of our species stares at us in curiosity. Whenever any other species does it it's as cute as any non-culturally-specific ridiculously cute thing.
+
+Although I suppose were a red fox to stare in such a manner at another of its species trouble might brew as quickly as poor, American-made, mass produced beer, which wouldn't be good at all. At least I have yet to find a good poor, American-made, mass produced beer...
+
+Tangent, sorry. Maybe this one (who I named Kiki later on) thought I was just as cute while staring at her*. I'd like to think so. Cause she's adorable.
+
+*I have no (scientific) basis for genderizing this fox, but she began showing up after the first (Peter*), &amp; was smaller &amp; slightly lighter in color. Assumptions were made. To date, I have not checked between either of their legs. I intend to keep it that way.
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Fox "Red Fox" Wildlife "taxonomy:binomial=Vulpes vulpes" taxonomy:class=Mammalia taxonomy:family=Canidae taxonomy:genus=Vulpes taxonomy:kingdom=Animalia taxonomy:order=Carnivora taxonomy:phylum=Chordata "taxonomy:species=V. vulpes" taxonomy:subfamily=Caninae taxonomy:suborder=Caniformia taxonomy:subphylum=Vertebrata taxonomy:tribe=Vulpini exif:iso_speed=400 "exif:make=nikon corporation" "exif:focal_length=55 mm" "exif:aperture=ƒ / 5.6" "exif:model=nikon d60" "camera:model=nikon d60" "exif:lens=18.0-55.0 mm f/3.5-5.6" "camera:make=nikon corporation" geo:state=Colorado geo:country=USA "geo:region=Rocky Mountains" curious cute eyes canine stare 

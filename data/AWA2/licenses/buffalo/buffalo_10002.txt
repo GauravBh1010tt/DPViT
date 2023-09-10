@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markbyzewski
+Photo URL    : https://www.flickr.com/photos/markbyzewski/3852410786/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 22 08:07:35 GMT+0200 2009
+Upload Date  : Mon Aug 24 14:48:39 GMT+0200 2009
+Views        : 194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_2099
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Some Buffalo, or bison if you prefer, in South Park, Colorado on the way to Aspen.
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo bison "south park Hartsel" 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Mountain Prairie
+Photo URL    : https://www.flickr.com/photos/usfwsmtnprairie/9610517398/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 4 13:51:51 GMT+0200 2013
+Upload Date  : Tue Aug 27 21:04:34 GMT+0200 2013
+Views        : 172,100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Male Bonding
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A group of male pronghorns pass through a sea of grass on the National Elk Refuge. Note the unique horn on the buck on the left.
+
+Credit: USFWS / Ann Hough, National Elk Refuge volunteer
+
+
++--------+
+|  TAGS  |
++--------+
+pronghorn "National Elk Refuge" USFWS "National Wildlife Refuge System" antelope 

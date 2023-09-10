@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stewart Black
+Photo URL    : https://www.flickr.com/photos/s2ublack/7006362058/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 29 18:47:48 GMT+0200 2011
+Upload Date  : Mon May 7 15:50:49 GMT+0200 2012
+Views        : 762
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Zeus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog shepherd alsatian white "german shepherd" 

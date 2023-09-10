@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnsons531
+Photo URL    : https://www.flickr.com/photos/sarahsj/11697485273/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 1 14:59:11 GMT+0100 2014
+Upload Date  : Thu Jan 2 01:28:56 GMT+0100 2014
+Views        : 205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dogs and people
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+posing with our neighbors dogs after a short walk
+
+
++--------+
+|  TAGS  |
++--------+
+dog "german shepherd" beagle 

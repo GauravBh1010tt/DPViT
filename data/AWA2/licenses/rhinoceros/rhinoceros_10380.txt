@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : internets_dairy
+Photo URL    : https://www.flickr.com/photos/16339684@N00/2419888088/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 16 15:46:52 GMT+0200 2008
+Upload Date  : Thu Apr 17 00:46:52 GMT+0200 2008
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+berlin germany deutschland "berlin zoo" zoo "zoologischer garten" rhino rhinoceros 

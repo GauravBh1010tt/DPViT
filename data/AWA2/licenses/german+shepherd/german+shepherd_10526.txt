@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tony Austin
+Photo URL    : https://www.flickr.com/photos/tonyaustin/4429330064/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 2 12:00:05 GMT+0100 2010
+Upload Date  : Sat Mar 13 13:25:10 GMT+0100 2010
+Views        : 222
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jess in the Snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+jess snow dog alsation "german shepherd" 

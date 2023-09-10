@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ken Lund
+Photo URL    : https://www.flickr.com/photos/kenlund/2481764796/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 16 08:05:00 GMT+0200 2003
+Upload Date  : Sun Nov 20 10:59:10 GMT+0100 2005
+Geotag Info  : Latitude:43.546806, Longitude:-103.479237
+Views        : 602
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Alicia, Bison, Wind Cave National Park, South Dakota
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wind Cave National Park is a United States national park 10 miles (16 km) north of the town of Hot Springs in western South Dakota. Established in 1903 by President Theodore Roosevelt, it was the seventh U.S. National Park and the first cave to be designated a national park anywhere in the world. The cave is notable for its displays of the calcite formation known as boxwork. Approximately 95 percent of the world's discovered boxwork formations are found in Wind Cave. Wind Cave is also known for its frostwork. The cave is also considered a three-dimensional maze cave, recognized as the densest (most passage volume per cubic mile) cave system in the world. The cave is currently the sixth-longest in the world with 140.47 miles (226.06 km) of explored cave passageways, with an average of four new miles of cave being discovered each year. Above ground, the park includes the largest remaining natural mixed-grass prairie in the United States.
+
+<a href="http://en.wikipedia.org/wiki/Wind_Cave_National_Park" rel="nofollow">en.wikipedia.org/wiki/Wind_Cave_National_Park</a>
+
+<a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="nofollow">en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_...</a>
+
+
++--------+
+|  TAGS  |
++--------+
+windcavenationalpark windcave custer southdakota bison 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Allie_Caulfield
+Photo URL    : https://www.flickr.com/photos/wm_archiv/2718275690/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 29 13:47:59 GMT+0200 2007
+Upload Date  : Thu Jul 31 00:54:49 GMT+0200 2008
+Geotag Info  : Latitude:53.544521, Longitude:8.570322
+Views        : 1,515
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2007-03-29 Bremerhaven 049
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bremerhaven Bremerhafen Bremen März 2007 Frühling Hafen "Neuer Hafen" Weser Zoo "Zoo am Meer" Themenzoo Unterweser Tierpark Eisbär "polar bear" Bär Foto photo image picture Bild "creative commons" flickr "high resolution" stockphoto free cc 

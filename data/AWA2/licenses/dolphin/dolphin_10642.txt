@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : billrdio
+Photo URL    : https://www.flickr.com/photos/billrdio/10567187614/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 23 16:45:17 GMT+0200 2013
+Upload Date  : Wed Oct 30 03:45:21 GMT+0100 2013
+Views        : 131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9665-edited
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hawaii "Sea Quest" "Big Island" "Hawai'i Island" ocean dolphins 

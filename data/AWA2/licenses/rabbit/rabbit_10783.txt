@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blmurch
+Photo URL    : https://www.flickr.com/photos/blmurch/416110051/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 9 22:54:37 GMT+0100 2007
+Upload Date  : Sat Mar 10 05:04:02 GMT+0100 2007
+Geotag Info  : Latitude:-34.590399, Longitude:-58.428254
+Views        : 1,919
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit on a log
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Buenos Aires" Argentina Rabbit Bunny Log "Pet Store" Cage 

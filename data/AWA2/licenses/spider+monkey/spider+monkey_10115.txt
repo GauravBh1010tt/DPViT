@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PeterQQ2009
+Photo URL    : https://www.flickr.com/photos/peterschoen/5624374214/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 17 16:57:50 GMT+0100 2010
+Upload Date  : Sat Apr 16 14:12:22 GMT+0200 2011
+Geotag Info  : Latitude:-19.874319, Longitude:-41.722179
+Views        : 1,340
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Northern Muriqui (Brachyteles hypoxanthus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another photo from my visit to the Muriqui reserve. Perhaps not the most flattering side of this clearly male monkey, but I liked the rim lighting by the sun.
+
+The Northern Muriqui is a muriqui (woolly spider monkey) species endemic to Brazil. Muriquis are the largest species of monkeys in the Americas. Only about 500 individuals remain in the wild, and one third of those occur in this single forest.
+
+RPPN Feliciano Miguel Abdala, Caratinga, Minas Gerais, Brazil.
+
+
++--------+
+|  TAGS  |
++--------+
+Mammals brazil "brachyteles hypoxanthus" 

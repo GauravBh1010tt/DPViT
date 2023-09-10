@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kun0me
+Photo URL    : https://www.flickr.com/photos/redlinx/3787461991/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 3 23:17:08 GMT+0200 2009
+Upload Date  : Tue Aug 4 09:02:21 GMT+0200 2009
+Views        : 334
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A Humpback Whale named Pixar - 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+humpback whale pixar boston harbor cruise mitnewengland 

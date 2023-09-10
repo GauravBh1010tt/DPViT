@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kabacchi
+Photo URL    : https://www.flickr.com/photos/kabacchi/5269906225/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 18 13:59:51 GMT+0100 2010
+Upload Date  : Sat Dec 18 05:59:51 GMT+0100 2010
+Views        : 1,740
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear - 01
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Polar Bear" ホッキョクグマ 北極熊 Bear クマ 熊 上野動物園 Animal 動物 Mammalia 哺乳類 "~Polar Bear~" 

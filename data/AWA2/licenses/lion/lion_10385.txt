@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sebastien.faillon
+Photo URL    : https://www.flickr.com/photos/128090976@N08/15745436218/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 2 14:36:32 GMT+0200 2014
+Upload Date  : Tue Dec 2 21:25:23 GMT+0100 2014
+Geotag Info  : Latitude:49.792180, Longitude:5.079245
+Views        : 462
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion et papillon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Parc Animaux Animaliers Nature Belgique Lion Papillon 

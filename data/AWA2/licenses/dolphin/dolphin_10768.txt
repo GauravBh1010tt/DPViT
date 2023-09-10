@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : starrarte
+Photo URL    : https://www.flickr.com/photos/starrarte/3236901535/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 9 11:46:59 GMT+0200 2005
+Upload Date  : Thu Jan 29 23:46:39 GMT+0100 2009
+Geotag Info  : Latitude:32.765465, Longitude:-117.226395
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea World
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+San Diego Sea World August 2005
+
+
++--------+
+|  TAGS  |
++--------+
+sandiego sandiegoseaworld seaworld animal dolphin 

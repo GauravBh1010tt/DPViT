@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MSMcCarthy Photography
+Photo URL    : https://www.flickr.com/photos/msmccarthyphotography/2479959304/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 9 13:26:46 GMT+0200 2008
+Upload Date  : Sat May 10 06:31:08 GMT+0200 2008
+Views        : 1,898
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+fox-0940-3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A friend of mine found this fox den right beside the road.  There are 3 fox pups but I was only able to get a shot of one.  They are used to the traffic, so they will tolerate a little photography.
+
+
++--------+
+|  TAGS  |
++--------+
+Fox "fox pups" "red fox" "Nature Watcher" 

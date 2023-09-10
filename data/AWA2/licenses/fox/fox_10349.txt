@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Sheerman-Chase
+Photo URL    : https://www.flickr.com/photos/tim_uk/5832572965/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 14 15:27:34 GMT+0200 2011
+Upload Date  : Tue Jun 14 18:02:08 GMT+0200 2011
+Geotag Info  : Latitude:51.248740, Longitude:-0.599441
+Views        : 1,043
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Garden Fox Alerted
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+urban urban_fox decking "taxonomy:binomial=Vulpes vulpes" 

@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/19603927534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 1 00:00:00 GMT+0100 1991
+Upload Date  : Sun Aug 2 14:33:59 GMT+0200 2015
+Geotag Info  : Latitude:28.603982, Longitude:77.246589
+Views        : 265
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Indian Rhino (Rhinoceros unicornis)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Delhi Zoo, New Delhi, INDIA
+
+ 
+
+Scanned Slide from March 1991
+
+
++--------+
+|  TAGS  |
++--------+
+"Indian Rhino" "Rhinoceros unicornis" "Indian Rhinoceros" "Taxonomy:binomial=Rhinoceros unicornis" "Delhi Zoo" "New Delhi" INDIA 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bryce Bradford
+Photo URL    : https://www.flickr.com/photos/brb_photography/4120384040/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 30 12:43:38 GMT+0100 2009
+Upload Date  : Fri Nov 20 19:04:32 GMT+0100 2009
+Views        : 1,645
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Cortez
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cortez bottlenose dolphin calf jump breach rpp sea world san diego olympus e-520 zuiko 70-300mm f/4-5.6 

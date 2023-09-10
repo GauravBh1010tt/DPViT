@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jurvetson
+Photo URL    : https://www.flickr.com/photos/jurvetson/5367076891/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 31 12:43:34 GMT+0100 2010
+Upload Date  : Tue Jan 18 18:30:32 GMT+0100 2011
+Views        : 6,783
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Star Trek Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen in the open seas… right beneath me
+
+
++--------+
+|  TAGS  |
++--------+
+Humpback Whale Below "Beam me up" "Voyage Home" Sun Glitter "Star Trek" Whale-watching Boat Mexico Ocean Mama Baby 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Global Reactions
+Photo URL    : https://www.flickr.com/photos/lmlienau/4966319646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 25 02:31:11 GMT+0100 2010
+Upload Date  : Tue Sep 7 03:55:36 GMT+0200 2010
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ocean Park Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Hong Kong" "Ocean Park" 2010 

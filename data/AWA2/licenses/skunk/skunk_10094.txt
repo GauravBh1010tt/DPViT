@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kristine Paulus
+Photo URL    : https://www.flickr.com/photos/kpaulus/5802310397/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 5 09:25:36 GMT+0200 2011
+Upload Date  : Mon Jun 6 04:28:06 GMT+0200 2011
+Geotag Info  : Latitude:40.864750, Longitude:-73.930349
+Views        : 1,681
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Skunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A skunk in Fort Tryon Park, who couldn't be less interested in spraying me.
+
+
++--------+
+|  TAGS  |
++--------+
+skunk "Fort Tryon Park" "urban wildlife" "NYC wildlife" 

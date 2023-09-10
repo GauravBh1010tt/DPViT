@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : crucif
+Photo URL    : https://www.flickr.com/photos/28537454@N06/3416113516/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 5 15:22:47 GMT+0200 2009
+Upload Date  : Sun Apr 5 23:51:26 GMT+0200 2009
+Views        : 332
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+april 2009 058
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+vicky in virginia
+
+
++--------+
+|  TAGS  |
++--------+
+"april 2009" rabbit macros 

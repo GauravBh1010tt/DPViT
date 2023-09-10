@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Warren Long
+Photo URL    : https://www.flickr.com/photos/warrenlong/389358477/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 7 07:54:24 GMT+0200 2003
+Upload Date  : Tue Feb 13 20:21:44 GMT+0100 2007
+Views        : 138
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P8070079
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+WarrenLong Saskatoon MountainBiking YearRound AllYear 2003 BicycleCommuter Commute Biking Winter 

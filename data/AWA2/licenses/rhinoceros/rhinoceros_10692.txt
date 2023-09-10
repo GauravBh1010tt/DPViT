@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Citizen59
+Photo URL    : https://www.flickr.com/photos/t_abdelmoumen/7080734037/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 26 14:56:38 GMT+0200 2012
+Upload Date  : Sun Apr 15 19:42:17 GMT+0200 2012
+Geotag Info  : Latitude:52.516638, Longitude:13.383064
+Views        : 298
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo de Berlin: rhinocéros à 2 cornes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Berlin Animals Animaux rhinocéros 2 cornes 

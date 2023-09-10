@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Digital Sextant
+Photo URL    : https://www.flickr.com/photos/digitalsextant/3443676852/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 9 14:54:00 GMT+0200 2009
+Upload Date  : Wed Apr 15 04:21:05 GMT+0200 2009
+Geotag Info  : Latitude:29.925853, Longitude:-90.131149
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkeys 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the New Orleans zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"new orleans" nola pca2009 new orleans monkeys 

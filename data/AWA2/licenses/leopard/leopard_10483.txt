@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/4984387251/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 12 11:41:23 GMT+0200 2010
+Upload Date  : Mon Sep 13 02:51:41 GMT+0200 2010
+Geotag Info  : Latitude:32.737057, Longitude:-117.149105
+Views        : 363
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Michael Jordan 0620
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Not exactly, but there's something in the wagging tongue, isn't there?
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" zoo feline north chinese leopard 

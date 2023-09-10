@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : macinate
+Photo URL    : https://www.flickr.com/photos/macinate/2810203599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 30 11:03:01 GMT+0200 2008
+Upload Date  : Sat Aug 30 13:42:49 GMT+0200 2008
+Views        : 6,191
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino relaxation
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Never thought I could feel so relaxed when this close to a Rhino
+
+
++--------+
+|  TAGS  |
++--------+
+"Werribee Zoo" rhino rhinoceros 

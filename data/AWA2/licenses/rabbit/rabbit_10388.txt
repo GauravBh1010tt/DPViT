@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 加蛋不加價
+Photo URL    : https://www.flickr.com/photos/cgwcool/3559262818/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 19:26:13 GMT+0200 2009
+Upload Date  : Sun May 24 12:06:04 GMT+0200 2009
+Views        : 107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC04813
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+淡水 

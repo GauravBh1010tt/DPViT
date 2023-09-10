@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Miguel Mendez
+Photo URL    : https://www.flickr.com/photos/flynn_nrg/6915996487/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 21 10:41:00 GMT+0100 2012
+Upload Date  : Tue Feb 21 14:22:09 GMT+0100 2012
+Geotag Info  : Latitude:53.340092, Longitude:-6.252100
+Views        : 936
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+The Wolf, one of nature's most beautiful creatures.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is my favourite picture from today's trip to the Natural History Museum in Dublin.
+
+
++--------+
+|  TAGS  |
++--------+
+"natural history museum" dublin nex-5n 

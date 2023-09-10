@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/9494515614/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 10 09:43:16 GMT+0200 2013
+Upload Date  : Mon Aug 12 13:04:31 GMT+0200 2013
+Geotag Info  : Latitude:37.430563, Longitude:-121.981523
+Views        : 2,608
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+One more Alviso Marina Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Alviso "alviso marina" rabbit Sunnyvale California "United States" 

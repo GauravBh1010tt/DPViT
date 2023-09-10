@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gizmo-the-bandit
+Photo URL    : https://www.flickr.com/photos/134832191@N08/21821068945/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 29 18:29:30 GMT+0200 2015
+Upload Date  : Tue Sep 29 23:54:51 GMT+0200 2015
+Views        : 141
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young wild rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+OLYMPUS DIGITAL CAMERA
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife nature uk 

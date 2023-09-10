@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Headquarters
+Photo URL    : https://www.flickr.com/photos/usfwshq/6778225943/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 28 16:59:06 GMT+0100 2012
+Upload Date  : Sat Jan 28 22:59:06 GMT+0100 2012
+Views        : 2,586
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+timber wolves
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This timber wolf was one of a pair seen near the visitor center at Necedah National Wildlife Refuge on Jan. 12, 2012
+Photo: USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+refuges 

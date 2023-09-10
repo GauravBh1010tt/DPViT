@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Graham of the Wheels
+Photo URL    : https://www.flickr.com/photos/gray_um/2789010229/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 27 15:13:15 GMT+0100 2008
+Upload Date  : Sat Aug 23 17:16:13 GMT+0200 2008
+Geotag Info  : Latitude:51.926298, Longitude:4.453175
+Views        : 200
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Blijdorp Zoo Rotterdam Animals Rhino Rhinoceros 2008 

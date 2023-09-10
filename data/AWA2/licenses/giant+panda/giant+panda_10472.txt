@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tuscasasrurales
+Photo URL    : https://www.flickr.com/photos/tuscasasrurales/8950625486/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 10 19:23:14 GMT+0100 2012
+Upload Date  : Tue Jun 4 19:04:52 GMT+0200 2013
+Geotag Info  : Latitude:40.409436, Longitude:-3.762905
+Views        : 113
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oso Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo - Madrid
+
+
++--------+
+|  TAGS  |
++--------+
+zoo madrid animales fauna 

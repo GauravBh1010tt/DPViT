@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pike JO
+Photo URL    : https://www.flickr.com/photos/53847710@N04/4979244776/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 16 10:49:50 GMT+0100 2010
+Upload Date  : Sat Sep 11 11:48:50 GMT+0200 2010
+Views        : 526
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

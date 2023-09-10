@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/3050059447/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 22 11:03:08 GMT+0200 2008
+Upload Date  : Sat Nov 22 19:26:32 GMT+0100 2008
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+African Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+SanFranciscozoo zoo carnivore 

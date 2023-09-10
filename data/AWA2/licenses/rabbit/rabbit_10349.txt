@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobBixbyPhotography
+Photo URL    : https://www.flickr.com/photos/scubabix/7779127222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 12 14:51:16 GMT+0200 2012
+Upload Date  : Tue Aug 14 06:56:43 GMT+0200 2012
+Geotag Info  : Latitude:28.375825, Longitude:-81.533682
+Views        : 91
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Disney_Family_8-12-7833.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

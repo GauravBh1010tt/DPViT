@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joebeone
+Photo URL    : https://www.flickr.com/photos/joebeone/2222096551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 1 17:25:16 GMT+0100 2007
+Upload Date  : Sun Jan 27 11:13:34 GMT+0100 2008
+Views        : 371
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow on Bluebird 2-1985 (6)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+austere dog fred in the snow
+
+
++--------+
+|  TAGS  |
++--------+
+fred snow "german shepherd" 

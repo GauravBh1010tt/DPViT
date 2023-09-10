@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ronnie Macdonald
+Photo URL    : https://www.flickr.com/photos/ronmacphotos/9971286444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 27 15:02:46 GMT+0200 2013
+Upload Date  : Fri Sep 27 22:30:07 GMT+0200 2013
+Geotag Info  : Latitude:51.863330, Longitude:0.834088
+Views        : 1,724
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern White Rhinoceros and baby
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Colchester Zoo" Zoo "Southern White Rhinoceros" "White Rhino" "baby rhino" "Ronmac Photos" 

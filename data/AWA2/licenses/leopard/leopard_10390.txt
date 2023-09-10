@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam's Shots 1
+Photo URL    : https://www.flickr.com/photos/samspectrum/11530608096/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 21 14:57:37 GMT+0100 2013
+Upload Date  : Tue Dec 24 13:57:00 GMT+0100 2013
+Views        : 293
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Leopard yorkshirewildlifepark wildanimalsincaptivity wildlife "big cat" YWP 

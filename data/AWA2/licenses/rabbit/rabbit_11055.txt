@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flamesworddragon
+Photo URL    : https://www.flickr.com/photos/flamesworddragon/4655920609/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 9 08:36:40 GMT+0200 2010
+Upload Date  : Mon May 31 17:29:44 GMT+0200 2010
+Views        : 219
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wild Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

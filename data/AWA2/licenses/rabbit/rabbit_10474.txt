@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : magnus.johansson10
+Photo URL    : https://www.flickr.com/photos/120374925@N06/14652794381/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 14 09:49:50 GMT+0200 2014
+Upload Date  : Mon Jul 14 23:24:34 GMT+0200 2014
+Views        : 1,316
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hare outside my home
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals nature tamron nikon hare 

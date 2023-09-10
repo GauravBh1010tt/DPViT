@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vassil Tzvetanov
+Photo URL    : https://www.flickr.com/photos/vassil_tzvetanov/2272393002/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 25 00:16:51 GMT+0100 2005
+Upload Date  : Sun Feb 17 21:00:21 GMT+0100 2008
+Geotag Info  : Latitude:-63.438230, Longitude:-56.716918
+Views        : 2,205
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Jumping
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I missed the first shot (got just a big splash) - got lucky though, it jumped again !
+
+
++--------+
+|  TAGS  |
++--------+
+"Humpback Whale" Whale "Jumping Whale" Antarctica platinumphoto 

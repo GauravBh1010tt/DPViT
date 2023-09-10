@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jesu d´Alange
+Photo URL    : https://www.flickr.com/photos/jesuloca/3966108029/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 7 17:59:00 GMT+0200 2009
+Upload Date  : Tue Sep 29 20:47:06 GMT+0200 2009
+Geotag Info  : Latitude:39.452697, Longitude:-0.345468
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oceanografico
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2009 verano canon eos 400D jesuloca valencia spain españa oceanografico "comunidad valenciana" 

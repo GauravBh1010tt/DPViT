@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stephen Michael Barnett
+Photo URL    : https://www.flickr.com/photos/httpwwwflickrcomphotostopend/2080255390/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 15 11:51:32 GMT+0100 2007
+Upload Date  : Sun Dec 2 08:34:42 GMT+0100 2007
+Geotag Info  : Latitude:-12.407909, Longitude:130.926818
+Views        : 203
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Old man lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Crocodylus Park Darwin Northern Territory 

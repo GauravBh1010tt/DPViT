@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m01229
+Photo URL    : https://www.flickr.com/photos/39908901@N06/9202981489/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 3 19:22:06 GMT+0200 2013
+Upload Date  : Thu Jul 4 03:25:12 GMT+0200 2013
+Geotag Info  : Latitude:45.217045, Longitude:-92.829092
+Views        : 613
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+d7000 bunny rabbit animal minnesota "Nikon 18-300mm" 

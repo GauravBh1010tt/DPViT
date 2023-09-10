@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul J. Morris
+Photo URL    : https://www.flickr.com/photos/aa3sd/21792081139/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 2 09:00:29 GMT+0200 2015
+Upload Date  : Tue Oct 6 01:07:49 GMT+0200 2015
+Geotag Info  : Latitude:-0.386578, Longitude:36.120750
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino and cattle egrets.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lake Nakuru National Park, Kenya 
+
+P1090711 crop
+
+
++--------+
+|  TAGS  |
++--------+
+"dc:rightsHolder=Paul J. Morris" "dc:creator=Paul J. Morris" Kenya "Lake Nakuru National Park" "African Wildlife" "TDWG 2015" "taxonomy:binomial=Ceratotherium simum" Rhinoceros 

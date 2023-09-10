@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/10969825444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 15 10:11:09 GMT+0200 2013
+Upload Date  : Thu Nov 21 01:00:16 GMT+0100 2013
+Geotag Info  : Latitude:48.996867, Longitude:8.402223
+Views        : 6,475
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Spider monkey on the tree
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I don't have many spider monkey shots, and I like this one!
+
+
++--------+
+|  TAGS  |
++--------+
+primate monkey ape spider sitting tree branch wood cool hand karlsruhe zoo germany nikon d4 

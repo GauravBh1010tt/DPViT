@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vmlinuz
+Photo URL    : https://www.flickr.com/photos/15229508@N00/2893647773/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 27 14:11:31 GMT+0200 2008
+Upload Date  : Sun Sep 28 07:41:48 GMT+0200 2008
+Geotag Info  : Latitude:22.245370, Longitude:114.175500
+Views        : 150
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_2003
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+panda "giant panda" "ocean park" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sdbeazley
+Photo URL    : https://www.flickr.com/photos/sdbeazley/5957026368/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 20 01:13:42 GMT+0200 2011
+Upload Date  : Wed Jul 20 07:13:42 GMT+0200 2011
+Geotag Info  : Latitude:28.111354, Longitude:-80.763244
+Views        : 410
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Florida Grey Fox Urocyon cinereoargenteus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+in littered environment
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

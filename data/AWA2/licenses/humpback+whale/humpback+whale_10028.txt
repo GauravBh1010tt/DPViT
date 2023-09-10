@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markbyzewski
+Photo URL    : https://www.flickr.com/photos/markbyzewski/11497274964/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 21 06:11:28 GMT+0200 2013
+Upload Date  : Sun Dec 22 16:52:29 GMT+0100 2013
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_3145a
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cruising on the Matanuska of the Alaska Marine Highway watching Humpback Whales.
+
+
++--------+
+|  TAGS  |
++--------+
+"Humpback Whale" Alaska "Alaska Marine HIghway" Matanuska 

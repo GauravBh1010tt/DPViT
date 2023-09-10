@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Original Turtle
+Photo URL    : https://www.flickr.com/photos/58638411@N00/4216860462/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 26 15:52:47 GMT+0100 2009
+Upload Date  : Sat Dec 26 20:53:16 GMT+0100 2009
+Views        : 472
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+A very formal wabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kit #2 posing for a moment.
+
+
++--------+
+|  TAGS  |
++--------+
+Eye-Fi wabbit wabbits turtle smb rabbit kits giant flemish flemishgiant 

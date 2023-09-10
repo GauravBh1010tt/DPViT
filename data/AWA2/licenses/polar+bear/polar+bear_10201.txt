@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew 94
+Photo URL    : https://www.flickr.com/photos/andrewb94/13955638128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 8 13:07:16 GMT+0200 2013
+Upload Date  : Fri May 9 06:27:38 GMT+0200 2014
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN6782
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Camera-Tales
+Photo URL    : https://www.flickr.com/photos/cameratales/7420508760/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 19 10:22:19 GMT+0100 2012
+Upload Date  : Fri Jun 22 18:11:53 GMT+0200 2012
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison on the Move
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yellowstone in Winter
+
+
++--------+
+|  TAGS  |
++--------+
+bison buffalo migration snow yellowstone camera "camera tales" tales 

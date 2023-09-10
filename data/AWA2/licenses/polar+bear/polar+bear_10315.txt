@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : probabilistic
+Photo URL    : https://www.flickr.com/photos/probabilistic/5156630428/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 7 14:13:14 GMT+0100 2010
+Upload Date  : Mon Nov 8 02:21:08 GMT+0100 2010
+Geotag Info  : Latitude:43.818179, Longitude:-79.180655
+Views        : 735
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3600
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Toronto Zoo" "polar bear" 

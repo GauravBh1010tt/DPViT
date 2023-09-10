@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : feserc
+Photo URL    : https://www.flickr.com/photos/feserc/3512001387/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 3 09:00:23 GMT+0200 2009
+Upload Date  : Fri May 8 12:58:15 GMT+0200 2009
+Geotag Info  : Latitude:30.665380, Longitude:104.064559
+Views        : 482
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Good Bamboo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chengdu china panda 

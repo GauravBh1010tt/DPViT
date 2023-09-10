@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gvgoebel
+Photo URL    : https://www.flickr.com/photos/37467370@N08/7596583108/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 18 04:56:58 GMT+0200 2012
+Upload Date  : Wed Jul 18 14:00:52 GMT+0200 2012
+Views        : 1,004
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ybleo_3b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+lion &amp; cub, Cheyenne Mountain Zoo, Colorado / 2006
+
+
++--------+
+|  TAGS  |
++--------+
+animals mammals lions 

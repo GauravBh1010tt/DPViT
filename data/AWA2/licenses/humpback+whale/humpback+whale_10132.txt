@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jesse Wagstaff
+Photo URL    : https://www.flickr.com/photos/jesse/3408218295/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 18 11:50:38 GMT+0200 2008
+Upload Date  : Fri Apr 3 08:50:15 GMT+0200 2009
+Views        : 562
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Fluke Photo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Can't go out on a boat with humpback whales all around without getting at least a few of these shots
+
+
++--------+
+|  TAGS  |
++--------+
+whale tale fluke humpback ocean water 

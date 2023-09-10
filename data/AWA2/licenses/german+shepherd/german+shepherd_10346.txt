@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ronoli
+Photo URL    : https://www.flickr.com/photos/ronoli/19924112054/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 5 15:10:05 GMT+0200 2015
+Upload Date  : Thu Aug 13 20:59:17 GMT+0200 2015
+Views        : 5,885
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+German shepherd dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+You can see her red frisbee between her front paws.
+
+
++--------+
+|  TAGS  |
++--------+
+pet dog animal "German shepherd" outdoor "German shepherd dog" 

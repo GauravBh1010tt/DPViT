@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Allie_Caulfield
+Photo URL    : https://www.flickr.com/photos/wm_archiv/8104853486/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 13 11:05:23 GMT+0200 2012
+Upload Date  : Sat Oct 20 11:05:42 GMT+0200 2012
+Geotag Info  : Latitude:52.510297, Longitude:13.337566
+Views        : 367
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2012-10-10 10-13 Berlin 177 Zoologischer Garten
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Foto photo image picture Bild flickr high resolution hi-res jpg jpeg geotagged geo Stockphoto cc Sony SLT-A77 77V Alpha 77 2012 Oktober Herbst fall Berlin Germany Deutschland Hauptstadt capital berliner Innenstadt downtown center city 

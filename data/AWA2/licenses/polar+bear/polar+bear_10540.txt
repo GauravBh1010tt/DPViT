@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : longhorndave
+Photo URL    : https://www.flickr.com/photos/davidw/2132684141/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 22 13:12:16 GMT+0100 2007
+Upload Date  : Mon Dec 24 15:20:02 GMT+0100 2007
+Views        : 36,254
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polar Bear at the Buenos Aires Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+"Buenos Aires Zoo" Buenos Aires Argentina "Polar Bear" "A Texan In Argentina" http://atexaninargentina.blogspot.com/ 

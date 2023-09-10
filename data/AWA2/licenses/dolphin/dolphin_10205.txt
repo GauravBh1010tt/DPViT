@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Markus Wollny
+Photo URL    : https://www.flickr.com/photos/wollny/7818494530/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 16:27:14 GMT+0200 2012
+Upload Date  : Sat Aug 18 16:27:14 GMT+0200 2012
+Geotag Info  : Latitude:49.486430, Longitude:10.791888
+Views        : 40
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Delfinlagune
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiergarten Nürnberg
+
+
++--------+
+|  TAGS  |
++--------+
+Tiergarten dolphin nürnberg zoo 

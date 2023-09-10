@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ben.hollis
+Photo URL    : https://www.flickr.com/photos/dalangalma/34468987/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 6 15:08:46 GMT+0200 2005
+Upload Date  : Tue Aug 16 09:53:31 GMT+0200 2005
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy buffalo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo bison yellowstone wy usa 

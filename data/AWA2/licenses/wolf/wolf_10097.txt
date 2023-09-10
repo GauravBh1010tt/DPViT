@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/11706091534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 4 14:14:07 GMT+0200 2013
+Upload Date  : Thu Jan 2 11:52:46 GMT+0100 2014
+Geotag Info  : Latitude:51.862484, Longitude:0.833005
+Views        : 2,266
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Colchester Zoo, Wolves
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Colchester Zoo, Essex 4-9-2013
+
+
++--------+
+|  TAGS  |
++--------+
+September Animals Wolves "Wildlife Park" Wildlife "Nikon D7100. DSLR" "Colchester Zoo" Zoological Essex "AF-S VR Zoom-Nikkor 70-300mm f/4.5-5.6G IF-ED" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Watty rugby
+Photo URL    : https://www.flickr.com/photos/watty_rugby/9346656144/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 10 18:19:11 GMT+0200 2013
+Upload Date  : Mon Jul 22 22:16:35 GMT+0200 2013
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1010543
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"New York" 

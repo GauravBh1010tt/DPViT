@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jm whalen
+Photo URL    : https://www.flickr.com/photos/jmwhalen/6922458007/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 31 11:58:10 GMT+0100 2009
+Upload Date  : Thu Feb 23 06:11:25 GMT+0100 2012
+Geotag Info  : Latitude:-3.220992, Longitude:35.558967
+Views        : 1,564
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+dude's camo in the grass was terrifying
+
+
++--------+
+|  TAGS  |
++--------+
+ngorongoro tanzania safari lion animal nature 

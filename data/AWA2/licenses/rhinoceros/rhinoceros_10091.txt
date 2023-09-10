@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DragonFlyEye
+Photo URL    : https://www.flickr.com/photos/dragonflyeye/2687022330/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 10 01:02:19 GMT+0200 2008
+Upload Date  : Sun Jul 20 23:55:37 GMT+0200 2008
+Geotag Info  : Latitude:43.197048, Longitude:-77.617454
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+080714_SenecaParkZoo 006
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rhinoceros "Summer Vacation 2008" 

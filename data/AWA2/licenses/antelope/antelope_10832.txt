@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daryl_mitchell
+Photo URL    : https://www.flickr.com/photos/daryl_mitchell/3514877277/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 7 00:00:32 GMT+0100 2009
+Upload Date  : Sat May 9 16:16:14 GMT+0200 2009
+Geotag Info  : Latitude:28.363066, Longitude:-81.594536
+Views        : 450
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sable Antelope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This antelope is native to the wooded savannah of eastern and southern Africa.
+
+
++--------+
+|  TAGS  |
++--------+
+winter 2009 Orlando Florida usa "Kilimanjaro Safaris" "Animal Kingdom" "Disney World" sable antelope 

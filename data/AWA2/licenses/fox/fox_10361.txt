@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ZionNPS
+Photo URL    : https://www.flickr.com/photos/zionnps/7463381080/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 13 10:46:57 GMT+0200 2012
+Upload Date  : Fri Jun 29 00:36:27 GMT+0200 2012
+Views        : 4,139
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gray Fox Kits
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zion's newest residents explore their new home during the 2012 summer season.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

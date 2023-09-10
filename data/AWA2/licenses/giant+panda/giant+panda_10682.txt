@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Traveloscopy
+Photo URL    : https://www.flickr.com/photos/rodeime/9315544603/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 5 15:45:36 GMT+0200 2013
+Upload Date  : Fri Jul 19 01:40:15 GMT+0200 2013
+Views        : 2,030
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scenic Tours. For more information visit <a href="http://www.scenictours.com.au/chinajapan" rel="nofollow">www.scenictours.com.au/chinajapan</a> or
+call *1300 723 642*
+
+These images have been supplied to <a href="http://www.traveloscopy.com" rel="nofollow">www.traveloscopy.com</a> on the understanding they are
+copyright released and/or royalty free.
+
+
++--------+
+|  TAGS  |
++--------+
+China 

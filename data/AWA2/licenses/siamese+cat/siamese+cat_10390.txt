@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pyewacket42
+Photo URL    : https://www.flickr.com/photos/22836836@N00/249394882/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 21 17:55:13 GMT+0200 2006
+Upload Date  : Fri Sep 22 02:55:13 GMT+0200 2006
+Views        : 388
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+pye2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pye cat siamese 

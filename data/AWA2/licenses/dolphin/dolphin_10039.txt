@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PS-OV-ART Patty Sue O'Hair-Vicknair, Artist
+Photo URL    : https://www.flickr.com/photos/psovart/1455469231/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 28 22:15:16 GMT+0200 2007
+Upload Date  : Sat Sep 29 05:15:16 GMT+0200 2007
+Views        : 695
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+3 dolphins
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals Denver Zoo PSOVART "Patty Vicknair" 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Strange Ones
+Photo URL    : https://www.flickr.com/photos/strangeones/4759492925/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 16 20:12:36 GMT+0200 2010
+Upload Date  : Sun Jul 4 12:19:45 GMT+0200 2010
+Views        : 1,511
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tail shot - Humpback Whale - Bay of Fundy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Slowly diving...
+
+Humpback Whales, Bay of Fundy, Nova Scotia, Canada
+
+
++--------+
+|  TAGS  |
++--------+
+"Megaptera novaeangliae" humpback whale fluke whales ocean baleen nature fundy "brier island" "bay of fundy" canada "nova scotia" 

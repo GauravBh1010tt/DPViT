@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/10385609763/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 13 16:11:40 GMT+0200 2013
+Upload Date  : Sun Oct 20 19:36:35 GMT+0200 2013
+Views        : 1,584
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dalmatiner Angie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oktober 2013
+Canon EOS 60D
+EF 50mm f/1.8 II
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hündin dog dalmatiner female dalmatian Dalmatinac 

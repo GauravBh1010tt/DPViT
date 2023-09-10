@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ssanders7390
+Photo URL    : https://www.flickr.com/photos/51856661@N06/14275934499/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 19 20:54:59 GMT+0200 2014
+Upload Date  : Fri Jun 20 03:07:41 GMT+0200 2014
+Views        : 1,288
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gretchen
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+German Shepherd
+
+
++--------+
+|  TAGS  |
++--------+
+German Shepherd playtime ball happy dog 

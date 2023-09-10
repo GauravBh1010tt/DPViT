@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/2907151577/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 28 07:42:00 GMT+0200 2008
+Upload Date  : Thu Oct 2 20:10:13 GMT+0200 2008
+Views        : 160
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison (1)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;The Wilds&quot; Photo Camp 2008
+Cumberland Ohio (9/26-9/28)
+
+
++--------+
+|  TAGS  |
++--------+
+"Paul's Pic" 2008 "wilds photo camp" "the wilds" photography camp Ohio "conservation center" Bison 

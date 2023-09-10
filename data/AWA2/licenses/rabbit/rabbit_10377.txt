@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cam_rich345
+Photo URL    : https://www.flickr.com/photos/camrich345/7633300722/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 21 16:13:40 GMT+0200 2012
+Upload Date  : Tue Jul 24 01:39:44 GMT+0200 2012
+Views        : 514
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_3821
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Gettysburg Pennsylvania "Eternal Peace Light" Bunny Rabbit 

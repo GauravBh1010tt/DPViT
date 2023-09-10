@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hobgadlng
+Photo URL    : https://www.flickr.com/photos/hobgadlng/7671153030/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 1 09:10:41 GMT+0200 2012
+Upload Date  : Sun Jul 29 22:45:38 GMT+0200 2012
+Geotag Info  : Latitude:-18.930807, Longitude:14.791889
+Views        : 236
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion and Lioness
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Namibia Etosha animal lion 

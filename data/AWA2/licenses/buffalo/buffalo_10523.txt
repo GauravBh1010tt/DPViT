@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JefferyTurner
+Photo URL    : https://www.flickr.com/photos/respres/2604536125/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 21 11:07:30 GMT+0200 2008
+Upload Date  : Mon Jun 23 21:55:56 GMT+0200 2008
+Geotag Info  : Latitude:34.595557, Longitude:-118.228533
+Views        : 965
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Buffalo In The Leona Valley, Los Angeles County, California
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The kids got to get fairly close to a Mother Buffalo and her calf on our little jaunt to the Leona Valley on Saturday. It was the longest day of the year, so we were able to cram more in than usual. :)
+
+<a href="http://www.avbuffalo.com/" rel="nofollow">Antelope Valley Buffalo Company</a>
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo bison "leona valley" california "los angeles county" leona valley 

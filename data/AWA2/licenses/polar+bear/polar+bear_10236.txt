@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marsupium photography
+Photo URL    : https://www.flickr.com/photos/hagdorned/7718341596/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 16 10:03:13 GMT+0200 2012
+Upload Date  : Sun Aug 5 18:51:53 GMT+0200 2012
+Views        : 170
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eisbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tierpark "Summer 2012" Germany Berlin 

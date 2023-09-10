@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/24600296533/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 15 14:43:10 GMT+0100 2016
+Upload Date  : Wed Feb 24 05:22:10 GMT+0100 2016
+Geotag Info  : Latitude:42.462713, Longitude:-71.093668
+Views        : 178
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Arctic Fox Sniffing the Snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo animal arctic fox white fluffy snow winter smelling sniffing nose 

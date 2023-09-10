@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blmurch
+Photo URL    : https://www.flickr.com/photos/blmurch/2208804430/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 16 14:11:49 GMT+0100 2008
+Upload Date  : Mon Jan 21 06:53:54 GMT+0100 2008
+Views        : 978
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yawning lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cat Lujan Animals "Lujan Zoo" Zoo "Big Cat" Argentina Lion 

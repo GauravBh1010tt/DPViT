@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Saku Takakusaki
+Photo URL    : https://www.flickr.com/photos/sk4e/5952216970/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 14 12:29:21 GMT+0200 2010
+Upload Date  : Mon Jul 18 23:28:43 GMT+0200 2011
+Views        : 422
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+landscape "Pentax Art" 

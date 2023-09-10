@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ber'Zophus
+Photo URL    : https://www.flickr.com/photos/10574543@N08/899354291/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 17 13:55:32 GMT+0200 2007
+Upload Date  : Thu Jul 26 02:16:48 GMT+0200 2007
+Views        : 4,869
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear, Lounging
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Grizzly Bear, comfortably lounging atop a ball. Taken at the Toronto Zoo (subject behind glass) with a Canon EOS 350D &amp; 70-300mm f4-5.6 IS USM lens.
+
+
++--------+
+|  TAGS  |
++--------+
+"Grizzly Bear" Bear "Ursus Arctos Horribilis" "Toronto Zoo" Animals Zoo 

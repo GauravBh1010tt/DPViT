@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Susan E Adams
+Photo URL    : https://www.flickr.com/photos/susanad813/1552467466/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 1 00:00:00 GMT+0200 2004
+Upload Date  : Fri Oct 12 15:21:04 GMT+0200 2007
+Geotag Info  : Latitude:31.673690, Longitude:-97.529100
+Views        : 206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P6120059.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"hatada ranch" lechwe http://www.hatadaranch.com 

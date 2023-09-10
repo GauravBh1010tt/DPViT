@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ai@ce
+Photo URL    : https://www.flickr.com/photos/aiace/3213127455/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 9 17:30:50 GMT+0100 2009
+Upload Date  : Tue Jan 20 23:27:10 GMT+0100 2009
+Views        : 625
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+200812_kenya-163
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+young lions couple
+
+
++--------+
+|  TAGS  |
++--------+
+kenya 200812 "masai mara" lion lioness 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : smerikal
+Photo URL    : https://www.flickr.com/photos/smerikal/8581341069/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 9 08:24:25 GMT+0100 2013
+Upload Date  : Sat Mar 23 09:52:19 GMT+0100 2013
+Views        : 1,399
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dalmatians
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog koira dalmatian dalmatialainen 

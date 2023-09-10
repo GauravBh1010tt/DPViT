@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/7760633468/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 15:10:06 GMT+0200 2012
+Upload Date  : Sat Aug 11 22:20:09 GMT+0200 2012
+Geotag Info  : Latitude:33.096287, Longitude:-116.999158
+Views        : 448
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Greater One-horned Rhinoceros (Rhinoceros unicornis)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photographed at the San Diego Zoo Safari Park in Escondido, CA
+
+
++--------+
+|  TAGS  |
++--------+
+butt rear rhino rhinoceros one-horned Indian ungulate mammal animal "Rhinoceros unicornis" 

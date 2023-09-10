@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : deischi
+Photo URL    : https://www.flickr.com/photos/deischi/7434303870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 24 18:30:10 GMT+0200 2012
+Upload Date  : Sun Jun 24 21:01:28 GMT+0200 2012
+Geotag Info  : Latitude:47.802716, Longitude:13.947836
+Views        : 591
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fuchsjunges
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+extrem süß und ziemlich scheu.
+
+
++--------+
+|  TAGS  |
++--------+
+Fuchs fox Wildpark Grünau 

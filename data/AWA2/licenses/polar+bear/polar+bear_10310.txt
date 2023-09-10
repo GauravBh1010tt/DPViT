@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : @akiray03
+Photo URL    : https://www.flickr.com/photos/yumiyama_akira/5157862191/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 7 10:57:57 GMT+0100 2010
+Upload Date  : Mon Nov 8 16:29:17 GMT+0100 2010
+Geotag Info  : Latitude:43.777291, Longitude:142.360668
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2695
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

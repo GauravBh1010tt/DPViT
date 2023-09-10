@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DragonFlyEye
+Photo URL    : https://www.flickr.com/photos/dragonflyeye/2686275587/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 10 01:38:09 GMT+0200 2008
+Upload Date  : Mon Jul 21 00:17:49 GMT+0200 2008
+Geotag Info  : Latitude:43.197048, Longitude:-77.617454
+Views        : 339
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+080714_SenecaParkZoo 035
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" "Summer Vacation 2008" 

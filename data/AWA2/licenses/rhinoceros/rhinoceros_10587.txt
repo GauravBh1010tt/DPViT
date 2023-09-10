@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/15109512448/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 15 09:37:12 GMT+0200 2014
+Upload Date  : Sat Sep 20 12:44:58 GMT+0200 2014
+Geotag Info  : Latitude:52.380616, Longitude:9.769602
+Views        : 718
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Spitzmaulnashorn / Black Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ein Spitzmaulnashorn im Erlebnis-Zoo Hannover.
+
+A Black Rhinoceros in the &quot;Erlebnis-Zoo Hannover&quot;.
+
+
++--------+
+|  TAGS  |
++--------+
+"Black Rhinoceros" "Diceros bicornis" "Erlebnis-Zoo Hannover" Hannover "Hook-lipped Rhinoceros" Nashorn Rhino Rhinoceros Rhinocerotidae "Schwarzes Nashorn" Spitzmaulnashorn Zoo "Zoo Hannover" Niedersachsen Deutschland 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ripperda
+Photo URL    : https://www.flickr.com/photos/menkema/4387061643/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 3 18:10:21 GMT+0200 2009
+Upload Date  : Thu Feb 25 17:50:33 GMT+0100 2010
+Views        : 875
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+blauwe wener
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bunny konijn rabbit kibowi 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : karen H. nickname.{ pooh}
+Photo URL    : https://www.flickr.com/photos/rugybugynicknamepooh/4392872872/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 27 13:31:22 GMT+0100 2010
+Upload Date  : Sat Feb 27 19:31:22 GMT+0100 2010
+Geotag Info  : Latitude:37.996162, Longitude:-84.726562
+Views        : 2,159
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nature at it best.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nature at it best.
+
+
++--------+
+|  TAGS  |
++--------+
+Nature it best. 

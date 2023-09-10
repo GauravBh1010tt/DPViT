@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BarretFrancoisDOTCOM
+Photo URL    : https://www.flickr.com/photos/barretfrancoisdotcom/8632259798/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 9 20:30:31 GMT+0200 2013
+Upload Date  : Mon Apr 8 18:55:25 GMT+0200 2013
+Views        : 62
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dauphin REUNION ISLAND
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

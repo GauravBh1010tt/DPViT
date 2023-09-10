@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob Haarmans
+Photo URL    : https://www.flickr.com/photos/rhaarmans/4896054235/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 15 13:36:41 GMT+0200 2010
+Upload Date  : Mon Aug 16 05:37:14 GMT+0200 2010
+Geotag Info  : Latitude:40.511345, Longitude:-86.825775
+Views        : 8,982
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolf Strolling Around
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lots more interested in the other wolves than posing for a photograph.
+
+
++--------+
+|  TAGS  |
++--------+
+Wolf Park Indiana "Wolf Park Indiana" 

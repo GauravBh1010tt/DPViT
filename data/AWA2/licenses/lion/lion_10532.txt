@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ヘザー heza
+Photo URL    : https://www.flickr.com/photos/heza/3675209457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 21 19:14:11 GMT+0200 2009
+Upload Date  : Tue Jun 30 19:41:03 GMT+0200 2009
+Views        : 357
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This lion is old we were told. He has probably been kicked out of the pride. He was chilling on the tar road soaking in the warmth of the day that the road holds in. He still looks magestic to me.
+
+
++--------+
+|  TAGS  |
++--------+
+africa "game reserve" kruger "national park" "south africa" travel 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dai Luo
+Photo URL    : https://www.flickr.com/photos/dailuo/5330386401/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 22 11:31:26 GMT+0200 2010
+Upload Date  : Thu Jan 6 19:57:25 GMT+0100 2011
+Geotag Info  : Latitude:30.694611, Longitude:104.106445
+Views        : 8,745
+Comments     : 21
+
+
++---------+
+|  TITLE  |
++---------+
+Spots
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chengdu, China
+
+
++--------+
+|  TAGS  |
++--------+
+"cheng du" china panda "xiong mao" wildlife baby bear cubs "black and white" spots play cuddle 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : d.mitler
+Photo URL    : https://www.flickr.com/photos/lifeisadventure/21718431626/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 26 22:03:43 GMT+0200 2015
+Upload Date  : Sun Sep 27 04:37:42 GMT+0200 2015
+Views        : 721
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White lion head
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Close up of an older male albino white lion. The so-called white lion is thought to be native to the Timbavati region of the Greater Kruger National Park (South Africa), and results from a small genetic mutation. Although it looks distinct from the African lion, it is still a member of the same species, and is particularly rare. This older male lives in a large lion park near Johannesburg, South Africa.
+
+
++--------+
+|  TAGS  |
++--------+
+big cat white lion Timbavati predator hunter face head mane fur eyes snout nose mouth wild wildlife south southern africa african kruger park captivity captive old tired older male 

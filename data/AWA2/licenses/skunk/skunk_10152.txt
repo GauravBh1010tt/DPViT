@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 23, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Petroglyph
+Photo URL    : https://www.flickr.com/photos/28113115@N00/3226011817/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 25 16:28:08 GMT+0100 2009
+Upload Date  : Sun Jan 25 23:14:42 GMT+0100 2009
+Geotag Info  : Latitude:44.512788, Longitude:-78.247890
+Views        : 2,008
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Striped Skunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I'm not sure why this skunk was out and about on this sunny day.
+
+
++--------+
+|  TAGS  |
++--------+
+Canada Ontario "Peterborough County" "Striped Skunk" "Mephitis mephitis" winter "taxonomy:binomial=Mephitis mephitis" Mephitidae taxonomy:family=Mephitidae 

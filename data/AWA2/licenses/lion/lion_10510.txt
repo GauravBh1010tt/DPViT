@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/2984947392/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 29 15:46:19 GMT+0100 2008
+Upload Date  : Wed Oct 29 19:54:24 GMT+0100 2008
+Geotag Info  : Latitude:3.207832, Longitude:101.756486
+Views        : 207
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Negara
+Malaysia
+
+
++--------+
+|  TAGS  |
++--------+
+animals wildlife nature zoo negara malaysia 

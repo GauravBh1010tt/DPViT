@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TALWP
+Photo URL    : https://www.flickr.com/photos/talwp/3494882050/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 26 12:52:46 GMT+0200 2009
+Upload Date  : Sat May 2 20:29:19 GMT+0200 2009
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6422
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Amur Leopard
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

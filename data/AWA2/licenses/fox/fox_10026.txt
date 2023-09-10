@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/6637199121/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 31 11:04:59 GMT+0100 2011
+Upload Date  : Wed Jan 4 22:41:36 GMT+0100 2012
+Views        : 2,489
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+'Dobby'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at the British Wildlife Centre, Newchapel, Surrey. 'Dobby' knows where the food is!
+
+
++--------+
+|  TAGS  |
++--------+
+British Wildlife Centre Newchapel Surrey BWC Fox Vulpes 2011 Dobby Peter Trimming 

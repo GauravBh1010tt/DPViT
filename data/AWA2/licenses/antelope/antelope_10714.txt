@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/2363986383/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 29 16:45:24 GMT+0100 2008
+Upload Date  : Wed Mar 26 20:53:33 GMT+0100 2008
+Geotag Info  : Latitude:-24.004731, Longitude:31.713334
+Views        : 418
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Not clashing horns, but rubbing noses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kruger "Kruger National Park" "South Africa" "game reserve" impala 

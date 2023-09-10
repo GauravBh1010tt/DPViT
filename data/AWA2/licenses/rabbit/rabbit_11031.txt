@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ibm4381
+Photo URL    : https://www.flickr.com/photos/j_benson/2608674065/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 24 06:25:36 GMT+0200 2008
+Upload Date  : Wed Jun 25 03:49:32 GMT+0200 2008
+Views        : 1,568
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Well lit bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yeah, yet another bunny, but this one in the larger resolutions you can actually see its whiskers.  Light really matters.  Not just because it lets us stop the lens down to a place where it has better high spatial frequency response, but also because it enhances contrast.
+
+
++--------+
+|  TAGS  |
++--------+
+"owen conservation park" madison rabbit "Canon EF 400mm F4 DO IS USM" 

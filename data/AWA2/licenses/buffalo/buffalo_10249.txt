@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : greaterfalls
+Photo URL    : https://www.flickr.com/photos/greaterfalls/2467590048/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 4 15:42:21 GMT+0200 2008
+Upload Date  : Mon May 5 12:24:42 GMT+0200 2008
+Views        : 179
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison Relaxing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bison "lewis and clark" "great falls" montana 

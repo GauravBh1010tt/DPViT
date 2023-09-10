@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdg32373
+Photo URL    : https://www.flickr.com/photos/jdg32373/6032236119/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 31 20:36:53 GMT+0200 2011
+Upload Date  : Thu Aug 11 18:17:45 GMT+0200 2011
+Views        : 203
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kansas City Zoo 2011-8-1-2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2011 Aiden Andrew August "Kansas City" Zoo jdg32373 

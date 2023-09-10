@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/4505783379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 9 12:44:01 GMT+0200 2010
+Upload Date  : Fri Apr 9 23:28:31 GMT+0200 2010
+Geotag Info  : Latitude:52.379208, Longitude:-2.286293
+Views        : 416
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rhino 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Asian One-horned Indian Rhinoceros "Rhinoceros unicornis" 

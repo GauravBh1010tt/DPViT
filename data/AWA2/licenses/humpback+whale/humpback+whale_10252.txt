@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : c.j.b
+Photo URL    : https://www.flickr.com/photos/chris_j_b/4752495434/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 2 02:26:39 GMT+0200 2010
+Upload Date  : Thu Jul 1 18:26:39 GMT+0200 2010
+Geotag Info  : Latitude:-32.938485, Longitude:151.776283
+Views        : 538
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale near Newcastle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photographed at Strzelecki lookout.
+
+
++--------+
+|  TAGS  |
++--------+
+australia newcastle whale humpback ocean 

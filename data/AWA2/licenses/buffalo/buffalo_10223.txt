@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : etharooni
+Photo URL    : https://www.flickr.com/photos/etharooni/3885737396/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 17 12:47:44 GMT+0200 2009
+Upload Date  : Fri Sep 4 00:42:41 GMT+0200 2009
+Geotag Info  : Latitude:44.676180, Longitude:-110.483542
+Views        : 535
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison in Yellowstone
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone Arches National Park Canyonlands grand teton mountains bison buffalo 

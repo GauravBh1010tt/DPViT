@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/9569059962/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 13 13:34:45 GMT+0200 2013
+Upload Date  : Thu Aug 22 08:58:16 GMT+0200 2013
+Geotag Info  : Latitude:79.357561, Longitude:20.753175
+Views        : 1,429
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale Fluke while diving
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A selection of images from a recent trip to Svalbard.
+<a href="http://www.flickr.com/photos/smudge9000/sets/72157634799866136/">See the full set here eventually...</a>
+
+
++--------+
+|  TAGS  |
++--------+
+2013 Arctic Humpback Summer Svalbard Whales mammal Fluke "Svalbard and Jan Mayen" 

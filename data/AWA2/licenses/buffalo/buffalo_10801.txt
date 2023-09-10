@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Smith2010
+Photo URL    : https://www.flickr.com/photos/lsmith2010/15450241267/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 25 08:01:29 GMT+0200 2014
+Upload Date  : Sun Oct 26 23:07:38 GMT+0100 2014
+Geotag Info  : Latitude:34.748825, Longitude:-98.766573
+Views        : 1,709
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sunrise 10-25-14
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bison grazing at sunrise.
+
+Wichita Mountains Wildlife Refuge
+SW Oklahoma
+
+
++--------+
+|  TAGS  |
++--------+
+"Wichita Mountains" "Larry Smith" Oklahoma bison buffalo sunrise "Wichita Mountains Wildlife Refuge" 

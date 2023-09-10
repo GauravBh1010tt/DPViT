@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jimbowen0306
+Photo URL    : https://www.flickr.com/photos/jamiedfw/3283807097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 15 12:07:41 GMT+0100 2009
+Upload Date  : Mon Feb 16 12:50:08 GMT+0100 2009
+Geotag Info  : Latitude:38.205358, Longitude:-85.704731
+Views        : 3,836
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinos in Louisville
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rhino Rhinos Rhinoceros Rhinoceri Rhinoceroses Rhinoceroi "Louisville Zoo" "Louisville Zoological Park" Zoo Zoos "ZoosOf North America" "Zoological Park" "Zoological Parks" Louisville "Louisville KY" Kentucky KY "United States" America US USA "Canon Powershot SX10 IS" "Canon Powershot SX10" "Canon Powershot" "Canon SX10 IS" "Canon SX10" "SX10 IS" SX10 animals animal 

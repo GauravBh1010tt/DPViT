@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rogamuffin
+Photo URL    : https://www.flickr.com/photos/rogamuffin/8032140948/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 26 13:43:31 GMT+0200 2012
+Upload Date  : Fri Sep 28 09:57:30 GMT+0200 2012
+Views        : 245
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo-6.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo GBR UK Whipsnade mammalanimal ZSL sand green grass rino Rhinoceros "thick skin" armour horn 

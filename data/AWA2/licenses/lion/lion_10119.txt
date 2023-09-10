@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Arizona Parrot
+Photo URL    : https://www.flickr.com/photos/azparrot/414033752/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 6 15:14:22 GMT+0100 2007
+Upload Date  : Wed Mar 7 23:34:20 GMT+0100 2007
+Views        : 259
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Crap!!!!!!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Cabela's in Glendale Arizona
+
+
++--------+
+|  TAGS  |
++--------+
+cabela's lion 

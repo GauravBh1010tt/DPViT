@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : osseous
+Photo URL    : https://www.flickr.com/photos/osseous/5952408323/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 2 15:23:33 GMT+0200 2011
+Upload Date  : Tue Jul 19 03:47:14 GMT+0200 2011
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo Miami July 2, 2011
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A day at the zoo.   an Indian Rhinoceros
+
+
++--------+
+|  TAGS  |
++--------+
+"2011 july" miami zoo rhinoceros 

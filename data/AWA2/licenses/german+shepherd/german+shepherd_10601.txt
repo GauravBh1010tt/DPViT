@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daisydoubleoh
+Photo URL    : https://www.flickr.com/photos/79545705@N00/741837438/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 4 18:59:14 GMT+0200 2007
+Upload Date  : Fri Jul 6 22:28:45 GMT+0200 2007
+Views        : 667
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leika protrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"independence day" sunny alsayion german shepherd 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robertpaulyoung
+Photo URL    : https://www.flickr.com/photos/robertpaulyoung/2954184799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 1 08:13:07 GMT+0200 2008
+Upload Date  : Sun Oct 19 17:23:33 GMT+0200 2008
+Geotag Info  : Latitude:1.404735, Longitude:103.789730
+Views        : 347
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bears
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+singapore asia city zoo 

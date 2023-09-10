@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/2656040881/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 5 13:23:29 GMT+0200 2008
+Upload Date  : Thu Jul 10 22:43:24 GMT+0200 2008
+Geotag Info  : Latitude:38.744736, Longitude:-78.294121
+Views        : 1,947
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Curious
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Friendliest wild rabbit ever.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny wild "Appalachian Cottontail" "Sylvilagus obscurus" "North district" "Appalachian Trail" "Rappahannock county" mountains "shenandoah national park" virginia hiking 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jagermesh
+Photo URL    : https://www.flickr.com/photos/61192001@N03/17232563191/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 7 16:52:39 GMT+0200 2015
+Upload Date  : Wed Apr 22 13:43:21 GMT+0200 2015
+Geotag Info  : Latitude:18.354606, Longitude:-64.755477
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2015-04-07 16-52-39
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+USVI StThomas StJohn USVirginIslands Sea Caribbean 

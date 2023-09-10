@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jo9ce4line0
+Photo URL    : https://www.flickr.com/photos/jo9ce4line0/2821852656/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 2 22:50:25 GMT+0200 2008
+Upload Date  : Tue Sep 2 16:50:25 GMT+0200 2008
+Views        : 1,231
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Korea's Li-ger (Breed between lion and tiger)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger lion 

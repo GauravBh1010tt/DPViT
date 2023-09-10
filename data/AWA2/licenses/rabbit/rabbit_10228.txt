@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RifcaPeters
+Photo URL    : https://www.flickr.com/photos/rifca/4920211602/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 20 20:45:12 GMT+0200 2010
+Upload Date  : Mon Aug 23 16:20:30 GMT+0200 2010
+Views        : 1,580
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Scotland Schotland 2010 Highlands Bunny rabbit Tyndrum 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foilman
+Photo URL    : https://www.flickr.com/photos/foilman/12525626135/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 7 13:28:41 GMT+0100 2013
+Upload Date  : Fri Feb 14 20:25:04 GMT+0100 2014
+Geotag Info  : Latitude:50.991397, Longitude:-1.278192
+Views        : 579
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sneaking Up On A Sleeping Snow Leopard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"snow leopard" marwell sleeping sneaking 

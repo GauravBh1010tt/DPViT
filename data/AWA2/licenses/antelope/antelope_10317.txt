@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dconvertini
+Photo URL    : https://www.flickr.com/photos/con4tini/16614260834/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 24 12:17:19 GMT+0200 2014
+Upload Date  : Wed Apr 22 20:31:35 GMT+0200 2015
+Geotag Info  : Latitude:-18.818760, Longitude:16.928633
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1354
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Namibia Africa Etosha 

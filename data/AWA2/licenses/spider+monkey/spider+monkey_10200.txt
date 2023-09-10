@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wallygrom
+Photo URL    : https://www.flickr.com/photos/33037982@N04/5437353744/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 3 15:19:33 GMT+0100 2011
+Upload Date  : Fri Feb 11 23:24:19 GMT+0100 2011
+Geotag Info  : Latitude:20.604918, Longitude:-87.091804
+Views        : 303
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spider Monkey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Mexico "Quintana Roo" "Yucatan Peninsula" Yucatan Playacar "Riu Yucatan" animal animals wildlife "Playa del Carmen" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : probikershots.com
+Photo URL    : https://www.flickr.com/photos/krautstyle/3520590903/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 9 08:15:43 GMT+0200 2009
+Upload Date  : Mon May 11 07:36:37 GMT+0200 2009
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0169-132
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

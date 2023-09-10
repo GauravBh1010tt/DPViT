@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roy.luck
+Photo URL    : https://www.flickr.com/photos/royluck/5949064498/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 13 16:20:50 GMT+0200 2011
+Upload Date  : Mon Jul 18 04:32:42 GMT+0200 2011
+Geotag Info  : Latitude:57.802151, Longitude:-133.772964
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback whale tail
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Holkham Bay AK
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

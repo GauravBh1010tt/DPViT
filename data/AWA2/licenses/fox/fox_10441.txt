@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/14507132334/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 15 09:29:43 GMT+0100 2014
+Upload Date  : Thu Jun 26 01:00:06 GMT+0200 2014
+Geotag Info  : Latitude:47.734849, Longitude:7.350239
+Views        : 7,925
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Nice and close portrait of a polar fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A cute portrait of one of the polar foxes!
+
+
++--------+
+|  TAGS  |
++--------+
+portrait face cute close "polar fox" fox "arctic fox" white mulhouse zoo france nikon d4 

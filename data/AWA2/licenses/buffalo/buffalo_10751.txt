@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Smith2010
+Photo URL    : https://www.flickr.com/photos/lsmith2010/14144198121/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 9 07:11:00 GMT+0200 2014
+Upload Date  : Fri May 9 23:39:54 GMT+0200 2014
+Geotag Info  : Latitude:34.721403, Longitude:-98.678641
+Views        : 2,559
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Old Bison 5-9-14
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shedding his heavy winter coat.
+
+Wichita Mountains Wildlife Refuge
+SW Oklahoma
+
+
++--------+
+|  TAGS  |
++--------+
+"Wichita Mountains" "Larry Smith" Oklahoma Bison "Wichita Mountains Wildlife Refuge" 

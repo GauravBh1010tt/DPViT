@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mighty.travels
+Photo URL    : https://www.flickr.com/photos/96223380@N02/12460683233/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 11 08:12:48 GMT+0100 2014
+Upload Date  : Tue Feb 11 17:12:48 GMT+0100 2014
+Geotag Info  : Latitude:30.739327, Longitude:104.142150
+Views        : 201
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+#panda #breeding #base #chengdu
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram Hefe foursquare:venue=4bea5780415e20a147f2e4bb 

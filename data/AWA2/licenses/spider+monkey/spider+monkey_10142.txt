@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steve Wilson - over 8 million views Thanks !!
+Photo URL    : https://www.flickr.com/photos/pokerbrit/14326397533/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 1 14:44:21 GMT+0100 2011
+Upload Date  : Fri May 30 18:16:10 GMT+0200 2014
+Views        : 6,727
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Sitting in the Sunshine
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Black Colombian Spider Monkey at Chester Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+NIkon "NiKon D200" D200 Chester Zoo "Chester Zoo" Animal Nature Mammal Portrait Primate Monkey "Spider Monkey" Black Colombia Colombian "South America" Amazon Tropical "Rain Forest" Cheshire Caughall Upton UK 

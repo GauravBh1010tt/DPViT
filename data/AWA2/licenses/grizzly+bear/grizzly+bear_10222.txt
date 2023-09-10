@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8201695316/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 29 16:53:41 GMT+0200 2012
+Upload Date  : Tue Nov 20 01:00:03 GMT+0100 2012
+Geotag Info  : Latitude:47.291907, Longitude:8.529338
+Views        : 5,877
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Brown bear with tongue out
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Last bear portrait, this time with tongue out!
+
+
++--------+
+|  TAGS  |
++--------+
+brown.bear dark portrait tongue licking attentive big wildpark wildnisspark langenberg park zürich switzerland nikon d4 

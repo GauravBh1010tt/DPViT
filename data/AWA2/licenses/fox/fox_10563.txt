@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Khomille
+Photo URL    : https://www.flickr.com/photos/k-m/4397811487/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 14 13:46:34 GMT+0200 2008
+Upload Date  : Mon Mar 1 15:53:16 GMT+0100 2010
+Geotag Info  : Latitude:48.773557, Longitude:6.898212
+Views        : 500
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Renard au Parc animalier de Sainte-Croix
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+renard fox sainte-croix 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marinabarral
+Photo URL    : https://www.flickr.com/photos/10589397@N06/3051105674/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 22 12:04:25 GMT+0100 2008
+Upload Date  : Sat Nov 22 21:04:25 GMT+0100 2008
+Views        : 433
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bama e Buda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Primeiro dia de Buda e Bama em casa.
+
+Buda é o da mancha preta no olho direito.
+
+
++--------+
+|  TAGS  |
++--------+
+Bama Buda 2008 dalmata 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : archy67@btinternet.com
+Photo URL    : https://www.flickr.com/photos/23555841@N07/10577991073/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 30 10:47:51 GMT+0100 2013
+Upload Date  : Wed Oct 30 18:47:51 GMT+0100 2013
+Views        : 195
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+13103017481460_l
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+dog german shepherd
+
+
++--------+
+|  TAGS  |
++--------+
+dog german NOKIA Lumia710 Adele 

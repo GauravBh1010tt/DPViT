@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumenbiene
+Photo URL    : https://www.flickr.com/photos/blumenbiene/8569927998/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 17 13:38:07 GMT+0100 2013
+Upload Date  : Mon Mar 18 20:56:44 GMT+0100 2013
+Views        : 1,029
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dummy apportieren
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+März 2013
+Canon EOS 40D
+EF-S 55-250mm f/4-5.6 IS II
+
+Creative Commons Licence BY 2.0
+
+Quellenangabe / Credit:
+Photo by Maja Dumat - CC BY 2.0
+
+
++--------+
+|  TAGS  |
++--------+
+hund hündin dog dalmatiner female dalmatian Dalmatinac schnee snow dummysuche dummy search searching 

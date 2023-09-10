@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Percita
+Photo URL    : https://www.flickr.com/photos/dittmars/4032085260/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 18 11:50:23 GMT+0200 2009
+Upload Date  : Wed Oct 21 15:13:35 GMT+0200 2009
+Views        : 2,925
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+A whale of a tail
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We headed out to the whale grounds in a jet boat - lots of fun.
+But these magnificent creatures were the real highlight. We watched a pair of large males for a while - they were pretty relaxed and just shoed an occasionial spout and hump. We were heading back when we say a larger pod - they were a bit more active.
+
+
++--------+
+|  TAGS  |
++--------+
+Perth Whale humpback 

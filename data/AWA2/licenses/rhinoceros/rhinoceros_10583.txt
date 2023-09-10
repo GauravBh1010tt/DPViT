@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ronnie Macdonald
+Photo URL    : https://www.flickr.com/photos/ronmacphotos/9971347986/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 27 15:01:17 GMT+0200 2013
+Upload Date  : Fri Sep 27 22:31:03 GMT+0200 2013
+Geotag Info  : Latitude:51.863330, Longitude:0.834088
+Views        : 1,087
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern White Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Colchester Zoo" Zoo "white rhino" "Southern White Rhinoceros" "Ronmac Photos" 

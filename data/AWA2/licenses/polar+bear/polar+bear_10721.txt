@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : western4uk
+Photo URL    : https://www.flickr.com/photos/western4uk/7010400581/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 9 12:56:55 GMT+0200 2010
+Upload Date  : Sat Mar 24 08:42:21 GMT+0100 2012
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SAM_1981
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

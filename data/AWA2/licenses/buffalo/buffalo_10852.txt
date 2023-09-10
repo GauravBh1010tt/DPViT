@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gvgoebel
+Photo URL    : https://www.flickr.com/photos/37467370@N08/7612045980/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 20 15:43:29 GMT+0200 2012
+Upload Date  : Sat Jul 21 00:48:11 GMT+0200 2012
+Views        : 1,001
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ybbuf_1b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+buffalo (bison) &amp; calf, Northwest Trek, Washington / 2006
+
+
++--------+
+|  TAGS  |
++--------+
+animals mammals buffalo bison calf 

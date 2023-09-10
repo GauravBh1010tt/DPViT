@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : arne.list
+Photo URL    : https://www.flickr.com/photos/arne-list/2193364684/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 13 13:46:32 GMT+0100 2008
+Upload Date  : Mon Jan 14 20:06:32 GMT+0100 2008
+Geotag Info  : Latitude:54.314846, Longitude:10.136454
+Views        : 1,031
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dalmatian_006
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Dalmatian sniffs at an old wooden boat in Kiel
+
+
++--------+
+|  TAGS  |
++--------+
+Kiel port Dalmatian 

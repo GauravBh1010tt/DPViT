@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trish Hamme
+Photo URL    : https://www.flickr.com/photos/trishhamme/8698182123/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 29 11:43:03 GMT+0200 2013
+Upload Date  : Wed May 1 17:10:57 GMT+0200 2013
+Views        : 619
+Comments     : 20
+
+
++---------+
+|  TITLE  |
++---------+
+Mama , I'm the May Queen :)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Happy Whisker Wednesday :)
+
+
++--------+
+|  TAGS  |
++--------+
+cat "Miss Truffles" Siamese "May Queen" "Happy Whisker Wednesday" 

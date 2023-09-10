@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcoughlin
+Photo URL    : https://www.flickr.com/photos/mcoughlin/11414417744/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 24 00:00:07 GMT+0100 2013
+Upload Date  : Tue Dec 17 06:46:26 GMT+0100 2013
+Geotag Info  : Latitude:-3.185482, Longitude:35.572892
+Views        : 2,228
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion and Hyenas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The lion's bloody face is really quite something.
+Ngorongoro Crater, Tanzania.
+
+
++--------+
+|  TAGS  |
++--------+
+lion hyena ngorongoro tanzania "african lion" "spotted hyena" "big cat" "panthera leo" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mayumi Y
+Photo URL    : https://www.flickr.com/photos/mayumiyamazaki/6950343590/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 10 12:40:29 GMT+0100 2012
+Upload Date  : Fri Apr 20 17:30:51 GMT+0200 2012
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://glittermixx.blogspot.jp/" rel="nofollow">glittermixx.blogspot.jp/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

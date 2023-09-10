@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/9398557541/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 30 07:38:06 GMT+0200 2013
+Upload Date  : Tue Jul 30 14:10:37 GMT+0200 2013
+Geotag Info  : Latitude:51.563166, Longitude:0.016333
+Views        : 712
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Playing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bessy plays with the Great Dane pup, Oscar.
+
+
++--------+
+|  TAGS  |
++--------+
+"Photo Stream" GSD dog Bessy Oscar "German Shepherd" "Great Dane" 

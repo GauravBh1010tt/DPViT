@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joe'sMom Photography
+Photo URL    : https://www.flickr.com/photos/42811534@N05/16227930567/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 31 21:55:16 GMT+0100 2015
+Upload Date  : Sun Feb 1 00:55:16 GMT+0100 2015
+Views        : 154
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Duncan's Pond Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+While in an observation blind on Duncan's pond at flag ponds, I heard leaves rustling behind me. Thinking it was another person coming in the blind-I turned around and there stood this beautiful beast. Foraging for Grubbs.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

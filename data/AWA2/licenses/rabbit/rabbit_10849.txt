@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StevenW.
+Photo URL    : https://www.flickr.com/photos/helloeveryone123/5994991505/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 30 15:59:15 GMT+0200 2011
+Upload Date  : Sun Jul 31 23:00:41 GMT+0200 2011
+Geotag Info  : Latitude:39.168050, Longitude:-86.519297
+Views        : 1,634
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny iu "indiana university" bloomington animal cute indiana 

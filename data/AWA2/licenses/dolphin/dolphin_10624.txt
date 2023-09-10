@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hendie Dijkman
+Photo URL    : https://www.flickr.com/photos/dijkmans/3914245708/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 26 13:39:55 GMT+0200 2009
+Upload Date  : Sun Sep 13 02:53:09 GMT+0200 2009
+Views        : 3
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4988
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

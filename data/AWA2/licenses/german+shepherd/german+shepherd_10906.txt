@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SamTheShepherd88
+Photo URL    : https://www.flickr.com/photos/samtheshepherd88/4108226240/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 15 19:29:11 GMT+0100 2009
+Upload Date  : Mon Nov 16 04:29:11 GMT+0100 2009
+Views        : 1,142
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+thumb-10
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Black Tan German Shepherd 

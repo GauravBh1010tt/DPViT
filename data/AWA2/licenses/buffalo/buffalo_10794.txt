@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cassi G
+Photo URL    : https://www.flickr.com/photos/kanami-nga-mga-pics/5870218734/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 14 22:45:34 GMT+0200 2011
+Upload Date  : Sat Jun 25 19:35:07 GMT+0200 2011
+Geotag Info  : Latitude:44.613139, Longitude:-110.428390
+Views        : 194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Solo BIson
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+yellowstone 

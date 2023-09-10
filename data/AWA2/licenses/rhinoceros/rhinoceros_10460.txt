@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alwright1
+Photo URL    : https://www.flickr.com/photos/alwright1/3565666716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 23 00:00:31 GMT+0200 2009
+Upload Date  : Tue May 26 05:27:03 GMT+0200 2009
+Geotag Info  : Latitude:29.921322, Longitude:-90.130269
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rhinoceros
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"New Orleans, LA" NOLA "Audubon Zoo" rhinoceros 

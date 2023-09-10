@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ka!zen
+Photo URL    : https://www.flickr.com/photos/kaizendo/12132093835/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 5 23:56:32 GMT+0200 2013
+Upload Date  : Sat Jan 25 13:40:08 GMT+0100 2014
+Views        : 282
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard, San Diego Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+--------------------------------
+Feel free to use this image but give credits to <a href="http://www.usa-reiseblogger.de" rel="nofollow">www.usa-reiseblogger.de</a>
+
+Das Bild kann frei verwendet werden, jedoch ist als Bildquelle <a href="http://usa-reiseblogger.de" rel="nofollow">usa-reiseblogger.de</a> zu nennen.
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego Zoo" zoo "San Diego" California leopard 

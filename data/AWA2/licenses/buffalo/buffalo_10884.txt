@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Robbo-Man
+Photo URL    : https://www.flickr.com/photos/robglover/9542684016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 10 09:16:19 GMT+0200 2013
+Upload Date  : Mon Aug 19 01:00:03 GMT+0200 2013
+Views        : 378
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yellowstone
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another  bloody bison
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : emma trithart
+Photo URL    : https://www.flickr.com/photos/furny/2869419624/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 18 11:05:07 GMT+0200 2008
+Upload Date  : Fri Sep 19 03:47:08 GMT+0200 2008
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+BUNNAR
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+i love de bunniez.
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit 

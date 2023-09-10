@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wyliemac
+Photo URL    : https://www.flickr.com/photos/wyliemac/4048596642/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 20 17:04:04 GMT+0200 2009
+Upload Date  : Tue Oct 27 01:41:54 GMT+0100 2009
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+09Maui1001
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dolphins "Pacific Whale Foundation" Maui Lana'i 

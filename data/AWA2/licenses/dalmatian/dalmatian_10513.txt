@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pepe Pont
+Photo URL    : https://www.flickr.com/photos/cernicalo-e/5923369171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 1 11:46:00 GMT+0100 2010
+Upload Date  : Mon Jul 11 00:07:19 GMT+0200 2011
+Geotag Info  : Latitude:39.532143, Longitude:2.589340
+Views        : 2,347
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Duna running after the ball
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dálmata dalmata dalmatian dog perro chien gos cane jumping salto saut salt sea mar mer mare Mallorca animal animale playing jugando jouant giocando jogant Illetes Illetas Calvià beach playa plage platja praia 

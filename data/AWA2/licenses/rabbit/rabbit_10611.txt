@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jean-Jacques Boujot
+Photo URL    : https://www.flickr.com/photos/jean-jacquesboujot/11718385754/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 2 23:57:22 GMT+0100 2014
+Upload Date  : Thu Jan 2 23:59:54 GMT+0100 2014
+Geotag Info  : Latitude:46.868436, Longitude:-2.082338
+Views        : 18,930
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Lapin de garenne / European Rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oryctolagus cuniculus (La Barre-de-Monts, Vendée - France)
+
+
++--------+
+|  TAGS  |
++--------+
+Oryctolagus cuniculus lapin garenne commun common rabbit european la barre-de-monts marais breton vendée france 

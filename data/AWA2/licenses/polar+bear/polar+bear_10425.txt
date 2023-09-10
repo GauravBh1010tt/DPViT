@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KAZUTO KITAKADO
+Photo URL    : https://www.flickr.com/photos/kazutokitakado/8003568792/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 19 13:07:04 GMT+0200 2012
+Upload Date  : Wed Sep 19 18:56:28 GMT+0200 2012
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P9195296.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Eye-Fi 

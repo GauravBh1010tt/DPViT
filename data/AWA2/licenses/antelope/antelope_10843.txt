@@ -1,0 +1,45 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sybarite48
+Photo URL    : https://www.flickr.com/photos/sybarite48/7973649412/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 8 15:50:19 GMT+0200 2012
+Upload Date  : Mon Sep 10 22:37:19 GMT+0200 2012
+Geotag Info  : Latitude:47.247586, Longitude:1.352562
+Views        : 288
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Saint-Aignan (Loir-et-Cher). Antilopes springboks.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Le parc zoologique de Beauval est situé à Saint-Aignan-sur-Cher, dans le département de Loir-et-Cher, en France. 
+
+Avec environs 5000 animaux et 400 espèces différentes, c'est le plus importants parcs zoologiques d'Europe.
+
+Le parc zoologique de Beauval fait partie du &quot;Top 15&quot; des parcs zoologiques mondiaux.
+
+The Beauval Zoo is located in Saint-Aignan-sur-Cher, in the department of Loir-et-Cher, France.
+
+With approximately 5,000 animals and 400 different species, it is the largest zoos in Europe.
+
+The Beauval Zoo is part of the &quot;Top 15&quot; zoos worldwid
+
+
++--------+
+|  TAGS  |
++--------+
+Saint-Aignan zoo zoo-parc-de-Beauval zoo-de-Beauval Loir-et-Cher France antilope springbok 

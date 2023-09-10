@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GRVO TV
+Photo URL    : https://www.flickr.com/photos/64755053@N06/11675784425/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 31 11:18:38 GMT+0100 2013
+Upload Date  : Tue Dec 31 23:59:58 GMT+0100 2013
+Views        : 1,675
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Angel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+German Shepherd  -  For reviews views &amp; opinions on camera equipment follow me on youtube, search GRVO TV
+
+
++--------+
+|  TAGS  |
++--------+
+"german shepherd" dog angel 

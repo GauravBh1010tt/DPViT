@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oldandsolo
+Photo URL    : https://www.flickr.com/photos/shankaronline/7513508502/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 1 00:00:00 GMT+0100 2010
+Upload Date  : Fri Jul 6 11:43:54 GMT+0200 2012
+Views        : 950
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A pair of white rhino disappear into the bush as we drive past. (Oct/ Nov 2010)
+
+
++--------+
+|  TAGS  |
++--------+
+Kenya "East Africa" "African wildlife" "wildlife photography" "Lake Nakuru" "Lake Nakuru game reserve" "Lake Nakuru National Reserve" ungulate rhino rhinoceros "White Rhino" 

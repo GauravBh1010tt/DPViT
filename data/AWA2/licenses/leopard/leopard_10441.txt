@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marc_Smith
+Photo URL    : https://www.flickr.com/photos/marc_smith/6465719897/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 3 23:18:49 GMT+0100 2011
+Upload Date  : Tue Dec 6 14:30:45 GMT+0100 2011
+Views        : 383
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard, Sabi Sands Game Preserve, Limpopo, South Africa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa "South Africa" 2011 November December 

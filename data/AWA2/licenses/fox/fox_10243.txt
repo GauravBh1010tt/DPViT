@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marion Doss
+Photo URL    : https://www.flickr.com/photos/ooocha/2705661270/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 20 13:01:59 GMT+0200 2007
+Upload Date  : Sun Jul 27 04:56:54 GMT+0200 2008
+Geotag Info  : Latitude:39.056617, Longitude:-95.727052
+Views        : 79
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photograph taken 20 May 2007 at Topeka Zoo, Topeka, Shawnee County, Kansas by Barbara Reyes.
+
+
++--------+
+|  TAGS  |
++--------+
+fox zoo Topeka "Topeka Zoo" "Gage Park" "Shawnee County" Kansas 

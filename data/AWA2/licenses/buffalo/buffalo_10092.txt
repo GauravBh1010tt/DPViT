@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chuck Martin
+Photo URL    : https://www.flickr.com/photos/chuckmartin/3982586114/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 31 19:21:53 GMT+0200 2009
+Upload Date  : Mon Oct 5 04:23:04 GMT+0200 2009
+Geotag Info  : Latitude:44.650097, Longitude:-111.012009
+Views        : 247
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bison (03)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone Wildlife Bison 

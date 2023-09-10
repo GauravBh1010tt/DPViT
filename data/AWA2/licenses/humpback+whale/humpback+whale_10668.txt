@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NorthBCWoman
+Photo URL    : https://www.flickr.com/photos/northernbc/4326381398/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 28 13:01:09 GMT+0200 2009
+Upload Date  : Tue Feb 2 22:50:55 GMT+0100 2010
+Geotag Info  : Latitude:53.020566, Longitude:-128.880615
+Views        : 203
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+They're getting closer!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On the way back from an afternoon activity, we came across humpbacks feeding. We cut our engine, and they came right past us. It was INCREDIBLE.
+
+
++--------+
+|  TAGS  |
++--------+
+"King Pacific Lodge" "Humpback whale" 

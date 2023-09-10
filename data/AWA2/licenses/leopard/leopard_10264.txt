@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : troy_williams
+Photo URL    : https://www.flickr.com/photos/troy_williams/17690518466/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 04:14:59 GMT+0200 2015
+Upload Date  : Sat May 16 09:15:26 GMT+0200 2015
+Views        : 1,175
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+leopard eyes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+couldn't edit the enclosure out but i like it this way for some reason...maybe it's the eyes.
+
+
++--------+
+|  TAGS  |
++--------+
+"Nikon D800E" "Troy Williams Photo" "Nomad Photog" wandering wanderlust "Travelling shutter" leopard "big cats" "cat haven" conservation education "big cat preservation" CenCal 

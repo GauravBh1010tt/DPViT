@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/16909709162/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 9 16:04:20 GMT+0100 2014
+Upload Date  : Tue Mar 24 01:00:13 GMT+0100 2015
+Geotag Info  : Latitude:47.547509, Longitude:7.578211
+Views        : 2,630
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Muntjac
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+muntjac mammal antelope small brown basel zoo zolli switzerland nikon d4 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bikeride
+Photo URL    : https://www.flickr.com/photos/bikeride/233946881/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 3 12:30:46 GMT+0200 2006
+Upload Date  : Mon Sep 4 19:03:20 GMT+0200 2006
+Geotag Info  : Latitude:41.211100, Longitude:-73.181369
+Views        : 537
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC05796.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wolf zoo 

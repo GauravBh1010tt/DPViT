@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/7847998512/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 16 23:58:36 GMT+0200 2012
+Upload Date  : Fri Aug 24 03:20:07 GMT+0200 2012
+Geotag Info  : Latitude:44.679464, Longitude:-110.486783
+Views        : 245
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Papa Bison
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone Wyoming USA National Park 

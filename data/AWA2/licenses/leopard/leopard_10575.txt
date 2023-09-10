@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Noel Reynolds
+Photo URL    : https://www.flickr.com/photos/29237715@N05/6019739112/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 7 17:34:19 GMT+0200 2011
+Upload Date  : Sun Aug 7 23:58:01 GMT+0200 2011
+Geotag Info  : Latitude:47.548740, Longitude:7.587679
+Views        : 1,976
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow leopard cubs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"snow leopard" "snow leopard cubs" "basel zoo" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MyFoto-Art
+Photo URL    : https://www.flickr.com/photos/myfoto-art/24003523660/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 10 20:39:11 GMT+0100 2016
+Upload Date  : Sun Jan 10 20:48:53 GMT+0100 2016
+Views        : 86
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fisselle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ebenfalls ein belgischer Malinois/Also a belgian Malinois (Mehr Bilder unter/Mor Pictures at <a href="http://www.MyFoto-Art.de" rel="nofollow">www.MyFoto-Art.de</a>)
+
+
++--------+
+|  TAGS  |
++--------+
+Hund Dog Dogs Hunde Mali Malinois Belgischer Schäferhund 

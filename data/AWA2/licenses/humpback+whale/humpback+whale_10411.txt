@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christine Rondeau
+Photo URL    : https://www.flickr.com/photos/crondeau/16111042389/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 16 08:08:58 GMT+0100 2015
+Upload Date  : Sat Jan 17 03:08:12 GMT+0100 2015
+Geotag Info  : Latitude:20.792194, Longitude:-156.510620
+Views        : 200
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humpback Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"pacific whale foundation" 

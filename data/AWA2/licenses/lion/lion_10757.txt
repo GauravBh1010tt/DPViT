@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/2743232101/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 5 12:19:40 GMT+0200 2008
+Upload Date  : Fri Aug 8 13:21:47 GMT+0200 2008
+Geotag Info  : Latitude:51.863275, Longitude:0.835690
+Views        : 2,223
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lions
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Colchester Zoo Essex
+
+
++--------+
+|  TAGS  |
++--------+
+Lions colchester zoo essex 

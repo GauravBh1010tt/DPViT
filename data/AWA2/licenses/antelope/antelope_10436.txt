@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcoughlin
+Photo URL    : https://www.flickr.com/photos/mcoughlin/11414677793/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 24 00:00:21 GMT+0100 2013
+Upload Date  : Tue Dec 17 07:00:07 GMT+0100 2013
+Geotag Info  : Latitude:-3.185482, Longitude:35.572892
+Views        : 193
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grant's Gazelle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ngorongoro Crater, Tanzania.
+
+
++--------+
+|  TAGS  |
++--------+
+gazelle ngorongoro tanzania 

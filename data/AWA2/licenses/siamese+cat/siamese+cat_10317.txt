@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eldareldar
+Photo URL    : https://www.flickr.com/photos/99502420@N06/13307168095/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 29 11:42:28 GMT+0200 2010
+Upload Date  : Fri Mar 21 13:50:01 GMT+0100 2014
+Views        : 582
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0071
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Urban Tiger 2
+
+
++--------+
+|  TAGS  |
++--------+
+cat siamese urban tiger grumpy blue eyes beautiful tommy 

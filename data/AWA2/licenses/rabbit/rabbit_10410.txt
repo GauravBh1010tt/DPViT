@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marit & Toomas Hinnosaar
+Photo URL    : https://www.flickr.com/photos/hinnosaar/3779710168/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 1 12:51:28 GMT+0200 2009
+Upload Date  : Sun Aug 2 03:02:27 GMT+0200 2009
+Geotag Info  : Latitude:41.834857, Longitude:-87.833611
+Views        : 1,578
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eastern Cottontail
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://en.wikipedia.org/wiki/Eastern_Cottontail" rel="nofollow">en.wikipedia.org/wiki/Eastern_Cottontail</a>
+
+
++--------+
+|  TAGS  |
++--------+
+rabbits 

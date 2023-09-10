@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/4567897915/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 1 12:23:32 GMT+0200 2010
+Upload Date  : Sat May 1 18:23:32 GMT+0200 2010
+Views        : 843
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Urocyon cinereoargenteus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Gamboa Panama Fox mammal "taxonomy:binomial=Urocyon cinereoargenteus" 

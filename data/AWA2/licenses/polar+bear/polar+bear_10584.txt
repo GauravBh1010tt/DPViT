@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roger's Eye <(r)>
+Photo URL    : https://www.flickr.com/photos/rogersview/4498524946/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 5 13:29:57 GMT+0200 2010
+Upload Date  : Wed Apr 7 01:12:38 GMT+0200 2010
+Geotag Info  : Latitude:43.823458, Longitude:-79.185419
+Views        : 393
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polar bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Toronto Animals 

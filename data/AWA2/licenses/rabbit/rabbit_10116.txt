@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bunnygoth
+Photo URL    : https://www.flickr.com/photos/bunnygoth/5174209292/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 2 17:22:00 GMT+0200 2010
+Upload Date  : Sun Nov 14 07:49:43 GMT+0100 2010
+Views        : 119
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Berlin Fair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bunnies at the Berlin Fair, Connecticut
+
+
++--------+
+|  TAGS  |
++--------+
+bunny rabbit conejo lapin bunnies rabbits berlin fair connecticut 

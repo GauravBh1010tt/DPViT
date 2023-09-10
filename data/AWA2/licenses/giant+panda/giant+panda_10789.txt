@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael R Stoller Jr
+Photo URL    : https://www.flickr.com/photos/mike_stoller/6049881586/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 16 11:26:42 GMT+0200 2011
+Upload Date  : Tue Aug 16 17:26:42 GMT+0200 2011
+Views        : 60
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+SD Zoo panda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram Normal 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mopsografie
+Photo URL    : https://www.flickr.com/photos/wtfitshanna/5340131777/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 8 12:31:03 GMT+0100 2011
+Upload Date  : Sun Jan 9 22:58:36 GMT+0100 2011
+Geotag Info  : Latitude:52.516071, Longitude:13.376979
+Views        : 3,548
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+ice bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+we weren't able to figure out which one was 'knut' :D
+
+
++--------+
+|  TAGS  |
++--------+
+eisbär bahnhof zoo berlin polar bear cold white 

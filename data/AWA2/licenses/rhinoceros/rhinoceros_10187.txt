@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ROCSDT
+Photo URL    : https://www.flickr.com/photos/rocsdt/218912136/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 1 11:15:50 GMT+0200 2006
+Upload Date  : Sat Aug 19 06:48:03 GMT+0200 2006
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCF0308
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Six Flags Wild Safari" rhinoceros 犀牛 

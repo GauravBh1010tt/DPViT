@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andy_carter
+Photo URL    : https://www.flickr.com/photos/salsaboy/2545731644/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 31 15:15:04 GMT+0200 2008
+Upload Date  : Mon Jun 2 19:06:08 GMT+0200 2008
+Geotag Info  : Latitude:52.657955, Longitude:-0.702610
+Views        : 350
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rabbit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

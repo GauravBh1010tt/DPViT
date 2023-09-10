@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Winters
+Photo URL    : https://www.flickr.com/photos/cwinters/9084686195/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 17 16:41:40 GMT+0200 2013
+Upload Date  : Wed Jun 19 19:02:44 GMT+0200 2013
+Views        : 2,592
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+"Cutest baby bunny"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bunny 

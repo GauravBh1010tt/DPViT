@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt McGee
+Photo URL    : https://www.flickr.com/photos/pleeker/2456090700/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 10 16:39:21 GMT+0100 2008
+Upload Date  : Thu May 1 05:11:16 GMT+0200 2008
+Views        : 857
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+Amur Leopard II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at the Oregon Zoo, March 2008.
+
+
++--------+
+|  TAGS  |
++--------+
+"amur leopard" animal portrait zoo "oregon zoo" portland oregon cat "animal planet" 

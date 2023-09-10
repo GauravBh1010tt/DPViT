@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 20, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/2250931391/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 9 10:55:11 GMT+0100 2008
+Upload Date  : Sat Feb 9 01:38:13 GMT+0100 2008
+Views        : 381
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lion 01
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Columbus Zoo - Lion
+
+
++--------+
+|  TAGS  |
++--------+
+becker.271 "columbus zoo" Lion Februrary 2008 

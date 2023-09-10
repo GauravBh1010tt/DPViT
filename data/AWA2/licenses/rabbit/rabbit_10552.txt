@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : maviscwling
+Photo URL    : https://www.flickr.com/photos/maviscwling/2957396647/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 25 19:21:34 GMT+0200 2007
+Upload Date  : Mon Oct 20 13:34:55 GMT+0200 2008
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4351
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

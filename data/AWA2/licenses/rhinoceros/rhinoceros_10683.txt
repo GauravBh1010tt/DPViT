@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lars Plougmann
+Photo URL    : https://www.flickr.com/photos/criminalintent/24247451854/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 29 10:11:55 GMT+0100 2015
+Upload Date  : Sun Feb 7 17:04:35 GMT+0100 2016
+Geotag Info  : Latitude:-17.838978, Longitude:25.794241
+Views        : 321
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White rhinos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"national park" Livingstone "white rhino" rhino rhinoceros "white rhinoceros" Zambia Mosi-oa-Tunya Southern ZM DSCF7448 

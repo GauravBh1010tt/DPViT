@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daryl_mitchell
+Photo URL    : https://www.flickr.com/photos/daryl_mitchell/5514301260/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 9 23:58:32 GMT+0100 2011
+Upload Date  : Thu Mar 10 06:58:32 GMT+0100 2011
+Geotag Info  : Latitude:21.270757, Longitude:-157.817187
+Views        : 469
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The white rhinoceros consists of two subspecies: the near-threatened Southern white rhino, and the critically endangered Northern white rhino. The latter species is believed to be extinct in the wild.
+
+
++--------+
+|  TAGS  |
++--------+
+Honolulu Hawaii USA zoo winter 2011 rhinoceros endangered 

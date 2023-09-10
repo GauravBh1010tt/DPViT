@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Valerie Everett
+Photo URL    : https://www.flickr.com/photos/valeriebb/295866884/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 12 12:45:26 GMT+0100 2006
+Upload Date  : Mon Nov 13 01:06:26 GMT+0100 2006
+Views        : 735
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+I like coke too
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"polar bear" white indy zoo rocks 

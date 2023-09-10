@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : princesskoko
+Photo URL    : https://www.flickr.com/photos/princesskoko/14462035184/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 26 12:39:53 GMT+0200 2012
+Upload Date  : Fri Jun 20 05:12:38 GMT+0200 2014
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5816
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Whale Watching" "Long Beach, CA" Dolphin "Common dolphin" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thethrillstheyyield
+Photo URL    : https://www.flickr.com/photos/thethrillstheyyield/2942083061/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 11 11:53:34 GMT+0200 2008
+Upload Date  : Tue Oct 14 23:51:12 GMT+0200 2008
+Geotag Info  : Latitude:33.733052, Longitude:-84.371169
+Views        : 97
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pulling the bamboo over, apparently so we can all see her.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Zoo Atlanta" "Mei Lan" panda 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The unPixie
+Photo URL    : https://www.flickr.com/photos/dohne/532626584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 28 12:10:53 GMT+0200 2007
+Upload Date  : Wed Jun 6 05:38:48 GMT+0200 2007
+Views        : 254
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Another of our baby fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

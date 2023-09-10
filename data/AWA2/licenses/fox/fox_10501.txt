@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FrancoisBoucher
+Photo URL    : https://www.flickr.com/photos/francoisboucher/16866095777/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 5 15:27:34 GMT+0200 2015
+Upload Date  : Wed Apr 8 05:06:39 GMT+0200 2015
+Views        : 269
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox Kits (Vulpes vulpes)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Red Fox Kits (Vulpes vulpes) in Montreal Botanical Garden, Québec, Canada.
+
+
++--------+
+|  TAGS  |
++--------+
+Animal "Botanical Garden" Canada "Jardin Botanique" Life Mammal Montréal Nature Québec "Red Fox" "Vulpes vulpes" 

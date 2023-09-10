@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ed Coyle Photography
+Photo URL    : https://www.flickr.com/photos/joxur223/7452426288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 11 16:13:36 GMT+0200 2012
+Upload Date  : Wed Jun 27 06:09:39 GMT+0200 2012
+Geotag Info  : Latitude:44.726003, Longitude:-110.626144
+Views        : 824
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buffalo in Meadow - Yellowstone
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A lone buffalo strayed from the herd to feed in an open Meadow near Norris.  Yellowstone National Park - June 2012.
+
+
++--------+
+|  TAGS  |
++--------+
+yellowstone buffalo bison national park norris meadow mountain animal wild ameicana 

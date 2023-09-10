@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gurney5
+Photo URL    : https://www.flickr.com/photos/brentnewhall/5083961384/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 21 09:19:09 GMT+0200 2010
+Upload Date  : Fri Oct 15 16:19:52 GMT+0200 2010
+Views        : 893
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+South Africa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This photo was taken during a photo safari at Lion Sands Reserve, part of Kruger National Park in South Africa.
+
+
++--------+
+|  TAGS  |
++--------+
+south africa rhinoceros rhino lion sands reserve kruger national park 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LizzieViolet
+Photo URL    : https://www.flickr.com/photos/missjam/1052770769/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 8 19:12:58 GMT+0200 2007
+Upload Date  : Wed Aug 8 21:11:12 GMT+0200 2007
+Views        : 711
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Meet Lucca, My New Baby Bunny
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+8 weeks old.  Such a cutie
+
+
++--------+
+|  TAGS  |
++--------+
+rabbit bunny cute netherlanddwarf fluffy 8weeksold 

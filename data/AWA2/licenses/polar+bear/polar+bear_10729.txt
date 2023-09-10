@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Olivier Bruchez
+Photo URL    : https://www.flickr.com/photos/bruchez/4392249236/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 13 02:00:46 GMT+0200 2008
+Upload Date  : Sat Feb 27 14:28:13 GMT+0100 2010
+Geotag Info  : Latitude:32.764619, Longitude:-117.222812
+Views        : 386
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SeaWorld
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" california us usa "united states" "north america" seaworld bear "polar bear" 

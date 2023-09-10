@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : theilr
+Photo URL    : https://www.flickr.com/photos/theilr/8147579534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 22 14:03:07 GMT+0200 2011
+Upload Date  : Fri Nov 2 14:03:06 GMT+0100 2012
+Views        : 2,044
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+A vixen is a female fox.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I don't actually know if this is a female, but I will assume she is, because that is more fun.  
+
+<i>O, when she is angry she is keen and shrewd;
+She was a vixen when she went to school,
+And though she be but little, she is fierce.</i>
+-- Shakespeare, Midsummer Night's Dream
+
+
++--------+
+|  TAGS  |
++--------+
+fox sixwordstory 

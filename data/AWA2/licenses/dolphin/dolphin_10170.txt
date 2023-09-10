@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WalterPro4755
+Photo URL    : https://www.flickr.com/photos/walterpro/15227021901/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 23 12:22:43 GMT+0200 2011
+Upload Date  : Sun Sep 14 02:28:06 GMT+0200 2014
+Geotag Info  : Latitude:27.977039, Longitude:-82.819149
+Views        : 14,517
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_2114_pp Nicholas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+CMA winter 

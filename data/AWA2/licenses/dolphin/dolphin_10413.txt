@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Armando G Alonso ✈︎
+Photo URL    : https://www.flickr.com/photos/argonavigo/3890339056/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 24 16:21:11 GMT+0200 2009
+Upload Date  : Sat Sep 5 18:55:10 GMT+0200 2009
+Geotag Info  : Latitude:36.135725, Longitude:-5.378193
+Views        : 554
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dolphins jumping on the water in the Strait of Gibraltar
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Una pareja de delfines salta sobre la superficie del mar en pleno verano andaluz.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

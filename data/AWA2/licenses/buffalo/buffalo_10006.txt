@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cariliv
+Photo URL    : https://www.flickr.com/photos/cliving/4753827664/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 1 16:41:55 GMT+0200 2010
+Upload Date  : Fri Jul 2 03:47:42 GMT+0200 2010
+Views        : 214
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+43 Bison in the road
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We sat about 25 minutes waiting for the bison to cross the road. I don't know why they would want to just stand on the hot blacktop, but they must have liked it! We saw bison in three other locations along the 14-mile North Unit Scenic Byway, but this was the largest group.
+
+
++--------+
+|  TAGS  |
++--------+
+"North Dakota" bison 

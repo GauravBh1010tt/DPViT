@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hyperial
+Photo URL    : https://www.flickr.com/photos/hyperial/5617465654/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 6 23:43:34 GMT+0200 2010
+Upload Date  : Wed Apr 13 22:46:14 GMT+0200 2011
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy Polar Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

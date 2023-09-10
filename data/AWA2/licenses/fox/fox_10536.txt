@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rengber
+Photo URL    : https://www.flickr.com/photos/rengber/7980004751/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 10 09:12:23 GMT+0200 2012
+Upload Date  : Wed Sep 12 19:09:39 GMT+0200 2012
+Views        : 364
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Fox
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The camp foxes at Sisikiwit Bay were quite bold.
+
+
++--------+
+|  TAGS  |
++--------+
+"Isle Royale" Minnesota Michigan "Vulpes vulpes" 
