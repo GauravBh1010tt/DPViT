@@ -16,6 +16,7 @@ Pytorch implementation of DPViT (accepted at Neurips'23)
 [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/), 
 [Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/)
 <br>
+
 ## Outline
 
 - [DPViT](#dpvit)
