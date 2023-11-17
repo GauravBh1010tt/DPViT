@@ -6,9 +6,7 @@
 
 import torch
 import torch.nn as nn
-import utils
-
-from utils import trunc_normal_
+import utilities.utils as utils
 
 class CSyncBatchNorm(nn.SyncBatchNorm):
     def __init__(self,

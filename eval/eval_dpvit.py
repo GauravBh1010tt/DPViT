@@ -8,7 +8,7 @@ import torch.backends.cudnn as cudnn
 from torchvision import datasets
 from torchvision import transforms as pth_transforms
 
-import utils
+import utilities.utils as utils
 import models as mymodels
 from fseval import test_methods
 
@@ -119,8 +119,11 @@ def eval_valtest(args):
                                   args.cls_tokens, args.avgpool_patchtokens, args.weighted_avgpool_patchtokens, 
                                   args.p_scale, args.wp_scale, 
                                   epoch, server['ckp_path'],outfile)
-
-            test_methods(args,server,epoch,server['ckp_path'],outfile, top_k = args.top_k, loss_type=args.loss_type, evaluation_method=args.evaluation_method)
+            if args.eval and args.viz:
+                test_methods(args,server,epoch,server['ckp_path'],outfile, top_k = args.top_k, loss_type=args.loss_type, evaluation_method=args.evaluation_method)
+                utils.visualize(args, model, epoch, image_path = args.image_path, image_size = args.image_size, threshold = args.image_threshold, rollout=False, pre=True)
+            else:
+                utils.visualize(args, model, epoch, image_path = args.image_path, image_size = args.image_size, threshold = args.image_threshold, rollout=False, pre=True)
         if int(args.epochs) == -1:
             return
 
@@ -207,15 +210,25 @@ if __name__ == '__main__':
     parser.add_argument("--local_rank", default=0, type=int, help="Please ignore and do not set this argument.")
 
     parser.add_argument('--num_workers', default=10, type=int, help='Number of data loading workers per GPU.')
-    parser.add_argument('--output_dir', default=".", help='Path to save logs and checkpoints')
+    parser.add_argument('--output_dir', default="exps", help='Path to save logs and checkpoints')
     parser.add_argument('--num_labels', default=1000, type=int, help='Number of labels for linear classifier') # this is not useful since we have few shot below
-    
+
+
     # model params
     parser.add_argument('--use_parts', default=1, type=int)
     parser.add_argument('--lr_noise', default=1, type=float)
     parser.add_argument('--lr_mix', default=0, type=float)
     parser.add_argument('--K', default=64, type=int)
     parser.add_argument('--num_fore', default=40, type=int)
+    parser.add_argument('--image_path', type=str, default='./img.png',
+                        help='Will use the default bird. If none, then the bird will also be used (but not stable)')
+    parser.add_argument('--image_size', type=int, nargs='+', default=[224, 224],
+                        help='default image size to be used for visualization')
+    parser.add_argument('--image_threshold', type=float, default=None,
+                        help='threshold to mask out x% of the image')
+    
+    parser.add_argument('--eval', default=1, type=int)
+    parser.add_argument('--viz', default=1, type=int)
     
     # few-shot args
     parser.add_argument('--num_ways', default=5, type=int)
@@ -261,4 +274,3 @@ if __name__ == '__main__':
     print ('\n\n',args.output_dir,'\n\n')
    
     eval_valtest(args)
-

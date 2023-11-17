@@ -182,9 +182,7 @@ def eval_sup(model, data_loader, ce_loss, args=None):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser('Evaluation with weighted k-NN on ImageNet')
     parser.add_argument('--batch_size_per_gpu', default=22, type=int, help='Per-GPU batch-size')
-    parser.add_argument('--pretrained_weights', default='', type=str, help="""Path to pretrained 
-        weights to evaluate. Set to `download` to automatically load the pretrained DINO from url.
-        Otherwise the model is randomly initialized""")
+    parser.add_argument('--pretrained_weights', default='', type=str, help="Path to pretrained weights to evaluate")
     parser.add_argument('--arch', default='vit_small', type=str, choices=['vit_tiny', 'vit_small', 'vit_base', 
         'vit_large', 'swin_tiny','swin_small', 'swin_base', 'swin_large', 'resnet50', 'resnet101'], help='Architecture.')
     parser.add_argument('--patch_size', default=16, type=int, help='Patch resolution of the model.')

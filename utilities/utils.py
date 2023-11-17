@@ -29,7 +29,7 @@ import pandas as pd
 from torch import nn
 from PIL import Image
 from io import BytesIO
-import random_resized_crop
+import .random_resized_crop
 import matplotlib.pyplot as plt
 import torch.distributed as dist
 import torch.backends.cudnn as cudnn
@@ -42,7 +42,7 @@ from torchvision import datasets, transforms
 import torchvision.transforms.functional as TF
 
 from utilities.spectral_cluster import *
-from fseval import test_methods
+from evals.fseval import test_methods
             
 
 class GaussianBlur(object):
@@ -1307,31 +1307,34 @@ def save_im(im, heat_mix_fore, heat_mix_back, heat_fore, heat_back, path='demo.j
     fig.savefig(os.path.join(path, "mix_parts.png"))
     plt.close(fig)
 
-def visualize(args, vits, epoch, image_path = None, image_size = (480, 480), threshold = None, rollout=False):
+def visualize(args, vits, epoch, image_path = None, image_size = (480, 480), threshold = None, rollout=False, pre=False):
 
     device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
     
     # build model
-    model = vits.__dict__[args.arch](patch_size=args.patch_size, num_classes=0, args=args)
-    for p in model.parameters():
-        p.requires_grad = False
-    model.eval()
-    model.to(device)
 
-    visualize_ckpt_path = os.path.join(args.output_dir, 'checkpoint.pth')
+    if not pre:
+        model = vits.__dict__[args.arch](patch_size=args.patch_size, num_classes=0, args=args)
+        for p in model.parameters():
+            p.requires_grad = False
+        model.eval()
+        model.to(device)
 
-    if os.path.isfile(visualize_ckpt_path):
-        state_dict = torch.load(visualize_ckpt_path, map_location="cpu")
-        if args.checkpoint_key is not None and args.checkpoint_key in state_dict:
-            print(f"Take key {args.checkpoint_key} in provided checkpoint dict")
-            state_dict = state_dict[args.checkpoint_key]
-        # remove `module.` prefix
-        state_dict = {k.replace("module.", ""): v for k, v in state_dict.items()}
-        # remove `backbone.` prefix induced by multicrop wrapper
-        state_dict = {k.replace("backbone.", ""): v for k, v in state_dict.items()}
-        msg = model.load_state_dict(state_dict, strict=False)
-        print('Pretrained weights found at {} and loaded with msg: {}'.format(visualize_ckpt_path, msg))
-    
+        visualize_ckpt_path = os.path.join(args.output_dir, 'checkpoint.pth')
+
+        if os.path.isfile(visualize_ckpt_path):
+            state_dict = torch.load(visualize_ckpt_path, map_location="cpu")
+            if args.checkpoint_key is not None and args.checkpoint_key in state_dict:
+                print(f"Take key {args.checkpoint_key} in provided checkpoint dict")
+                state_dict = state_dict[args.checkpoint_key]
+            # remove `module.` prefix
+            state_dict = {k.replace("module.", ""): v for k, v in state_dict.items()}
+            # remove `backbone.` prefix induced by multicrop wrapper
+            state_dict = {k.replace("backbone.", ""): v for k, v in state_dict.items()}
+            msg = model.load_state_dict(state_dict, strict=False)
+            print('Pretrained weights found at {} and loaded with msg: {}'.format(visualize_ckpt_path, msg))
+    else:
+        model = vits
 
     args.image_path = image_path
     args.image_size = image_size

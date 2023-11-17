@@ -11,7 +11,8 @@ import torch.nn.functional as F
 from torch.autograd import Variable
 from torch.nn.utils.weight_norm import WeightNorm
 
-import feature_loader
+import utilities.feature_loader as feature_loader
+
 
 class distLinear(nn.Module):
     def __init__(self, indim, outdim):

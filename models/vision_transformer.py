@@ -20,7 +20,7 @@ from torch import linalg as LA
 from torch.autograd import Variable
 
 from functools import partial
-from utils import trunc_normal_
+from utilities.utils import trunc_normal_
 
 
 def drop_path(x, drop_prob: float = 0., training: bool = False):

@@ -12,9 +12,9 @@ import sklearn
 from sklearn import metrics
 
 
-from multi_kmeans_pp import MultiKMeans
+from .multi_kmeans_pp import MultiKMeans
 
-from logger import Logger
+from .logger import Logger
 
 from scipy.sparse.csgraph import laplacian as csgraph_laplacian
 
